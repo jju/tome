@@ -11,10 +11,14 @@
             "id": "fdf9144e05b02788",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of index"
             }
           }
         ]
@@ -163,5 +170,35 @@
     }
   },
   "active": "fdf9144e05b02788",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "daylog/2024-05-03.md",
+    "daylog/2024-01-31.md",
+    "daylog/2023-12-14.md",
+    "daylog/2023-09-26.md",
+    "daylog/2023-08-29.md",
+    "daylog/2023-08-18.md",
+    "daylog/2023-05-18.md",
+    "daylog/2023-05-17.md",
+    "daylog/2023-05-16.md",
+    "daylog/2023-05-12.md",
+    "daylog/2023-05-09.md",
+    "daylog/2023-05-08.md",
+    "daylog/2023-05-07.md",
+    "daylog/2023-05-06.md",
+    "daylog/2023-05-05.md",
+    "daylog/2023-05-04.md",
+    "daylog",
+    "New folder",
+    "bibli-o/_mobydick-toc.md",
+    "bibli-o/The Street.md",
+    "bibli-o/title.md",
+    "bibli-o/The Spouter Inn.md",
+    "bibli-o/The Pulpit.md",
+    "bibli-o/The Counterpane.md",
+    "bibli-o/The Chapel.md",
+    "bibli-o/The Carpet-Bag.md",
+    "bibli-o/Loomings.md",
+    "bibli-o/Breakfast.md",
+    "bibli-o"
+  ]
 }
