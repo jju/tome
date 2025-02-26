@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "21c6619a2c7409ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd6de91ef18ad609",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a04ccea91d7d0a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6a9af61b26d674b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "da171152f1da5104",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "8c025cd1045d05ad",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "21e916f333fb80db",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "7c101ca66dbd7148",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "3ebe8ea108918638",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3d23df7386ebfd0f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "2024-05-03.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "1c2669658aa5be7e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "2024-05-03.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "d67740963b097191",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "2024-05-03.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "0a04ccea91d7d0a7",
+  "lastOpenFiles": [
+    "2024-05-03.md",
+    "index.md",
+    "2025-02-25.md",
+    "2024-08-09.md",
+    "2024-01-31.md",
+    "2024-03-30.md",
+    "2023-12-14.md",
+    "2023-09-26.md",
+    "2023-08-29.md",
+    "2023-08-18.md",
+    "2023-05-18.md",
+    "2023-07-07.md",
+    "2023-06-02.md",
+    "2023-05-27.md",
+    "2023-05-17.md",
+    "2023-05-16.md",
+    "2023-05-12.md",
+    "2023-05-14.md",
+    "2023-05-09.md",
+    "2023-05-08.md",
+    "2023-05-07.md",
+    "2023-05-06.md",
+    "2023-05-05.md",
+    "2023-05-04.md",
+    "Untitled.md",
+    "2024-01-25.md",
+    "bike/index.html",
+    "bike/assets/main.scss",
+    "bike/assets/favicon-32x32.png",
+    "bike/assets/favicon-16x16.png",
+    "bike/assets/apple-touch-icon(1).png",
+    "bike/_sass/tale.scss",
+    "bike/_sass/tale/_variables.scss",
+    "bike/_sass/tale/_tags.scss",
+    "bike/_sass/tale/_syntax.scss",
+    "bike/_sass/tale/_post.scss",
+    "bike/_sass/tale/_pagination.scss",
+    "bike/_sass/tale/_layout.scss",
+    "bike/_sass/tale/_code.scss",
+    "bike/assets/apple-touch-icon.png"
+  ]
+}
