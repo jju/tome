@@ -35,8 +35,7 @@
               "title": "startrek"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +183,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "cafb04a919ea3ceb",
+  "active": "fdf9144e05b02788",
   "lastOpenFiles": [
     "startrek.md",
     "index.md",
