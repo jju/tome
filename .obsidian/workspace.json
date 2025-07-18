@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Fillika.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Fillika"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daylog/2024-01-31.md",
+                "file": "srd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-01-31"
+              "title": "srd"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,26 +183,27 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "db6b6a2ae558c905",
+  "active": "fdf9144e05b02788",
   "lastOpenFiles": [
+    "dnd.md",
+    "index.md",
+    "srd.md",
+    "Fillika.md",
+    "characters.md",
+    "creatures.md",
+    "adventures.md",
+    "daylog/2024-01-31.md",
     "daylog/2023-12-14.md",
     "daylog/2023-08-29.md",
     "daylog/2023-05-16.md",
     "daylog/2023-05-08.md",
     "daylog/2023-05-04.md",
-    "dnd/RexenIII.md",
-    "dnd/creatures.md",
-    "dnd/index.md",
-    "dnd/srd.md",
-    "dnd/adventures.md",
-    "dnd/characters.md",
+    "RexenIII.md",
     "startrek.md",
     "Untitled.md",
-    "dnd/world.md",
-    "index.md",
+    "world.md",
     "dnd",
     "daylog/2024-05-03.md",
-    "daylog/2024-01-31.md",
     "daylog/2023-09-26.md",
     "daylog/2023-08-18.md",
     "daylog/2023-05-18.md",
@@ -212,7 +212,6 @@
     "daylog/2023-05-09.md",
     "daylog/2023-05-07.md",
     "daylog/2023-05-06.md",
-    "daylog/2023-05-05.md",
     "daylog",
     "New folder",
     "bibli-o"

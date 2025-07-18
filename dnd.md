@@ -1,4 +1,5 @@
-Dungeons and Dragons content.
+Dungeons & Dragons content.
+
 * [rules](srd.md)
 * [world](world.md)
 * [characters](characters.md)
