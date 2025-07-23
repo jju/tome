@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fillika.md",
+                "file": "species.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Fillika"
+              "title": "species"
             }
           },
           {
@@ -185,10 +195,13 @@
   },
   "active": "fdf9144e05b02788",
   "lastOpenFiles": [
+    "Dragonborn.md",
+    "species.md",
+    "Tiefling.md",
+    "Fillika.md",
     "dnd.md",
     "index.md",
     "srd.md",
-    "Fillika.md",
     "characters.md",
     "creatures.md",
     "adventures.md",
@@ -209,9 +222,6 @@
     "daylog/2023-05-18.md",
     "daylog/2023-05-17.md",
     "daylog/2023-05-12.md",
-    "daylog/2023-05-09.md",
-    "daylog/2023-05-07.md",
-    "daylog/2023-05-06.md",
     "daylog",
     "New folder",
     "bibli-o"
