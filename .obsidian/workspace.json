@@ -69,16 +69,142 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fighter.md",
+                "file": "Barbarian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fighter"
+              "title": "Barbarian"
+            }
+          },
+          {
+            "id": "813cce64a2bf6ae6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "classes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "classes"
+            }
+          },
+          {
+            "id": "76fa30df783ba22c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "adventures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "adventures"
+            }
+          },
+          {
+            "id": "0f48a30ae17a7ebd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cleric.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cleric"
+            }
+          },
+          {
+            "id": "c97c613aa99a9dc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Druid.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Druid"
+            }
+          },
+          {
+            "id": "0850c58c6bc09368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Monk"
+            }
+          },
+          {
+            "id": "10d9d425f55f6367",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paladin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Paladin"
+            }
+          },
+          {
+            "id": "f8c0963b925156c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rogue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rogue"
+            }
+          },
+          {
+            "id": "abfb7bf757c24639",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sorcerer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sorcerer"
+            }
+          },
+          {
+            "id": "4e48daeebe820d54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Warlock.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Warlock"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -227,34 +353,34 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "d85945bd910e0beb",
+  "active": "76fa30df783ba22c",
   "lastOpenFiles": [
+    "characters.md",
+    "adventures.md",
+    "world.md",
+    "Ranger.md",
+    "Goliath.md",
+    "Gnome.md",
+    "Dragonborn.md",
     "Bard.md",
+    "Barbarian.md",
+    "classes.md",
+    "srd.md",
+    "Warlock.md",
+    "Sorcerer.md",
+    "Rogue.md",
+    "Paladin.md",
+    "Monk.md",
+    "Druid.md",
+    "Cleric.md",
     "Fighter.md",
     "Wizard.md",
-    "Goliath.md",
-    "srd.md",
     "dnd.md",
-    "Ranger.md",
     "Fillika.md",
-    "Gnome.md",
     "species.md",
-    "Dragonborn.md",
     "Tiefling.md",
     "RexenIII.md",
     "RurikStoneblood.md",
-    "GarglKelHuun.md",
-    "characters.md",
-    "daylog/202507230844-hushthedead.md",
-    "adventures.md",
-    "bibli-o/The Chapel.md",
-    "index.md",
-    "creatures.md",
-    "daylog/2024-01-31.md",
-    "daylog/2023-12-14.md",
-    "daylog/2023-08-29.md",
-    "daylog/2023-05-16.md",
-    "daylog/2023-05-08.md",
     "dnd",
     "daylog",
     "New folder",

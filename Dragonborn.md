@@ -43,4 +43,5 @@ You have [Darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glo
 When you reach character level 5, you can channel draconic magic to give yourself temporary flight. As a Bonus Action, you sprout spectral wings on your back that last for 10 minutes or until you retract the wings (no action required) or have the [Incapacitated](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition. During that time, you have a Fly Speed equal to your Speed. Your wings appear to be made of the same energy as your Breath Weapon. Once you use this trait, you can’t use it again until you finish a Long Rest.
 
 > source: https://www.dndbeyond.com/species/1751435-dragonborn
+> [srd](srd.md)
 > [species](species.md)
