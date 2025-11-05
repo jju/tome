@@ -12,11 +12,11 @@ Whatever their true origin, kenku are most often found in the Shadowfell and the
 
 ## Flightless Stereotypes
 
-Although they evolved from avians, kenku had no wings or capacity for flight.[[4]](https://forgottenrealms.fandom.com/wiki/Kenku#cite_note-MM3|86-4) Instead, they had arms in place of wings and bird-like talons for hands and feet. They retained bird-like features, however, with black and beady eyes and a long dark-hued beak. Head and torso were covered with soft feathers, a dark russet-brown color, while their scrawny limbs were bare and scaled like a bird's.[[4]](https://forgottenrealms.fandom.com/wiki/Kenku#cite_note-MM3|86-4) They most resembled [ravens](https://forgottenrealms.fandom.com/wiki/Raven "Raven").[[3]](https://forgottenrealms.fandom.com/wiki/Kenku#cite_note-MM2|152-3)
+Although they may have evolved from avians, kenku have no wings or capacity for flight. Instead, they have arms in place of wings and bird-like talons for hands and feet. They retain bird-like features, however, with black and beady eyes and a long dark-hued beak. Head and torso are covered with soft feathers, a dark russet-brown color, while their scrawny limbs are bare and scaled like a bird's. They most resembled ravens.
 
-Kenku tended to be slightly smaller than the average [human](https://forgottenrealms.fandom.com/wiki/Human "Human"), standing at around 5 feet (1.5 meters). Because they had partially hollow bones, they were lighter than most creatures their height, averaging only 75 pounds (34 kilograms). They were therefore not as strong, but they were more agile and dexterous.[[4]](https://forgottenrealms.fandom.com/wiki/Kenku#cite_note-MM3|86-4)
+Kenku tend to be slightly smaller than the average [Human](Human.md), standing at around 5 feet (1.5 meters). Because they have partially hollow bones, they are lighter than most creatures their height, averaging only 75 pounds (34 kilograms). They're generally not as strong, but they more agile and dexterous.
 
-They typically wore nondescript brown robes, under which they concealed tools and weaponry.[[4]](https://forgottenrealms.fandom.com/wiki/Kenku#cite_note-MM3|86-4)
+They typically wore nondescript brown robes, under which they concealed tools and weaponry.
 
 ## Secretive and Selfish
 
