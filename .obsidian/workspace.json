@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wizard.md",
+                "file": "Warlock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wizard"
+              "title": "Warlock"
             }
           },
           {
@@ -110,8 +110,37 @@
               "icon": "lucide-file",
               "title": "Ranger"
             }
+          },
+          {
+            "id": "a248e50fb90c9b9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bandit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bandit"
+            }
+          },
+          {
+            "id": "d66e534fa26b7a30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "srd/druid.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "druid"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ranger.md",
+                "file": "Warlock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +223,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ranger"
+              "title": "Backlinks for Warlock"
             }
           },
           {
@@ -260,34 +289,35 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "50e8ebe57a88ddc4",
+  "active": "db6b6a2ae558c905",
   "lastOpenFiles": [
-    "Dragonborn.md",
-    "Barbarian.md",
-    "Wizard.md",
-    "Ranger.md",
-    "rulesBarbarian.md",
+    "srd/warlock.md",
+    "Warlock.md",
     "srd.md",
-    "Tiefling.md",
-    "Kenku.md",
-    "Dwarf.md",
-    "species.md",
+    "Sorcerer.md",
+    "srd/sorcerer.md",
+    "Rogue.md",
+    "srd/rogue.md",
+    "Ranger.md",
+    "srd/ranger.md",
+    "Paladin.md",
+    "srd/paladin.md",
+    "Monk.md",
+    "srd/monk.md",
     "Goliath.md",
     "Gnome.md",
-    "GwarglKelHuun.md",
-    "Human.md",
-    "adventures.md",
-    "Warlock.md",
-    "Sorcerer.md",
-    "Rogue.md",
-    "Paladin.md",
+    "Fillika.md",
     "Fighter.md",
-    "Monk.md",
+    "srd/fighter.md",
     "Druid.md",
-    "Bard.md",
+    "srd/druid.md",
     "Cleric.md",
-    "classes.md",
-    "index.md",
+    "srd/cleric.md",
+    "Wizard.md",
+    "srd/bard.md",
+    "srd/barbarian.md",
+    "Bard.md",
+    "srd",
     "dnd",
     "daylog",
     "New folder",
