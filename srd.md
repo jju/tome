@@ -19,7 +19,7 @@ The SRD stands for System Reference Document, which contains the rules you can u
 ## Species
 
 * [Dragonborn](Dragonborn.md)
-* [Tiefling](Tiefling.md)
+* [tiefling](srd/tiefling.md)
 * [Gnome](Gnome.md)
 * [Goliath](Goliath.md)
 

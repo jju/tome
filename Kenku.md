@@ -75,33 +75,8 @@ In the 14th century [DR](https://forgottenrealms.fandom.com/wiki/DR "DR"), kenku
 By [1479 DR](https://forgottenrealms.fandom.com/wiki/1479_DR "1479 DR"), kenku were well-established and populous in the southeast. They were particularly prominent in the cities of the Beastlands,[[8]](https://forgottenrealms.fandom.com/wiki/Kenku#cite_note-FRCG-p96-10)[[9]](https://forgottenrealms.fandom.com/wiki/Kenku#cite_note-FRCG-p87-11) and Estagund.[[10]](https://forgottenrealms.fandom.com/wiki/Kenku#cite_note-FRCG-p128-13) In [Tirumala](https://forgottenrealms.fandom.com/wiki/Tirumala "Tirumala"), both kenku slaves and a kenku spy network served the [rakshasa](https://forgottenrealms.fandom.com/wiki/Rakshasa "Rakshasa") rulers.[[8]](https://forgottenrealms.fandom.com/wiki/Kenku#cite_note-FRCG-p96-10)[[11]](https://forgottenrealms.fandom.com/wiki/Kenku#cite_note-FRPG-p94-14) In neighboring Durpar, they could be found in [Assur](https://forgottenrealms.fandom.com/wiki/Assur "Assur"), [Vaelan](https://forgottenrealms.fandom.com/wiki/Vaelan "Vaelan"), and other locales still held by [humans](https://forgottenrealms.fandom.com/wiki/Human "Human"),[[12]](https://forgottenrealms.fandom.com/wiki/Kenku#cite_note-FRCG-p118-15) and made up a significant proportion of the population. Kenku and [halfling](https://forgottenrealms.fandom.com/wiki/Halfling "Halfling") gangs fought for control of the streets of Vaelan.[[11]](https://forgottenrealms.fandom.com/wiki/Kenku#cite_note-FRPG-p94-14)
 
 The kenku even established their own domain in the so-called [Blackfeather Barrens](https://forgottenrealms.fandom.com/wiki/Blackfeather_Barrens "Blackfeather Barrens"), the badlands between the monster-ruled realms of the Beastlands. From their hidden rookery, [Blackfeather](https://forgottenrealms.fandom.com/wiki/Blackfeather "Blackfeather"), it was rumored they commanded a secret organization of kenku loyal solely to their own kind, not to the array of different causes kenku served in the surrounding cities. More obviously, those of Blackfeather attacked all trespassers without mercy, making it a place to be feared by all.[[8]](https://forgottenrealms.fandom.com/wiki/Kenku#cite_note-FRCG-p96-10)
-## Kenku Traits
 
-**Creature Type:** Humanoid  
-**Size:** Medium or Small  
-**Speed:** 30 feet
-
-Kenku have shorter lifespans than humans. They reach maturity at about 12 years old and can live to 60[^1].
-
-#### Expert Duplication[^2]
-
-When you copy writing or craftwork produced by yourself or someone else, you have advantage on any ability checks you make to produce an exact duplicate.
-
-#### Kenku Recall[^3]
-
-Thanks to your supernaturally good memory, you have proficiency in two skills of your choice. Moreover, when you make an ability check using any skill in which you have proficiency, you can give yourself advantage on the check before rolling the d20. You can give yourself advantage in this way a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
-
-#### Mimicry[^4]
-
-You can accurately mimic sounds you have heard, including voices. A creature that hears the sounds you make can tell they are imitations only with a successful Wisdom (Insight) check against a DC of 8 + your proficiency bonus + your Charisma modifier.
+![kenku](srd/kenku.md)
 
 > source: https://dnd5e.wikidot.com/lineage:kenku
 > [species](species.md)
-
-[^1]: In *Volo's Guide to Monsters* the following information was also included: **Ability Score Increase:** Your Dexterity score increases by 2, and your Wisdom score increases by 1. **Alignment.** Kenku are chaotic creatures, rarely making enduring commitments, and they care mostly for preserving their own hides. They are generally chaotic neutral in outlook.
-
-[^2]: Alternate version from *Volo's Guide to Monsters*: **Expert Forgery.** You can duplicate other creatures' handwriting and craftwork. You have advantage on all checks made to produce forgeries or duplicates of existing objects.
-
-[^3]: Alternate version from *Volo's Guide to Monsters*: **Kenku Training.** You are proficient in your choice of two of the following skills: Acrobatics, Deception, Stealth, and Sleight of Hand.
-
-[^4]: Alternate version from *Volo's Guide to Monsters*: **Mimicry.** You can mimic sounds you have heard, including voices. A creature that hears the sounds you make can tell they are imitations with a successful Wisdom (Insight) check opposed by your Charisma (Deception) check. **Languages.** You can read and write Common and Auran, but you can speak only by using your Mimicry trait.
