@@ -50,6 +50,48 @@
             }
           },
           {
+            "id": "19db1608d556e981",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skulks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Skulks"
+            }
+          },
+          {
+            "id": "be64cf55cbd309bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/banditcaptain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "banditcaptain"
+            }
+          },
+          {
+            "id": "11b52348895878a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/kobolds.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "kobolds"
+            }
+          },
+          {
             "id": "231bdd696471510b",
             "type": "leaf",
             "state": {
@@ -134,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "f858e899a9b911da",
@@ -244,12 +286,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/alhoon.md",
+                "file": "characters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "alhoon"
+              "title": "characters"
             }
           },
           {
@@ -368,7 +410,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kruthiks.md",
+                "file": "characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -378,7 +420,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kruthiks"
+              "title": "Backlinks for characters"
             }
           },
           {
@@ -444,13 +486,20 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "231bdd696471510b",
+  "active": "46936b7d6fecd8cf",
   "lastOpenFiles": [
+    "dnd.md",
+    "index.md",
+    "rules/bandit.md",
+    "rules/kobolds.md",
+    "npcs.md",
+    "Kobolds.md",
     "rules/alhoon.md",
-    "Alhoon.md",
-    "Kruthiks.md",
-    "Skulks.md",
     "rules/banditcaptain.md",
+    "Skulks.md",
+    "Shadowfell.md",
+    "Kruthiks.md",
+    "Alhoon.md",
     "Illithid.md",
     "Underdark.md",
     "Undead.md",
@@ -460,18 +509,11 @@
     "rules/index.md",
     "world.md",
     "species.md",
-    "npcs.md",
     "creatures.md",
     "characters.md",
     "srd.md",
-    "dnd.md",
-    "rules/bandit.md",
     "rules/monk.md",
-    "index.md",
     "Barbarian.md",
-    "rules/druid.md",
-    "Kenku.md",
-    "rules/kenku.md",
     "rules",
     "dnd",
     "daylog",
