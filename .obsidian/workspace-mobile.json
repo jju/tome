@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GwarglKelHuun.md",
+                "file": "Wizard.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "GwarglKelHuun"
+              "title": "Wizard"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "GwarglKelHuun.md",
+            "file": "Wizard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -157,32 +157,32 @@
   },
   "active": "0a04ccea91d7d0a7",
   "lastOpenFiles": [
+    "Warlock.md",
+    "Sorcerer.md",
+    "Rogue.md",
+    "Ranger.md",
+    "Paladin.md",
+    "Monk.md",
+    "Fighter.md",
+    "Druid.md",
+    "Cleric.md",
+    "Bard.md",
+    "Barbarian.md",
+    "GwarglKelHuun.md",
+    "Kenku.md",
+    "/srd.md",
+    "/Kenku.md",
     "characters.md",
     "dnd.md",
     "index.md",
-    "Druid.md",
-    "Barbarian.md",
-    "GwarglKelHuun.md",
-    "Bard.md",
-    "Fighter.md",
     "Dwarf.md",
-    "Rogue.md",
     "Gnome.md",
-    "Paladin.md",
     "RurikStoneblood.md",
-    "Cleric.md",
-    "Monk.md",
-    "Warlock.md",
     "Human.md",
-    "Ranger.md",
     "Goliath.md",
     "Dracolathe.md",
     "classes.md",
     "Wizard.md",
-    "Sorcerer.md",
-    "/GwarglKelHuun.md",
-    "/world.md",
-    "/srd.md",
     "/daylog",
     "bibli-o",
     "daylog",

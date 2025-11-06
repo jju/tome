@@ -1,3 +1,8 @@
+Invoking magic through music, dance, and verse, Bards are expert at inspiring others, soothing hurts, disheartening foes, and creating illusions. Bards believe the multiverse was spoken into existence and that remnants of its Words of Creation still resound and glimmer on every plane of existence. Bardic magic attempts to harness those words, which transcend any language.
+
+Anything can inspire a new song or tale, so Bards are fascinated by almost everything. They become masters of many things, including performing music, working magic, and making jests.
+
+A Bard’s life is spent traveling, gathering lore, telling stories, and living on the gratitude of audiences, much like any other entertainer. But Bards’ depth of knowledge and mastery of magic sets them apart.
 
 ## Core Bard Traits
 
@@ -11,11 +16,6 @@
 | Armor Training             | Light armor                                                                                                                                                                                                                                                                                  |
 | Starting Equipment         | _Choose A or B:_ (A) [Leather Armor](https://www.dndbeyond.com/equipment/10-leather), 2 [Daggers](https://www.dndbeyond.com/equipment/3-dagger), Musical Instrument of your choice, [Entertainer’s Pack](https://www.dndbeyond.com/equipment/524-entertainers-pack), and 19 GP; or (B) 90 GP |
 
-Invoking magic through music, dance, and verse, Bards are expert at inspiring others, soothing hurts, disheartening foes, and creating illusions. Bards believe the multiverse was spoken into existence and that remnants of its Words of Creation still resound and glimmer on every plane of existence. Bardic magic attempts to harness those words, which transcend any language.
-
-Anything can inspire a new song or tale, so Bards are fascinated by almost everything. They become masters of many things, including performing music, working magic, and making jests.
-
-A Bard’s life is spent traveling, gathering lore, telling stories, and living on the gratitude of audiences, much like any other entertainer. But Bards’ depth of knowledge and mastery of magic sets them apart.
 
 ### Becoming a Bard...
 
