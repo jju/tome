@@ -1,4 +1,4 @@
 * Green
 * Other Halfling
-* [Kobolds](Kobolds.md)
+* [Kobold](Kobold.md)
 * 

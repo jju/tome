@@ -1,1 +1,1 @@
-# Illithid
+# Illithids
