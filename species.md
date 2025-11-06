@@ -1,5 +1,6 @@
 * [Dragonborn](Dragonborn.md)
-* [tiefling](rules/tiefling.md)
+* [Tiefling](Tiefling.md)
 * [Goliath](Goliath.md)
-* [[Kenku]]
+* [Kenku](Kenku.md)
 * [Dwarf](Dwarf.md)
+* [Human](Human.md)
