@@ -28,5 +28,6 @@ Below are listed the rules we're using (including the flavour text, but that wil
 
 * [bandit](bandit.md)
 * [banditcaptain](banditcaptain.md)
+* 
 
 [^1]: Non-SRD material.
