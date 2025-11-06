@@ -1,3 +1,4 @@
+# Paladin
 ## Characters
 
 * 

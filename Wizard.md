@@ -1,3 +1,5 @@
+# Wizard
+
 ## Characters
 
 * [Gwargl Kel Huun](GwarglKelHuun.md)

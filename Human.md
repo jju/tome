@@ -1,3 +1,5 @@
+# Human
+
 Humans are as diverse in appearance as the people of Earth, and they have many gods. 
 ## Characters
 
