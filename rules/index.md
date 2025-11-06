@@ -1,0 +1,1 @@
+We're using the Fifth Edition of Dungeons & Dragons for this campaign, especially making use of the System Reference Document ([SRD](srd.md)) which contains the rules you can use to publish D&D content under Creative Commons. The current version of the document is located on the [D&D Beyond website](https://www.dndbeyond.com/srd).

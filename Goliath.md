@@ -50,7 +50,7 @@ Goliaths present all three names when identifying themselves, in the order of bi
 
 **Clan Names:** Anakalathai, Elanithino, Gathakanathi, Kalagiano, Katho-Olavi, Kolae-Gileana, Ogolakanu, Thuliaga, Thunukalathi, Vaimei-Laga
 
-![goliath](srd/goliath.md)
+![goliath](rules/goliath.md)
 
 > source: https://www.dndbeyond.com/species/1751439-goliath
 > [species](species.md)

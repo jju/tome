@@ -2,7 +2,7 @@
 
 * 
 
-![barbarian](srd/barbarian.md)
+![barbarian](rules/barbarian.md)
 
 > source: https://www.dndbeyond.com/classes/2190875-barbarian
 > [srd](srd.md)

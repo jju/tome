@@ -1,6 +1,6 @@
 Dungeons & Dragons content.
 
-* [rules](srd.md)
+* [Rules](rules/index.md)
 * [world](world.md)
 * [characters](characters.md)
 * [adventures](adventures.md)

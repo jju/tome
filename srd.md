@@ -1,4 +1,6 @@
-The SRD stands for System Reference Document, which contains the rules you can use to publish content under Creative Commons. The current version of the document is located on the [D&D Beyond website](https://www.dndbeyond.com/srd).
+The SRD stands for System Reference Document, which contains the rules you can use to publish D&D content under Creative Commons. The current version of the document is located on the [D&D Beyond website](https://www.dndbeyond.com/srd).
+
+
 
 ## Classes
 
@@ -19,7 +21,7 @@ The SRD stands for System Reference Document, which contains the rules you can u
 ## Species
 
 * [Dragonborn](Dragonborn.md)
-* [tiefling](srd/tiefling.md)
+* [tiefling](rules/tiefling.md)
 * [Gnome](Gnome.md)
 * [Goliath](Goliath.md)
 

@@ -2,7 +2,7 @@
 
 * 
 
-![cleric](srd/cleric.md)
+![cleric](rules/cleric.md)
 
 > source: https://www.dndbeyond.com/classes/2190877-cleric
 > [[srd]]

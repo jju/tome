@@ -4,7 +4,7 @@ Squat and often bearded, the original dwarves carved cities and strongholds into
 
 * 
 
-![dwarf](srd/dwarf.md)
+![dwarf](rules/dwarf.md)
 
 > source: https://www.dndbeyond.com/species/1751436-dwarf
 > [srd](srd.md)

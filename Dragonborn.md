@@ -4,7 +4,7 @@ Dragonborn look like wingless, bipedal dragons— scaly, bright-eyed, and thick-
 * [Rexen III](RexenIII.md)
 *  
 
-![dragonborn](srd/dragonborn.md)
+![dragonborn](rules/dragonborn.md)
 
 > source: https://www.dndbeyond.com/species/1751435-dragonborn
 > [srd](srd.md)

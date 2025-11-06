@@ -76,7 +76,7 @@ By [1479 DR](https://forgottenrealms.fandom.com/wiki/1479_DR "1479 DR"), kenku 
 
 The kenku even established their own domain in the so-called [Blackfeather Barrens](https://forgottenrealms.fandom.com/wiki/Blackfeather_Barrens "Blackfeather Barrens"), the badlands between the monster-ruled realms of the Beastlands. From their hidden rookery, [Blackfeather](https://forgottenrealms.fandom.com/wiki/Blackfeather "Blackfeather"), it was rumored they commanded a secret organization of kenku loyal solely to their own kind, not to the array of different causes kenku served in the surrounding cities. More obviously, those of Blackfeather attacked all trespassers without mercy, making it a place to be feared by all.[[8]](https://forgottenrealms.fandom.com/wiki/Kenku#cite_note-FRCG-p96-10)
 
-![kenku](srd/kenku.md)
+![kenku](rules/kenku.md)
 
 > source: https://dnd5e.wikidot.com/lineage:kenku
 > [species](species.md)

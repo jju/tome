@@ -2,7 +2,7 @@
 
 * 
 
-![monk](srd/monk.md)
+![monk](rules/monk.md)
 
 > source: https://www.dndbeyond.com/classes/2190880-monk
 > [srd](srd.md)

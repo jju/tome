@@ -3,7 +3,7 @@ Humans are as diverse in appearance as the people of Earth, and they have many g
 
 * 
 
-![human](srd/human.md)
+![human](rules/human.md)
 
 > source: https://www.dndbeyond.com/species/1751441-human
 > [srd](srd.md)

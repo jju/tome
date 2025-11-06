@@ -28,3 +28,6 @@ _**Scimitar.** Melee Attack Roll:_ +3, reach 5 ft. _Hit:_ 4 (1d6 + 1) Slashing d
 
 _**Light Crossbow.**_ _Ranged Attack Roll:_ +3, range 80/320 ft. _Hit:_ 5 (1d8 + 1) Piercing damage.
 
+> [srd](srd.md)
+> 
+
