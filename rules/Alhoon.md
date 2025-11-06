@@ -23,9 +23,9 @@ Speed 30 ft., fly 15 ft. (hover)
 **Languages** Deep Speech, Undercommon, telepathy 120 ft.
 **CR** 10 (XP 5900; PB +4)
 
-**Magic Resistance** The alhoon has advantage on saving throws against spells and other magical effects.
+**Magic Resistance.** The alhoon has advantage on saving throws against spells and other magical effects.
 
-**Turn Resistance** The alhoon has advantage on saving throws against any effect that turns Undead.
+**Turn Resistance.** The alhoon has advantage on saving throws against any effect that turns Undead.
 
 ## Actions
 
