@@ -11,7 +11,7 @@ Toyama
 * Khudurra (the coast city)
 * WitchPeak
 * Lake Arkona
-* The Oddliwet Basin
+* The Oddlewet Basin
 * Cattemaco Island
 * Oucumene
 

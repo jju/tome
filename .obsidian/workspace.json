@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/pony.md",
+                "file": "world.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pony"
+              "title": "world"
             }
           },
           {
@@ -452,7 +452,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rules/pony.md",
+                "file": "world.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -462,7 +462,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pony"
+              "title": "Backlinks for world"
             }
           },
           {
@@ -530,8 +530,8 @@
   },
   "active": "a0785095ebe61844",
   "lastOpenFiles": [
-    "rules/dragonborn.md",
     "rules/pony.md",
+    "rules/dragonborn.md",
     "world.md",
     "Alhoon.md",
     "rules/froghemoth.md",
