@@ -2,6 +2,11 @@ Far from bustling cities, amid the trees of trackless forests and across wide pl
 
 Thanks to their connection with nature, Rangers can also cast spells that harness primal powers of the wilderness. A Ranger’s talents and magic are honed with deadly focus to protect the world from the ravages of monsters and tyrants.
 
+## Characters
+
+* [RexenIII](RexenIII.md)
+* [Fillika](Fillika.md)
+* 
 ## Core Ranger Traits
 
 | Primary Ability            | Dexterity and Wisdom                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |

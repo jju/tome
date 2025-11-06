@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tiefling.md",
+                "file": "Wizard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tiefling"
+              "title": "Wizard"
             }
           },
           {
@@ -103,12 +103,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "srd.md",
+                "file": "Ranger.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "srd"
+              "title": "Ranger"
             }
           }
         ]
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "srd.md",
+                "file": "Ranger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for srd"
+              "title": "Backlinks for Ranger"
             }
           },
           {
@@ -262,16 +262,20 @@
   },
   "active": "50e8ebe57a88ddc4",
   "lastOpenFiles": [
-    "Kenku.md",
+    "Dragonborn.md",
+    "Barbarian.md",
+    "Wizard.md",
+    "Ranger.md",
+    "rulesBarbarian.md",
+    "srd.md",
     "Tiefling.md",
+    "Kenku.md",
     "Dwarf.md",
     "species.md",
     "Goliath.md",
     "Gnome.md",
     "GwarglKelHuun.md",
-    "Dragonborn.md",
     "Human.md",
-    "Wizard.md",
     "adventures.md",
     "Warlock.md",
     "Sorcerer.md",
@@ -282,12 +286,8 @@
     "Druid.md",
     "Bard.md",
     "Cleric.md",
-    "Barbarian.md",
     "classes.md",
     "index.md",
-    "Dracolathe.md",
-    "world.md",
-    "characters.md",
     "dnd",
     "daylog",
     "New folder",
