@@ -1,5 +1,5 @@
 Medium Humanoid, Any Alignment
-Armor Class 13 (16 with mage armor)
+AC 13 (16 with mage armor)    Initiative +3 (13)
 Hit Points 91 (14d8 + 28)
 Speed 30 ft.
 

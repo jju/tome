@@ -1,5 +1,5 @@
 Medium Undead, Typically Chaotic Evil
-Armor Class 10
+AC 10    Initiative +0 (10)
 Hit Points 76 (9d8 + 36)
 Speed 30 ft.
 
@@ -16,9 +16,9 @@ Speed 30 ft.
 | CHA | 3   | -4  | -4   |
 **Damage Immunities** poison
 **Condition Immunities** exhaustion, poisoned 
-**Senses** darkvision 60 ft., passive Perception 8
+**Senses** darkvision 60 ft., Passive Perception 8
 **Languages** understands the languages it knew in life but can't speak
-CR 5 (1,800 XP; PB +3)
+**CR** 5 (1,800 XP; PB +3)
 
 ***Regeneration.*** The spawn of Kyuss regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or a body of running water. If the spawn takes acid, fire, or radiant damage, this trait doesn't function at the start of the spawn's next turn. The spawn is destroyed only if it starts its turn with 0 hit points and doesn't regenerate.
 
