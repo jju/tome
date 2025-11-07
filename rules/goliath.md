@@ -1,5 +1,7 @@
 Towering over most folk, goliaths are distant descendants of giants. Each goliath bears the favors of the first giants—favors that manifest in various supernatural boons, including the ability to quickly grow and temporarily approach the height of goliaths’ gigantic kin.
 
+> The first goliaths lived on the highest mountain peaks-far above the tree line, where the air is thin and frigid winds howl. Distantly related to giants and infused with the supernatural essence of their ancestors' mountainous home, goliaths stand between 7 and 8 feet tall and have a wide array of skin tones resembling different types of stone.
+
 Goliaths have physical characteristics that are reminiscent of the giants in their family lines. For example, some goliaths look like stone giants, while others resemble fire giants. Whatever giants they count as kin, goliaths have forged their own path in the multiverse—unencumbered by the internecine conflicts that have ravaged giantkind for ages—and seek heights above those reached by their ancestors.
 ## Goliath Traits
 
@@ -31,29 +33,14 @@ You are descended from Giants. Choose one of the following benefits—a supernat
 
 Starting at character level 5, you can change your size to Large as a Bonus Action if you’re in a big enough space. This transformation lasts for 10 minutes or until you end it (no action required). For that duration, you have Advantage on Strength checks, and your Speed increases by 10 feet. Once you use this trait, you can’t use it again until you finish a Long Rest.
 
-#### Powerful Build
+#### Little Giant 
 
-You have Advantage on any ability check you make to end the [Grappled](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#GrappledCondition) condition. You also count as one size larger when determining your carrying capacity.
+You have proficiency in the Athletics skill, and you count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 
-**Alternate[^1]:** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
-
-#### Natural Athlete[^1]
-You have proficiency in the [Athletics](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) skill.
-#### Mountain Born[^1]
-You have resistance to cold damage. You’re also acclimated to high altitude, including elevations above 20,000 feet.
+#### Mountain Born
+You have resistance to cold damage. You also naturally acclimate to high altitudes, even if you've never been to one. This includes elevations above 20,000 feet.
 
 > source: https://www.dndbeyond.com/species/1751439-goliath
+> source: _Mordenkainen Presents: Monsters of the Multiverse_ (2021)
 > [[srd]]
 > [species](species.md)
-
-The first goliaths lived on the highest mountain peaks-far above the tree line, where the air is thin and frigid winds howl. Distantly related to giants and infused with the supernatural essence of their ancestors' mountainous home, goliaths stand between 7 and 8 feet tall and have a wide array of skin tones resembling different types of stone.
-
-GOLIATH TRAITS
-
-Little Giant. You have proficiency in the Athletics skill, and you count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
-
-Mountain Born. You have resistance to cold dam-age. You also naturally acclimate to high altitudes, even if you've never been to one. This includes elevations above 20,000 feet.
-Stone's Endurance. You can supernaturally draw on unyielding stone to shrug off harm. When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled and reduce the damage by that total.
-You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
-
-[^1]: From the 2014 Legacy version of the Goliath https://www.dndbeyond.com/species/22-goliath

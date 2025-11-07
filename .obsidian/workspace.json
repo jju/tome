@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/goliath.md",
+                "file": "rules/lizardfolk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "goliath"
+              "title": "lizardfolk"
             }
           },
           {
@@ -160,12 +160,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/kobold.md",
+                "file": "rules/shadar-kai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kobold"
+              "title": "shadar-kai"
             }
           },
           {
@@ -216,12 +216,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/dwarf.md",
+                "file": "rules/duergar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dwarf"
+              "title": "duergar"
             }
           },
           {
@@ -267,7 +267,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -340,7 +340,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rules/goliath.md",
+                "file": "rules/lizardfolk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -350,7 +350,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for goliath"
+              "title": "Backlinks for lizardfolk"
             }
           },
           {
@@ -418,6 +418,17 @@
   },
   "active": "1abebfa65c279efd",
   "lastOpenFiles": [
+    "rules/hobgoblin.md",
+    "rules/harengon.md",
+    "rules/goblin.md",
+    "rules/firbolg.md",
+    "rules/duergar.md",
+    "rules/deepgnome.md",
+    "rules/dwarf.md",
+    "rules/aarakocra.md",
+    "rules/goliath.md",
+    "rules/shadar-kai.md",
+    "rules/kobold.md",
     "Goliath.md",
     "Kenku.md",
     "4.md",
@@ -427,23 +438,12 @@
     "rules/tabaxi.md",
     "rules/warlockgreatoldone.md",
     "rules/tortle.md",
-    "rules/kobold.md",
-    "rules/dwarf.md",
     "rules/bandit.md",
     "rules/alhoon.md",
     "Alhoon.md",
-    "rules/aarakocra.md",
     "rules/horse.md",
     "rules/pony.md",
     "rules/banditcaptain.md",
-    "rules/eladrin.md",
-    "world.md",
-    "rules/dragonborn.md",
-    "Skulk.md",
-    "rules/froghemoth.md",
-    "rules/annishag.md",
-    "rules/allip.md",
-    "rules/woodwoad.md",
     "rules",
     "dnd",
     "daylog",
