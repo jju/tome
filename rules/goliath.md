@@ -47,11 +47,9 @@ You have resistance to cold damage. You’re also acclimated to high altitude, i
 > [species](species.md)
 
 The first goliaths lived on the highest mountain peaks-far above the tree line, where the air is thin and frigid winds howl. Distantly related to giants and infused with the supernatural essence of their ancestors' mountainous home, goliaths stand between 7 and 8 feet tall and have a wide array of skin tones resembling different types of stone.
+
 GOLIATH TRAITS
-As a goliath, you have the following racial traits.
-Creature Type. You are a Humanoid.
-Size. You are Medium.
-Speed. Your walking speed is 30 feet.
+
 Little Giant. You have proficiency in the Athletics skill, and you count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 
 Mountain Born. You have resistance to cold dam-age. You also naturally acclimate to high altitudes, even if you've never been to one. This includes elevations above 20,000 feet.
