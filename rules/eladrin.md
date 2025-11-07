@@ -51,75 +51,79 @@ Whenever you finish this trance, you can change your season, and you can gain tw
 
 You mystically acquire these proficiencies by drawing them from shared elven memory, and you retain them until you finish your next long rest.
 
-ELADRIN
+## ELADRIN
+
 Eladrin dwell in the verdant splendor of the Feywild.
-They are related to the elves found on the Material Plane. But while other elves can temper their wild
-impulses, eladrin are ruled by emotion- and due to their magical nature, they undergo physical changes
-to match their changes in temperament.
+They are related to the elves found on the Material Plane. But while other elves can temper their wild impulses, eladrin are ruled by emotion- and due to their magical nature, they undergo physical changes to match their changes in temperament.
 most or he he pen enterocen perien dan de
-Eladrin have spent centuries in the Feywild, and most of them have become Fey creatures as a re-sult-those presented here are of the Fey variety.
+
+Eladrin have spent centuries in the Feywild, and most of them have become Fey creatures as a result-those presented here are of the Fey variety.
+
 Some are still Humanoid, however, similar in that respect to their other elven kin.
+
 The magic flowing through eladrin responds to their emotional state by transforming them into different seasonal aspects, with behaviors and abilities that change with their forms. Some eladrin might remain in a particular aspect for years, while others run through the emotional spectrum each week.
+
 CHANGEABLE NATURES
-Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a dif. ferent season, provided they aren't incapacitated.
+
+Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't incapacitated.
+
 When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
+
 AUTUMN ELADRIN
 Eladrin often enter the autumn season when they are overcome by feelings of goodwill. In this aspect, they defuse conflicts and alleviate suffering by using their magic to relieve any ailments that afflict the people who come to them for aid. They tolerate no violence in their presence and move quickly to settle disputes, to ensure that peace continues to reign.
 
 
-AUTUMN ELADRIN
+## Autumn Eladrin
+
 Medium Fey (E), Typically Chaotie Neutral
 Armor Class 19 (natural armor)
 Hit Points 165 (22d8 + 66)
 Speed 30 ft.
 
-  
+|     |     | Mod | Save |
+| --- | --- | --- | ---- |
+| STR | 12  | +1  | +1   |
+| DEX | 16  | +3  | +3   |
+| CON | 16  | +3  | +3   |
 
-|     | Mod | Save |     |
-| --- | --- | ---- | --- |
-| STR | 11  | +0   | +0  |
-| DEX | 12  | +1   | +1  |
-| CON | 15  | +3   | +7  |
+|     |     | Mod | Save |
+| --- | --- | --- | ---- |
+| INT | 14  | +2  | +2   |
+| WIS | 17  | +3  | +3   |
+| CHA | 18  | +4  | +4   |
+**Skills** Insight +7, Medicine +7
+**Damage Resistances** psychic
+**Senses** darkvision 60 ft., passive Perception 13
+**Languages** Common, Elvish, Sylvan
+**CR** 10 (5,900 XP; PB +4)
 
-|||Mod|Save|
-|---|---|---|---|
-|INT|19|+4|+8|
-|WIS|17|+3|+3|
-|CHA|17|+3|+3|
+**Enchanting Presence.** Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes charmed by the eladrin for 1 minute. On a successful save, the creature becomes immune to any eladrin's Enchanting Presence for 24 hours.
 
-STR
-12 (+1)
-DEX
-16 (+3)
-CON
-16 (+3)
-INT
-14 (+2)
-WIS
-17 (+3)
-CHA
-18 (+4)
-Skills Insight +7, Medicine +7
-Damage Resistances psychic
-Senses darkvision 60 ft., passive Perception 13
-Languages Common, Elvish, Sylvan
-Challenge 10 (5,900 XP)
-Proficiency Bonus +4
-Enchanting Presence. Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes charmed by the eladrin for 1 minute. On a successful save, the creature becomes immune to any eladrin's Enchanting Presence for 24 hours.
 Whenever the eladrin deals damage to the charmed creature, the charmed creature can repeat the saving throw, ending the effect on itself on a success.
-Magic Resistance. The eladrin has advantage on saving throws against spells and other magical effects.
-ACTIONS
-Multiattack. The eladrin makes two Longsword or Longbow attacks. It can replace one attack with a use of Spellcasting.
-Longsword. Melee Weapon Attack: +5 to hit, reach 5 ft., one tar-get. Hit: 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands, plus 22 (Sd8) psychic damage.
-Longbow. Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 22 (5d8) psychic damage.
-Spellcasting. The eladrin casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):
-At will: hold person
-2/day each: cure wounds (as a Sth-level spell), lesser restoration
-1/day each: greater restoration, revivify
-BONUS ACTIONS
-Fey Step (Recharge 4-6). The eladrin teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.
-REACTIONS
-Foster Peace. If a creature charmed by the eladrin hits with an attack roll while within 60 feet of the eladrin, the eladrin magically causes the attack to miss, provided the eladrin can see the attacker.
+
+**Magic Resistance.** The eladrin has advantage on saving throws against spells and other magical effects.
+
+## Actions
+
+***Multiattack.*** The eladrin makes two Longsword or Longbow attacks. It can replace one attack with a use of Spellcasting.
+
+***Longsword.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one tar-get. *Hit:* 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands, plus 22 (Sd8) psychic damage.
+
+***Longbow.*** *Ranged Weapon Attack:* +7 to hit, range 150/600 ft., one target. *Hit:* 7 (1d8 + 3) piercing damage plus 22 (5d8) psychic damage.
+
+***Spellcasting.*** The eladrin casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):
+
+* At will: *hold person*
+* 2/day each: *cure wounds* (as a 5th-level spell)*, lesser restoration*
+* 1/day each: *greater restoration, revivify*
+
+#### Bonus Actions
+
+***Fey Step (Recharge 4-6).*** The eladrin teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.
+
+## Reactions
+
+***Foster Peace.*** If a creature charmed by the eladrin hits with an attack roll while within 60 feet of the eladrin, the eladrin magically causes the attack to miss, provided the eladrin can see the attacker.
 
 SPRING ELADRIN
 Their hearts filled with joy, spring eladrin cavort through their sylvan realms, their songs and laughter filling the air. These playful eladrin beguile other creatures to fill them with the joy of spring. Their antics can lead other creatures into danger and make mischief for them.
@@ -158,7 +162,8 @@ Longbow. Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit: 7 
 Spellcasting. The eladrin casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):
 At will: Tasha's hideous laughter 1/day each: major image, suggestion
 BONUS ACTIONS
-Fey Step (Recharge 4-6). The eladrin teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccu: pied space it can see.
+Fey Step (Recharge 4-6). The eladrin teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.
 
 > source: _Mordenkainen Presents: Monsters of the Multiverse_ (2021)
 > [species](species.md)
+> [npcs](npcs.md)
