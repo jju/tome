@@ -3,6 +3,7 @@ Rundan
 Oecumene
 Toyama
 
+## Places
 
 * [Dracolathe](Dracolathe.md)
 * Hammerkeep and Hammersford
@@ -15,3 +16,6 @@ Toyama
 * Cattemaco Island
 * Oucumene
 
+## Hexes
+
+* hextemplate
