@@ -1,12 +1,8 @@
-Usually known as Hün gwargh is a kenkn of uncertain origin. They grew up in [Dracolathe](Dracolathe.md) in a community of refugees including some dwarves and a bunch of other misfits who had trouble fitting [Dragonborn](Dragonborn.md) society ..
+Usually known as Hün, Gwargl Kel Huun is a kenku of uncertain origin. They grew up in [Dracolathe](Dracolathe.md) in a community of refugees including some dwarves and a bunch of other misfits (even some humans) who had trouble fitting into [Dragonborn](Dragonborn.md) society.
 
-Gwargl's Md her was very proud of their lost heritage she always said they were descendants f the first bards
-.. To the dragon kings.in . Sometimes that changed to being that upon by kobolds, but guargi did their best to remember The stories, even when thy contradicted themselves.
+Gwargl's mother was very proud of their lost heritage she always said they were descendants of the first bards to the Raven Queen. Sometimes that story focused more on being shat upon by kobolds when they were forced to leave the old world, but Gwargl did their best to remember the stories, even when they contradicted themselves.
 
-
-Gargle
-Eventually as a kid
-. Began working in a library sweeping up, doing all that will hunting stuff and realized the formulas and arcane bellahet people gotup to was all about finding the weird rales that ran the universe and then either braking ON manipulating I them to your advantage.it was agame and gwargh was fascinated
+Eventually as a kid Gwargl began working in a library sweeping up, doing all that will hunting stuff and realized the formulas and arcane bullshit people got up to was all about finding the weird rales that ran the universe and then either breaking or manipulating them to your advantage. It was all a game and Gwargl was fascinated.
 
 [characters](characters.md)
 [Kenku](Kenku)
