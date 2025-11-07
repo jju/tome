@@ -36,4 +36,5 @@ _**Sling.** Ranged Weapon Attack:_ +4 to hit, range 30/120 ft., one target. _Hit
 
 > [srd](srd.md)
 > [npcs](npcs.md)
+> [species](species.md)
 > 

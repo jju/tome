@@ -27,110 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/banditcaptain.md",
+                "file": "rules/spawnofkyuss.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "banditcaptain"
-            }
-          },
-          {
-            "id": "99f13eb1889be73c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skulk.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Skulk"
-            }
-          },
-          {
-            "id": "19db1608d556e981",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skulk.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Skulk"
-            }
-          },
-          {
-            "id": "be64cf55cbd309bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/banditcaptain.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "banditcaptain"
-            }
-          },
-          {
-            "id": "11b52348895878a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/bandit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bandit"
-            }
-          },
-          {
-            "id": "365595ac2efee0d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/dragonborn.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "dragonborn"
-            }
-          },
-          {
-            "id": "a0785095ebe61844",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "world.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "world"
-            }
-          },
-          {
-            "id": "f1a3a3e2820aa383",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/eladrin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "eladrin"
+              "title": "spawnofkyuss"
             }
           },
           {
@@ -217,8 +119,7 @@
               "title": "adventures"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       },
       {
         "id": "f858e899a9b911da",
@@ -286,12 +187,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/alhoon.md",
+                "file": "rules/kobold.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "alhoon"
+              "title": "kobold"
             }
           },
           {
@@ -466,7 +367,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rules/eladrin.md",
+                "file": "rules/bandit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -476,7 +377,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for eladrin"
+              "title": "Backlinks for bandit"
             }
           },
           {
@@ -542,15 +443,25 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "f1a3a3e2820aa383",
+  "active": "db6b6a2ae558c905",
   "lastOpenFiles": [
+    "rules/spawnofkyuss.md",
+    "rules/kobold.md",
     "rules/alhoon.md",
-    "rules/eladrin.md",
+    "rules/tortle.md",
+    "rules/warlockgreatoldone.md",
     "Alhoon.md",
     "rules/dwarf.md",
+    "rules/aarakocra.md",
+    "rules/horse.md",
+    "rules/pony.md",
+    "rules/banditcaptain.md",
+    "rules/eladrin.md",
+    "world.md",
+    "rules/dragonborn.md",
+    "rules/bandit.md",
+    "Skulk.md",
     "rules/froghemoth.md",
-    "rules/warlockgreatoldone.md",
-    "rules/spawnofkyuss.md",
     "rules/annishag.md",
     "rules/allip.md",
     "rules/woodwoad.md",
@@ -560,16 +471,6 @@
     "rules/lizardfolk.md",
     "rules/hobgoblin.md",
     "rules/harengon.md",
-    "rules/goblin.md",
-    "rules/firbolg.md",
-    "rules/duergar.md",
-    "rules/deepgnome.md",
-    "rules/aarakocra.md",
-    "rules/tortle.md",
-    "rules/tabaxi.md",
-    "Bullywug.md",
-    "world.md",
-    "rules/pony.md",
     "rules",
     "dnd",
     "daylog",
