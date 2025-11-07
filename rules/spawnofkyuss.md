@@ -38,5 +38,19 @@ The worm latches onto the target's skin unless the target succeeds on a DC 11 De
 
 Otherwise, the worm burrows under the target's skin at the end of the target's next turn, dealing 1 piercing damage to it. At the end of each of its turns thereafter, the target takes 7 (2d6) necrotic damage per worm infesting it (maximum of 10d6), and if it drops to 0 hit points, it dies and then rises 10 minutes later as a spawn of Kyuss. If a worm-infested target is targeted by an effect that cures disease or removes a curse, all the worms infesting it wither away.
 
+## Background
+
+Kyuss was a high priest of Orcus (appears in this book) who plundered corpses from necropolises to create the first spawn of Kyuss. Even centuries after Kyuss's death, his malign disciples continue performing the horrific rites he perfected.
+
+From a distance or in poor light, a spawn of Kyuss looks like an ordinary zombie. As it comes into clearer view, however, the scores of little green worms crawling in and out of it become visible.
+
+These worms jump onto nearby Humanoids and burrow into their flesh. A worm that penetrates a Humanoid body makes its way to the creature's brain. Once inside the brain, the worm kills its host and animates the corpse, transforming it into a spawn of Kyuss, which breeds more worms.
+
+Spawn of Kyuss are expressions of Orcus's intent to replace all life with undeath. Left to its own de-vices, a solitary spawn of Kyuss travels aimlessly.
+
+If it stumbles across a living creature, the spawn attacks with the sole intent of creating more spawn.
+
+Whether spawn are dispersed or clustered, they reproduce exponentially if nothing stops them.
+
 > source: _Mordenkainen Presents: Monsters of the Multiverse_ (2021)
 > [creatures](creatures.md)

@@ -10,8 +10,6 @@ On some worlds in the multiverse, the first settlements of dwarves were built in
 **Size:** Medium (about 4–5 feet tall)  
 **Speed:** 30 feet
 
-As a Dwarf, you have these special traits.
-
 #### Darkvision
 
 You have [Darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision) with a range of 120 feet.

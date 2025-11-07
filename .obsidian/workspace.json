@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/bandit.md",
+                "file": "rules/tortle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bandit"
+              "title": "tortle"
             }
           },
           {
@@ -294,7 +294,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -367,7 +367,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rules/bandit.md",
+                "file": "rules/tortle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -377,7 +377,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for bandit"
+              "title": "Backlinks for tortle"
             }
           },
           {
@@ -445,13 +445,15 @@
   },
   "active": "db6b6a2ae558c905",
   "lastOpenFiles": [
+    "rules/tabaxi.md",
+    "rules/dwarf.md",
+    "rules/warlockgreatoldone.md",
     "rules/spawnofkyuss.md",
     "rules/kobold.md",
+    "rules/bandit.md",
     "rules/alhoon.md",
     "rules/tortle.md",
-    "rules/warlockgreatoldone.md",
     "Alhoon.md",
-    "rules/dwarf.md",
     "rules/aarakocra.md",
     "rules/horse.md",
     "rules/pony.md",
@@ -459,7 +461,6 @@
     "rules/eladrin.md",
     "world.md",
     "rules/dragonborn.md",
-    "rules/bandit.md",
     "Skulk.md",
     "rules/froghemoth.md",
     "rules/annishag.md",
@@ -470,7 +471,6 @@
     "rules/orc.md",
     "rules/lizardfolk.md",
     "rules/hobgoblin.md",
-    "rules/harengon.md",
     "rules",
     "dnd",
     "daylog",
