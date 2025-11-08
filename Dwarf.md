@@ -4,7 +4,7 @@ Squat and often bearded, the original dwarves carved cities and strongholds into
 
 ## Characters
 
-* 
+* men stoneseeker
 
 ![dwarf](rules/dwarf.md)
 

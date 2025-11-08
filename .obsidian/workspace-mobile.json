@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dwarf.md",
+                "file": "DwarfRoad.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dwarf"
+              "title": "DwarfRoad"
             }
           }
         ]
@@ -157,6 +157,10 @@
   },
   "active": "0a04ccea91d7d0a7",
   "lastOpenFiles": [
+    "Dwarf.md",
+    "Bullywug.md",
+    "rules/gnome.md",
+    "rules/human.md",
     "/Bullywug.md",
     "/rules/gnome.md",
     "/rules/human.md",
@@ -179,10 +183,6 @@
     "rules/duergar.md",
     "rules/paladin.md",
     "rules/tiefling.md",
-    "rules/pony.md",
-    "rules/barbarian.md",
-    "rules/warlockgreatoldone.md",
-    "rules/monk.md",
     "rules",
     "/rules",
     "/daylog",
