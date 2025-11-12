@@ -1,5 +1,6 @@
 This rump of the world known as [Nuoro](Nuoro.md) has many places. Everywhere has many places, really. There's practically no reason to go looking through this list because each of these places has more places within. Same goes for history. I can't detail history for you, because there's more of it than there are moments to use recording it, right? So you get fragments. Be glad of it, because if we unspooled the entirety you'd run into a paradox sooner or later, and that's where the outsider arcanematics will get you.
 
+![map-nuoro](map-nuoro.png)
 ## Places
 
 * [Bedwistre](Bedwistre.md)

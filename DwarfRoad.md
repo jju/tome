@@ -4,3 +4,4 @@ Built hundreds of years ago the road connects [Dracolathe](Dracolathe.md) (then 
 It used to be patrolled and one of the safest (and fastest) means of travel into the [Grimtooth](Grimtooth.md) range, but now [Bandits](Bandits.md) roam, especially in the [Chokewoods](Chokewoods.md) where even dwarven engineering requires upkeep to fight the green entropy of life.
 
 > [places](places.md)
+[](map-nuoro.png)
