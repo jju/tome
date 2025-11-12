@@ -1,3 +1,4 @@
+
 ## Player Characters
 
 * [Rexer the Third](RexerIII.md)
@@ -8,9 +9,15 @@
 
 ## NPCs
 
-* [Urdl](Urdl.md)
-* [Green](Green.md) - 
-* Steppe - pony
-* Grandy - pony
+* [Urdl](Urdl.md) - Dwarf merchant
+* [Green](Green.md) - Halfling merchant
+* Kobold mob - chased off by [RexerIII](RexerIII.md)
+
+## Creatures
+
+#### Horses/Ponies
+
+* Steppe - Saved and horribly burned
+* Grandy - Killed by Kobolds
 
 ![npcs](npcs.md)
