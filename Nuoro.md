@@ -1,1 +1,1 @@
-The landmass is named for the Nuoro River
+The landmass was named for the [Nuoro River](NuoroRiver.md) by the [DantagEmpire](DantagEmpire.md)

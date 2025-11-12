@@ -1,4 +1,3 @@
-* Green
-* Other Halfling
-* [Kobold](Kobold.md)
+* [Urdl](Urdl.md)
+* [Green](Green.md)
 * 

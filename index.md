@@ -6,5 +6,5 @@ by jjackunrau
 
 * [Rules](rules/index.md)
 * [World](world.md)
-* [Characters](characters/index.md)
+* [Characters](characters.md)
 * [Adventures](stories/index.md)

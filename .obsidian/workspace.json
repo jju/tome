@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/index.md",
+                "file": "characters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "characters"
             }
           },
           {
@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/Urdl.md",
+                "file": "Urdl.md",
                 "mode": "source",
                 "source": false
               },
@@ -372,6 +372,132 @@
             }
           },
           {
+            "id": "1db3a6bf1f48c1c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Perolmani.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Perolmani"
+            }
+          },
+          {
+            "id": "128737ba787574dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FarUzak.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FarUzak"
+            }
+          },
+          {
+            "id": "9b4fe621e971cd36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UzakHills.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UzakHills"
+            }
+          },
+          {
+            "id": "01dcf81a207abdd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oddlewett.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Oddlewett"
+            }
+          },
+          {
+            "id": "70313b2c4a03c162",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LakeArkona.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LakeArkona"
+            }
+          },
+          {
+            "id": "5d3a73f5dc440eca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Witchpeak.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Witchpeak"
+            }
+          },
+          {
+            "id": "b135861ac7d06045",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FadedCoast.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FadedCoast"
+            }
+          },
+          {
+            "id": "3b464061106af7de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bedwistre.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bedwistre"
+            }
+          },
+          {
+            "id": "39a0681700f9810c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nuoro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nuoro"
+            }
+          },
+          {
             "id": "5fc6d0601532426f",
             "type": "leaf",
             "state": {
@@ -414,7 +540,7 @@
             }
           }
         ],
-        "currentTab": 25
+        "currentTab": 34
       },
       {
         "id": "f858e899a9b911da",
@@ -576,6 +702,34 @@
             }
           },
           {
+            "id": "710384f38ac0091e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "organizations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "organizations"
+            }
+          },
+          {
+            "id": "513ab100db685816",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OldZhaluumi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OldZhaluumi"
+            }
+          },
+          {
             "id": "d66e534fa26b7a30",
             "type": "leaf",
             "state": {
@@ -618,7 +772,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -767,34 +921,34 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "97221fc81a8e94ee",
+  "active": "39a0681700f9810c",
   "lastOpenFiles": [
-    "DwarfRoad.md",
-    "Dracolathe.md",
-    "Tayama.md",
-    "Forli.md",
-    "Hammerskeep.md",
-    "Hammersford.md",
-    "Croaklands.md",
+    "Monk.md",
+    "LakeArkona.md",
+    "Kobold.md",
+    "Khudurra.md",
+    "Kenku.md",
     "Karanliwood.md",
     "Kanliwood.md",
-    "NuoroRiver.md",
-    "Bedwistre.md",
-    "Nuoro.md",
-    "Rundan.md",
-    "Chokewoods.md",
-    "Siabsungkoh.md",
-    "Khudurra.md",
+    "Illithid.md",
     "Ikizh.md",
-    "DantagEmpire.md",
-    "Zhaalum.md",
+    "Hammerskeep.md",
+    "Hammersford.md",
     "GrimWar.md",
-    "rules/halfling.md",
-    "characters/Green.md",
-    "characters/Urdl.md",
-    "Halfling.md",
-    "Gnome.md",
-    "rules/annishag.md",
+    "Green.md",
+    "Golgewood.md",
+    "Forli.md",
+    "FarUzak.md",
+    "FadedCoast.md",
+    "DwarfRoad.md",
+    "Dracolathe.md",
+    "DantagEmpire.md",
+    "Croaklands.md",
+    "Chokewoods.md",
+    "Bullywug.md",
+    "Bedwistre.md",
+    "cities.md",
+    "OldZhaluumi.md",
     "places",
     "creatures",
     "npcs",

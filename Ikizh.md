@@ -1,1 +1,4 @@
 # Ikizh
+
+> [places](places.md)
+> 
