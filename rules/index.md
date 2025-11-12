@@ -30,5 +30,6 @@ Below are listed the rules we're using thus far (including the flavour text, but
 * [bandit](bandit.md)
 * [banditcaptain](banditcaptain.md)
 * [kobold](rules/kobold.md)
+* [pony](pony.md)
 
 [^1]: Non-SRD material.
