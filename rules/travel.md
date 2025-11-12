@@ -1,5 +1,5 @@
 
-| d6  | Downtime Turn Hazard Die Results                                                                                              |
+| d6  | Travel Turn Hazard Die Results                                                                                                |
 | --- | ----------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Setback. The haven suffers an insurrection or invasion, which has a 1-in-6 chance of success each haven turn it continues.    |
 | 2   | Fatigue. Each character must spend 1d6 gold pieces on living expenses or gain Fatigue.                                        |
