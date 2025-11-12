@@ -8,8 +8,8 @@
 
 ## NPCs
 
-* [[Urdl]]
-* Green
+* [Urdl](Urdl.md)
+* [Green](Green.md) - 
 * Steppe - pony
 * Grandy - pony
 

@@ -1,0 +1,1 @@
+The landmass is named for the Nuoro River
