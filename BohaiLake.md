@@ -1,0 +1,3 @@
+
+> [[places]]
+> [lakes](lakes.md)

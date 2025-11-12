@@ -1,4 +1,3 @@
-# Grimtooth Mountains
 
 > [places](places.md)
 > [mountains](mountains.md)

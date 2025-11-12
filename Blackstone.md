@@ -1,1 +1,3 @@
 # Blackstone
+
+> [places](places.md)

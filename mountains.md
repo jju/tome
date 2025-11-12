@@ -1,2 +1,7 @@
-* [FarUzak](FarUzak.md)
-* [[Uz]]
+* [Far Uzak](FarUzak.md)
+* [Uzak Hills](UzakHills.md)
+* [Grimtooth](Grimtooth.md)
+* [Witchpeak](Witchpeak.md)
+* [Jichileh](Jichileh.md)
+* [Skytusk](Skytusk.md)
+* [Husken Hills](HuskenHills.md)
