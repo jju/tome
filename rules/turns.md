@@ -4,6 +4,8 @@ use D&D Combat rules from the [SRD](srd).
 
 ## Dungeon Turns
 
+roll on [dungeon](dungeon.md) for every 10 minutes exploring a room
+
 ## Wilderness Turns
 roll on [wilderness](wilderness.md) for every 4 hours exploring a hex
 
