@@ -489,12 +489,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nuoro.md",
+                "file": "Perolmani.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nuoro"
+              "title": "Perolmani"
             }
           },
           {
@@ -503,12 +503,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bedwistre.md",
+                "file": "world.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bedwistre"
+              "title": "world"
             }
           },
           {
@@ -540,7 +540,7 @@
             }
           }
         ],
-        "currentTab": 34
+        "currentTab": 35
       },
       {
         "id": "f858e899a9b911da",
@@ -721,12 +721,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OldZhaluumi.md",
+                "file": "history.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "byModifiedTime",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "OldZhaluumi"
+              "title": "history"
             }
           },
           {
@@ -921,34 +931,34 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "39a0681700f9810c",
+  "active": "5fc6d0601532426f",
   "lastOpenFiles": [
-    "Monk.md",
-    "LakeArkona.md",
-    "Kobold.md",
-    "Khudurra.md",
-    "Kenku.md",
-    "Karanliwood.md",
-    "Kanliwood.md",
-    "Illithid.md",
-    "Ikizh.md",
-    "Hammerskeep.md",
-    "Hammersford.md",
+    "index.md",
+    "rules/index.md",
+    "history.md",
+    "world.md",
     "GrimWar.md",
-    "Green.md",
-    "Golgewood.md",
-    "Forli.md",
-    "FarUzak.md",
-    "FadedCoast.md",
-    "DwarfRoad.md",
-    "Dracolathe.md",
-    "DantagEmpire.md",
-    "Croaklands.md",
-    "Chokewoods.md",
-    "Bullywug.md",
-    "Bedwistre.md",
-    "cities.md",
+    "places.md",
     "OldZhaluumi.md",
+    "Zhaalum.md",
+    "UzakHills.md",
+    "Witchpeak.md",
+    "Urdl.md",
+    "Underdark.md",
+    "Undead.md",
+    "Tayama.md",
+    "startrek.md",
+    "Siabsungkoh.md",
+    "Shadowfell.md",
+    "RurikStoneblood.md",
+    "Rundan.md",
+    "Perolmani.md",
+    "Bedwistre.md",
+    "Paladin.md",
+    "Oddlewett.md",
+    "NuoroRiver.md",
+    "Nuoro.md",
+    "Monk.md",
     "places",
     "creatures",
     "npcs",

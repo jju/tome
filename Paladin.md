@@ -1,7 +1,7 @@
 # Paladin
 ## Characters
 
-* 
+* Sharptooth
 
 ![paladin](rules/paladin.md)
 

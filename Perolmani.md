@@ -1,4 +1,6 @@
 # Perolmani Forest
 This region covers the southeast chunk of Nuoro, and was ostensibly part of [Rundan](Rundan.md), though the empire only really exploited the most extreme tip for shipbuilding purposes.
 
-The deepness of the Perolmani ()
+The deepness of the Perolmani is home to many [Gnome](Gnome.md) communities, along with the [Far Uzaks](FarUzak.md). They hadn't been politically active against the [Dantag Empire](DantagEmpire.md) so these woods were spared many of the intrusive measures of the [Kanliwood](Kanliwood.md) and [Karanliwood](Karanliwood.md). 
+
+> [[places]]

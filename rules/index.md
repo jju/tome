@@ -21,6 +21,7 @@ Below are listed the rules we're using thus far (including the flavour text, but
 * [dwarf](rules/dwarf.md)
 * [gnome](rules/gnome.md)
 * [goliath](rules/goliath.md)[^1]
+* [halfling](rules/halfling.md)
 * [human](rules/human.md)
 * [kenku](rules/kenku.md)[^1]
 * [tiefling](rules/tiefling.md)
