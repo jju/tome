@@ -3,7 +3,7 @@ Dragonborn look like wingless, bipedal dragons— scaly, bright-eyed, and thick-
 ## Characters
 
 * [Rexen III](RexerIII.md)
-*  
+* Sharptooth
 
 ![dragonborn](rules/dragonborn.md)
 
