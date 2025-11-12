@@ -1,5 +1,5 @@
 
-| d6  | Exploration Turn Hazard Die Results                                                                       |
+| d6  | Wilderness Turn Hazard Die Results                                                                        |
 | --- | --------------------------------------------------------------------------------------------------------- |
 | 1   | Setback. Random Encounter                                                                                 |
 | 2   | Fatigue. Each character must consume a ration and rest for the next two wilderness turns or gain Fatigue. |
