@@ -1,5 +1,5 @@
 # Hammersford
-The furthest Western city of [Rundan](Rundan.md), it's very different from [Hammerskeep](Hammerskeep.md).
+The furthest Northern city of [Rundan](Rundan.md), it's very different from [Hammerkeep](Hammerkeep.md). (Also very different from the [Kanliwood](Kanliwood.md) village [Hammerford](Hammerford.md)). Population ~10,000
 
-> [[places]]
+> [places](places.md)
 > [cities](cities.md)

@@ -7,7 +7,7 @@
 * [FarUzak](FarUzak.md)
 * [Grimtooth](Grimtooth.md)
 * [Golgewood](Golgewood.md)
-* [Hammersford](Hammersford.md) & [Hammerskeep](Hammerskeep.md)
+* [Hammersford](Hammersford.md) & [Hammerkeep](Hammerkeep.md)
 * [Ikizh](Ikizh.md)
 * [Kanliwood](Kanliwood.md) & [Karanliwood](Karanliwood.md)
 * [Khudurra](Khudurra.md)

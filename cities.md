@@ -2,7 +2,7 @@ The cities of Nuoro aren't anything really to compare with the glories of the mo
 
 * [Bedwistre](Bedwistre.md)
 * [Dracolathe](Dracolathe.md) / [Zhaalum](Zhaalum.md)
-* [Hammerskeep](Hammerskeep.md)
+* [Hammerkeep](Hammerkeep.md)
 * [Hammersford](Hammersford.md)
 * [Khudurra](Khudurra.md)
 * [Siabsungkoh](Siabsungkoh.md)
