@@ -1,0 +1,2 @@
+* [FarUzak](FarUzak.md)
+* [[Uz]]

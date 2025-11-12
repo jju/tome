@@ -13,25 +13,45 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RexerIII.md",
+                "file": "world.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "RexerIII"
+              "title": "world"
+            }
+          },
+          {
+            "id": "4f599382f7053ab4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Xuedei.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Xuedei"
+            }
+          },
+          {
+            "id": "8bd966a9fed91bed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Xuedei.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Xuedei"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "f858e899a9b911da",
@@ -43,15 +63,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dracolathe.md",
+                "file": "Grimtooth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dracolathe"
+              "title": "Grimtooth"
+            }
+          },
+          {
+            "id": "e48994a232dd8084",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mountains.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mountains"
+            }
+          },
+          {
+            "id": "9049668e3adfe9e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BloodstoneHall.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BloodstoneHall"
+            }
+          },
+          {
+            "id": "9ccaba1f8f71813c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blackstone.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Blackstone"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,13 +263,20 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "e9085b744235388e",
+  "active": "e48994a232dd8084",
   "lastOpenFiles": [
-    "GwarglKelHuun.md",
+    "Grimtooth.md",
+    "mountains.md",
+    "Xuedei.md",
+    "forests.md",
+    "world.md",
     "RexerIII.md",
+    "Blackstone.md",
+    "BloodstoneHall.md",
+    "Dracolathe.md",
+    "GwarglKelHuun.md",
     "Bandits.md",
     "Bullywug.md",
-    "world.md",
     "index.md",
     "rules/index.md",
     "srd.md",
@@ -219,15 +289,8 @@
     "Barbarian.md",
     "GrimWar.md",
     "organizations.md",
-    "Dracolathe.md",
     "npcs.md",
     "Underdark.md",
-    "Undead.md",
-    "rules/shadar-kai.md",
-    "classes.md",
-    "Ranger.md",
-    "UzakHills.md",
-    "FarUzak.md",
     "places",
     "creatures",
     "npcs",

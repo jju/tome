@@ -3,14 +3,15 @@ This rump of the world known as [Nuoro](Nuoro.md) has many places. Everywhere ha
 ## Places
 
 * [Bedwistre](Bedwistre.md)
+* [Blackstone](Blackstone.md)
 * [Chokewoods](Chokewoods.md)
 * [Croaklands](Croaklands.md)
 * [Dracolathe](Dracolathe.md)
 * [DwarfRoad](DwarfRoad.md)
 * [FadedCoast](FadedCoast.md)
 * [FarUzak](FarUzak.md)
-* [Forli](Forli.md)
 * [Golgewood](Golgewood.md)
+* [Grimtooth Mountains](Grimtooth.md)
 * [Hammersford](Hammersford.md) & [Hammerskeep](Hammerskeep.md)
 * [Ikizh](Ikizh.md)
 * [Kanliwood](Kanliwood.md) & [Karanliwood](Karanliwood.md)
