@@ -1,3 +1,8 @@
+You’ll need two d8s, one blue, one green.
+
+Roll both dice. You will only use the lower result. In this table, green means climb the table, blue means descend the table. Using the lower result, move that many spaces on the table. If both dice tie, stay where you are.
+
+If you reach the end of the table, reset to the asterisked position, depending on if you’re climbing or descending.
 
 ## Summer Table
 
