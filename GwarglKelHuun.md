@@ -7,4 +7,4 @@ Eventually as a kid Hüun began working in a library sweeping up, doing all that
 > [characters](characters.md)
 > [Kenku](Kenku)
 
-[^1]: Note that the [Grim War](GrimWar.md) had been over for 
+[^1]: Note that the [Grim War](GrimWar.md) had been over for some 40 years by this time, so how "new" was this society really?
