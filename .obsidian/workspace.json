@@ -41,12 +41,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DwarfRoad.md",
+                "file": "Shadowfell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DwarfRoad"
+              "title": "Shadowfell"
+            }
+          },
+          {
+            "id": "64788615130e56e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "secrets/Skulk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Skulk"
+            }
+          },
+          {
+            "id": "59d888234e37f3bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "998ec1faee511bb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/Urdl.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Urdl"
             }
           },
           {
@@ -78,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "f858e899a9b911da",
@@ -230,12 +272,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hextemplate.md",
+                "file": "rules/index.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "hextemplate"
+              "title": "index"
             }
           },
           {
@@ -430,38 +473,43 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "c771d6df9922d796",
+  "active": "998ec1faee511bb0",
   "lastOpenFiles": [
-    "DwarfRoad.md",
-    "Kenku.md",
-    "hextemplate.md",
+    "characters/index.md",
+    "characters/Urdl.md",
+    "secrets/npcs.md",
+    "secrets/index.md",
+    "index.md",
+    "rules/index.md",
+    "rules/wizard.md",
+    "dnd.md",
+    "creatures.md",
+    "secrets/Alhoon.md",
     "world.md",
-    "GwarglKelHuun.md",
-    "rules/woodwoad.md",
+    "places",
+    "stories/index.md",
+    "Warlock.md",
+    "Underdark.md",
+    "Undead.md",
     "species.md",
-    "rules/annishag.md",
-    "rules/allip.md",
-    "rules/spawnofkyuss.md",
-    "rules/tortle.md",
-    "rules/yuan-ti.md",
-    "rules/shadar-kai.md",
-    "rules/orc.md",
-    "rules/lizardfolk.md",
-    "rules/duergar.md",
-    "rules/hobgoblin.md",
-    "rules/harengon.md",
-    "rules/goblin.md",
-    "rules/firbolg.md",
-    "rules/deepgnome.md",
-    "rules/dwarf.md",
-    "rules/aarakocra.md",
-    "rules/goliath.md",
-    "rules/kobold.md",
-    "Goliath.md",
+    "creatures/Kruthik.md",
+    "classes.md",
+    "Kobold.md",
+    "npcs.md",
+    "creatures",
+    "npcs",
+    "Barbarian.md",
+    "Bullywug.md",
+    "Bandits.md",
+    "secrets/Skulk.md",
+    "characters",
+    "Dragonborn.md",
+    "hextemplate.md",
+    "stories",
+    "secrets",
     "rules",
     "dnd",
     "daylog",
-    "New folder",
-    "bibli-o"
+    "New folder"
   ]
 }

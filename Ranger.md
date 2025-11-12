@@ -2,7 +2,7 @@
 
 ## Characters
 
-* [RexenIII](RexenIII.md)
+* [RexerIII](RexerIII.md)
 * [Fillika](Fillika.md)
 * 
 

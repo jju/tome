@@ -4,3 +4,5 @@
 * [Kenku](Kenku.md)
 * [Dwarf](Dwarf.md)
 * [Human](Human.md)
+* [Kobold](Kobold.md)
+* 

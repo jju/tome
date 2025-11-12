@@ -1,6 +1,6 @@
 We're using the Fifth Edition of Dungeons & Dragons for this campaign, especially making use of the System Reference Document ([SRD](srd.md)) which contains the rules you can use to publish D&D content under Creative Commons. The current version of the document is located on the [D&D Beyond website](https://www.dndbeyond.com/srd).
 
-Below are listed the rules we're using (including the flavour text, but that will be finding more of a home in the main entries).
+Below are listed the rules we're using thus far (including the flavour text, but that will be finding more of a home in the main entries).
 ## classes
 
 * [barbarian](rules/barbarian.md)
@@ -28,6 +28,6 @@ Below are listed the rules we're using (including the flavour text, but that wil
 
 * [bandit](bandit.md)
 * [banditcaptain](banditcaptain.md)
-* 
+* [kobold](rules/kobold.md)
 
 [^1]: Non-SRD material.

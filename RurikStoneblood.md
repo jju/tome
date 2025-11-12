@@ -14,4 +14,4 @@ He is scared that he’ll never be able to use his brain and brawn to bring safe
 
 He believes that he’ll never see home or family again. He only has his party, and will do whatever it takes to keep them together.
 
-[characters](characters.md) 
+[index](characters/index.md) 

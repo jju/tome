@@ -4,5 +4,5 @@ Huun's mother was very proud of their lost heritage she always said they were de
 
 Eventually as a kid Huun began working in a library sweeping up, doing all that will hunting stuff and realized the formulas and arcane bullshit people got up to was all about finding the weird rales that ran the universe and then either breaking or manipulating them to your advantage. It was all a game and Huun was fascinated.
 
-[characters](characters.md)
+[index](characters/index.md)
 [Kenku](Kenku)

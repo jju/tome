@@ -1,7 +1,3 @@
-Nuoro
-Rundan
-Oecumene
-Toyama
 
 ## Places
 
@@ -15,6 +11,12 @@ Toyama
 * The Oddlewet Basin
 * Cattemaco Island
 * Oucumene
+* Nuoro River
+* Tayama
+
+
+## History
+
 
 ## Hexes
 
