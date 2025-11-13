@@ -10,19 +10,27 @@ The aftermath of the [Grim War](GrimWar.md) led to [Ikizh](Ikizh.md) declaring i
 
 ## The Last Hundred Years
 
-When the [DantagEmpire](DantagEmpire.md) gave [Zhaalum](Zhaalum.md) to the [Dragonborn](Dragonborn.md), it sparked the [GrimWar](GrimWar.md). While that conflict started in the [Grimtooth](Grimtooth.md) mountains, its effects were felt everywhere. Though the mountains themselves were host to many battles, the bloodiest (as far as sheer numbers of casualties) happened far off to the east in [Rundan](Rundan.md) where the [Dragonborn](Dragonborn.md) armies came ashore. [Ikizh](Ikizh.md) saw many sieges. This war dragged on and on, so that many of the long-lived species (most notably the [Dwarves](Dwarf.md) who left [Zhaalum](Zhaalum.md)) grew up within it and still harbour the anger it provoked. In the end, [Dracolathe](Dracolathe.md) changed hands and the great golden dragon [Cyzzarun](Cyzzarun.md) became its symbol.
-
+When the [Dantag Empire](DantagEmpire.md) gave [Zhaalum](Zhaalum.md) to the [Dragonborn](Dragonborn.md), it sparked the [GrimWar](GrimWar.md). While that conflict started in the [Grimtooth](Grimtooth.md) mountains, its effects were felt everywhere. Though the mountains themselves were host to many battles, the bloodiest (as far as sheer numbers of casualties) happened far off to the east in [Rundan](Rundan.md) where the [Dragonborn](Dragonborn.md) armies came ashore. [Ikizh](Ikizh.md) saw many sieges. This war dragged on and on, so that many of the long-lived species (most notably the [Dwarves](Dwarf.md) who left [Zhaalum](Zhaalum.md)) grew up within it and still harbour the anger it provoked. In the end, [Dracolathe](Dracolathe.md) changed hands and the great golden dragon [Cyzzarun](Cyzzarun.md) became its symbol.
 ## The Last Five Hundred Years
 
 These were centuries of relative Imperial peace. The pious regime was ascendant and [Nuoro](Nuoro.md) was a land dedicated to its gods. Many expeditions were sent out in these times to locate remnants of arcane knowledge and destroy it. Fighting pockets of [Undead](Undead.md) and patrolling for [Bandits](Bandits.md) were primary roles of the state. The [Dwarf Road](DwarfRoad.md) was completed in this era, and the [Dwarves](Dwarf.md) of [Zhaalum](Zhaalum.md) grew very prosperous with collecting tolls on the treasures they were pulling from the [Grimtooth](Grimtooth.md) mountains.
-
 ## The Last Thousand Years
 
-When the [Empire](DantagEmpire.md) came to [Nuoro](Nuoro.md) it conquered the many peoples there without mass-extermination. They came with assistance and funds to build projects. The small fiefdoms generally fell in line at the sight of the power the
+When the [Empire](DantagEmpire.md) came to [Nuoro](Nuoro.md) it conquered the many peoples there without mass-extermination. They came with assistance and funds to build projects. The small fiefdoms generally fell in line at the sight of the cosmopolitan power the imperial army projected: their shining armour, powerful wizards, imperious priests. Queens and kings all across Nuoro bent the knee.
 
-* Disconnect
-* [Grim War](GrimWar.md)
-* Pious Years
-* Betrayal
-* Empire Engages
-* Local history
+The empire brought its strange beliefs and built its monuments alongside the ones that existed before and it all went relatively smoothly for a long time. 
+
+Then the wizards rebelled against Empire.
+
+The Great Betrayal led to the Arcane Purge. Now not only necromancers were prohibited, but wizards, sorcerors, warlocks all were under the torturer's knife. Their writings were destroyed (or locked up and forgotten). Only very few arcanists were allowed to practice under state control, and the primacy of the militant orders and faiths in any supernatural matters were made permanent.
+
+## Before That
+
+The [Dantag Empire](DantagEmpire.md) was formed almost five thousand years ago across the sea from an alliance of the multitude of sapient species (including most of those found in [Nuoro](Nuoro.md). They claim blessings from almost all the gods and believe it is their right to rule as much of the world as exists.
+
+Around the [Nuoro River](NuoroRiver.md) There were Dragons and Fae, sapients of all sorts. [Dwarves](Dwarf.md) ruled in the [Grimtooth](Grimtooth.md) mountains, having once wrested a hoard there from an ancient purple dragon. The fickle [Eladrin](Eladrin.md) haunted the [Kanliwood](Kanliwood.md) and [Karanliwood](Karanliwood.md) while [Perolmani](Perolmani.md) was the [Gnome](Gnome.md) homeland. [Goliath](Goliath.md) clans ruled the far northwest.
+
+> [world](world.md)
+> [places](places.md)
+> [factions](factions.md)
+> [species](species.md)

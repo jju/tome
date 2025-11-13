@@ -36,9 +36,8 @@ This rump of the world known as [Nuoro](Nuoro.md) has many places. Everywhere ha
 The current year in the Imperial Calendar is [IC4996](IC4996.md).
 
 * [The Last Ten Years](history.md#The%20Last%20Ten%20Years)
-* The Last Fifty Years
-* The Last Hundred Years
-* The Last Five Hundred Years
-* The Last Thousand Years
-* The Last Five Thousand Years
-* Before That
+* [The Last Fifty Years](history.md#The%20Last%20Fifty%20Years)
+* [The Last Hundred Years](history.md#The%20Last%20Hundred%20Years)
+* [The Last Five Hundred Years](history.md#The%20Last%20Five%20Hundred%20Years)
+* [The Last Thousand Years](history.md#The%20Last%20Thousand%20Years)
+* [Before That](history.md#Before%20That)

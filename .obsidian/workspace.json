@@ -60,6 +60,20 @@
                 "state": {
                   "type": "markdown",
                   "state": {
+                    "file": "Kenku.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Kenku"
+                }
+              },
+              {
+                "id": "ce4b4334239bef16",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
                     "file": "history.md",
                     "mode": "source",
                     "source": false
@@ -69,7 +83,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           },
           {
             "id": "088bada69a0d8019",
@@ -356,12 +370,14 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "903d828b2554b3f5",
+  "active": "ce4b4334239bef16",
   "lastOpenFiles": [
+    "world.md",
     "history.md",
+    "Eladrin.md",
+    "Kenku.md",
     "Cyzzarun.md",
     "Undead.md",
-    "world.md",
     "rules/downtime.md",
     "secrets/index.md",
     "Urdl.md",
@@ -382,8 +398,6 @@
     "rules/duergar.md",
     "rules/dwarf.md",
     "rules/bard.md",
-    "DantagEmpire.md",
-    "Bedwistre.md",
     "images/map-nuoro.png",
     "images",
     "places",
