@@ -19,15 +19,15 @@ Speed 30 ft.
 
 **Senses** Passive Perception 10
 **Languages** Any one language (usually Common)
-CR 2 (450 XP; PB +2)
+**CR** 2 (450 XP; PB +2)
 
 ## Traits
 
-_**Reckless.**_ At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
+_**Reckless.**_ At the start of their turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
 ## Actions
 
 _**Greataxe.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 9 (1d12 + 3) slashing damage.
 
 > source: https://www.dndbeyond.com/monsters/16805-berserker
 > [srd](srd.md)
-> [npcs](npcs.md) [arctic](arctic) [coastal](coastal) [desert](desert) [forest](forest.md) [hill](hill) [mountain](mountain)
+> [npcs](npcs.md)

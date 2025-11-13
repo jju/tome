@@ -17,7 +17,7 @@ Speed 30 ft.
 **Skills** Acrobatics +6, Perception +5
 **Senses** passive Perception 15
 **Languages** any one language (usually Common)
-CR 3 (700 XP; PB +2)
+**CR** 3 (700 XP; PB +2)
 
 ## Actions
 
@@ -52,3 +52,6 @@ You may roll on the Archer Fletching table to determine the distinctive fletchin
 | 11  | Drake scale vanes               |
 | 12  | Stirge wing vanes               |
 
+
+> source: _Mordenkainen Presents: Monsters of the Multiverse_ (2021)
+> [npcs](npcs.md)
