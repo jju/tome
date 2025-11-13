@@ -17,7 +17,5 @@
 
 #### Horses/Ponies
 
-* Steppe - Saved and horribly burned
+* Step - Saved and horribly burned
 * Grandy - Killed by Kobolds
-
-![npcs](npcs.md)

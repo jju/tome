@@ -188,12 +188,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyzzarun.md",
+                "file": "Gnome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cyzzarun"
+              "title": "Gnome"
             }
           },
           {
@@ -370,13 +370,15 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "ce4b4334239bef16",
+  "active": "903d828b2554b3f5",
   "lastOpenFiles": [
-    "world.md",
+    "index.md",
     "history.md",
+    "world.md",
+    "characters.md",
+    "Cyzzarun.md",
     "Eladrin.md",
     "Kenku.md",
-    "Cyzzarun.md",
     "Undead.md",
     "rules/downtime.md",
     "secrets/index.md",
@@ -396,8 +398,6 @@
     "rules/gnome.md",
     "rules/druid.md",
     "rules/duergar.md",
-    "rules/dwarf.md",
-    "rules/bard.md",
     "images/map-nuoro.png",
     "images",
     "places",
