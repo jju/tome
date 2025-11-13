@@ -1,4 +1,6 @@
-Usually known as Hüun, Gwargl Kel Hüun is a [Kenku](Kenku.md) of uncertain origin (they have more magpie-ish plumage than most). They grew up in [Dracolathe](Dracolathe.md) in a community of refugees including some dwarves and a bunch of other misfits (even some humans) who had trouble fitting into the new[^1] [Dragonborn](Dragonborn.md) society.
+Usually known as Hüun, Gwargl Kel Hüun is a [Kenku](Kenku.md) [Wizard](Wizard.md) of uncertain origin (they have more magpie-ish plumage than most). 
+
+They grew up in [Dracolathe](Dracolathe.md) in a community of refugees including some dwarves and a bunch of other misfits (even some humans) who had trouble fitting into the new[^1] [Dragonborn](Dragonborn.md) society.
 
 Hüun's mother was very proud of their lost heritage she always said they were descendants of the first bards to the Unkind Queen. Sometimes that story focused more on being shat upon by kobolds when they were forced to leave the old world, but Hüun did their best to remember the stories, even when they contradicted themselves.
 

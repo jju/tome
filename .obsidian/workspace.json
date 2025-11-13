@@ -74,12 +74,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "history.md",
+                    "file": "Ikizh.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "history"
+                  "title": "Ikizh"
                 }
               }
             ],
@@ -188,12 +188,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ikizh.md",
+                "file": "Kenku.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ikizh"
+              "title": "Kenku"
             }
           },
           {
@@ -370,11 +370,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "ce4b4334239bef16",
+  "active": "903d828b2554b3f5",
   "lastOpenFiles": [
+    "GwarglKelHuun.md",
     "Ikizh.md",
-    "Gnome.md",
     "history.md",
+    "Gnome.md",
     "index.md",
     "world.md",
     "characters.md",
@@ -397,7 +398,6 @@
     "rules/shadar-kai.md",
     "rules/harengon.md",
     "rules/goblin.md",
-    "rules/gnome.md",
     "images/map-nuoro.png",
     "images",
     "places",
