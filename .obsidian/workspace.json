@@ -188,12 +188,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gnome.md",
+                "file": "Ikizh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gnome"
+              "title": "Ikizh"
             }
           },
           {
@@ -370,10 +370,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "903d828b2554b3f5",
+  "active": "ce4b4334239bef16",
   "lastOpenFiles": [
-    "index.md",
+    "Ikizh.md",
+    "Gnome.md",
     "history.md",
+    "index.md",
     "world.md",
     "characters.md",
     "Cyzzarun.md",
@@ -396,8 +398,6 @@
     "rules/harengon.md",
     "rules/goblin.md",
     "rules/gnome.md",
-    "rules/druid.md",
-    "rules/duergar.md",
     "images/map-nuoro.png",
     "images",
     "places",

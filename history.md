@@ -6,7 +6,7 @@
 
 ## The Last Fifty Years
 
-The aftermath of the [Grim War](GrimWar.md) led to [Ikizh](Ikizh.md) declaring itself independent of the [Dantag Empire](DantagEmpire.md). Controlling the flow of resources coming down from the mountains has become more lucrative for those involved in those industries and they have been setting up explorations into realms that had been prohibited by imperial decree. A major northwest expansion has been a long term project but hasn't gone anywhere with the fears that [Rundan](Rundan.md) (or the greater [Empire](DantagEmpire.md)) might swoop in to attack a distracted queendom.
+The aftermath of the [Grim War](GrimWar.md) led to [Ikizh](Ikizh.md) declaring itself independent of the [Dantag Empire](DantagEmpire.md). Controlling the flow of resources coming down from the mountains has become more lucrative for the factions involved in those industries and they have been setting up expeditions into realms that had been prohibited by imperial decree. A major northwest expansion has been a long term project but hasn't gone anywhere with the fears that [Rundan](Rundan.md) (or the greater [Empire](DantagEmpire.md)) might swoop in to attack a distracted queendom.
 
 ## The Last Hundred Years
 
@@ -26,9 +26,9 @@ The Great Betrayal led to the Arcane Purge. Now not only necromancers were prohi
 
 ## Before That
 
-The [Dantag Empire](DantagEmpire.md) was formed almost five thousand years ago across the sea from an alliance of the multitude of sapient species (including most of those found in [Nuoro](Nuoro.md). They claim blessings from almost all the gods and believe it is their right to rule as much of the world as exists.
+The [Dantag Empire](DantagEmpire.md) was formed almost five thousand years ago across the sea from an alliance of the multitude of sapient species (including most of those found in [Nuoro](Nuoro.md)). They claim blessings from almost all the gods and believe it is their right to rule as much of the world as exists.
 
-Around the [Nuoro River](NuoroRiver.md) There were Dragons and Fae, sapients of all sorts. [Dwarves](Dwarf.md) ruled in the [Grimtooth](Grimtooth.md) mountains, having once wrested a hoard there from an ancient purple dragon. The fickle [Eladrin](Eladrin.md) haunted the [Kanliwood](Kanliwood.md) and [Karanliwood](Karanliwood.md) while [Perolmani](Perolmani.md) was the [Gnome](Gnome.md) homeland. [Goliath](Goliath.md) clans ruled the far northwest.
+Around the [Nuoro River](NuoroRiver.md) there were Dragons and Fae, sapients of all sorts. [Dwarves](Dwarf.md) ruled in the [Grimtooth](Grimtooth.md) mountains, having once wrested a hoard there from an ancient purple dragon. The fickle [Eladrin](Eladrin.md) haunted the [Kanliwood](Kanliwood.md) and [Karanliwood](Karanliwood.md) while [Perolmani](Perolmani.md) was the [Gnome](Gnome.md) homeland. [Goliath](Goliath.md) clans ruled the far northwest.
 
 > [world](world.md)
 > [places](places.md)
