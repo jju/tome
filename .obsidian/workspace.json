@@ -55,115 +55,21 @@
                 }
               },
               {
-                "id": "0e1fa9b45a27c8a4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/annishag.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "annishag"
-                }
-              },
-              {
-                "id": "799abfa84186b3fe",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/weather.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "weather"
-                }
-              },
-              {
                 "id": "623f6409f3ec9016",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/downtime.md",
+                    "file": "history.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "downtime"
-                }
-              },
-              {
-                "id": "0a554a9d3c548b30",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "secrets/index.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "index"
-                }
-              },
-              {
-                "id": "52b72c01016e6a84",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Barbarian.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Barbarian"
-                }
-              },
-              {
-                "id": "46a247bd86d09375",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Rundan.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Rundan"
-                }
-              },
-              {
-                "id": "eba1a6d2f611dd7a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "unassigned.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "unassigned"
+                  "title": "history"
                 }
               }
             ],
-            "currentTab": 8
+            "currentTab": 3
           },
           {
             "id": "088bada69a0d8019",
@@ -175,12 +81,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "secrets/index.md",
+                    "file": "world.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "index"
+                  "title": "world"
                 }
               }
             ]
@@ -436,18 +342,22 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "ce53d3098834710a",
+  "active": "623f6409f3ec9016",
   "lastOpenFiles": [
+    "rules/downtime.md",
     "secrets/index.md",
-    "world.md",
-    "Rundan.md",
-    "secrets/Rundan.md",
-    "stories/Rx01-PonyTears.md",
-    "IC4996.md",
+    "Urdl.md",
     "Barbarian.md",
+    "Untitled.md",
+    "unassigned.md",
+    "IC4996.md",
+    "stories/Rx01-PonyTears.md",
+    "secrets/Rundan.md",
+    "Rundan.md",
+    "world.md",
+    "Undead.md",
     "history.md",
     "rules/archer.md",
-    "Undead.md",
     "rules/warlockgreatoldone.md",
     "rules/eladrin.md",
     "rules/shadar-kai.md",
@@ -460,10 +370,6 @@
     "rules/bard.md",
     "DantagEmpire.md",
     "Bedwistre.md",
-    "rules/berserker.md",
-    "rules/archdruid.md",
-    "rules/srd.md",
-    "rules/index.md",
     "images/map-nuoro.png",
     "images",
     "places",
