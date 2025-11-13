@@ -14,6 +14,7 @@ Speed 30 ft., fly 15 ft. (hover)
 | INT | 19  | +4  | +8   |
 | WIS | 17  | +3  | +3   |
 | CHA | 17  | +3  | +3   |
+
 **Skills** Arcana +8, [Deception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +7, History +8, Insight +7, Perception +7, Stealth +5
 **Damage Resistances** cold, lightning, necrotic
 **Damage Immunities** poison
