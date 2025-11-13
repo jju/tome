@@ -5,4 +5,4 @@
 * [Dwarf](Dwarf.md)
 * [Human](Human.md)
 * [Kobold](Kobold.md)
-* 
+* [Gnome](Gnome.md) 

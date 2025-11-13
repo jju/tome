@@ -2,4 +2,4 @@
 
 
 
-> [organizations](organizations.md)
+> [factions](factions.md)

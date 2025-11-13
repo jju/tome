@@ -15,4 +15,4 @@ The [Kanliwood](Kanliwood.md) and [Karanliwood](Karanliwood.md) have bandits for
 [^1]: source: https://www.dndbeyond.com/monsters/16798-bandit
 
 > [characters](characters.md)
-> [organizations](organizations)
+> [factions](factions.md)
