@@ -1,6 +1,6 @@
 # Undead
-As the story is told, millennia ago[^1] the [Dantag Empire](DantagEmpire.md) fought a gruelling war against an undead horde back in their heartland. When it finally ended in victory, the emperor decreed that piercing the vale to the planes of death was anathema. Necromancers were imprisoned and the temples venerating gods of death were prohibited from attempting to revive corpses in any form. It is said that in the heartland, powerful warding structures were built to prevent the dead from rising (and cremation of bodies was widely adopted).
+As the story is told, millennia ago[^1] the [Dantag Empire](DantagEmpire.md) fought a gruelling war against an undead horde back in their heartland. When it finally ended in victory, the emperor decreed that piercing the vale to the planes of death was anathema. Necromancers were imprisoned and the temples venerating gods of death were prohibited from attempting to revive corpses in any form. Back in the heartland, the empire invested in powerful warding structures to prevent the dead from rising (and cremation of bodies was widely adopted).
 
-
+While these prohibitions did spread to [Nuoro](Nuoro.md) they were less well-adopted, and the warding structures were never built. Nevertheless, the land has never seen more than scattered undead menaces, which were put down forcibly by Empire troops. Since the [Grim War](GrimWar.md) those troops have had much less of a presence beyond [Rundan](Rundan.md), though many troops have imperial training in [Ikizh](Ikizh.md) as well.
 
 [^1]: Probably only a couple. This may have only predated the arcane purge by a dwarven generation or so.

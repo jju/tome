@@ -1,0 +1,1 @@
+[Rundan](Rundan.md) hasn't been in official contact with the [DantagEmpire](DantagEmpire.md) in the past 7 years ([[IC4989]]). Their designated magical link died that year and no replacement has been sent. Sealed messages sent by ship have been confused and contradictory. The leadership has been trying to hide this development.
