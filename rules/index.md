@@ -3,33 +3,33 @@ We're using the Fifth Edition of Dungeons & Dragons for this campaign, especiall
 Below are listed the rules we're using thus far (including the flavour text, but that will be finding more of a home in the main entries).
 ## classes
 
-* [barbarian](rules/barbarian.md)
-* [bard](rules/bard.md)
-* [cleric](rules/cleric.md)
-* [druid](rules/druid.md)
-* [fighter](rules/fighter.md)
-* [monk](rules/monk.md)
-* [paladin](rules/paladin.md)
-* [ranger](rules/ranger.md)
-* [rogue](rules/rogue.md)
-* [sorcerer](rules/sorcerer.md)
-* [warlock](rules/warlock.md)
-* [wizard](rules/wizard.md)
+* [barbarian](barbarian.md)
+* [bard](bard.md)
+* [cleric](cleric.md)
+* [druid](druid.md)
+* [fighter](fighter.md)
+* [monk](monk.md)
+* [paladin](paladin.md)
+* [ranger](ranger.md)
+* [rogue](rogue.md)
+* [sorcerer](sorcerer.md)
+* [warlock](warlock.md)
+* [wizard](wizard.md)
 ## species
 
-* [dragonborn](rules/dragonborn.md)
-* [dwarf](rules/dwarf.md)
-* [gnome](rules/gnome.md)
-* [goliath](rules/goliath.md)[^1]
-* [halfling](rules/halfling.md)
-* [human](rules/human.md)
-* [kenku](rules/kenku.md)[^1]
-* [tiefling](rules/tiefling.md)
+* [dragonborn](dragonborn.md)
+* [dwarf](dwarf.md)
+* [gnome](gnome.md)
+* [goliath](goliath.md)[^1]
+* [halfling](halfling.md)
+* [human](human.md)
+* [kenku](kenku.md)[^1]
+* [tiefling](tiefling.md)
 ## npcs
 
 * [bandit](bandit.md)
 * [banditcaptain](banditcaptain.md)
-* [kobold](rules/kobold.md)
+* [kobold](kobold.md)
 * [pony](pony.md)
 
 [^1]: Non-SRD material.
