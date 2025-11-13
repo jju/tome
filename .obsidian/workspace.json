@@ -206,6 +206,30 @@
               "icon": "lucide-file",
               "title": "berserker"
             }
+          },
+          {
+            "id": "64fa5beaba15903b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/srd.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "srd"
+            }
           }
         ],
         "currentTab": 4
@@ -359,9 +383,11 @@
   },
   "active": "0a554a9d3c548b30",
   "lastOpenFiles": [
-    "rules/human.md",
     "rules/berserker.md",
+    "rules/srd.md",
+    "rules/index.md",
     "rules/archer.md",
+    "rules/human.md",
     "rules/gnome.md",
     "rules/alhoon.md",
     "rules/druid.md",
@@ -383,8 +409,6 @@
     "NuoroRiver.md",
     "world.md",
     "Hammersford.md",
-    "rules/annishag.md",
-    "Orn.md",
     "images/map-nuoro.png",
     "images",
     "places",

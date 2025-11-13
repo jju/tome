@@ -1,0 +1,1 @@
+The System Reference Document ([SRD](srd.md)) which contains the [rules](rules/index.md) you can use to publish D&D content under Creative Commons. The current version of the document is located on the [D&D Beyond website](https://www.dndbeyond.com/srd).
