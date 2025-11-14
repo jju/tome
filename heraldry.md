@@ -1,5 +1,5 @@
 
-(number) (colour) (nouns) on a (colour) (quartered, chequered) 
+(number) (colour) (nouns) on a (colour) (quartered, chequered) field
 
 field appears first: metal, colour fur
 charge: noun followed by colour
