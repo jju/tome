@@ -81,9 +81,21 @@
                   "icon": "lucide-file",
                   "title": "index"
                 }
+              },
+              {
+                "id": "9371c6791f94d5d1",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.10.3"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.10.3"
+                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 5
           },
           {
             "id": "088bada69a0d8019",
@@ -370,7 +382,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "ce4b4334239bef16",
+  "active": "9371c6791f94d5d1",
   "lastOpenFiles": [
     "Ikizh.md",
     "Kenku.md",
