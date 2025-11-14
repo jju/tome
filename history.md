@@ -22,11 +22,11 @@ The empire brought its strange beliefs and built its monuments alongside the one
 
 Then the wizards rebelled against Empire.
 
-The Great Betrayal led to the Arcane Purge. Now not only necromancers were prohibited, but wizards, sorcerors, warlocks all were under the torturer's knife. Their writings were destroyed (or locked up and forgotten). Only very few arcanists were allowed to practice under state control, and the primacy of the militant orders and faiths in any supernatural matters were made permanent.
+This Great Betrayal led to the Arcane Purge. Now not only necromancers were prohibited, but wizards, sorcerors, warlocks all were under the torturer's knife. Their writings were destroyed (or locked up and forgotten). Only very few arcanists were allowed to practice under state control, and the primacy of the militant orders and faiths in any supernatural matters were made permanent.
 
 ## Before That
 
-The [Dantag Empire](DantagEmpire.md) was formed almost five thousand years ago across the sea from an alliance of the multitude of sapient species (including most of those found in [Nuoro](Nuoro.md)). They claim blessings from almost all the gods and believe it is their right to rule as much of the world as exists.
+The [Dantag Empire](DantagEmpire.md) was formed almost five thousand years ago across the sea from an alliance of the multitude of sapient species (including most of those found in [Nuoro](Nuoro.md)). They claim blessings from almost all the gods and believe those gods grant them their right to rule as much of the world as exists. The Empire has a lasting enmity towards the entire concept of [Undeath](Undead.md), making necromancy (even for benevolent purposes) one of the highest crimes.
 
 Around the [Nuoro River](NuoroRiver.md) there were Dragons and Fae, sapients of all sorts. [Dwarves](Dwarf.md) ruled in the [Grimtooth](Grimtooth.md) mountains, having once wrested a hoard there from an ancient purple dragon. The fickle [Eladrin](Eladrin.md) haunted the [Kanliwood](Kanliwood.md) and [Karanliwood](Karanliwood.md) while [Perolmani](Perolmani.md) was the [Gnome](Gnome.md) homeland. [Goliath](Goliath.md) clans ruled the far northwest.
 
