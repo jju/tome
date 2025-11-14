@@ -259,12 +259,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/masterthief.md",
+                "file": "Wizard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "masterthief"
+              "title": "Wizard"
             }
           },
           {
@@ -443,8 +443,9 @@
   },
   "active": "cd4886e2c6a13c01",
   "lastOpenFiles": [
-    "rules/berserker.md",
+    "rules/wizard.md",
     "rules/masterthief.md",
+    "rules/berserker.md",
     "rules/martialartsadept.md",
     "rules/champion.md",
     "rules/spawnofkyuss.md",
@@ -468,7 +469,6 @@
     "characters.md",
     "Cyzzarun.md",
     "Eladrin.md",
-    "Undead.md",
     "images/map-nuoro.png",
     "images",
     "places",
