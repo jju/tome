@@ -74,12 +74,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/berserker.md",
+                    "file": "rules/spawnofkyuss.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "berserker"
+                  "title": "spawnofkyuss"
                 }
               }
             ],
@@ -202,12 +202,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/blackguard.md",
+                "file": "rules/ranger.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "blackguard"
+              "title": "ranger"
+            }
+          },
+          {
+            "id": "b28deedca45a0162",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/champion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "champion"
             }
           },
           {
@@ -235,7 +249,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -384,11 +398,15 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "e8c9c6db23647948",
+  "active": "b28deedca45a0162",
   "lastOpenFiles": [
-    "world.md",
+    "rules/spawnofkyuss.md",
     "rules/berserker.md",
+    "rules/champion.md",
+    "rules/ranger.md",
     "rules/blackguard.md",
+    "history.md",
+    "world.md",
     "gods.md",
     "rules/barbarian.md",
     "Kenku.md",
@@ -399,7 +417,6 @@
     "FacelessStranger.md",
     "Ikizh.md",
     "GwarglKelHuun.md",
-    "history.md",
     "Gnome.md",
     "index.md",
     "characters.md",
@@ -409,9 +426,6 @@
     "rules/downtime.md",
     "secrets/index.md",
     "Urdl.md",
-    "Barbarian.md",
-    "unassigned.md",
-    "IC4996.md",
     "images/map-nuoro.png",
     "images",
     "places",

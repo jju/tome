@@ -93,15 +93,19 @@ Thanks to your travels, you gain the following benefits.
 
 #### Level 2: Fighting Style
 
-You gain a Fighting Style feat of your choice. Instead of choosing one of those feats, you can choose the option below.
+You gain a Fighting Style feat of your choice. Instead of choosing one of those feats, you can choose one of the options below.
 
-##### Druidic Warrior
-
-You learn two Druid cantrips of your choice. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
+- **Archery:** You gain a +2 bonus to attack rolls you make with ranged weapons.
+- **Defense:** While you are wearing armor, you gain a +1 bonus to AC.
+- **Dueling:** When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+- **Two-Weapon Fighting:** When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+- **Blind Fighting:** You have blindsight with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
+- **Druidic Warrior:** You learn two Druid cantrips of your choice. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
+- **Thrown Weapon Fighting:** You can draw a weapon that has the thrown property as part of the attack you make with the weapon. In addition, when you hit with a ranged attack using a thrown weapon, you gain a +2 bonus to the damage roll.
 
 #### Level 3: Ranger Subclass
 
-You gain a Ranger subclass of your choice. A subclass is a specialization that grants you features at certain Ranger levels. For the rest of your career, you gain each of your subclass’s features that are of your Ranger level or lower.
+You gain a [Ranger Subclass](ranger.md#Ranger%20Subclasses) of your choice. A subclass is a specialization that grants you features at certain Ranger levels. For the rest of your career, you gain each of your subclass’s features that are of your Ranger level or lower.
 
 #### Level 4: Ability Score Improvement
 
@@ -157,7 +161,7 @@ The damage die of your [Hunter’s Mark](https://www.dndbeyond.com/spells/261916
 
 A Ranger subclass is a specialization that grants you features at certain Ranger levels, as specified in the subclass.
 
-## Hunter
+### Hunter
 
 _Protect Nature and People from Destruction_
 
@@ -191,6 +195,43 @@ Once per turn when you deal damage to a creature marked by your [Hunter’s Mark
 
 When you take damage, you can take a Reaction to give yourself Resistance to that damage and any other damage of the same type until the end of the current turn.
 
-> source: https://www.dndbeyond.com/classes/2190882-ranger
+### Gloom Stalker
+
+#### Level 3: Gloom Stalker Magic
+
+Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Gloom Stalker Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
+
+|Level|Spells|
+|---|---|
+|3rd|[Disguise Self](https://dnd-5e.fandom.com/wiki/Disguise_Self "Disguise Self")|
+|5th|[Rope Trick](https://dnd-5e.fandom.com/wiki/Rope_Trick "Rope Trick")|
+|9th|[Fear](https://dnd-5e.fandom.com/wiki/Fear "Fear")|
+|13th|[Greater Invisibility](https://dnd-5e.fandom.com/wiki/Greater_Invisibility "Greater Invisibility")|
+|17th|[Seeming](https://dnd-5e.fandom.com/wiki/Seeming "Seeming")|
+#### Level 3: Dread Ambusher
+
+At 3rd level, you master the art of the ambush. You can give yourself a bonus to your initiative rolls equal to your Wisdom modifier.
+
+At the start of your first turn of each combat, your walking speed increases by 10 feet, which lasts until the end of that turn. If you take the Attack action on that turn, you can make one additional weapon attack as part of that action. If that attack hits, the target takes an extra 1d8 damage of the weapon's damage type.
+
+#### Level 3: Umbral Sight
+
+At 3rd level, you gain darkvision out to a range of 60 feet. If you already have darkvision from your species, its range increases by 30 feet.
+
+You are also adept at evading creatures that rely on darkvision. While in darkness, you are [invisible](https://dnd-5e.fandom.com/wiki/Conditions#Invisible "Conditions") to any creature that relies on darkvision to see you in that darkness.
+
+#### Level 7: Iron Mind
+
+By 7th level, you have honed your ability to resist the mind-altering powers of your prey. You gain proficiency in Wisdom saving throws. If you already have this proficiency, you instead gain proficiency in Intelligence or Charisma saving throws (your choice).
+
+#### Level 11: Stalker's Flurry
+
+At 11th level, you learn to attack with such unexpected speed that you can turn a miss into another strike. Once on each of your turns when you miss with a weapon attack, you can make another weapon attack as part of the same action.
+
+#### Level 15: Shadowy Dodge
+
+Starting at 15th level, you can dodge in unforeseen ways, with wisps of supernatural shadow around you. Whenever a creature makes an attack roll against you and doesn't have advantage on the roll, you can use your reaction to impose disadvantage on it. You must use this feature before you know the outcome of the attack roll.
+
+> source: https://www.dndbeyond.com/classes/2190882-ranger / *Xanathar's Guide to Everything*
 > [srd](srd.md)
 > [classes](classes.md)
