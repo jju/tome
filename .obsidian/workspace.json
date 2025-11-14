@@ -95,12 +95,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Bedwistre.md",
+                    "file": "Chokewoods.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Bedwistre"
+                  "title": "Chokewoods"
                 }
               }
             ]
@@ -373,9 +373,10 @@
   "active": "e8c9c6db23647948",
   "lastOpenFiles": [
     "world.md",
+    "Bedwistre.md",
+    "Kenku.md",
     "rules/index.md",
     "Ikizh.md",
-    "Kenku.md",
     "GwarglKelHuun.md",
     "history.md",
     "Gnome.md",
@@ -397,7 +398,6 @@
     "rules/warlockgreatoldone.md",
     "rules/eladrin.md",
     "rules/shadar-kai.md",
-    "rules/harengon.md",
     "images/map-nuoro.png",
     "images",
     "places",
