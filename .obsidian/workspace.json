@@ -287,12 +287,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/warlockfiend.md",
+                "file": "Warlock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "warlockfiend"
+              "title": "Warlock"
             }
           },
           {
@@ -471,10 +471,11 @@
   },
   "active": "564eb44ec4a1dec8",
   "lastOpenFiles": [
+    "rules/warlock.md",
+    "rules/warlockfiend.md",
     "rules/warlockarchfey.md",
     "rules/warpriest.md",
     "rules/warlord.md",
-    "rules/warlockfiend.md",
     "rules/warlockgreatoldone.md",
     "rules/berserker.md",
     "rules/champion.md",
@@ -496,7 +497,6 @@
     "rules/hazardsystem.md",
     "UnkindQueen.md",
     "RilesGreyfox.md",
-    "FacelessStranger.md",
     "images/map-nuoro.png",
     "images",
     "places",
