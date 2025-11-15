@@ -2,3 +2,4 @@ Magic is drawn from the collection of all the souls that have passed from mortal
 
 Ikiz’s aristocracy is more concerned with maintaining their current wealth by falsifying an attack by Rundan.
 
+Perolmani gnome warlord employing dark magic alliances.
