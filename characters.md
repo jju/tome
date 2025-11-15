@@ -5,13 +5,14 @@
 * [Fillika](Fillika.md) 
 * [Gwargl Kel Huun](GwarglKelHuun.md)
 * [Rurik Stoneblood](RurikStoneblood.md)
+* [Riles Greyfox](RilesGreyfox.md)
 * Sharptooth
 
 ## NPCs
 
 * [Urdl](Urdl.md) - Dwarf merchant
 * [Green](Green.md) - Halfling merchant
-* Kobold mob - chased off by [RexerIII](RexerIII.md)
+* Kobold mob - chased off by [Rexer III](RexerIII.md)
 
 ## Creatures
 

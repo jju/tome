@@ -102,8 +102,23 @@
                   "icon": "lucide-file",
                   "title": "Chokewoods"
                 }
+              },
+              {
+                "id": "8c1d2fb906c92d9e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "conflict-files-obsidian-git.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "conflict-files-obsidian-git"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -370,34 +385,34 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "e8c9c6db23647948",
+  "active": "8c1d2fb906c92d9e",
   "lastOpenFiles": [
+    "Chokewoods.md",
+    "conflict-files-obsidian-git.md",
+    "secrets/world.md",
+    "rules/warpriest.md",
+    "rules/warlord.md",
+    "rules/warlockfiend.md",
+    "rules/warlockarchfey.md",
+    "rules/masterthief.md",
+    "rules/martialartsadept.md",
+    "rules/lich.md",
+    "rules/knight.md",
+    "rules/hazardsystem.md",
+    "rules/champion.md",
+    "rules/blackguard.md",
+    "heraldry.md",
+    "gods.md",
+    "encounter.md",
+    "UnkindQueen.md",
+    "Tortle.md",
+    "RilesGreyfox.md",
+    "FacelessStranger.md",
+    "4.md",
     "world.md",
     "Bedwistre.md",
     "Kenku.md",
     "rules/index.md",
-    "Ikizh.md",
-    "GwarglKelHuun.md",
-    "history.md",
-    "Gnome.md",
-    "index.md",
-    "characters.md",
-    "Cyzzarun.md",
-    "Eladrin.md",
-    "Undead.md",
-    "rules/downtime.md",
-    "secrets/index.md",
-    "Urdl.md",
-    "Barbarian.md",
-    "unassigned.md",
-    "IC4996.md",
-    "stories/Rx01-PonyTears.md",
-    "secrets/Rundan.md",
-    "Rundan.md",
-    "rules/archer.md",
-    "rules/warlockgreatoldone.md",
-    "rules/eladrin.md",
-    "rules/shadar-kai.md",
     "images/map-nuoro.png",
     "images",
     "places",
