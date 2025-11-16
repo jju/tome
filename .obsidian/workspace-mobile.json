@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "world.md",
+                "file": "FadedCoast.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "world"
+              "title": "FadedCoast"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/dungeon.md",
+                "file": "rules/hazardsystem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dungeon"
+              "title": "hazardsystem"
             }
           },
           {
@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secrets/world.md",
+                "file": "rules/ranger.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "world"
+              "title": "ranger"
             }
           },
           {
@@ -105,7 +105,8 @@
               "title": "FacelessStranger"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -182,7 +183,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "world.md",
+            "file": "rules/ranger.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -239,34 +240,34 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "0a04ccea91d7d0a7",
+  "active": "f4ea1c0bf1081d5f",
   "lastOpenFiles": [
-    "Karanliwood.md",
+    "PiousCouncil.md",
+    "Lizardfolk.md",
+    "/PiousCouncil.md",
+    "/Lizardfolk.md",
+    "/Keelmont.md",
+    "/Croaklands.md",
+    "/Chokewoods.md",
+    "/Bedwistre.md",
+    "rules/hextemplate.md",
+    "rules/fighter.md",
+    "secrets/world.md",
+    "rules/hazardsystem.md",
+    "rules/dungeon.md",
+    "FacelessStranger.md",
+    "FadedCoast.md",
     "world.md",
+    "Karanliwood.md",
     "Kanliwood.md",
     "Rundan.md",
     "Perolmani.md",
-    "secrets/world.md",
     "Croaklands.md",
     "Ikizh.md",
     "Dracolathe.md",
     "Witchpeak.md",
     "Grimtooth.md",
     "secrets/index.md",
-    "rules/hazardsystem.md",
-    "rules/warlockarchfey.md",
-    "rules/warpriest.md",
-    "rules/warlockfiend.md",
-    "rules/warlord.md",
-    "4.md",
-    "/4.md",
-    "Tortle.md",
-    "rules/knight.md",
-    "rules/masterthief.md",
-    "rules/lich.md",
-    "heraldry.md",
-    "rules/martialartsadept.md",
-    "encounter.md",
     "/rules",
     "/stories",
     "/secrets",
