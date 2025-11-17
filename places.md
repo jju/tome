@@ -5,7 +5,7 @@
 * [DwarfRoad](DwarfRoad.md)
 * [FadedCoast](FadedCoast.md)
 * [FarUzak](FarUzak.md)
-* [Grimtooth](Grimtooth.md)
+* [Grimteeth](Grimteeth.md)
 * [Golgewood](Golgewood.md)
 * [Hammersford](Hammersford.md) & [Hammerkeep](Hammerkeep.md)
 * [Ikizh](Ikizh.md)

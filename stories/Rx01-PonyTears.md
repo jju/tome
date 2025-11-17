@@ -7,4 +7,4 @@ When they got there Rexer used his supernatural skills and spoke with Step, the 
 Rexer decided to bring the merchants and the pony back to his island, when they were ambushed! Fillika was taken out early while Urdl and Green tried to bolt. The kobolds had them surrounded but then Rexer went to work, smashing two with his axe and as the group started to scatter he unleashed his acid breath, accidentally catching Step is the blast. That made all the remaining (two or three) kobolds run. Rexer revived Fillika with Urdl's help and the group tried to decide what to do.
 
 > [IC4996](IC4996.md)
-> [Grimtooth](Grimtooth.md)
+> [Grimteeth](Grimteeth.md)

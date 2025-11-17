@@ -1,6 +1,6 @@
 * [Far Uzak](FarUzak.md)
 * [Uzak Hills](UzakHills.md)
-* [Grimtooth](Grimtooth.md)
+* [Grimteeth](Grimteeth.md)
 * [Witchpeak](Witchpeak.md)
 * [Jichileh](Jichileh.md)
 * [Skytusk](Skytusk.md)

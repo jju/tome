@@ -23,7 +23,7 @@ The current year in the Imperial Calendar is [IC4996](IC4996.md).
 * [FadedCoast](FadedCoast.md)
 * [FarUzak](FarUzak.md)
 * [Golgewood](Golgewood.md)
-* [Grimtooth Mountains](Grimtooth.md)
+* [Grimtooth Mountains](Grimteeth.md)
 * [Hammersford](Hammersford.md) & [Hammerkeep](Hammerkeep.md)
 * [Ikizh](Ikizh.md)
 * [Kanliwood](Kanliwood.md) & [Karanliwood](Karanliwood.md)
