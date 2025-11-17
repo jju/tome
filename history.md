@@ -22,7 +22,7 @@ The empire brought its strange beliefs and built its monuments alongside the one
 
 Then the wizards rebelled against Empire.
 
-This Great Betrayal led to the Arcane Purge. Now not only necromancers were prohibited, but wizards, sorcerors, warlocks all were under the torturer's knife. Their writings were destroyed (or locked up and forgotten). Only very few arcanists were allowed to practice under state control, and the primacy of the militant orders and faiths in any supernatural matters were made permanent. Many of those who were purged lit out for the inner reaches of [Nuoro](Nuoro.md), where the [Empire](DantagEmpire.md) 
+This Great Betrayal led to the [Arcane Purge](ArcanePurge.md). Now not only necromancers were prohibited, but wizards, sorcerors, warlocks all were under the torturer's knife. Their writings were destroyed (or locked up and forgotten). Only very few arcanists were allowed to practice under state control, and the primacy of the militant orders and faiths in any supernatural matters were made permanent. Many of those who were purged lit out (with their magical secrets) for the inner reaches of [Nuoro](Nuoro.md), where the [Empire](DantagEmpire.md) hadn't established itself.
 
 ## Before That
 
