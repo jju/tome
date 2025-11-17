@@ -54,3 +54,4 @@ Beyond the trickle of divine assistance allowed by the Divine Gate, mortal creat
 | Vesh                  | NE        | The Archfey, The Undying        | Death, Life         | Crimson ring hanging from a chain                          |
 | Xalicas               | LG        | The Archfey, The Celestial      | Life, Light         | Single blackened wing                                      |
 > source https://dnd-5e.fandom.com/wiki/Gods
+> [factions](factions.md)
