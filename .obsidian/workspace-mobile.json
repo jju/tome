@@ -27,292 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GwarglKelHuun.md",
+                "file": "secrets/world.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GwarglKelHuun"
-            }
-          },
-          {
-            "id": "c05a855d37b2e6ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/backgrounds.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "backgrounds"
-            }
-          },
-          {
-            "id": "1b6b8225b9387e38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/acolyte.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "acolyte"
-            }
-          },
-          {
-            "id": "997b6eb9004268ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/criminal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "criminal"
-            }
-          },
-          {
-            "id": "fd48f8324bf53841",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/citywatch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "citywatch"
-            }
-          },
-          {
-            "id": "05c6c99cbdf99748",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/fisher.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "fisher"
-            }
-          },
-          {
-            "id": "0f0db41bb339bea9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/folkhero.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "folkhero"
-            }
-          },
-          {
-            "id": "34563b66f3e14bef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/hermit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "hermit"
-            }
-          },
-          {
-            "id": "e462c2833397b156",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/knightorder.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "knightorder"
-            }
-          },
-          {
-            "id": "b50b58665ea64b04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/mercenaryveteran.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "mercenaryveteran"
-            }
-          },
-          {
-            "id": "84b921fabbe5ef4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/outlander.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "outlander"
-            }
-          },
-          {
-            "id": "53c053f36aa00da9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/noble.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "noble"
-            }
-          },
-          {
-            "id": "92fd84c685951811",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/sage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "sage"
-            }
-          },
-          {
-            "id": "14e00d901bd1741b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/smuggler.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "smuggler"
-            }
-          },
-          {
-            "id": "0a8b85d4bea0b3f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/soldier.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "soldier"
-            }
-          },
-          {
-            "id": "2a374e86ec50ccd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/urchin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "urchin"
-            }
-          },
-          {
-            "id": "33def347d9a804a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/marine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "marine"
-            }
-          },
-          {
-            "id": "e35001748379427c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/merchant.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "merchant"
-            }
-          },
-          {
-            "id": "620d5cccd91c0b60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/guildartisan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "guildartisan"
-            }
-          },
-          {
-            "id": "5d703926619ea442",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/gambler.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "gambler"
-            }
-          },
-          {
-            "id": "fb9a29b95227d2e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/fartraveller.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "fartraveller"
+              "title": "world"
             }
           },
           {
@@ -321,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/entertainer.md",
+                "file": "characters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "entertainer"
+              "title": "characters"
             }
           },
           {
@@ -344,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -478,10 +198,25 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "b5a2ac48bb666f2b",
+  "active": "2982f4bd1b5083ec",
   "lastOpenFiles": [
+    "GwarglKelHuun.md",
+    "rules/ranger.md",
+    "Zinda.md",
+    "Yeonido.md",
+    "Sensa.md",
+    "Tletepec.md",
+    "Shankhabhumi.md",
+    "Dayawlongon.md",
+    "AkharinSangar.md",
+    "DjayaniJanya.md",
+    "Yongjing.md",
+    "Atagua.md",
+    "TayyibEmpire.md",
+    "Umizu.md",
+    "places.md",
+    "characters.md",
     "rules/fartraveller.md",
-    "rules/entertainer.md",
     "rules/gambler.md",
     "rules/guildartisan.md",
     "rules/merchant.md",
@@ -491,21 +226,6 @@
     "rules/smuggler.md",
     "rules/sage.md",
     "rules/noble.md",
-    "rules/outlander.md",
-    "rules/mercenaryveteran.md",
-    "rules/knightorder.md",
-    "rules/hermit.md",
-    "rules/folkhero.md",
-    "rules/fisher.md",
-    "rules/citywatch.md",
-    "rules/criminal.md",
-    "rules/acolyte.md",
-    "rules/backgrounds.md",
-    "secrets/index.md",
-    "UnkindQueen.md",
-    "rules/hazardsystem.md",
-    "rules/ranger.md",
-    "FacelessStranger.md",
     "/stories",
     "/rules",
     "/secrets",
