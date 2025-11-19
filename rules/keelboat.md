@@ -5,7 +5,6 @@ Creature Capacity 3 crew, 4 passengers
 Cargo Capacity 0.5 tons
 Travel Pace 3 miles per hour (72 miles per day)
 
-
 |     |     | Mod | Save |
 | --- | --- | --- | ---- |
 | STR | 16  | +3  | +3   |
@@ -93,3 +92,6 @@ The keelboat cabin has the following features:
 **Footlockers.** Beneath each bed is a footlocker. The footlockers are iron and have AC 19, 18 hit points, and immunity to poison and psychic damage.
 
 **Furnishings.** Two beds and a desk with a chair stand at the aft of the cabin.
+
+> source: https://www.dndbeyond.com/vehicles/keelboat
+> [vehicles](vehicles)
