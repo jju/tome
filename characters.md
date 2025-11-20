@@ -2,11 +2,12 @@
 ## Player Characters
 
 * [Rexer the Third](RexerIII.md)
+* Sharptooth
 * [Fillika](Fillika.md) 
-* [Gwargl Kel Huun](GwarglKelHuun.md)
 * [Rurik Stoneblood](RurikStoneblood.md)
 * [Riles Greyfox](RilesGreyfox.md)
-* Sharptooth
+* [Gwargl Kel Huun](GwarglKelHuun.md)
+* [Sunny](Sunny.md)
 
 ## NPCs
 

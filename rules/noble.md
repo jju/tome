@@ -86,3 +86,40 @@ Nobles are born and raised to a very different lifestyle than most people ever e
 - I have an insatiable desire for carnal pleasures.
 - In fact, the world does revolve around me.
 - By my words and actions, I often bring shame to my family.
+
+# NPC Nobles
+
+[Noble](https://www.dndbeyond.com/monsters/5195145-noble)
+
+Medium Or Small Humanoid, Neutral
+AC 15    Initiative +1 (11)
+HP 9 (2d8)
+Speed 30 ft.
+
+|     |     | Mod | Save |
+| --- | --- | --- | ---- |
+| STR | 11  | +0  | +0   |
+| DEX | 12  | +1  | +1   |
+| CON | 11  | +0  | +0   |
+
+| | |Mod|Save|
+|---|---|---|---|
+|INT|12|+1|+1|
+|WIS|14|+2|+2|
+|CHA|16|+3|+3|
+**Skills** [Deception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +5, [Insight](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +4, [Persuasion](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +5
+**Gear** [Breastplate](https://www.dndbeyond.com/equipment/13-breastplate), [Rapier](https://www.dndbeyond.com/equipment/28-rapier)
+**Senses** Passive Perception 12
+**Languages** Common plus two other languages
+**CR** 1/8 (XP 25; PB +2)
+
+## Actions
+
+_**Rapier.** Melee Attack Roll:_ +3, reach 5 ft. _Hit:_ 5 (1d8 + 1) Piercing damage.
+
+## Reactions
+
+_**Parry.** Trigger:_ The noble is hit by a melee attack roll while holding a weapon. _Response:_ The noble adds 2 to its AC against that attack, possibly causing it to miss.
+
+> source: https://www.dndbeyond.com/monsters/5195145-noble
+> [npcs](npcs.md)
