@@ -217,12 +217,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gods.md",
+                "file": "RavenQueen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gods"
+              "title": "RavenQueen"
+            }
+          },
+          {
+            "id": "27e5a6142be7245c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CityofDoors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CityofDoors"
             }
           },
           {
@@ -250,7 +264,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -399,9 +413,14 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "abcd5ffa5408af86",
+  "active": "ea8bc78741220360",
   "lastOpenFiles": [
+    "CityofDoors.md",
+    "RavenQueen.md",
+    "UnkindQueen.md",
     "Shadowfell.md",
+    "Feywild.md",
+    "gods.md",
     "Underdark.md",
     "world.md",
     "Khudurra.md",
@@ -409,11 +428,8 @@
     "Siabsungkoh.md",
     "Shankhabhumi.md",
     "Tiefling.md",
-    "Feywild.md",
     "Bahamut.md",
-    "gods.md",
     "Tiamat.md",
-    "RavenQueen.md",
     "Tharizdun.md",
     "Vecna.md",
     "Ioun.md",
@@ -425,8 +441,6 @@
     "Croaklands.md",
     "rules/sailingship.md",
     "rules/sahuagin.md",
-    "rules/priest.md",
-    "rules/mangonel.md",
     "images/map-nuoro.png",
     "images",
     "places",
