@@ -231,12 +231,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gods.md",
+                "file": "Hammerkeep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gods"
+              "title": "Hammerkeep"
             }
           },
           {
@@ -415,15 +415,16 @@
   },
   "active": "27e5a6142be7245c",
   "lastOpenFiles": [
+    "Hammersford.md",
+    "Shadowfell.md",
+    "gods.md",
     "CityofDoors.md",
     "Bahamut.md",
     "Tiamat.md",
     "Underdark.md",
-    "Shadowfell.md",
     "RavenQueen.md",
     "UnkindQueen.md",
     "Feywild.md",
-    "gods.md",
     "world.md",
     "Khudurra.md",
     "Ikizh.md",
@@ -440,7 +441,6 @@
     "conflict-files-obsidian-git.md",
     "Croaklands.md",
     "rules/sailingship.md",
-    "rules/sahuagin.md",
     "images/map-nuoro.png",
     "images",
     "places",

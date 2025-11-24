@@ -10,18 +10,19 @@ Shadow dragons and [Undead](Undead.md) haunt this bleak plane, as do other creat
 ## Shadow Crossings
 Shadow crossings are locations where the veil between the Material Plane and the Shadowfell is so thin that creatures can pass from one plane to the other. A blot of shadow in the corner of a dusty crypt might be a shadow crossing, as might an open grave. Shadow crossings form in gloomy places where spirits or the stench of death lingers, such as battlefields, graveyards, and tombs. They manifest only in darkness, closing as soon as they feel light's kiss.
 
-## DOMAINS OF DREAD
+## Domains of Dread
 In a far-flung corner of the Shadowfell drifts a hidden expanse of roiling mist and vague semireality.
 At this eerie edge of the multiverse, mysterious entities known as the Dark Powers collect the most wicked beings from across ages and worlds within inescapable, mist-shrouded demiplanes. In these shadowy prisons, the villainous beings become Darklords, able to exercise great power but confined to realms that twist their desires, capturing them in cycles of dread and despair.
 
 Mists surround each of the Domains of Dread, making it difficult to leave one domain and even harder to find a path to another. The Mists rise and fall at the whim of the Dark Powers, and they can even slip across the planes to drag people unwittingly into the dread domains. Those who live in these domains ascribe all sorts of sinister stories to the Mists-any supernatural happening, inexplicable disappearance, or malicious force can be blamed on the Mists.
 
-The following Domains of Dread are among the most infamous. They are described in more detail in Van Richten's Guide to Ravenloft.
+The following Domains of Dread are among the most infamous. They are described in more detail in *Van Richten's Guide to Ravenloft*.
 
-***Barovia.*** The towering spires of Castle Ravenloft Joom above the valley of Barovia, which is ruled by Strahd von Zarovich, the first vampire.
-Borca. Amid opulent estates and impoverished villages, two Darklords-the vicious poisoner Ivana Boritsi and the childishly cruel stalker an Dilisnya-pursue their obsessive schemes.
+***Barovia.*** The towering spires of Castle Ravenloft loom above the valley of Barovia, which is ruled by Strahd von Zarovich, the first vampire.
 
-***Falkovnia.*** Empty countryside surrounds ruined or crumbling cities, with only a few pockets of civ-lization fighting a losing battle against an endless plague of zombies. General Vladeska Drakov commands a fierce military force that desperately clings to power.
+***Borca.*** Amid opulent estates and impoverished villages, two Darklords-the vicious poisoner Ivana Boritsi and the childishly cruel stalker an Dilisnya-pursue their obsessive schemes.
+
+***Falkovnia.*** Empty countryside surrounds ruined or crumbling cities, with only a few pockets of civlization fighting a losing battle against an endless plague of zombies. General Vladeska Drakov commands a fierce military force that desperately clings to power.
 
 ***Kalakeri.*** A beautiful land of rainforests, rivers, and lakes is a quagmire of intrigue and despair as three royal heirs-transformed into monsters by their depravity and hatred-battle endlessly to claim the throne of their ancient dynasty.
 
@@ -29,7 +30,7 @@ Borca. Amid opulent estates and impoverished villages, two Darklords-the vicious
 whose efforts to create life and abolish death have led to the creation of many monsters.
 
 ***Mordent.*** Death in Mordent heralds the beginning of a haunted afterlife as a restless spirit, for this domain is the realm of ghost stories and hauntings.
-The dead here earn no rest, no finality, no peace-just a passage into a shadow world of wispy phan-toms, mournful groaning, and clanking chains.
+The dead here earn no rest, no finality, no peace-just a passage into a shadow world of wispy phantoms, mournful groaning, and clanking chains.
 
 ***Valachan.*** The devious hunter Chajuna roams the jungles of her domain, hunting the most dangerous beasts she can find. When she grows dissatisfied with simpler prey, she draws people into a fatal contest, ensuring that the land remains steeped in blood.
 
