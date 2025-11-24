@@ -53,5 +53,23 @@ Beyond the trickle of divine assistance allowed by the Divine Gate, mortal creat
 | Uk'otoa               | NE        | The Great Old One, The Hexblade | Knowledge, Tempest  | Yellow, slitted eye                                        |
 | Vesh                  | NE        | The Archfey, The Undying        | Death, Life         | Crimson ring hanging from a chain                          |
 | Xalicas               | LG        | The Archfey, The Celestial      | Life, Light         | Single blackened wing                                      |
-> source https://dnd-5e.fandom.com/wiki/Gods
+
+## Giant Gods
+Before the current age, giants walked the world. We find their remnants in the [Goliath](Goliath.md) peoples, ruins, and the occasional sighting of one of the people themselves.
+
+| God        | Alignment | Suggested Domains     | Symbol                                                                 |
+| ---------- | --------- | --------------------- | ---------------------------------------------------------------------- |
+| Annam      | LN        | Knowledge             | Two hands, wrists crossed with fingers pointed downward                |
+| Diancastra | CN        | Trickery              | Journey rune                                                           |
+| Grolantor  | CE        | War                   | Wooden club                                                            |
+| Hiatea     | N         | Life, Nature          | Flaming spear                                                          |
+| Iallanis   | NG        | Light, Peace          | Garland of flowers                                                     |
+| Karontor   | NE        | Death, Knowledge      | Broken shackles                                                        |
+| Memnor     | N/NE      | Knowledge, Trickery   | Black obelisk                                                          |
+| Skoraeus   | N         | Knowledge             | Stalactite                                                             |
+| Stronmaus  | NG        | Life, Tempest         | Forked lightning bolt descending from a cloud partly obscuring the sun |
+| Surtur     | LE        | Forge, Knowledge, War | Flaming sword                                                          |
+| Thrym      | CE        | War                   | White double-bladed axe                                                |
+
+> source https://dnd-5e.fandom.com/wiki/Gods , *Bigby Presents Glory of the Giants*
 > [factions](factions.md)
