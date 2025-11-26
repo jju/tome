@@ -172,12 +172,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Hammersford.md",
+                    "file": "Hammerkeep.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Hammersford"
+                  "title": "Hammerkeep"
                 }
               },
               {
@@ -409,12 +409,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/sailingship.md",
+                "file": "Orc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sailingship"
+              "title": "Orc"
             }
           }
         ],
@@ -567,11 +567,15 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "29305be06664f957",
+  "active": "8dc1f5b9b2c96ceb",
   "lastOpenFiles": [
-    "Hammerford.md",
-    "Hammersford.md",
+    "Goblin.md",
+    "Orc.md",
+    "species.md",
+    "rules/sailingship.md",
     "Hammerkeep.md",
+    "Hammersford.md",
+    "Hammerford.md",
     "Fighter.md",
     "Vecna.md",
     "Tharizdun.md",
@@ -582,7 +586,6 @@
     "Chult.md",
     "Bahamut.md",
     "rules/manacles.md",
-    "rules/sailingship.md",
     "rules/ballista.md",
     "rules/mangonel.md",
     "rules/priest.md",
@@ -592,9 +595,6 @@
     "commoner.md",
     "rules/keelboat.md",
     "rules/mercenaryveteran.md",
-    "rules/longship.md",
-    "LakeArkona.md",
-    "rules/knight.md",
     "images/map-nuoro.png",
     "images",
     "places",

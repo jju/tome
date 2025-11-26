@@ -6,3 +6,6 @@
 * [Human](Human.md)
 * [Kobold](Kobold.md)
 * [Gnome](Gnome.md) 
+* [Tortle](Tortle.md)
+* [Halfling](Halfling.md)
+* 
