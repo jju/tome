@@ -172,12 +172,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Hammerkeep.md",
+                    "file": "Hakonaga.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Hammerkeep"
+                  "title": "Hakonaga"
                 }
               },
               {
@@ -567,13 +567,16 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "8dc1f5b9b2c96ceb",
+  "active": "29305be06664f957",
   "lastOpenFiles": [
-    "Goblin.md",
+    "Haicong.md",
+    "GarettonForest.md",
+    "Garetton.md",
+    "Hammerkeep.md",
     "Orc.md",
+    "Goblin.md",
     "species.md",
     "rules/sailingship.md",
-    "Hammerkeep.md",
     "Hammersford.md",
     "Hammerford.md",
     "Fighter.md",
@@ -592,9 +595,6 @@
     "rules/guard.md",
     "rules/marine.md",
     "rules/noble.md",
-    "commoner.md",
-    "rules/keelboat.md",
-    "rules/mercenaryveteran.md",
     "images/map-nuoro.png",
     "images",
     "places",
