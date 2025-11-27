@@ -10,7 +10,7 @@ The circle of Prime Deities includes the leaders and luminary creatures that bat
 | Avandra                          | CG        | Change, freedom, luck         | Nature, Trickery         | Woman's profile embossed on a gold coin or pendant            |
 | [Bahamut](Bahamut.md)            | NG        | Honor, justice                | Life, Order, War         | Silver dragon's head in profile                               |
 | Corellon                         | CG        | Art, beauty, elves            | Arcana, Light            | Two crescent moons facing each other atop a four-pointed star |
-| Erathis                          | LN        | Civilization, law, peace      | Knowledge, Order         | Double-headed axe inset with a pattern of scales              |
+| [Erathis](Erathis.md)            | LN        | Civilization, law, peace      | Knowledge, Order         | Double-headed axe inset with a pattern of scales              |
 | [Ioun](Ioun.md)                  | N         | Knowledge, learning, teaching | Arcana, Knowledge        | Pair of open eyes crowned with a third open eye               |
 | Kord                             | CN        | Battle, competition, storms   | Tempest, War             | Four bolts of lightning radiating from the center of a shield |
 | Melora                           | N         | Seas, wilderness              | Life, Nature, Tempest    | Wreath of grass and grain affixed to a crook                  |
@@ -28,7 +28,7 @@ The Betrayer Gods are the deities who strayed from the ideals of the founding an
 | ------------------------- | --------- | ------------------------- | ------------------------------- | ------------------------------------------ |
 | Asmodeus                  | LE        | God of the Nine Hells     | Trickery, War                   | Crown of spiked onyx and curved horns      |
 | Bane                      | LE        | Conquest, tyranny         | Forge, Order, War               | Flail of chains, each ending in shackles   |
-| Gruumsh                   | CE        | Slaughter, warfare        | Death, Tempest, War             | Single, unblinking eye that bleeds         |
+| [Gruumsh](Gruumsh.md)     | CE        | Slaughter, warfare        | Death, Tempest, War             | Single, unblinking eye that bleeds         |
 | Lolth                     | CE        | Deceit, spiders           | Knowledge, Trickery             | Jeweled spider                             |
 | [Tharizdun](Tharizdun.md) | CE        | Darkness, Destruction     | Death, Grave, Trickery          | Crooked, seven-pointed star made of chains |
 | [Tiamat](Tiamat.md)       | LE        | Dragon god of evil        | Order, Trickery, War            | Taloned dragon claw                        |

@@ -17,8 +17,30 @@ Along with [Lady Hammerkeep](LadyHammerkeep.md) the [Imperial Warden](WardenofHa
 
 ## Taverns
 
-* The Goat
-* The Gibbet
+* Goat
+* Gibbet
+* Minstrel and Cask
+* Mourning Forest
+
+## Inns
+
+* Razorback
+* Three Candles
+* Clafton
+
+## Temples
+
+Not every god of the Empire has a full-on temple in Hammerkeep (this isn't [Bedwistre](Bedwistre.md) after all) but you can usually find a shrine to any of the [Prime Deities](gods.md#Prime%20Deities) with at least a devotee looking after it. These are the significant temples:
+
+* Temple of [Bahamut](Bahamut.md)
+* Temple of [Melora](Melora.md)
+* Temple of [Erathis](Erathis.md)
+* Temple of [Gruumsh](Gruumsh.md)
+* Temple of [Luxon](Luxon.md)
+* 
+
+
+
 
 
 > [[places]]

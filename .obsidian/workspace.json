@@ -549,12 +549,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hammerkeep.md",
+                "file": "HobgoblinAdviser.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hammerkeep"
+              "title": "HobgoblinAdviser"
             }
           }
         ],
@@ -709,9 +709,15 @@
   },
   "active": "1f2e32596f859ef6",
   "lastOpenFiles": [
+    "Luxon.md",
+    "Hammerkeep.md",
+    "Erathis.md",
+    "gods.md",
+    "Gruumsh.md",
+    "Melora.md",
+    "Ioun.md",
     "TwinWoods.md",
     "ThePrisoner.md",
-    "Hammerkeep.md",
     "QueenoftheWoods.md",
     "secrets/npcs.md",
     "rules/entertainer.md",
@@ -729,12 +735,6 @@
     "Kenku.md",
     "Aarakocra.md",
     "Orc.md",
-    "Bandits.md",
-    "UndergroundThree.md",
-    "Tabaxi.md",
-    "conflict-files-obsidian-git.md",
-    "CircleofHealingArts.md",
-    "LadyHammerkeep.md",
     "images/map-nuoro.png",
     "images",
     "places",
