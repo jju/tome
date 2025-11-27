@@ -34,9 +34,9 @@ Not every god of the Empire has a full-on temple in Hammerkeep (this isn't [Bedw
 
 * Temple of [Bahamut](Bahamut.md) - White stone building that has a number of kids in grey robes keeping it clean at all hours. Led by a gnomish [priest](priest.md) with minor clerical abilities, she's usually too busy politicking to cast spells since this is one of the most official outposts of [Empire](DantagEmpire.md) in town.
 * Temple of [Melora](Melora.md) - Wooden roundhouse that's especially busy in harvest season. The small round kobold who's in charge loves telling jokes and is legitimately kind (no spellcasting).
-* Temple of [Erathis](Erathis.md) - Gray, stone and square, this temple is built up on the hill, closer to the Keep than any of the others. The [Dwarf](Dwarf.md) in charge has a military background and openly disdains the [WardenofHammerkeep](WardenofHammerkeep.md). When Paladins come to town there is a lot of politicking between the Erathis and Bamahut temples.
-* Temple of [Gruumsh](Gruumsh.md) - Carved from huge timbers down by the docks, this is often where travellers stop for blessings on their way upstream. Usually that's because they've heard it's a good idea from the travellers coming downstream through the Woods.
-* Temple of [Luxon](Luxon.md) - The Empty Dodecahedron has a modest storefront entrance to their shrine in an alley between a pair of bickering blacksmiths.
+* Temple of [Erathis](Erathis.md) - Gray, stone and square, this temple is built up on the hill, closer to the Keep than any of the others. The [Dwarf](Dwarf.md) in charge has a military background [Guard Captain](guard.md#Guard%20Captain) and openly disdains the [WardenofHammerkeep](WardenofHammerkeep.md). When Paladins come to town there is a lot of politicking between the Erathis and Bamahut temples.
+* Temple of [Gruumsh](Gruumsh.md) - Carved from huge timbers down by the docks, this is often where travellers stop for blessings on their way upstream. Usually that's because they've heard it's a good idea from the travellers coming downstream through the Woods. The main priest is a dour [Orc](Orc.md).
+* Temple of [Luxon](Luxon.md) - The Empty Dodecahedron has a modest storefront entrance to their shrine in an alley between a pair of bickering blacksmiths. It's rare to see a priest there. Mostly it seems to be used as a modest reading room.
 
 
 > [[places]]
