@@ -556,9 +556,21 @@
               "icon": "lucide-file",
               "title": "Hammerkeep"
             }
+          },
+          {
+            "id": "df1a098f8b47b910",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -707,7 +719,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "1f2e32596f859ef6",
+  "active": "df1a098f8b47b910",
   "lastOpenFiles": [
     "rules/priest.md",
     "rules/guard.md",
