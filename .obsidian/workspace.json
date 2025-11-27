@@ -298,44 +298,16 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GrapplersCreek.md",
+                    "file": "WardenofHammerkeep.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "GrapplersCreek"
-                }
-              },
-              {
-                "id": "623f6409f3ec9016",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Rhig.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Rhig"
-                }
-              },
-              {
-                "id": "ce4b4334239bef16",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Gnome.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Gnome"
+                  "title": "WardenofHammerkeep"
                 }
               }
             ],
-            "currentTab": 21
+            "currentTab": 20
           },
           {
             "id": "088bada69a0d8019",
@@ -563,12 +535,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/sage.md",
+                "file": "rules/fartraveller.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sage"
+              "title": "fartraveller"
             }
           }
         ],
@@ -721,34 +693,34 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "1f2e32596f859ef6",
+  "active": "0e3e4858f04a2577",
   "lastOpenFiles": [
-    "Rhig.md",
-    "rules/sage.md",
+    "Umizu.md",
+    "WardenofHammerkeep.md",
+    "GrapplersCreek.md",
+    "rules/fartraveller.md",
+    "Atagua.md",
+    "AkharinSangar.md",
+    "places.md",
+    "RioraRunninggoat.md",
+    "rules/entertainer.md",
     "secrets/npcs.md",
-    "Aarakocra.md",
-    "Orc.md",
+    "rules/sage.md",
+    "Rhig.md",
     "EagerWave.md",
     "Kenku.md",
+    "Aarakocra.md",
+    "Orc.md",
     "Bandits.md",
     "UndergroundThree.md",
     "Tabaxi.md",
     "conflict-files-obsidian-git.md",
-    "GrapplersCreek.md",
     "CircleofHealingArts.md",
     "ThePrisoner.md",
     "LadyHammerkeep.md",
-    "HedgeWizard3.md",
     "QueenoftheWoods.md",
     "HobgoblinAdviser.md",
-    "WardenofHammerkeep.md",
     "GoblinTransportGuilds.md",
-    "Hakonaga.md",
-    "Haicong.md",
-    "GarettonForest.md",
-    "Garetton.md",
-    "Hammerkeep.md",
-    "Goblin.md",
     "images/map-nuoro.png",
     "images",
     "places",

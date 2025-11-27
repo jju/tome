@@ -58,7 +58,7 @@ Sages are defined by their extensive studies, and their characteristics reflect 
 - **Power.** Knowledge is the path to power and domination. (Evil)
 - **Self-Improvement.** The goal of a life of study is the betterment of oneself. (Any)
 
-### Bonds[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FSage_%28Background%29%3Fveaction%3Dedit%26section%3D9&uselang=en "Sign in to edit")
+### Bonds
 
 - It is my duty to protect my students.
 - I have an ancient text that holds terrible secrets that must not fall into the wrong hands.
@@ -67,7 +67,7 @@ Sages are defined by their extensive studies, and their characteristics reflect 
 - I've been searching my whole life for the answer to a certain question.
 - I sold my soul for knowledge. I hope to do great deeds and win it back.
 
-### Flaws[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FSage_%28Background%29%3Fveaction%3Dedit%26section%3D10&uselang=en "Sign in to edit")
+### Flaws
 
 - I am easily distracted by the promise of information.
 - Most people scream and run when they see a demon. I stop and take notes on its anatomy.
