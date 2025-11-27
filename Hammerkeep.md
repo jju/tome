@@ -9,7 +9,7 @@ Hammerkeep has no walls.
 At the city's docks along with bigger transports for heading to greater [Rundan](Rundan.md) you'll find a surfeit of ferries for crossing the river. There is an ancient stone bridge, but it's upstream from the city proper (within a bowshot of the Woods) and locals rarely use it. Because of its low-lying nature, there are often spring floods around the docks, which can disrupt business on the river.
 ## The Keep
 
-The Keep itself is on higher ground on the south edge of the city. It's made of dark stone and the wind howls through it. You can see it from everywhere in town.
+The Keep itself is on higher ground on the south edge of the city. It's made of dark stone and the wind howls through it. You can see it from practically everywhere in town.
 
 Along with [Lady Hammerkeep](BidrithCrecur.md) the [Imperial Warden](WardenofHammerkeep.md) is stationed here, making sure the king's trees and wildlife aren't taken by poachers, and keeping paths safe for Empire. Officially at least. The truth is that the warden's patrols follow very well-worn and predictable paths through the Woods, since leaving them makes for dead rangers.
 ## Circle of Healing
@@ -17,7 +17,7 @@ Along with [Lady Hammerkeep](BidrithCrecur.md) the [Imperial Warden](WardenofHam
 The [Circle of Healing Arts](CircleofHealingArts.md) is a low wooden building near the Docks. It's a place where the sick come for herbs, or for boils to be lanced or for strange illnesses to be assessed.
 ## Taverns
 
-* Goat
+* Old Goat
 * Gibbet
 * Minstrel and Cask
 * Mourning Forest
