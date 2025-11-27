@@ -298,12 +298,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Grappleton.md",
+                    "file": "GrapplersCreek.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Grappleton"
+                  "title": "GrapplersCreek"
                 }
               },
               {
@@ -696,7 +696,7 @@
   "active": "0e3e4858f04a2577",
   "lastOpenFiles": [
     "CircleofHealingArts.md",
-    "Grappleton.md",
+    "GrapplersCreek.md",
     "ThePrisoner.md",
     "LadyHammerkeep.md",
     "HedgeWizard3.md",
