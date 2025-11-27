@@ -17,24 +17,25 @@ Along with [Lady Hammerkeep](BidrithCrecur.md) the [Imperial Warden](WardenofHam
 The [Circle of Healing Arts](CircleofHealingArts.md) is a low wooden building near the Docks. It's a place where the sick come for herbs, or for boils to be lanced or for strange illnesses to be assessed.
 ## Taverns
 
-* Old Goat
-* Gibbet
-* Minstrel and Cask
-* Mourning Forest
+* Old Goat - scummy place in the Docks
+* Gibbet - weirdly gentrified with lots of old folk who still have their teeth
+* Lodestone - sunken damp Dwarf drinking hole, usually the first stop of Imperials
+* Minstrel and Cask - best for entertainment
+* Mourning Forest - wardens rangers and others who brave the Woods
 
 ## Inns
 
-* Razorback
-* Three Candles
-* Clafton Inn
+* Razorback - the roughest place (in the Docks)
+* Three Candles - the biggest place (near the [Hammersford](Hammersford.md) Road)
+* Clafton Inn - the classiest place (near the Keep)
 
 ## Temples
 
 Not every god of the Empire has a full-on temple in Hammerkeep (this isn't [Bedwistre](Bedwistre.md) after all) but you can usually find a shrine to any of the [Prime Deities](gods.md#Prime%20Deities) with at least a devotee looking after it. These are the significant temples:
 
-* Temple of [Bahamut](Bahamut.md) - White stone building that has a number of kids in grey robes keeping it clean at all hours. Led by a gnomish [priest](priest.md) with minor clerical abilities, she's usually too busy politicking to cast spells since this is one of the most official outposts of [Empire](DantagEmpire.md) in town.
-* Temple of [Melora](Melora.md) - Wooden roundhouse that's especially busy in harvest season. The small round kobold who's in charge loves telling jokes and is legitimately kind (no spellcasting).
-* Temple of [Erathis](Erathis.md) - Gray, stone and square, this temple is built up on the hill, closer to the Keep than any of the others. The [Dwarf](Dwarf.md) in charge has a military background [Guard Captain](guard.md#Guard%20Captain) and openly disdains the [WardenofHammerkeep](WardenofHammerkeep.md). When Paladins come to town there is a lot of politicking between the Erathis and Bamahut temples.
+* Temple of [Bahamut](Bahamut.md) - White stone building that has a number of kids in grey robes keeping it clean at all hours. Led by [Brecken Dirtbone](BreckenDirtbone.md) (a gnomish [priest](priest.md) with minor clerical abilities), who is usually too busy politicking to cast spells since this is one of the most official outposts of [Empire](DantagEmpire.md) in town.
+* Temple of [Melora](Melora.md) - Wooden roundhouse that's especially busy in harvest season. [Snerpi](Snerpi.md), the small round kobold who's in charge loves telling jokes and is legitimately kind (no spellcasting).
+* Temple of [Erathis](Erathis.md) - Gray, stone and square, this temple is built up on the hill, closer to the Keep than any of the others. [Dalrig Gravelmantle](DalrigGravelmantle.md), the [Dwarf](Dwarf.md) in charge, has a military background [Guard Captain](guard.md#Guard%20Captain) and openly disdains the [Warden of Hammerkeep](WardenofHammerkeep.md). When Paladins come to town there is a lot of politicking between the Erathis and Bahamut temples.
 * Temple of [Gruumsh](Gruumsh.md) - Carved from huge timbers down by the docks, this is often where travellers stop for blessings on their way upstream. Usually that's because they've heard it's a good idea from the travellers coming downstream through the Woods. The main priest is a dour [Orc](Orc.md).
 * Temple of [Luxon](Luxon.md) - The Empty Dodecahedron has a modest storefront entrance to their shrine in an alley between a pair of bickering blacksmiths. It's rare to see a priest there. Mostly it seems to be used as a modest reading room.
 
