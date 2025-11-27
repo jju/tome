@@ -1,24 +1,21 @@
 
-# Player's Handbook[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D1&uselang=en "Sign in to edit")
+# Player's Handbook
 
-## Actor[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D2&uselang=en "Sign in to edit")
-
+## Actor
 Skilled at mimicry and dramatics, you gain the following benefits:
 
 - Increase your Charisma score by 1, to a maximum of 20.
 - You have an advantage on Deception and Performance checks when trying to pass yourself off as a different person.
 - You can mimic the speech of another person or the sounds made by other creatures. You must have heard the person speaking, or heard the creature make the sound, for at least 1 minute. A successful Insight check contested by your Deception check allows a listener to determine that the effect is faked.
 
-## Alert[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit")
-
+## Alert
 Always on the lookout for danger, you gain the following benefits:
 
 - You can't be surprised while you are conscious.
 - You gain a +5 bonus to initiative.
 - Other creatures don't gain advantage on attack rolls against you as a result of being unseen by you.
 
-## Athlete[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D4&uselang=en "Sign in to edit")
-
+## Athlete
 You have undergone extensive physical training to gain the following benefits:
 
 - Increase your Strength or Dexterity score by 1, to a maximum of 20.
@@ -26,34 +23,29 @@ You have undergone extensive physical training to gain the following benefits:
 - Climbing doesn't cost you extra movement.
 - You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.
 
-## Charger[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D5&uselang=en "Sign in to edit")
-
+## Charger
 When you use your action to Dash, you can use a bonus action to make one melee weapon attack or to shove a creature. If you move at least 10 feet in a straight line immediately before taking this bonus action, you either gain a +5 bonus to the attack's damage roll (if you chose to make a melee attack and hit) or push the target up to 10 feet away from you (if you chose to shove and you succeed).
 
-## Crossbow Expert[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D6&uselang=en "Sign in to edit")
-
+## Crossbow Expert
 Thanks to extensive practice with the crossbow, you gain the following benefits:
 
 - You ignore the loading quality of crossbows with which you are proficient.
 - Being within 5 feet of a hostile creature doesn't impose disadvantage on your ranged attack rolls.
 - When you use the Attack action and attack with a one-handed weapon, you can use a bonus action to attack with a hand crossbow you are holding.
 
-## Defensive Duelist[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D7&uselang=en "Sign in to edit")
-
+## Defensive Duelist
 _Prerequisite: Dexterity 13 or higher_
 
 When you are wielding a finesse weapon with which you are proficient and another creature hits you with a melee attack, you can use your reaction to add your proficiency bonus to your AC for that attack, potentially causing it to miss you.
 
-## Dual Wielder[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D8&uselang=en "Sign in to edit")
-
+## Dual Wielder
 You master fighting with two weapons, gaining the following benefits:
 
 - You gain a +1 bonus to AC while you are wielding a separate melee weapon in each hand.
 - You can use two-weapon fighting even when the one-handed melee weapons you are wielding aren't light.
 - You can draw or stow two one-handed weapons when you would normally be able to draw or stow only one.
 
-## Dungeon Delver[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D9&uselang=en "Sign in to edit")
-
+## Dungeon Delver
 Alert to the hidden traps and secret doors found in many dungeons, you gain the following benefits:
 
 - You have advantage on Wisdom (Perception) and Intelligence (Investigation) checks made to detect the presence of secret doors.
@@ -61,23 +53,20 @@ Alert to the hidden traps and secret doors found in many dungeons, you gain the 
 - You have resistance to the damage dealt by traps.
 - Traveling at a fast pace doesn't impose the normal -5 penalty on your passive Wisdom (Perception) score.
 
-## Durable[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D10&uselang=en "Sign in to edit")
-
+## Durable
 Hardy and resilient, you gain the following benefits:
 
 - Increase your Constitution score by 1, to a maximum of 20.
 - When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
 
-## Elemental Adept[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D11&uselang=en "Sign in to edit")
-
+## Elemental Adept
 _Prerequisite: The ability to cast at least one spell_
 
 When you gain this feat, choose one of the following damage types: acid, cold, fire, lightning, or thunder. Spells you cast ignore resistance to damage of the chosen type. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2.
 
 You can select this feat multiple times. Each time you do so, you must choose a different damage type.
 
-## Grappler[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D12&uselang=en "Sign in to edit")
-
+## Grappler
 _Prerequisite: Strength 13 or higher_
 
 You've developed the skills necessary to hold your own in close-quarters grappling. You gain the following benefits:
@@ -85,22 +74,19 @@ You've developed the skills necessary to hold your own in close-quarters grappli
 - You have advantage on attack rolls against a creature you are grappling.
 - You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
 
-## Great Weapon Master[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D13&uselang=en "Sign in to edit")
-
+## Great Weapon Master
 You've learned to put the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits:
 
 - On your turn, when you score a critical hit with a melee weapon or reduce a creature to 0 hit points with one, you can make one melee weapon attack as a bonus action.
 - Before you make a melee attack with a heavy weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.
 
-## Healer[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D14&uselang=en "Sign in to edit")
-
+## Healer
 You are an able physician, allowing you to mend wounds quickly and get your allies back in the fight. You gain the following benefits:
 
 - When you use a healer's kit to stabilize a dying creature, that creature also regains 1 hit point.
 - As an action, you can spend one use of a healer's kit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature's maximum number of hit dice. The creature can't regain hit points from this feat again until it finishes a short or long rest.
 
-## Heavily Armored[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D15&uselang=en "Sign in to edit")
-
+## Heavily Armored
 _Prerequisite: Proficiency with medium armor_
 
 You have trained to master the use of heavy armor, gaining the following benefits:
@@ -108,8 +94,7 @@ You have trained to master the use of heavy armor, gaining the following benefit
 - Increase your Strength score by 1, to a maximum of 20.
 - You gain proficiency with heavy armor.
 
-## Heavy Armor Master[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D16&uselang=en "Sign in to edit")
-
+## Heavy Armor Master
 _Prerequisite: Proficiency with heavy armor_
 
 You can use your armor to deflect strikes that would kill others. You gain the following benefits:
