@@ -214,12 +214,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "HedgeWizard1.md",
+                    "file": "EagerWave.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "HedgeWizard1"
+                  "title": "EagerWave"
                 }
               },
               {
@@ -242,12 +242,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "HedgeWizard2.md",
+                    "file": "Rhig.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "HedgeWizard2"
+                  "title": "Rhig"
                 }
               },
               {
@@ -307,31 +307,17 @@
                 }
               },
               {
-                "id": "a67d190887dc73f3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "conflict-files-obsidian-git.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "conflict-files-obsidian-git"
-                }
-              },
-              {
                 "id": "623f6409f3ec9016",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Kenku.md",
+                    "file": "Rhig.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Kenku"
+                  "title": "Rhig"
                 }
               },
               {
@@ -556,9 +542,37 @@
               "icon": "lucide-file",
               "title": "Orc"
             }
+          },
+          {
+            "id": "048d64d3f13aa063",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aarakocra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aarakocra"
+            }
+          },
+          {
+            "id": "1f2e32596f859ef6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/sage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sage"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -707,34 +721,34 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "a67d190887dc73f3",
+  "active": "1f2e32596f859ef6",
   "lastOpenFiles": [
-    "GrapplersCreek.md",
+    "Rhig.md",
+    "rules/sage.md",
+    "secrets/npcs.md",
+    "Aarakocra.md",
+    "Orc.md",
+    "EagerWave.md",
+    "Kenku.md",
+    "Bandits.md",
+    "UndergroundThree.md",
+    "Tabaxi.md",
     "conflict-files-obsidian-git.md",
+    "GrapplersCreek.md",
     "CircleofHealingArts.md",
     "ThePrisoner.md",
     "LadyHammerkeep.md",
     "HedgeWizard3.md",
-    "HedgeWizard2.md",
     "QueenoftheWoods.md",
-    "HedgeWizard1.md",
     "HobgoblinAdviser.md",
     "WardenofHammerkeep.md",
     "GoblinTransportGuilds.md",
     "Hakonaga.md",
-    "Orc.md",
     "Haicong.md",
     "GarettonForest.md",
     "Garetton.md",
     "Hammerkeep.md",
     "Goblin.md",
-    "species.md",
-    "rules/sailingship.md",
-    "Hammersford.md",
-    "Hammerford.md",
-    "Fighter.md",
-    "Vecna.md",
-    "Tharizdun.md",
     "images/map-nuoro.png",
     "images",
     "places",
