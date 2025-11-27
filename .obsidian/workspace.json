@@ -312,12 +312,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "TwinWoods.md",
+                    "file": "rules/priest.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "TwinWoods"
+                  "title": "priest"
                 }
               }
             ],
@@ -549,12 +549,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BidrithCrecur.md",
+                "file": "Hammerkeep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BidrithCrecur"
+              "title": "Hammerkeep"
             }
           }
         ],
@@ -709,17 +709,24 @@
   },
   "active": "1f2e32596f859ef6",
   "lastOpenFiles": [
-    "LorStalk.md",
+    "rules/priest.md",
+    "TwinWoods.md",
+    "Hammerkeep.md",
+    "CircleofHealingArts.md",
+    "Chult.md",
+    "Chokewoods.md",
+    "Blackstone.md",
+    "BloodstoneHall.md",
     "BidrithCrecur.md",
+    "rules/noble.md",
+    "LorStalk.md",
     "gods.md",
     "Sehanine.md",
     "Luxon.md",
-    "Hammerkeep.md",
     "Erathis.md",
     "Gruumsh.md",
     "Melora.md",
     "Ioun.md",
-    "TwinWoods.md",
     "ThePrisoner.md",
     "QueenoftheWoods.md",
     "secrets/npcs.md",
@@ -728,13 +735,6 @@
     "WardenofHammerkeep.md",
     "Umizu.md",
     "GrapplersCreek.md",
-    "Atagua.md",
-    "AkharinSangar.md",
-    "places.md",
-    "RioraRunninggoat.md",
-    "rules/sage.md",
-    "Rhig.md",
-    "EagerWave.md",
     "images/map-nuoro.png",
     "images",
     "places",

@@ -29,8 +29,7 @@ _**Mace.** Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 5 (1d6 + 2) Bludgeoning da
 _**Radiant Flame.** Ranged Attack Roll:_ +4, range 60 ft. _Hit:_ 7 (2d6) Radiant damage.
 
 _**Spellcasting.**_ The priest casts one of the following spells, using Wisdom as the spellcasting ability:
-
-**At Will:** [Light](https://www.dndbeyond.com/spells/2618996-light), [Thaumaturgy](https://www.dndbeyond.com/spells/2619174-thaumaturgy)
+* ***At Will:** [Light](https://www.dndbeyond.com/spells/2618996-light), [Thaumaturgy](https://www.dndbeyond.com/spells/2619174-thaumaturgy)
 
 ## Bonus Actions
 
