@@ -11,7 +11,7 @@ At the city's docks along with bigger transports for heading to greater [Rundan]
 
 The Keep itself is on higher ground on the south edge of the city. It's made of dark stone and the wind howls through it. You can see it from everywhere in town.
 
-Along with [Lady Hammerkeep](LadyHammerkeep.md) the [Imperial Warden](WardenofHammerkeep.md) is stationed here, making sure the king's trees and wildlife aren't taken by poachers, and keeping paths safe for Empire. Officially at least. The truth is that the warden's patrols follow very well-worn and predictable paths through the Woods, since leaving them makes for dead rangers.
+Along with [Lady Hammerkeep](BidrithCrecur.md) the [Imperial Warden](WardenofHammerkeep.md) is stationed here, making sure the king's trees and wildlife aren't taken by poachers, and keeping paths safe for Empire. Officially at least. The truth is that the warden's patrols follow very well-worn and predictable paths through the Woods, since leaving them makes for dead rangers.
 ## Circle of Healing
 
 

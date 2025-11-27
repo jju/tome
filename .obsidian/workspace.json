@@ -228,12 +228,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "LadyHammerkeep.md",
+                    "file": "BidrithCrecur.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "LadyHammerkeep"
+                  "title": "BidrithCrecur"
                 }
               },
               {
@@ -256,12 +256,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "LadyHammerkeep.md",
+                    "file": "BidrithCrecur.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "LadyHammerkeep"
+                  "title": "BidrithCrecur"
                 }
               },
               {
@@ -549,12 +549,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HobgoblinAdviser.md",
+                "file": "BidrithCrecur.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HobgoblinAdviser"
+              "title": "BidrithCrecur"
             }
           }
         ],
@@ -709,10 +709,13 @@
   },
   "active": "1f2e32596f859ef6",
   "lastOpenFiles": [
+    "LorStalk.md",
+    "BidrithCrecur.md",
+    "gods.md",
+    "Sehanine.md",
     "Luxon.md",
     "Hammerkeep.md",
     "Erathis.md",
-    "gods.md",
     "Gruumsh.md",
     "Melora.md",
     "Ioun.md",
@@ -732,9 +735,6 @@
     "rules/sage.md",
     "Rhig.md",
     "EagerWave.md",
-    "Kenku.md",
-    "Aarakocra.md",
-    "Orc.md",
     "images/map-nuoro.png",
     "images",
     "places",

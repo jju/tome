@@ -18,7 +18,8 @@ The circle of Prime Deities includes the leaders and luminary creatures that bat
 | Pelor                            | NG        | Healing, sun                  | Life, Light, Nature      | Bright, eight-pointed star                                    |
 | Raei                             | NG        | Atonement, compassion         | Life, Light              | Humanoid, feminine phoenix                                    |
 | [The Raven Queen](RavenQueen.md) | LN        | Death, fate, winter           | Death, Grave             | White, humanoid mask framed in black feathers                 |
-| Sehanine                         | CG        | Illusion, moonlight, night    | Arcana, Nature, Trickery | Crescent moon turned upward, strung like a bow                |
+| [Sehanine](Sehanine.md)          | CG        | Illusion, moonlight, night    | Arcana, Nature, Trickery | Crescent moon turned upward, strung like a bow                |
+
 
 ### Betrayer Gods
 
