@@ -1,6 +1,6 @@
 # Raei, the Everlight
 
-Raei spreads the message of understanding and optimism in dark places. She has been betrayed by the other gods (Lord of the Nine Hells), and neglected by most theologians but her followers have been a voice of reason and empathy in cynical times.
+Raei spreads the message of understanding and optimism in dark places. She has been betrayed by the other gods (Asmodeus, Lord of the Nine Hells), and neglected by most theologians but her followers have been a voice of reason and empathy in cynical times.
 
 She is represented as a darkskinned humanoid female with light hair and bright wings.
 
