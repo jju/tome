@@ -37,12 +37,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "towns.md",
+                    "file": "rules/commoner.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "towns"
+                  "title": "commoner"
                 }
               }
             ]
@@ -219,9 +219,13 @@
   },
   "active": "1e94059322fd0c8a",
   "lastOpenFiles": [
-    "BreckenDirtbone.md",
+    "rules/commoner.md",
+    "rules/guard.md",
+    "rules/scout.md",
+    "rules/noble.md",
     "towns.md",
     "Oakhurst.md",
+    "BreckenDirtbone.md",
     "factions.md",
     "cities.md",
     "GoldenDragons.md",

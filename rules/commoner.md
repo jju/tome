@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-=======
+
 # Commoner
->>>>>>> parent of 67f6d18 (vault backup: 2025-11-28 06:57:51)
+
 [Commoner](https://www.dndbeyond.com/monsters/5194951-commoner)
 
 Medium Humanoid, Neutral
