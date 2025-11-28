@@ -1,3 +1,4 @@
+# Priest Acolyte
 [Priest Acolyte](https://www.dndbeyond.com/monsters/5195169-priest-acolyte)
 
 Medium Or Small Humanoid (Cleric), Neutral
@@ -29,9 +30,51 @@ _**Mace.** Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 5 (1d6 + 2) Bludgeoning da
 _**Radiant Flame.** Ranged Attack Roll:_ +4, range 60 ft. _Hit:_ 7 (2d6) Radiant damage.
 
 _**Spellcasting.**_ The priest casts one of the following spells, using Wisdom as the spellcasting ability:
-
-**At Will:** [Light](https://www.dndbeyond.com/spells/2618996-light), [Thaumaturgy](https://www.dndbeyond.com/spells/2619174-thaumaturgy)
+* ***At Will:** [Light](https://www.dndbeyond.com/spells/2618996-light), [Thaumaturgy](https://www.dndbeyond.com/spells/2619174-thaumaturgy)
 
 ## Bonus Actions
 
 _**Divine Aid (1/Day).**_ The priest casts [Bless](https://www.dndbeyond.com/spells/2618933-bless), [Healing Word](https://www.dndbeyond.com/spells/2619143-healing-word), or [Sanctuary](https://www.dndbeyond.com/spells/2619003-sanctuary), using the same spellcasting ability as Spellcasting.
+
+# Priest
+[Priest](https://www.dndbeyond.com/monsters/5195170-priest)
+
+Medium Or Small Humanoid (Cleric), Neutral
+AC 13    Initiative +0 (10)
+HP 38 (7d8 + 7)
+Speed 30 ft.
+
+|     |     | Mod | Save |
+| --- | --- | --- | ---- |
+| STR | 16  | +3  | +3   |
+| DEX | 10  | +0  | +0   |
+| CON | 12  | +1  | +1   |
+
+|     |     | Mod | Save |
+| --- | --- | --- | ---- |
+| INT | 13  | +1  | +1   |
+| WIS | 16  | +3  | +3   |
+| CHA | 13  | +1  | +1   |
+
+**Skills** [Medicine](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +7, [Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +5, [Religion](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +5
+**Gear** [Chain Shirt](https://www.dndbeyond.com/equipment/12-chain-shirt), [Holy Symbol](https://www.dndbeyond.com/equipment/514-holy-symbol), [Mace](https://www.dndbeyond.com/equipment/11-mace)
+**Senses** Passive Perception 15
+**Languages** Common plus one other language
+**CR** 2 (XP 450; PB +2)
+
+## Actions
+
+_**Multiattack.**_ The priest makes two attacks, using Mace or Radiant Flame in any combination.
+
+_**Mace.** Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 6 (1d6 + 3) Bludgeoning damage plus 5 (2d4) Radiant damage.
+
+_**Radiant Flame.** Ranged Attack Roll:_ +5, range 60 ft. _Hit:_ 11 (2d10) Radiant damage.
+
+_**Spellcasting.**_ The priest casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 13):
+
+* ***At Will:** [Light](https://www.dndbeyond.com/spells/2618996-light), [Thaumaturgy](https://www.dndbeyond.com/spells/2619174-thaumaturgy)  
+* **1/Day:** [Spirit Guardians](https://www.dndbeyond.com/spells/2619078-spirit-guardians)
+
+## Bonus Actions
+
+_**Divine Aid (3/Day).**_ The priest casts [Bless](https://www.dndbeyond.com/spells/2618933-bless), [Dispel Magic](https://www.dndbeyond.com/spells/2619103-dispel-magic), [Healing Word](https://www.dndbeyond.com/spells/2619143-healing-word), or [Lesser Restoration](https://www.dndbeyond.com/spells/2619016-lesser-restoration), using the same spellcasting ability as Spellcasting.
