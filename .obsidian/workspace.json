@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BreckenDirtbone.md",
+                "file": "Oakhurst.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BreckenDirtbone"
+              "title": "Oakhurst"
             }
           }
         ]
@@ -37,12 +37,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "cities.md",
+                    "file": "towns.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "cities"
+                  "title": "towns"
                 }
               }
             ]
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BreckenDirtbone.md",
+                "file": "Oakhurst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for BreckenDirtbone"
+              "title": "Backlinks for Oakhurst"
             }
           },
           {
@@ -160,12 +160,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BreckenDirtbone.md",
+                "file": "Oakhurst.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from BreckenDirtbone"
+              "title": "Outgoing links from Oakhurst"
             }
           },
           {
@@ -189,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BreckenDirtbone.md",
+                "file": "Oakhurst.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of BreckenDirtbone"
+              "title": "Outline of Oakhurst"
             }
           }
         ]
@@ -219,10 +219,12 @@
   },
   "active": "1e94059322fd0c8a",
   "lastOpenFiles": [
-    "factions.md",
-    "GoldenDragons.md",
     "BreckenDirtbone.md",
+    "towns.md",
+    "Oakhurst.md",
+    "factions.md",
     "cities.md",
+    "GoldenDragons.md",
     "gods.md",
     "Luxon.md",
     "Hammerkeep.md"
