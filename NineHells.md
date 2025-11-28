@@ -43,25 +43,39 @@ Abriymoch is the seat of power for the two arch-devils who rule Phlegethos in ta
 
 **Stygia.** The fifth layer of the Nine Hells is a freezing realm of ice within which cold flames burn. A frozen sea surrounds the layer, and its gloomy sky crackles with lightning.
 Archduke Levistus once betrayed Asmodeus and is now encased deep in the ice of Stygia as punish-ment. He rules this layer all the same, communicating telepathically with his followers and servants, both in the Nine Hells and on the Material Plane.
+
 Stygia is also home to its previous ruler, the serpentine archdevil Geryon, who was dismissed by Asmodeus to allow the imprisoned Levistus to regain his rule. Geryon's fall from grace has spurred much debate within the infernal courts. No one is certain whether Asmodeus had some secret cause to dismiss the archdevil or whether he is testing Gery-on's allegiance for some greater purpose.
-Malbolge. Malbolge, the sixth layer, has outlasted many rulers, among them Malagard the Hag Countess and the archdevil Moloch. Malagard fell out of favor and was struck down by Asmodeus in a fit of pique, while her predecessor, Moloch, still lingers somewhere on the sixth layer as an imp, plotting to regain Asmodeus's favor. Malbolge is a seemingly endless slope, like the sides of an impossibly huge mountain. Parts of the layer break off from time to time, creating deadly, booming avalanches. The inhabitants of Malbolge live in crumbling fortresses and great caves carved into the mountainside.
+
+**Malbolge.** Malbolge, the sixth layer, has outlasted many rulers, among them Malagard the Hag Countess and the archdevil Moloch. Malagard fell out of favor and was struck down by Asmodeus in a fit of pique, while her predecessor, Moloch, still lingers somewhere on the sixth layer as an imp, plotting to regain Asmodeus's favor. Malbolge is a seemingly endless slope, like the sides of an impossibly huge mountain. Parts of the layer break off from time to time, creating deadly, booming avalanches. The inhabitants of Malbolge live in crumbling fortresses and great caves carved into the mountainside.
+
 Malbolge's current ruler is Asmodeus's daughter, Glasya. Her cruelty and love of wicked schemes rival those of her father. The citadel that serves as her domicile on the slopes of Malbolge, called Osseia, is supported by cracked pillars and buttresses that are sturdy yet seem on the verge of collapse. Beneath the palace is a labyrinth lined with cells and torture chambers, where Glasya confines and torments those who displease her.
-Maladomini. The seventh layer, Maladomini, is ruin-covered wasteland. Dead cities form a desolate urban landscape, and between them are empty quarries, crumbling roads, slag heaps, the hollow shells of empty fortresses, and swarms of hungry flies.
+
+**Maladomini.** The seventh layer, Maladomini, is ruin-covered wasteland. Dead cities form a desolate urban landscape, and between them are empty quarries, crumbling roads, slag heaps, the hollow shells of empty fortresses, and swarms of hungry flies.
+
 The archduke of Maladomini is Baalzebul, the Lord of Flies. He is a tall, powerful devil with the compound eyes of a fly. The archduke has long conspired to usurp Asmodeus, yet has failed at every turn. Asmodeus laid a curse on him that causes any deal made with him to lead to calamity. Asmodeus occasionally shows Baalzebul favor for reasons no other archduke can fathom, though some suspect that Asmodeus still respects the worthiness of this adversary.
-Cania. Cania, the eighth layer of the Nine Hells, is a frozen hellscape whose ice storms can tear flesh from bone. Cities embedded in the ice provide shelter for guests and prisoners of Cania's ruler, the brilliant and conniving archdevil Mephistopheles.
+
+**Cania.** Cania, the eighth layer of the Nine Hells, is a frozen hellscape whose ice storms can tear flesh from bone. Cities embedded in the ice provide shelter for guests and prisoners of Cania's ruler, the brilliant and conniving archdevil Mephistopheles.
+
 Mephistopheles dwells in the ice citadel of Mephistar, where he plots to seize the throne of the Nine Hells and conquer all the planes. He is Asmo-deus's greatest enemy and ally, and the archduke of Nessus appears to trust Mephistopheles's counsel.
+
 Mephistopheles knows he can't depose Asmodeus until his adversary makes a fatal miscalculation, and so both wait to discover what circumstances might turn them against each other. Mephistopheles is also a godfather of sorts to Glasya, further complicating the relationship between Mephistopheles and Asmodeus.
+
 Mephistopheles is a tall, striking devil with impressive horns and a cool demeanor. He trades in souls, as do other archdevils, but he rarely gives his time to any creatures not worthy of his personal attention. It is said that only Asmodeus has ever deceived or thwarted him.
 
-Nessus. The lowest layer of the Nine Hells, Nessus is a realm of dark pits whose walls are set with bleak fortresses. There, pit fiend generals loyal to Asmodeus garrison their diabolical legions and plot the conquest of the multiverse. At the center of the layer stands a vast rift of unknown depth, out of which rises the great citadel-spire of Malsheem, home to Asmodeus and his infernal court.
+**Nessus.** The lowest layer of the Nine Hells, Nessus is a realm of dark pits whose walls are set with bleak fortresses. There, pit fiend generals loyal to Asmodeus garrison their diabolical legions and plot the conquest of the multiverse. At the center of the layer stands a vast rift of unknown depth, out of which rises the great citadel-spire of Malsheem, home to Asmodeus and his infernal court.
 Malsheem resembles a gigantic hollowed-out stalagmite. The citadel is also a prison for souls that Asmodeus has locked away for safekeeping.
-Convincing him to release even one of those souls comes at a steep price, and it is rumored that As-modeus has claimed whole kingdoms in the past in exchange for such favors.
-Asmodeus most often appears as a handsome, bearded man with four large horns, piercing red eyes, and flowing robes. He can also assume other forms and sometimes carries a ruby-tipped scepter.
-Asmodeus is the most cunning and well-mannered of archdevils. On the surface, he seems warm, pleas-ant, and lighthearted, doling out wisdom and small acts of kindness like a caring father. The ultimate evil he represents can be seen only when he wills it so, or if he forgets himself and flies into a rage.
 
-INFERNAL HIERARCHY
-The Nine Hells has a rigid hierarchy that defines every aspect of its society. Asmodeus is the supreme ruler of all devils and wields the power of a lesser god. Worshiped as such on the Material Plane, Asmodeus inspires evil cults and sinister War-locks. In the Nine Hells, he commands scores of pit fiend generals, which in turn command legions of subordinates.
+Convincing him to release even one of those souls comes at a steep price, and it is rumored that Asmodeus has claimed whole kingdoms in the past in exchange for such favors.
+
+Asmodeus most often appears as a handsome, bearded man with four large horns, piercing red eyes, and flowing robes. He can also assume other forms and sometimes carries a ruby-tipped scepter.
+
+Asmodeus is the most cunning and well-mannered of archdevils. On the surface, he seems warm, pleasant, and lighthearted, doling out wisdom and small acts of kindness like a caring father. The ultimate evil he represents can be seen only when he wills it so, or if he forgets himself and flies into a rage.
+
+## Infernal Hierarchy
+The Nine Hells has a rigid hierarchy that defines every aspect of its society. Asmodeus is the supreme ruler of all devils and wields the power of a lesser god. Worshiped as such on the Material Plane, Asmodeus inspires evil cults and sinister Warlocks. In the Nine Hells, he commands scores of pit fiend generals, which in turn command legions of subordinates.
+
 A supreme tyrant, a brilliant deceiver, and a master of subtlety, Asmodeus protects his throne by keeping his friends close and his enemies closer. He delegates most matters of rulership to the pit fiends and lesser archdevils that make up the infernal bureaucracy of the Nine Hells, even as he knows that those powerful devils conspire to usurp his throne.
+
 Asmodeus appoints archdevils, and he can strip any member of the infernal hierarchy of rank and status as he likes.
 
 INFERNAL HIERARCHY
@@ -82,13 +96,22 @@ Archdevils
 11. Chain devil
 12. Bone devil
 13. Archduke/archduchess
-Archdevils. The archdevils include all the current and deposed rulers of the Nine Hells, as well as the fiendish aristocrats that make up their courts, attend them as advisers, and hope to supplant them.
-Promotion and Demotion. When the soul of an evil mortal sinks into the Nine Hells, it takes on the physical form of a wretched lemure. Archdevils and greater devils can promote lemures to lesser devils.
-Archdevils can promote lesser devils to greater dev-ils, and Asmodeus alone can promote a greater devil to archdevil status. All diabolic promotions involve a brief, painful transformation, with the devills memories passing intact from one form to the next.
+
+**Archdevils.** The archdevils include all the current and deposed rulers of the Nine Hells, as well as the fiendish aristocrats that make up their courts, attend them as advisers, and hope to supplant them.
+
+**Promotion and Demotion.** When the soul of an evil mortal sinks into the Nine Hells, it takes on the physical form of a wretched lemure. Archdevils and greater devils can promote lemures to lesser devils.
+
+Archdevils can promote lesser devils to greater devils, and Asmodeus alone can promote a greater devil to archdevil status. All diabolic promotions involve a brief, painful transformation, with the devills memories passing intact from one form to the next.
+
 Low-level promotions are typically based on need, such as when a pit fiend transforms lemures into imps to gain stealthy spies under its command.
+
 High-level promotions are almost always based on merit, such as when a bone devil that distinguishes itself in battle is transformed into a horned devil by the archdevil it serves. A devil is seldom promoted more than one step at a time.
+
 Demotion is the customary punishment for failure or disobedience among the devils. Archdevils or greater devils can demote a lesser devil to a lemure. which loses all memory of its prior existence. An archdevil can demote a greater devil to lesser devil status, but the demoted devil retains its memories-and might seek vengeance if the severity of the demotion is excessive.
+
 No devil can promote or demote another devil that hasn't sworn fealty to it, preventing rival arch-devils from demoting each other's most powerful servants. Since all devils swear fealty to Asmodeus, he can freely demote any other devil, transforming it into whatever infernal form he desires.
-NINE HELLS ADVENTURES
+
+## Nine Hells Adventures
 The Nine Hells embodies the cruelty and corruption of law turned to evil ends. The devils of the Nine Hells are more cunning, more insidious, and far more dangerous than other Fiends. Their intel-ligence, their delight in deceit and manipulation, and their unhindered pursuit of their own agendas make them truly terrifying foes.
+
 A descent into the Nine Hells is a journey into the heart of evil. Every shred of evil is used in the Nine Hells, and each layer specializes in some way to accommodate and exploit the vices and weaknesses of mortals. Far too many people who make such a journey discover their own hearts aren't immune to temptation and corruption, and they end up making the Nine Hells their eternal home. To avoid such a fate, good-hearted adventurers must resist the insidious manipulation, deceit, and treachery of devils, even when the devils promise to fulfill their deepest longings.
