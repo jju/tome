@@ -172,9 +172,23 @@
                   "icon": "lucide-file",
                   "title": "Bahamut"
                 }
+              },
+              {
+                "id": "6204a49e23560c43",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Lolth.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Lolth"
+                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 5
           }
         ],
         "direction": "horizontal"
@@ -203,12 +217,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Croaklands.md",
+                "file": "Corellon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Croaklands"
+              "title": "Corellon"
             }
           },
           {
@@ -217,16 +231,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hammerkeep.md",
+                "file": "rules/priest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hammerkeep"
+              "title": "priest"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -375,8 +389,23 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "abcd5ffa5408af86",
+  "active": "6204a49e23560c43",
   "lastOpenFiles": [
+    "Corellon.md",
+    "Lolth.md",
+    "Bahamut.md",
+    "Gruumsh.md",
+    "gods.md",
+    "SimpleRhela.md",
+    "Orc.md",
+    "Orn.md",
+    "Croaklands.md",
+    "rules/priest.md",
+    "BreckenDirtbone.md",
+    "Hammerkeep.md",
+    "characters.md",
+    "rules/cleric.md",
+    "Cleric.md",
     "RavenQueen.md",
     "conflict-files-obsidian-git.md",
     "HobgoblinAdviser.md",
@@ -385,24 +414,9 @@
     "TwinWoods.md",
     "Tabaxi.md",
     "Snerpi.md",
-    "SimpleRhela.md",
     "Sehanine.md",
     "RioraRunninggoat.md",
     "Rhig.md",
-    "Melora.md",
-    "Luxon.md",
-    "LorStalk.md",
-    "Gruumsh.md",
-    "GrapplersCreek.md",
-    "Erathis.md",
-    "EagerWave.md",
-    "DalrigGravelmantle.md",
-    "BreckenDirtbone.md",
-    "BidrithCrecur.md",
-    "Aarakocra.md",
-    "Bahamut.md",
-    "Ioun.md",
-    "Eladrin.md",
     "images/map-nuoro.png",
     "images",
     "places",
