@@ -4,7 +4,7 @@ On a rickety barge, you carried a hundred longswords in fish barrels right past 
 - **Tool Proficiencies:** Vehicles (water)
 - **Equipment:** A fancy leather vest or a pair of leather boots, a set of common clothes, and a leather pouch with 15 gp
 
-### Claim to Fame[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FSmuggler%3Fveaction%3Dedit%26section%3D2&uselang=en "Sign in to edit")
+### Claim to Fame
 
 Every smuggler has that one tale that sets them apart from common criminals. By wits, sailing skill, or a silver tongue, you lived to tell the story — and you tell it often. You can roll on the following table to determine your claim or choose one that best fits your character.
 
@@ -17,15 +17,15 @@ Every smuggler has that one tale that sets them apart from common criminals. By 
 |5|**Gold-Hearted:** You agreed to transport a family escaping a war. The baby began to cry at a checkpoint, and you gave the guards all your gold to let you pass. The family never found out about this gesture.|
 |6|**Playing Both Sides:** You once smuggled crates of crossbow bolts and bundles of arrows, each destined for an opposing side in a regional war, at the same time. The buyers arrived within moments of each other but did not discover your trickery.|
 
-### Feature: Down Low[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FSmuggler%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit")
+### Feature: Down Low
 
 You are acquainted with a network of smugglers who are willing to help you out of tight situations. While in a particular town, city, or other similarly sized community (DM's discretion), you and your companions can stay for free in safe houses. Safe houses provide a poor lifestyle. While staying at a safe house, you can choose to keep your presence (and that of your companions) a secret.
 
-## Suggested Characteristics[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FSmuggler%3Fveaction%3Dedit%26section%3D4&uselang=en "Sign in to edit")
+## Suggested Characteristics
 
 In general, smugglers value survival, and then profit, above other things. One could be a part of a larger organization, or might run a small smuggling vessel of their own. Smugglers live the lies they have told, and they have a natural ability to recall all the falsehoods and half-truths they have ever spouted.
 
-### Personality Traits[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FSmuggler%3Fveaction%3Dedit%26section%3D5&uselang=en "Sign in to edit")
+### Personality Traits
 
 - I love being on the water but hate fishing.
 - I think of everything in terms of monetary value.
@@ -36,7 +36,7 @@ In general, smugglers value survival, and then profit, above other things. One c
 - I become wistful when I see the sun rise over the ocean.
 - I am no common criminal; I am a mastermind.
 
-### Ideals[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FSmuggler%3Fveaction%3Dedit%26section%3D6&uselang=en "Sign in to edit")
+### Ideals
 
 - Wealth: Heaps of coins in a secure vault is all I dream of. (Any)
 - Smuggler's Code: I uphold the unwritten rules of the smugglers, who do not cheat one another or directly harm innocents. (Lawful)
@@ -45,7 +45,7 @@ In general, smugglers value survival, and then profit, above other things. One c
 - People: For all my many lies, I place a high value on friendship. (Any)
 - Daring: I am most happy when risking everything. (Any)
 
-### Bonds[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FSmuggler%3Fveaction%3Dedit%26section%3D7&uselang=en "Sign in to edit")
+### Bonds
 
 - My vessel was stolen from me, and I burn with the desire to recover it.
 - I intend to become the leader of the network of smugglers that I belong to.
@@ -54,7 +54,7 @@ In general, smugglers value survival, and then profit, above other things. One c
 - I was tricked by a fellow smuggler who stole something precious from me. I will find that thief.
 - I give most of my profits to a charitable cause, and I don't like to brag about it.
 
-### Flaws[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FSmuggler%3Fveaction%3Dedit%26section%3D8&uselang=en "Sign in to edit")
+### Flaws
 
 - Lying is reflexive, and I sometimes engage in it without realizing.
 - I tend to assess my relationships in terms of profit and loss.

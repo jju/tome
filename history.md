@@ -2,7 +2,9 @@
 
 ## The Last Ten Years
 
-[Nuoro](Nuoro.md) is a fragmented land. [Rundan](Rundan.md) rules the east, [Ikizh](Ikizh.md) the southwest with [Dracolathe](Dracolathe.md) and the vast forests in between. There've been more monster sightings than people remember their parents telling them about (or that the long-lived peoples remember). [Ikizh](Ikizh.md) had a very poor harvest the past three years and 
+[Nuoro](Nuoro.md) is a fragmented land. [Rundan](Rundan.md) rules the east, [Ikizh](Ikizh.md) the southwest with [Dracolathe](Dracolathe.md) and the vast forests in between. There've been more monster sightings than people remember their parents telling them about (or that the long-lived peoples remember). 
+
+[Ikizh](Ikizh.md) had a very poor harvest the past three years and it's meant food supplies going up to [Dracolathe](Dracolathe.md) have been less substantial than the [Dragonborn](Dragonborn.md) city really requires.
 
 ## The Last Fifty Years
 

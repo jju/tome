@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "history.md",
+                "file": "rules/ballista.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "history"
+              "title": "ballista"
+            }
+          },
+          {
+            "id": "b2f1bc6709911363",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/reborn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "reborn"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ce196e2f9001aae7",
@@ -44,8 +59,23 @@
                   "icon": "lucide-file",
                   "title": "npcs"
                 }
+              },
+              {
+                "id": "f1f44a7517f00e31",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "rules/shadar-kai.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "shadar-kai"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "f95a241c1a1d9096",
@@ -57,12 +87,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "OldZhaalumi.md",
+                    "file": "rules/rogue.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "OldZhaalumi"
+                  "title": "rogue"
                 }
               }
             ]
@@ -141,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "history.md",
+                "file": "rules/shadar-kai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for history"
+              "title": "Backlinks for shadar-kai"
             }
           },
           {
@@ -160,12 +190,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "history.md",
+                "file": "rules/shadar-kai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from history"
+              "title": "Outgoing links from shadar-kai"
             }
           },
           {
@@ -189,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "history.md",
+                "file": "rules/shadar-kai.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of history"
+              "title": "Outline of shadar-kai"
             }
           }
         ]
@@ -217,28 +247,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "1e94059322fd0c8a",
+  "active": "f1f44a7517f00e31",
   "lastOpenFiles": [
+    "rules/goblin.md",
+    "rules/harengon.md",
+    "secrets/hateswords.md",
+    "rules/rogue.md",
+    "rules/sahuagin.md",
+    "rules/reborn.md",
     "secrets/npcs.md",
+    "rules/bard.md",
+    "rules/aarakocra.md",
+    "OldZhaalumi.md",
+    "rules/ballista.md",
+    "rules/smuggler.md",
+    "history.md",
     "secrets/Rundan.md",
     "secrets/Alhoon.md",
     "secrets/index.md",
     "secrets/Kruthik.md",
     "secrets/world.md",
     "rules/commoner.md",
-    "OldZhaalumi.md",
-    "history.md",
     "Oakhurst.md",
     "factions.md",
     "rules/guard.md",
     "rules/scout.md",
     "rules/noble.md",
     "towns.md",
-    "BreckenDirtbone.md",
-    "cities.md",
-    "GoldenDragons.md",
-    "gods.md",
-    "Luxon.md",
-    "Hammerkeep.md"
+    "BreckenDirtbone.md"
   ]
 }

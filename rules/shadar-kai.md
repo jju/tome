@@ -1,4 +1,4 @@
-Shadar-kai are the elves of the Shadowfell, originally drawn to that dread realm by the Raven Queen. Over the centuries, some of them have continued to serve her, while others have ventured into the Material Plane to forge their own destinies.
+Shadar-kai are the elves of the Shadowfell, originally drawn to that dread realm by the [Raven Queen](RavenQueen.md). Over the centuries, some of them have continued to serve her, while others have ventured into the Material Plane to forge their own destinies.
 
 Once shadar-kai were Fey like the rest of their elven kin; now they exist in a state between life and death, thanks to being transformed by the Shadow-fell's grim energy.
 
