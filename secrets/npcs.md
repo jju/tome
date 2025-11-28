@@ -5,4 +5,5 @@
 * [EagerWave](EagerWave.md) - [warlockarchfey](warlockarchfey.md) Least powerful of the [UndergroundThree](UndergroundThree.md), reports to [BidrithCrecur](BidrithCrecur.md) 
 * [Rhig](Rhig.md) - [wizard](rules/wizard.md) member of the [UndergroundThree](UndergroundThree.md)
 * [RioraRunninggoat](RioraRunninggoat.md) - [sorcerer](rules/sorcerer.md) member of the [UndergroundThree](UndergroundThree.md)
+* [DalrigGravelmantle](DalrigGravelmantle.md) - member of the [OldZhaluumi](OldZhaluumi.md)
 * [QueenoftheWoods](QueenoftheWoods.md) - doesn't exist
