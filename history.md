@@ -2,7 +2,7 @@
 
 ## The Last Ten Years
 
-[Nuoro](Nuoro.md) is a fragmented land. [Rundan](Rundan.md) rules the east, [Ikizh](Ikizh.md) the southwest with [Dracolathe](Dracolathe.md) and the vast forests in between. There've been more monster sightings than people remember their parents telling them about (or that the long-lived peoples remember).
+[Nuoro](Nuoro.md) is a fragmented land. [Rundan](Rundan.md) rules the east, [Ikizh](Ikizh.md) the southwest with [Dracolathe](Dracolathe.md) and the vast forests in between. There've been more monster sightings than people remember their parents telling them about (or that the long-lived peoples remember). [Ikizh](Ikizh.md) had a very poor harvest the past three years and 
 
 ## The Last Fifty Years
 

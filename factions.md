@@ -1,5 +1,5 @@
 * [Golden Dragon Guard](GoldenDragons)
 * [Bandits](Bandits.md)
-* [OldZhaluumi](OldZhaluumi.md)
+* [OldZhaalumi](OldZhaalumi.md)
 * [DantagEmpire](DantagEmpire.md)
 * KoboldKin

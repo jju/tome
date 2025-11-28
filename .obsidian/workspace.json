@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oakhurst.md",
+                "file": "history.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oakhurst"
+              "title": "history"
             }
           }
         ]
@@ -37,12 +37,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/commoner.md",
+                    "file": "secrets/npcs.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "commoner"
+                  "title": "npcs"
                 }
               }
             ]
@@ -57,12 +57,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "factions.md",
+                    "file": "OldZhaalumi.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "factions"
+                  "title": "OldZhaalumi"
                 }
               }
             ]
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oakhurst.md",
+                "file": "history.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Oakhurst"
+              "title": "Backlinks for history"
             }
           },
           {
@@ -160,12 +160,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oakhurst.md",
+                "file": "history.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Oakhurst"
+              "title": "Outgoing links from history"
             }
           },
           {
@@ -189,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oakhurst.md",
+                "file": "history.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Oakhurst"
+              "title": "Outline of history"
             }
           }
         ]
@@ -219,14 +219,22 @@
   },
   "active": "1e94059322fd0c8a",
   "lastOpenFiles": [
+    "secrets/npcs.md",
+    "secrets/Rundan.md",
+    "secrets/Alhoon.md",
+    "secrets/index.md",
+    "secrets/Kruthik.md",
+    "secrets/world.md",
     "rules/commoner.md",
+    "OldZhaalumi.md",
+    "history.md",
+    "Oakhurst.md",
+    "factions.md",
     "rules/guard.md",
     "rules/scout.md",
     "rules/noble.md",
     "towns.md",
-    "Oakhurst.md",
     "BreckenDirtbone.md",
-    "factions.md",
     "cities.md",
     "GoldenDragons.md",
     "gods.md",
