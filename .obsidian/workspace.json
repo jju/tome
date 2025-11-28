@@ -172,9 +172,21 @@
                   "icon": "lucide-file",
                   "title": "Bahamut"
                 }
+              },
+              {
+                "id": "ae3501bc36799446",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.10.6"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.10.6"
+                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 5
           }
         ],
         "direction": "horizontal"
@@ -399,7 +411,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "ea8bc78741220360",
+  "active": "ae3501bc36799446",
   "lastOpenFiles": [
     "Ioun.md",
     "Bahamut.md",
