@@ -1,1 +1,0 @@
-Hateswords is a [reborn](reborn.md) [Goblin](Goblin.md) [Rogue](Rogue.md) who fancies themself a scholar.

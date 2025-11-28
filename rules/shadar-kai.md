@@ -1,10 +1,10 @@
-Shadar-kai are the elves of the Shadowfell, originally drawn to that dread realm by the [Raven Queen](RavenQueen.md). Over the centuries, some of them have continued to serve her, while others have ventured into the Material Plane to forge their own destinies.
+Shadar-kai are the elves of the [Shadowfell](Shadowfell.md), originally drawn to that dread realm by the [Raven Queen](RavenQueen.md). Over the centuries, some of them have continued to serve her, while others have ventured into the Material Plane to forge their own destinies.
 
-Once shadar-kai were Fey like the rest of their elven kin; now they exist in a state between life and death, thanks to being transformed by the Shadow-fell's grim energy.
+Once shadar-kai were Fey like the rest of their elven kin; now they exist in a state between life and death, thanks to being transformed by the Shadowfell's grim energy.
 
 Shadar-kai have ashen skin tones, and while they're in the Shadowfell, they also become wizened, reflecting the somber nature of that gloomy plane.
 
-Like other elves, shadar kai can live to be over 750 years old.
+Like other elves, shadar-kai can live to be over 750 years old.
 
 ## Shadar-Kai Traits
 

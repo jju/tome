@@ -1,6 +1,5 @@
 # Oakhurst
 Oakhurst is about a day's travel east of [Hammerkeep](Hammerkeep.md) along the south road. It's a village of about 900 people including the surrounding farms.
-
 ## Locations
 
 * Village Hall - centre of government including lord mayor ([noble](noble.md)) Vurnor Leng.

@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/ballista.md",
+                "file": "ArcanePurge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ballista"
+              "title": "ArcanePurge"
+            }
+          },
+          {
+            "id": "4cd7abecbc44cbd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HangmansLibrary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HangmansLibrary"
             }
           },
           {
@@ -36,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "ce196e2f9001aae7",
@@ -52,12 +66,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "secrets/npcs.md",
+                    "file": "Kobold.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "npcs"
+                  "title": "Kobold"
                 }
               },
               {
@@ -66,16 +80,15 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/shadar-kai.md",
+                    "file": "Kord.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "shadar-kai"
+                  "title": "Kord"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "f95a241c1a1d9096",
@@ -171,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rules/shadar-kai.md",
+                "file": "Kobold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for shadar-kai"
+              "title": "Backlinks for Kobold"
             }
           },
           {
@@ -190,12 +203,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rules/shadar-kai.md",
+                "file": "Kobold.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from shadar-kai"
+              "title": "Outgoing links from Kobold"
             }
           },
           {
@@ -219,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rules/shadar-kai.md",
+                "file": "Kobold.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of shadar-kai"
+              "title": "Outline of Kobold"
             }
           }
         ]
@@ -247,19 +260,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "f1f44a7517f00e31",
+  "active": "2b671f0df9863f2a",
   "lastOpenFiles": [
-    "rules/goblin.md",
+    "Urdl.md",
+    "secrets/npcs.md",
+    "rules/reborn.md",
+    "Kord.md",
+    "Oakhurst.md",
+    "hateswords.md",
+    "HangmansLibrary.md",
+    "ArcanePurge.md",
+    "rules/ballista.md",
     "rules/harengon.md",
-    "secrets/hateswords.md",
+    "rules/goblin.md",
+    "rules/shadar-kai.md",
     "rules/rogue.md",
     "rules/sahuagin.md",
-    "rules/reborn.md",
-    "secrets/npcs.md",
     "rules/bard.md",
     "rules/aarakocra.md",
     "OldZhaalumi.md",
-    "rules/ballista.md",
     "rules/smuggler.md",
     "history.md",
     "secrets/Rundan.md",
@@ -268,12 +287,6 @@
     "secrets/Kruthik.md",
     "secrets/world.md",
     "rules/commoner.md",
-    "Oakhurst.md",
-    "factions.md",
-    "rules/guard.md",
-    "rules/scout.md",
-    "rules/noble.md",
-    "towns.md",
-    "BreckenDirtbone.md"
+    "factions.md"
   ]
 }

@@ -10,3 +10,5 @@ The Day of Challenging is Kord's holy day often celebrated by a gladiatorial God
 * Bravery above all. There is no glory in cowardice.
 * Strength is the path to greatness, but greatness is the responsible use of strength.
 * The glory of the Storm Lord lives through your own glory on the battlefield.
+
+> [gods](gods.md)
