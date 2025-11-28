@@ -6,3 +6,6 @@ Perolmani gnome warlord employing dark magic alliances.
 
 Tomb of Horrors in [UzakHills](UzakHills.md)
 
+[Khundrukar](Khundrukar.md) is an old secret [Dwarf](Dwarf.md) stronghold in the [Grimteeth](Grimteeth.md) (30 miles from [Blasingdell](Blasingdell.md))
+
+

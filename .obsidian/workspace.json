@@ -108,12 +108,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "NineHells.md",
+                    "file": "secrets/world.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "NineHells"
+                  "title": "world"
                 }
               },
               {
@@ -143,12 +143,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/rogue.md",
+                    "file": "gods.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "rogue"
+                  "title": "gods"
                 }
               }
             ]
@@ -303,11 +303,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "6ce5c2fc14ae6144",
+  "active": "8029467d64b9f180",
   "lastOpenFiles": [
-    "Asmodeus.md",
-    "Blasingdell.md",
     "NineHells.md",
+    "Blasingdell.md",
+    "gods.md",
+    "rules/rogue.md",
+    "Asmodeus.md",
     "rules/reborn.md",
     "Abyss.md",
     "Kobold.md",
@@ -322,14 +324,12 @@
     "rules/harengon.md",
     "rules/goblin.md",
     "rules/shadar-kai.md",
-    "rules/rogue.md",
     "rules/sahuagin.md",
     "rules/bard.md",
     "rules/aarakocra.md",
     "OldZhaalumi.md",
     "rules/smuggler.md",
     "history.md",
-    "secrets/Rundan.md",
-    "secrets/Alhoon.md"
+    "secrets/Rundan.md"
   ]
 }
