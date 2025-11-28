@@ -312,11 +312,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/acolyte.md",
+                    "file": "rules/priest.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
+<<<<<<< HEAD
                   "title": "acolyte"
                 }
               },
@@ -332,10 +333,13 @@
                   },
                   "icon": "lucide-file",
                   "title": "npcs"
+=======
+                  "title": "priest"
+>>>>>>> parent of b8f0391 (vault backup: 2025-11-27 15:34:48)
                 }
               }
             ],
-            "currentTab": 22
+            "currentTab": 21
           },
           {
             "id": "088bada69a0d8019",
@@ -389,11 +393,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "cities.md",
+                    "file": "gods.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
+<<<<<<< HEAD
                   "title": "cities"
                 }
               },
@@ -413,6 +418,13 @@
               }
             ],
             "currentTab": 4
+=======
+                  "title": "gods"
+                }
+              }
+            ],
+            "currentTab": 3
+>>>>>>> parent of b8f0391 (vault backup: 2025-11-27 15:34:48)
           }
         ],
         "direction": "horizontal"
@@ -500,9 +512,25 @@
               "icon": "lucide-file",
               "title": "Hammerkeep"
             }
+          },
+          {
+            "id": "df1a098f8b47b910",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 4
+=======
+        "currentTab": 11
+>>>>>>> parent of b8f0391 (vault backup: 2025-11-27 15:34:48)
       }
     ],
     "direction": "vertical"
@@ -651,6 +679,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
+<<<<<<< HEAD
   "active": "edbfdbe8be34a5fa",
   "lastOpenFiles": [
     "rules/champion.md",
@@ -679,6 +708,36 @@
     "rules/acolyte.md",
     "rules/priest.md",
     "rules/guard.md",
+=======
+  "active": "df1a098f8b47b910",
+  "lastOpenFiles": [
+    "rules/priest.md",
+    "rules/guard.md",
+    "Hammerkeep.md",
+    "TwinWoods.md",
+    "CircleofHealingArts.md",
+    "Chult.md",
+    "Chokewoods.md",
+    "Blackstone.md",
+    "BloodstoneHall.md",
+    "BidrithCrecur.md",
+    "rules/noble.md",
+    "LorStalk.md",
+    "gods.md",
+    "Sehanine.md",
+    "Luxon.md",
+    "Erathis.md",
+    "Gruumsh.md",
+    "Melora.md",
+    "Ioun.md",
+    "ThePrisoner.md",
+    "QueenoftheWoods.md",
+    "secrets/npcs.md",
+    "rules/entertainer.md",
+    "rules/fartraveller.md",
+    "WardenofHammerkeep.md",
+    "Umizu.md",
+>>>>>>> parent of b8f0391 (vault backup: 2025-11-27 15:34:48)
     "images/map-nuoro.png",
     "images",
     "places",
