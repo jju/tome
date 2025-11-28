@@ -27,7 +27,7 @@ The Betrayer Gods are the deities who strayed from the ideals of the founding an
 
 | Deity                     | Alignment | Province                  | Suggested Domains               | Common Symbol                              |
 | ------------------------- | --------- | ------------------------- | ------------------------------- | ------------------------------------------ |
-| Asmodeus                  | LE        | God of the Nine Hells     | Trickery, War                   | Crown of spiked onyx and curved horns      |
+| [Asmodeus](Asmodeus.md)   | LE        | God of the Nine Hells     | Trickery, War                   | Crown of spiked onyx and curved horns      |
 | Bane                      | LE        | Conquest, tyranny         | Forge, Order, War               | Flail of chains, each ending in shackles   |
 | [Gruumsh](Gruumsh.md)     | CE        | Slaughter, warfare        | Death, Tempest, War             | Single, unblinking eye that bleeds         |
 | [Lolth](Lolth.md)         | CE        | Deceit, spiders           | Knowledge, Trickery             | Jeweled spider                             |
