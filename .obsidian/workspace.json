@@ -172,21 +172,9 @@
                   "icon": "lucide-file",
                   "title": "Bahamut"
                 }
-              },
-              {
-                "id": "ae3501bc36799446",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.10.6"
-                  },
-                  "icon": "lucide-book-up",
-                  "title": "Release Notes 1.10.6"
-                }
               }
             ],
-            "currentTab": 5
+            "currentTab": 4
           }
         ],
         "direction": "horizontal"
@@ -411,10 +399,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "ae3501bc36799446",
+  "active": "64fa5beaba15903b",
   "lastOpenFiles": [
-    "Ioun.md",
     "Bahamut.md",
+    "Ioun.md",
     "Eladrin.md",
     "HobgoblinAdviser.md",
     "HedgeWizard1.md",
