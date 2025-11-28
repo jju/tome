@@ -102,14 +102,12 @@ You can use your armor to deflect strikes that would kill others. You gain the f
 - Increase your Strength score by 1, to a maximum of 20.
 - While you are wearing heavy armor, bludgeoning, piercing, and slashing damage that you take from nonmagical attacks is reduced by 3.
 
-## Inspiring Leader[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D17&uselang=en "Sign in to edit")
-
+## Inspiring Leader
 _Prerequisite: Charisma 13 or higher_
 
 You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier. A creature can't gain temporary hit points from this feat again until it has finished a short or long rest.
 
-## Keen Mind[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D18&uselang=en "Sign in to edit")
-
+## Keen Mind
 You have a mind that can track time, direction, and detail with uncanny precision. You gain the following benefits:
 
 - Increase your Intelligence score by 1, to a maximum of 20.
@@ -117,23 +115,20 @@ You have a mind that can track time, direction, and detail with uncanny precisio
 - You always know the number of hours left before the next sunrise or sunset.
 - You can accurately recall anything you have seen or heard within the past month.
 
-## Lightly Armored[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D19&uselang=en "Sign in to edit")
-
+## Lightly Armored
 You have trained to master the use of light armor, gaining the following benefits:
 
 - Increase your Strength or Dexterity score by 1, to a maximum of 20.
 - You gain proficiency with light armor.
 
-## Linguist[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D20&uselang=en "Sign in to edit")
-
+## Linguist
 You have studied languages and codes, gaining the following benefits:
 
 - Increase your Intelligence score by 1, to a maximum of 20.
 - You learn three languages of your choice.
 - You can ably create written ciphers. Others can't decipher a code you create unless you teach them, they succeed on an Intelligence check (DC equal to your Intelligence score + your proficiency bonus), or they use magic to decipher it.
 
-## Lucky[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D21&uselang=en "Sign in to edit")
-
+## Lucky
 You have inexplicable luck that seems to kick in at just the right moment.
 
 You have 3 luck points. Whenever you make an attack roll, an ability check, or a saving throw, you can spend one luck point to roll an additional d20. You can choose to spend one of your luck points after you roll the die, but before the outcome is determined. You choose which of the d20s is used for the attack roll, ability check, or saving throw.
@@ -142,31 +137,27 @@ You can also spend one luck point when an attack roll is made against you. Roll 
 
 You regain your expended luck points when you finish a long rest.
 
-## Mage Slayer[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D22&uselang=en "Sign in to edit")
-
+## Mage Slayer
 You have practiced techniques useful in melee combat against spell casters, gaining the following benefits:
 
 - When a creature within 5 feet of you casts a spell, you can use your reaction to make a melee weapon attack against that creature.
 - When you damage a creature that is concentrating on a spell, that creature has disadvantage on the saving throw it makes to maintain its concentration.
 - You have advantage on saving throws against spells cast by creatures within 5 feet of you.
 
-## Magic Initiate[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D23&uselang=en "Sign in to edit")
-
+## Magic Initiate
 Choose a class: [bard](https://dnd-5e.fandom.com/wiki/Bard_Spells "Bard Spells"), [cleric](https://dnd-5e.fandom.com/wiki/Cleric_Spells "Cleric Spells"), [druid](https://dnd-5e.fandom.com/wiki/Druid_Spells "Druid Spells"), [sorcerer](https://dnd-5e.fandom.com/wiki/Sorcerer_Spells "Sorcerer Spells"), [warlock](https://dnd-5e.fandom.com/wiki/Warlock_Spells "Warlock Spells"), or [wizard](https://dnd-5e.fandom.com/wiki/Wizard_Spells "Wizard Spells"). You learn two cantrips of your choice from that class's spell list.
 
 In addition, choose one 1st-level spell from that same list. You learn that spell and, using this feat, can cast it at its lowest level. Once you cast it in this way, you must finish a long rest before you can cast it in this way again.
 
 Your spellcasting ability for these spells depends on the class you chose: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
 
-## Martial Adept[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D24&uselang=en "Sign in to edit")
-
+## Martial Adept
 You have martial training that allows you to perform special combat maneuvers. You gain the following benefits:
 
 - You learn two [maneuvers](https://dnd-5e.fandom.com/wiki/Fighter#Maneuvers "Fighter") of your choice from among those available to the [Battle Master](https://dnd-5e.fandom.com/wiki/Fighter#Battle_Master "Fighter") archetype in the Fighter class. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
 - You gain one [superiority die](https://dnd-5e.fandom.com/wiki/Fighter#Superiority_Dice "Fighter"), which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
 
-## Medium Armor Master[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D25&uselang=en "Sign in to edit")
-
+## Medium Armor Master
 _Prerequisite: Proficiency with medium armor_
 
 You have practiced moving in medium armor to gain the following benefits:
@@ -174,16 +165,14 @@ You have practiced moving in medium armor to gain the following benefits:
 - Wearing medium armor doesn't impose disadvantage on your Dexterity (Stealth) checks.
 - When you wear medium armor, you can add 3, rather than 2, to your AC if you have a Dexterity of 16 or higher.
 
-## Mobile[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D26&uselang=en "Sign in to edit")
-
+## Mobile
 You are exceptionally speedy and agile. You gain the following benefits:
 
 - Your speed increases by 10 feet.
 - When you use the Dash action, difficult terrain doesn't cost you extra movement on that turn.
 - When you make a melee attack against a creature, you don't provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.
 
-## Moderately Armored[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D27&uselang=en "Sign in to edit")
-
+## Moderately Armored
 _Prerequisite: Proficiency with light armor_
 
 You have trained to master the use of medium armor and shields, gaining the following benefits:
@@ -191,38 +180,33 @@ You have trained to master the use of medium armor and shields, gaining the foll
 - Increase your Strength or Dexterity score by 1, to a maximum of 20.
 - You gain proficiency with medium armor and shields.
 
-## Mounted Combatant[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D28&uselang=en "Sign in to edit")
-
+## Mounted Combatant
 You are a dangerous foe to face while mounted. While you are mounted and aren't incapacitated, you gain the following benefits:
 
 - You have advantage on melee attack rolls against any unmounted creature that is smaller than your mount.
 - You can force an attack targeted at your mount to target you instead.
 - If your mount is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 
-## Observant[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D29&uselang=en "Sign in to edit")
-
+## Observant
 Quick to notice details of your environment, you gain the following benefits:
 
 - Increase your Intelligence or Wisdom score by 1, to a maximum of 20.
 - If you can see a creature's mouth while it is speaking a language you understand, you can interpret what it's saying by reading its lips.
 - You have a +5 bonus to your passive Perception and Investigation scores.
 
-## Polearm Master[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D30&uselang=en "Sign in to edit")
-
+## Polearm Master
 You can keep your enemies at bay with reach weapons. You gain the following benefits:
 
 - When you take the Attack action and attack with only a glaive, halberd, quarterstaff or spear, you can use a bonus action to make a melee attack with the opposite end of the weapon. The weapon's damage die for this attack is a d4, and the attack deals bludgeoning damage. This attack uses the same ability modifier as the primary attack.
 - While you are wielding a glaive, halberd, pike, quarterstaff or spear, other creatures provoke an opportunity attack from you when they enter the reach you have with that weapon.
 
-## Resilient[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D31&uselang=en "Sign in to edit")
-
+## Resilient
 Choose one ability score. You gain the following benefits:
 
 - Increase the chosen ability score by 1, to a maximum of 20.
 - You gain proficiency in saving throws using the chosen ability.
 
-## Ritual Caster[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D32&uselang=en "Sign in to edit")
-
+## Ritual Caster
 _Prerequisite: Intelligence or Wisdom 13 or higher_
 
 You have learned a number of spells that you can cast as rituals. These spells are written in a ritual book, which you must have in hand while casting one of them.
@@ -231,40 +215,34 @@ When you choose this feat, you acquire a ritual book holding two 1st-level spell
 
 If you come across a spell in written form, such as a magical spell scroll or a wizard's spellbook, you might be able to add it to your ritual book. The spell must be on the spell list for the class you chose, the spell's level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.
 
-## Savage Attacker[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D33&uselang=en "Sign in to edit")
-
+## Savage Attacker
 Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon's damage dice and use either total.
 
-## Sentinel[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D34&uselang=en "Sign in to edit")
-
+## Sentinel
 You have mastered techniques to take advantage of every drop in any enemy's guard, gaining the following benefits:
 
 - When you hit a creature with an opportunity attack, the creature's speed becomes 0 for the rest of the turn.
 - Creatures provoke opportunity attacks from you even if they take the Disengage action before leaving your reach.
 - When a creature within 5 feet of you makes an attack against a target other than you (and that target doesn't have this feat), you can use your reaction to make a melee weapon attack against the attacking creature.
 
-## Sharpshooter[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D35&uselang=en "Sign in to edit")
-
+## Sharpshooter
 You have mastered ranged weapons and can make shots that others find impossible. You gain the following benefits:
 
 - Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.
 - Your ranged weapon attacks ignore half cover and three-quarters cover.
 - Before you make an attack with a ranged weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.
 
-## Shield Master[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D36&uselang=en "Sign in to edit")
-
+## Shield Master
 You use shields not just for protection but also for offense. You gain the following benefits while you are wielding a shield:
 
 - If you take the Attack action on your turn, you can use a bonus action to try to shove a creature within 5 feet of you with your shield.
 - If you aren't incapacitated, you can add your shield's AC bonus to any Dexterity saving throw you make against a spell or other harmful effect that targets only you.
 - If you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can use your reaction to take no damage if you succeed on the saving throw, interposing your shield between yourself and the source of the effect.
 
-## Skilled[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D37&uselang=en "Sign in to edit")
-
+## Skilled
 You gain proficiency in any combination of 3 [skills](https://dnd-5e.fandom.com/wiki/Skills "Skills") or [tools](https://dnd-5e.fandom.com/wiki/Tools "Tools") of your choice.
 
-## Skulker[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D38&uselang=en "Sign in to edit")
-
+## Skulker
 _Prerequisite: Dexterity 13 or higher_
 
 You are expert at slinking through shadows. You gain the following benefits:
@@ -273,8 +251,7 @@ You are expert at slinking through shadows. You gain the following benefits:
 - When you are hidden from a creature and miss it with a ranged weapon attack, making the attack doesn't reveal your position.
 - Dim light doesn't impose disadvantage on your Perception checks relying on sight.
 
-## Spell Sniper[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D39&uselang=en "Sign in to edit")
-
+## Spell Sniper
 _Prerequisite: The ability to cast at least one spell_
 
 You have learned techniques to enhance your attacks with certain kinds of spells, gaining the following benefits:
@@ -283,8 +260,7 @@ You have learned techniques to enhance your attacks with certain kinds of spells
 - Your ranged spell attacks ignore half cover and three-quarters cover.
 - You learn one cantrip that requires an attack roll. Choose the cantrip from the [bard](https://dnd-5e.fandom.com/wiki/Bard_Spells "Bard Spells"), [cleric](https://dnd-5e.fandom.com/wiki/Cleric_Spells "Cleric Spells"), [druid](https://dnd-5e.fandom.com/wiki/Druid_Spells "Druid Spells"), [sorcerer](https://dnd-5e.fandom.com/wiki/Sorcerer_Spells "Sorcerer Spells"), [warlock](https://dnd-5e.fandom.com/wiki/Warlock_Spells "Warlock Spells"), or [wizard](https://dnd-5e.fandom.com/wiki/Wizard_Spells "Wizard Spells") spell list. Your spellcasting ability for this cantrip depends on the spell list you choose from: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.
 
-## Tavern Brawler[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D40&uselang=en "Sign in to edit")
-
+## Tavern Brawler
 Accustomed to rough-and-tumble fighting using whatever weapons happen to be at hand, you gain the following benefits:
 
 - Increase your Strength or Constitution score by 1, to a maximum of 20.
@@ -292,12 +268,10 @@ Accustomed to rough-and-tumble fighting using whatever weapons happen to be at h
 - Your unarmed strikes use a d4 for damage.
 - When you hit a creature with an unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target. A grapple check is a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check.
 
-## Tough[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D41&uselang=en "Sign in to edit")
-
+## Tough
 Your hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points.
 
-## War Caster[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D42&uselang=en "Sign in to edit")
-
+## War Caster
 _Prerequisite: The ability to cast at least one spell_
 
 You have practiced casting spells in the midst of combat, learning techniques that grant you the following benefits:
@@ -306,17 +280,15 @@ You have practiced casting spells in the midst of combat, learning techniques th
 - You can perform the somatic components of spells even when you have weapons or a shield in one or both hands.
 - When a hostile creature's movement provokes an opportunity attack from you, you can use your reaction to cast a spell at the creature, rather than making an opportunity attack. The spell must have a casting time of 1 action and must target only that creature.
 
-## Weapon Master[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D43&uselang=en "Sign in to edit")
-
+## Weapon Master
 You have practiced extensively with a variety of weapons, gaining the following benefits:
 
 - Increase your Strength or Dexterity score by 1, to a maximum of 20.
 - You gain proficiency with four simple or martial weapons of your choice.
 
-# Xanathar's Guide to Everything[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D44&uselang=en "Sign in to edit")
+# Xanathar's Guide to Everything
 
-## Bountiful Luck[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D45&uselang=en "Sign in to edit")
-
+## Bountiful Luck
 _Prerequisite: Halfling_
 
 Your people have extraordinary luck, which you have learned to mystically lend to your companions whenever you see them falter. You're not sure how you do it, you just wish it, and it happens. Surely a sign of fortune's favor!
@@ -325,8 +297,7 @@ When an ally you can see within 30 feet of you rolls a 1 on the d20 for an attac
 
 When you use this ability, you can't use your Lucky racial trait before the end of your next turn.
 
-## Dragon Fear[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D46&uselang=en "Sign in to edit")
-
+## Dragon Fear
 _Prerequisite: Dragonborn_
 
 When angered, you radiate menace. You gain the following benefits:
@@ -334,8 +305,7 @@ When angered, you radiate menace. You gain the following benefits:
 - Increase your Strength, Constitution, or Charisma score by 1, to a maximum of 20.
 - Instead of exhaling destructive energy, you can expend a use of your Breath Weapon trait to roar, forcing each creature of your choice within 30 feet of you to make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). A target automatically succeeds on the save if it can't hear or see you. On a failed save, a target becomes frightened for 1 minute. If the frightened target takes any damage, it can repeat the saving throw, ending the effect on itself on a success.
 
-## Dragon Hide[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D47&uselang=en "Sign in to edit")
-
+## Dragon Hide
 _Prerequisite: Dragonborn_
 
 You manifest scales and claws reminiscent of your draconic ancestors. You gain the following benefits:
@@ -344,14 +314,12 @@ You manifest scales and claws reminiscent of your draconic ancestors. You gain t
 - Your scales harden. While you aren't wearing armor, you can calculate your AC as 13 + your Dexterity modifier. You can use a shield and still gain this benefit.
 - You can grow retractable claws from the tips of your fingers. Extending or retracting the claws requires no action. The claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the normal bludgeoning damage for an unarmed strike.
 
-## Drow High Magic[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D48&uselang=en "Sign in to edit")
-
+## Drow High Magic
 _Prerequisite: Elf (drow)_
 
 You learn more of the magic typical of dark elves. You learn the [Detect Magic](https://dnd-5e.fandom.com/wiki/Detect_Magic "Detect Magic") spell and can cast it at will, without expending a spell slot. You also learn [Levitate](https://dnd-5e.fandom.com/wiki/Levitate "Levitate") and [Dispel Magic](https://dnd-5e.fandom.com/wiki/Dispel_Magic "Dispel Magic"), each of which you can cast once without expending a spell slot. You regain the ability to cast the spell in this way when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
-## Dwarven Fortitude[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D49&uselang=en "Sign in to edit")
-
+## Dwarven Fortitude
 _Prerequisite: Dwarf_
 
 You have the blood of dwarf heroes flowing through your veins. You gain the following benefits:
@@ -359,8 +327,7 @@ You have the blood of dwarf heroes flowing through your veins. You gain the foll
 - Increase your Constitution score by 1, to a maximum of 20.
 - Whenever you take the Dodge action in combat, you can spend one Hit Die to heal yourself. Roll the die, add your Constitution modifier, and regain a number of hit points equal to the total (minimum of 1).
 
-## Elven Accuracy[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D50&uselang=en "Sign in to edit")
-
+## Elven Accuracy
 _Prerequisite: Elf or half-elf_
 
 The accuracy of elves is legendary, especially that of elf archers and spellcasters. You have uncanny aim with attacks that rely on precision rather than brute force. You gain the following benefits:
@@ -368,8 +335,7 @@ The accuracy of elves is legendary, especially that of elf archers and spellcast
 - Increase your Dexterity, Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 - Whenever you have advantage on an attack roll using Dexterity, Intelligence, Wisdom, or Charisma, you can reroll one of the dice once.
 
-## Fade Away[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D51&uselang=en "Sign in to edit")
-
+## Fade Away
 _Prerequisite: Gnome_
 
 Your people are clever, with a knack for illusion magic. You have learned a magical trick for fading away when you suffer harm. You gain the following benefits:
@@ -377,8 +343,7 @@ Your people are clever, with a knack for illusion magic. You have learned a magi
 - Increase your Dexterity or Intelligence score by 1, to a maximum of 20.
 - Immediately after you take damage, you can use a reaction to magically become invisible until the end of your next turn or until you attack, deal damage, or force someone to make a saving throw. Once you use this ability, you can't do so again until you finish a short or long rest.
 
-## Fey Teleportation[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D52&uselang=en "Sign in to edit")
-
+## Fey Teleportation
 _Prerequisite: Elf (high)_
 
 Your study of high elven lore has unlocked fey power that few other elves possess, except your eladrin cousins. Drawing on your fey ancestry, you can momentarily stride through the Feywild to shorten your path from one place to another. You gain the following benefits:
@@ -387,8 +352,7 @@ Your study of high elven lore has unlocked fey power that few other elves posses
 - You learn to speak, read, and write Sylvan.
 - You learn the [Misty Step](https://dnd-5e.fandom.com/wiki/Misty_Step "Misty Step") spell and can cast it once without expending a spell slot. You regain the ability to cast it in this way when you finish a short or long rest. Intelligence is your spellcasting ability for this spell.
 
-## Flames of Phlegethos[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D53&uselang=en "Sign in to edit")
-
+## Flames of Phlegethos
 _Prerequisite: Tiefling_
 
 You learn to call on hellfire to serve your commands. You gain the following benefits:
@@ -397,8 +361,7 @@ You learn to call on hellfire to serve your commands. You gain the following ben
 - When you roll fire damage for a spell you cast, you can reroll any roll of 1 on the fire damage dice, but you must use the new roll, even if it is another 1.
 - Whenever you cast a spell that deals fire damage, you can cause flames to wreathe you until the end of your next turn. The flames don't harm you or your possessions, and they shed bright light out to 30 feet and dim light for an additional 30 feet. While the flames are present, any creature within 5 feet of you that hits you with a melee attack takes 1d4 fire damage.
 
-## Infernal Constitution[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D54&uselang=en "Sign in to edit")
-
+## Infernal Constitution
 _Prerequisite: Tiefling_
 
 Fiendish blood runs strong in you, unlocking a resilience akin to that possessed by some fiends. You gain the following benefits:
@@ -407,8 +370,7 @@ Fiendish blood runs strong in you, unlocking a resilience akin to that possessed
 - You have resistance to cold damage and poison damage.
 - You have advantage on saving throws against being poisoned.
 
-## Orcish Fury[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D55&uselang=en "Sign in to edit")
-
+## Orcish Fury
 _Prerequisite: Half-orc_
 
 Your fury burns tirelessly. You gain the following benefits:
@@ -417,8 +379,7 @@ Your fury burns tirelessly. You gain the following benefits:
 - When you hit with an attack made with a simple or martial weapon, you can roll one of the weapon's damage dice an additional time and add it as extra damage of the weapon's damage type. Once you use this ability, you can't use it again until you finish a short or long rest.
 - Immediately after you use your Relentless Endurance trait, you can use your reaction to make one weapon attack.
 
-## Prodigy[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D56&uselang=en "Sign in to edit")
-
+## Prodigy
 _Prerequisite: Half-elf, half-orc, or human_
 
 You have a knack for learning new things. You gain the following benefits:
@@ -426,8 +387,7 @@ You have a knack for learning new things. You gain the following benefits:
 - You gain one skill proficiency of your choice, one tool proficiency of your choice, and fluency in one language of your choice.
 - Choose one skill in which you have proficiency. You gain expertise with that skill, which means your proficiency bonus is doubled for any ability check you make with it. The skill you choose must be one that isn't already benefiting from a feature, such as Expertise, that doubles your proficiency bonus.
 
-## Second Chance[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D57&uselang=en "Sign in to edit")
-
+## Second Chance
 _Prerequisite: Halfling_
 
 Fortune favors you when someone tries to strike you. You gain the following benefits:
@@ -435,8 +395,7 @@ Fortune favors you when someone tries to strike you. You gain the following bene
 - Increase your Dexterity, Constitution, or Charisma score by 1, to a maximum of 20.
 - When a creature you can see hits you with an attack roll, you can use your reaction to force that creature to reroll. Once you use this ability, you can't use it again until you roll initiative at the start of combat or until you finish a short or long rest.
 
-## Squat Nimbleness[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D58&uselang=en "Sign in to edit")
-
+## Squat Nimbleness
 _Prerequisite: Dwarf or a Small race_
 
 You are uncommonly nimble for your race. You gain the following benefits:
@@ -446,32 +405,28 @@ You are uncommonly nimble for your race. You gain the following benefits:
 - You gain proficiency in the Acrobatics or Athletics skill (your choice).
 - You have advantage on any Strength (Athletics) or Dexterity (Acrobatics) check you make to escape from being grappled.
 
-## Wood Elf Magic[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D59&uselang=en "Sign in to edit")
-
+## Wood Elf Magic
 _Prerequisite: Elf (wood)_
 
 You learn the magic of the primeval woods, which are revered and protected by your people. You learn one [Druid cantrip](https://dnd-5e.fandom.com/wiki/Druid_Spells "Druid Spells") of your choice. You also learn the [Longstrider](https://dnd-5e.fandom.com/wiki/Longstrider "Longstrider") and [Pass Without Trace](https://dnd-5e.fandom.com/wiki/Pass_Without_Trace "Pass Without Trace") spells, each of which you can cast once without expending a spell slot. You regain the ability to cast these two spells in this way when you finish a long rest. Wisdom is your spellcasting ability for all three spells.
 
-# Mordenkainen's Tome of Foes[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D60&uselang=en "Sign in to edit")
+# Mordenkainen's Tome of Foes
 
-## Svirfneblin Magic[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D61&uselang=en "Sign in to edit")
-
+## Svirfneblin Magic
 _Prerequisite: Gnome (deep gnome)_
 
 You have inherited the innate spellcasting ability of your ancestors. This ability allows you to cast [Nondetection](https://dnd-5e.fandom.com/wiki/Nondetection "Nondetection") on yourself at will, without needing a material component. You can also cast each of the following spells once with this ability: [Blindness/Deafness](https://dnd-5e.fandom.com/wiki/Blindness/Deafness "Blindness/Deafness"), [Blur](https://dnd-5e.fandom.com/wiki/Blur "Blur"), and [Disguise Self](https://dnd-5e.fandom.com/wiki/Disguise_Self "Disguise Self"). You regain the ability to cast these spells when you finish a long rest. Intelligence is your spellcasting ability for these spells, and you cast them at their lowest possible levels.
 
-# Tasha's Cauldron of Everything[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D62&uselang=en "Sign in to edit")
+# Tasha's Cauldron of Everything
 
-## Artificer Initiate[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D63&uselang=en "Sign in to edit")
-
+## Artificer Initiate
 You've learned some of an artificer's inventiveness.
 
 - You learn one cantrip of your choice from the [artificer spell list](https://dnd-5e.fandom.com/wiki/Artificer_Spells "Artificer Spells"), and you learn one 1st-level spell of your choice from that list. Intelligence is your spellcasting ability for these spells.
 - You can cast this feat's 1st-level spell without a spell slot, and you must finish a long rest before you can cast it in this way again. You can also cast the spell using any spell slots you have.
 - You gain proficiency with one type of artisan's tools of your choice, and you can use that type of tool as a spellcasting focus for any spell you cast that uses Intelligence as its spellcasting ability.
 
-## Chef[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D64&uselang=en "Sign in to edit")
-
+## Chef
 Time and effort spent mastering the culinary arts has paid off, granting you the following benefits:
 
 - Increase your Constitution or Wisdom score by 1, to a maximum of 20.
@@ -479,39 +434,34 @@ Time and effort spent mastering the culinary arts has paid off, granting you the
 - As part of a short rest, you can cook special food, provided you have ingredients and cook's utensils on hand. You can prepare enough of this food for a number of creatures equal to 4 + your proficiency bonus. At the end of the short rest, any creature who eats the food and spends one or more Hit Dice to regain hit points regains an extra 1d8 hit points.
 - With one hour of work or when you finish a long rest, you can cook a number of treats equal to your proficiency bonus. These special treats last 8 hours after being made. A creature can use a bonus action to eat one of those treats to gain temporary hit points equal to your proficiency bonus.
 
-## Crusher[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D65&uselang=en "Sign in to edit")
-
+## Crusher
 You are practiced in the art of crushing your enemies, granting you the following benefits:
 
 - Increase your Strength or Constitution by 1, to a maximum of 20.
 - Once per turn, when you hit a creature with an attack that deals bludgeoning damage, you can move it 5 feet to an unoccupied space, provided the target is no more than one size larger than you.
 - When you score a critical hit that deals bludgeoning damage to a creature, attack rolls against that creature are made with advantage until the start of your next turn.
 
-## Eldritch Adept[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D66&uselang=en "Sign in to edit")
-
+## Eldritch Adept
 _Prerequisite: Spellcasting or Pact Magic feature_
 
 Studying occult lore, you have learn one [Eldritch Invocation](https://dnd-5e.fandom.com/wiki/Warlock#Eldritch_Invocations_List "Warlock") option of your choice from the warlock class. Your spellcasting ability for the invocation is Intelligence, Wisdom, or Charisma (choose when you select this feat). If the invocation has a prerequisite, you can choose that invocation only if you're a warlock and only if you meet the prerequisite.
 
 Whenever you gain a level, you can replace the invocation with another one from the warlock class.
 
-## Fey Touched[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D67&uselang=en "Sign in to edit")
-
+## Fey Touched
 Your exposure to the Feywild or one of its denizens has left a magical mark on you, granting you the following benefits:
 
 - Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 - You learn the [Misty Step](https://dnd-5e.fandom.com/wiki/Misty_Step "Misty Step") spell and one 1st-level spell of your choice. The 1st-level spell must be from the [divination](https://dnd-5e.fandom.com/wiki/Category:Divination "Category:Divination") or [enchantment](https://dnd-5e.fandom.com/wiki/Category:Enchantment "Category:Enchantment") school of magic. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
 
-## Fighting Initiate[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D68&uselang=en "Sign in to edit")
-
+## Fighting Initiate
 _Prerequisite: Proficiency with a martial weapon_
 
 Your martial training has helped you develop a particular style of fighting. As a result, you learn one [Fighting Style](https://dnd-5e.fandom.com/wiki/Fighter#Fighting_Style "Fighter") option of your choice from the fighter class. If you already have a style, the one you choose must be different.
 
 Whenever you reach a level that grants the Ability Score Improvement feature, you can replace this feat's fighting style with another one from the fighter class that you don't have.
 
-## Gunner[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D69&uselang=en "Sign in to edit")
-
+## Gunner
 You have a quick hand and keen eye when employing firearms, granting you the following benefits:
 
 - Increase your Dexterity score by 1, to a maximum of 20.
@@ -519,8 +469,7 @@ You have a quick hand and keen eye when employing firearms, granting you the fol
 - You ignore the loading property of firearms.
 - Being within 5 feet of a hostile creature doesn't impose disadvantage on your ranged attack rolls.
 
-## Metamagic Adept[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D70&uselang=en "Sign in to edit")
-
+## Metamagic Adept
 _Prerequisite: Spellcasting or Pact Magic feature_
 
 You've learned how to exert your will on your spells to alter how they function.
@@ -528,91 +477,80 @@ You've learned how to exert your will on your spells to alter how they function.
 - You learn two [Metamagic](https://dnd-5e.fandom.com/wiki/Sorcerer#Metamagic "Sorcerer") options of your choice from the sorcerer class. You can use only one Metamagic option on a spell when you cast it, unless the option says otherwise. Whenever you gain a level, you can replace one of your Metamagic options with another one from the sorcerer class.
 - You gain 2 sorcery points to spend on Metamagic (these points are added to any sorcery points you have from another source but can be used only on Metamagic). You regain all spent sorcery points when you finish a long rest.
 
-## Piercer[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D71&uselang=en "Sign in to edit")
-
+## Piercer
 You have achieved a penetrating precision in combat, granting you the following benefits:
 
 - Increase your Strength or Dexterity by 1, to a maximum of 20.
 - Once per turn, when you hit a creature with an attack that deals piercing damage against a creature, you can reroll one of the attack's damage dice, and you must use the new roll.
 - When you score a critical hit that deals piercing damage to a creature, you can roll one additional damage die when determining the extra piercing damage the target takes.
 
-## Poisoner[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D72&uselang=en "Sign in to edit")
-
+## Poisoner
 You can prepare and deliver deadly poisons, gaining the following benefits:
 
 - When you make a damage roll that deals poison damage, it ignores resistance to poison damage.
 - You can apply poison to a weapon or piece of ammunition as a bonus action, instead of an action.
 - You gain proficiency with the poisoner's kit if you don't already have it. With one hour of work using a poisoner's kit and expending 50 gp worth of materials, you can create a number of doses of potent poison equal to your proficiency bonus. Once applied, the poison retains potency for 1 minute, or until you hit with the weapon or ammunition. When a weapon coated in this poison deals damage to a creature, that creature must succeed on a DC 14 Constitution saving throw or take 2d8 poison damage and become poisoned until the end of your next turn.
 
-## Shadow Touched[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D73&uselang=en "Sign in to edit")
-
+## Shadow Touched
 Your exposure to the Shadowfell's magic has changed you, granting you the following benefits:
 
 - Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 - You learn the [Invisibility](https://dnd-5e.fandom.com/wiki/Invisibility "Invisibility") spell and one 1st-level spell of your choice. The 1st-level spell must be from the [illusion](https://dnd-5e.fandom.com/wiki/Category:Illusion "Category:Illusion") or [necromancy](https://dnd-5e.fandom.com/wiki/Category:Necromancy "Category:Necromancy") school of magic. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
 
-## Skill Expert[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D74&uselang=en "Sign in to edit")
-
+## Skill Expert
 You have honed your proficiency with particular skills, granting you the following benefits:
 
 - Increase one ability score of your choice by 1, to a maximum of 20.
 - You gain proficiency with one skill of your choice.
 - Choose one skill in which you have proficiency in. You gain expertise in that skill, which means your proficiency bonus is doubled for any ability check you make with it. The skill you choose must be one that isn't already benefitting from a feature, such as Expertise, that doubles your proficiency bonus.
 
-## Slasher[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D75&uselang=en "Sign in to edit")
-
+## Slasher
 You've learned where to cut to have the greatest results, granting you the following benefits:
 
 - Increase your Strength or Dexterity by 1, to a maximum of 20.
 - Once per turn when you hit a creature with an attack that deals slashing damage, you can reduce the speed of the target by 10 feet until the start of your next turn.
 - When you score a critical hit that deals slashing damage to a creature, you grievously wound it. Until the start of your next turn, the target has disadvantage on all attack rolls.
 
-## Telekinetic[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D76&uselang=en "Sign in to edit")
-
+## Telekinetic
 You learn to move things with your mind, granting you the following benefits:
 
 - Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 - You learn the [Mage Hand](https://dnd-5e.fandom.com/wiki/Mage_Hand "Mage Hand") cantrip. You can cast it without verbal or somatic components, and you can make the spectral hand invisible. If you already know this spell, its range increases by 30 feet when you cast it. Its spellcasting ability is the ability increased by this feat.
 - As a bonus action, you can try to telekinetically shove one creature you can see within 30 feet of you. When you do so, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + the ability modifier of the score increased by this feat) or be moved 5 feet toward you or away from you. A creature can willingly fail this save.
 
-## Telepathic[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D77&uselang=en "Sign in to edit")
-
+## Telepathic
 You awaken the ability to mentally connect with others, granting you the following benefits:
 
 - Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 - You can speak telepathically to any creature you can see within 60 feet of you. Your telepathic utterances are in a language you know, and the creature understands you only if it knows that language. Your communication doesn't give the creature the ability to respond to you telepathically.
 - You can cast the [Detect Thoughts](https://dnd-5e.fandom.com/wiki/Detect_Thoughts "Detect Thoughts") spell, requiring no spell slots or components, and you must finish a long rest before you can cast it this way again. Your spellcasting ability for the spell is the ability increased by this feat. If you have spell slots of 2nd level or higher, you can cast this spell with them.
 
-# Fizban's Treasury of Dragons[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D78&uselang=en "Sign in to edit")
+# Fizban's Treasury of Dragons
 
-## Gift of the Chromatic Dragon[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D79&uselang=en "Sign in to edit")
-
+## Gift of the Chromatic Dragon
 You've manifested some of the power of chromatic dragons, granting you the following benefits:
 
 **Chromatic Infusion.** As a bonus action, you can touch a simple or martial weapon and infuse it with one of the following damage types: acid, cold, fire, lightning, or poison. For the next minute, the weapon deals an extra 1d4 damage of the chosen type when it hits. After you use this bonus action, you can't do so again until you finish a long rest.
 
 **Reactive Resistance.** When you take acid, cold, fire, lightning, or poison damage, you can use your reaction to give yourself resistance to that instance of damage. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
-## Gift of the Gem Dragon[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D80&uselang=en "Sign in to edit")
-
+## Gift of the Gem Dragon
 You've manifested some of the power of gem dragons, granting you the following benefits:
 
 **Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
 
 **Telekinetic Reprisal.** When you take damage from a creature that is within 10 feet of you, you can use your reaction to emanate telekinetic energy. The creature that dealt damage to you must make a Strength saving throw (DC equals 8 + your proficiency bonus + the ability modifier of the score increased by this feat). On a failed save, the creature takes 2d8 force damage and is pushed up to 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
-## Gift of the Metallic Dragon[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D81&uselang=en "Sign in to edit")
-
+## Gift of the Metallic Dragon
 You've manifested some of the power of metallic dragons, granting you the following benefits:
 
 **Draconic Healing.** You learn the [Cure Wounds](https://dnd-5e.fandom.com/wiki/Cure_Wounds "Cure Wounds") spell. You can cast this spell without expending a spell slot. Once you cast this spell in this way, you can't do so again until you finish a long rest. You can also cast this spell using spell slots you have. The spell's spellcasting ability is Intelligence, Wisdom, or Charisma when you cast it with this feat (choose when you gain the feat).
 
 **Protective Wings.** You can manifest protective wings that can shield you or others. When you or another creature you can see within 5 feet of you is hit by an attack roll, you can use your reaction to manifest spectral wings from your back for a moment. You grant a bonus to the target's AC equal to your proficiency bonus against that attack roll, potentially causing it to miss. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
-# Strixhaven: Curriculum of Chaos[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D82&uselang=en "Sign in to edit")
+# Strixhaven: Curriculum of Chaos
 
-## Strixhaven Initiate[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D83&uselang=en "Sign in to edit")
-
+## Strixhaven Initiate
 You have studied some magical theory at the school and have learned a few spells associated with one of the colleges at the university.
 
 Choose one of Strixhaven's colleges: Lorehold, Prismari, Quandrix, Silverquill, or Witherbloom. You learn two cantrips and one 1st level spell based on the college you choose, as specified in the Strixhaven Spells table.
@@ -629,8 +567,7 @@ Your spellcasting ability for this feat's spells is Intelligence, Wisdom, or Cha
 |Silverquill|Choose two from [Sacred Flame](https://dnd-5e.fandom.com/wiki/Sacred_Flame "Sacred Flame"), [Thaumaturgy](https://dnd-5e.fandom.com/wiki/Thaumaturgy "Thaumaturgy"), and [Vicious Mockery](https://dnd-5e.fandom.com/wiki/Vicious_Mockery "Vicious Mockery").|Choose one 1st-level [bard](https://dnd-5e.fandom.com/wiki/Bard_Spells "Bard Spells") or [cleric](https://dnd-5e.fandom.com/wiki/Cleric_Spells "Cleric Spells") spell.|
 |Witherbloom|Choose two from [Chill Touch](https://dnd-5e.fandom.com/wiki/Chill_Touch "Chill Touch"), [Druidcraft](https://dnd-5e.fandom.com/wiki/Druidcraft "Druidcraft"), and [Spare the Dying](https://dnd-5e.fandom.com/wiki/Spare_the_Dying "Spare the Dying").|Choose one 1st-level [druid](https://dnd-5e.fandom.com/wiki/Druid_Spells "Druid Spells") or [wizard](https://dnd-5e.fandom.com/wiki/Wizard_Spells "Wizard Spells") spell.|
 
-## Strixhaven Mascot[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D84&uselang=en "Sign in to edit")
-
+## Strixhaven Mascot
 _Prerequisite: 4th level, Strixhaven Initiate feat_
 
 You have learned how to summon a Strixhaven mascot to assist you, granting you these benefits:
@@ -639,10 +576,9 @@ You have learned how to summon a Strixhaven mascot to assist you, granting you t
 - When you take the Attack action on your turn, you can forgo one attack to allow your mascot familiar to make one attack of its own with its reaction.
 - If your mascot familiar is within 60 feet of you, you can teleport as an action, swapping places with the familiar. If your destination space is too small for you to occupy, the teleportation fails and is wasted. Once you teleport in this way, you can't do so again until you finish a long rest, unless you expend a spell slot of 2nd level or higher to do it again.
 
-# Eberron: Rising From the Last War[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D85&uselang=en "Sign in to edit")
+# Eberron: Rising From the Last War
 
-## Aberrant Dragonmark[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D86&uselang=en "Sign in to edit")
-
+## Aberrant Dragonmark
 _Prerequisite: No other dragonmark_
 
 You have manifested an aberrant dragonmark. Determine its appearance and the flaw associated with it. You gain the following benefits:
@@ -665,14 +601,12 @@ You also develop a random flaw from the Aberrant Dragonmark Flaws table:
 |7|Your looks change slightly whenever you use the mark.|
 |8|You have horrific nightmares after you use your mark.|
 
-### Greater Aberrant Powers[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D87&uselang=en "Sign in to edit")
-
+### Greater Aberrant Powers
 At the DM's option, a character who has the Aberrant Dragonmark feat has a chance of manifesting greater power. Upon reaching 10th level, such a character has a 10 percent chance of gaining an [epic boon](https://dnd-5e.fandom.com/wiki/Treasure#Epic_Boons "Treasure"). If the character fails to gain a boon, they have a 10 percent chance the next time they gain a level.
 
 If the character gains a boon, the DM chooses it or determines it randomly. The character also permanently loses one of their Hit Dice, and their hit point maximum is reduced by an amount equal to a roll of that die plus their Constitution modifier (minimum reduction of 1). This reduction can't be reversed by any means.
 
-## Arcane Combat Instict[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D88&uselang=en "Sign in to edit")
-
+## Arcane Combat Instinct
 _Prerequisite: Spellcasting ability and proficiency with martial weapons._
 
 You have honed your body to react with magical precision, channeling arcane energy into every strike and parry. Your training blends spellcraft and combat into a single, fluid instinct. You gain the following benefits:
@@ -682,8 +616,7 @@ You have honed your body to react with magical precision, channeling arcane ener
 - **Resonant Strikes.** Whenever you hit a creature with a melee weapon attack, you deal an extra **1d4 magical damage**. This damage is the same type as the weapon's (slashing, piercing, or bludgeoning) and counts as magical for the purpose of overcoming resistance and immunity.
 - **Arcane Counterstrike.** When you cast **Shield** in response to an attack, you can make **one melee weapon attack against the triggering creature as part of the same reaction**.
 
-## Revenant Blade[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D89&uselang=en "Sign in to edit")
-
+## Revenant Blade
 _Prerequisite: Elf_
 
 You are descended from a master of the double-bladed scimitar, and some of that mastery has passed on to you. You gain the following benefits:
@@ -692,8 +625,7 @@ You are descended from a master of the double-bladed scimitar, and some of that 
 - While you are holding a double-blade scimitar with two hands, you gain a +1 bonus to Armor Class.
 - A double-bladed scimitar has the finesse property when you wield it.
 
-### Revenant Blade (UA)[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D90&uselang=en "Sign in to edit")
-
+### Revenant Blade (UA)
 _Prerequisite: Elf_
 
 You are descended from a master of the double blade and their skills have passed on to you. You gain the following benefits:
@@ -702,8 +634,7 @@ You are descended from a master of the double blade and their skills have passed
 - While wielding a double-bladed weapon with two hands, the weapon has the finesse trait for your attacks with it, and you gain +1 AC.
 - On your turn, when you use a bonus action to make a melee attack with the blade at the opposite end of the weapon, the weapon's damage die for this attack increases to 2d4, instead of 1d4.
 
-## Versatile Weapon Master[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D91&uselang=en "Sign in to edit")
-
+## Versatile Weapon Master
 _Prerequisite: Poficiency with Martial Weapons._
 
 You have mastered the art of wielding versatile weapons with one hand, blending offense and defense with refined technique. You gain the following benefits:
@@ -714,9 +645,9 @@ You have mastered the art of wielding versatile weapons with one hand, blending 
 - When a creature you can see targets you with a melee attack, you can use your **reaction** to gain **+1 AC** against that attack.
 - You make **opportunity attacks with advantage** while wielding a versatile weapon in one hand.
 
-# Wayfinder's Guide to Eberron[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D92&uselang=en "Sign in to edit")
+# Wayfinder's Guide to Eberron
 
-## Greater Dragonmark[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D93&uselang=en "Sign in to edit")
+## Greater Dragonmark
 
 **Consult your DM before using this version.** It is usually considered unofficial and invalid due to updated material.
 
@@ -745,10 +676,9 @@ To cast [Leomund's Secret Chest](https://dnd-5e.fandom.com/wiki/Leomund%27s_Secr
 |Mark of Storm|Charisma or Dexterity|[Control Water](https://dnd-5e.fandom.com/wiki/Control_Water "Control Water"), [Control Winds](https://dnd-5e.fandom.com/wiki/Control_Winds "Control Winds")|Charisma|
 |Mark of Warding|Dexterity or Intelligence|[Knock](https://dnd-5e.fandom.com/wiki/Knock "Knock"), [Glyph of Warding](https://dnd-5e.fandom.com/wiki/Glyph_of_Warding "Glyph of Warding"), [Leomund's Secret Chest](https://dnd-5e.fandom.com/wiki/Leomund%27s_Secret_Chest "Leomund's Secret Chest")|Intelligence|
 
-# Plane Shift[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D94&uselang=en "Sign in to edit")
+# Plane Shift
 
-## Quicksmithing[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D95&uselang=en "Sign in to edit")
-
+## Quicksmithing
 _Prerequisite: Intelligence 13 or higher, Kaladesh setting_
 
 You have mastered the art of on-the-fly invention, improvement, and jury-rigging. You can use your talents to create immediate, short-term magical effects similar to spells, given time and an adequate supply of aether.
@@ -765,8 +695,7 @@ When you create a device, choose one of the following options:
 - **Fire Starter:** This device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.
 - **Music Box:** When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song's end or when it is closed.
 
-## Servo Crafting[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D96&uselang=en "Sign in to edit")
-
+## Servo Crafting
 _Prerequisite: Kaladesh setting_
 
 You are skilled in the creation of servos — tiny constructs that function as personal assistants. You can cast the [Find Familiar](https://dnd-5e.fandom.com/wiki/Find_Familiar "Find Familiar") spell as a ritual, creating a servo to serve as your familiar instead of an animal. In every other way, a servo familiar functions as described in the Find Familiar spell.
@@ -775,17 +704,34 @@ You can communicate telepathically with your servo familiar and perceive through
 
 Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your servo familiar to make one attack of its own.
 
-|Servo|   |   |   |   |   |
-|---|---|---|---|---|---|
-|_Tiny construct, unaligned_|   |   |   |   |   |
-|**Armor Class:** 11<br><br>**Hit Points:** 10 (3d4 + 3)<br><br>**Speed:** 20 ft.|   |   |   |   |   |
-|**STR**<br><br>4 (-3)|**DEX**<br><br>11 (0)|**CON**<br><br>12 (+1)|**INT**<br><br>10 (0)|**WIS**<br><br>10 (0)|**CHA**<br><br>7 (-2)|
-|**Damage Immunities:** poison<br><br>**Condition Immunities:** charmed, poisoned<br><br>**Senses:** passive Perception 10<br><br>**Languages:** —<br><br>**Challenge:** 0 (0 or 10 XP)|   |   |   |   |   |
-|Actions|   |   |   |   |   |
-|_**Claw.** Melee Weapon Attack:_ +0 to hit, reach 5 ft., one target. _Hit:_ 1 slashing damage.|   |   |   |   |   |
+Servo
+_Tiny construct, unaligned_
+**AC:** 11
+**HP:** 10 (3d4 + 3)
+**Speed:** 20 ft.
 
-## Vampiric Exultation[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFeats%3Fveaction%3Dedit%26section%3D97&uselang=en "Sign in to edit")
+|     |     | Mod | Save |
+| --- | --- | --- | ---- |
+| STR | 4   | -3  | -3   |
+| DEX | 11  | +0  | +0   |
+| CON | 12  | +1  | +1   |
 
+|     |     | Mod | Save |
+| --- | --- | --- | ---- |
+| INT | 10  | +0  | +0   |
+| WIS | 10  | +0  | +0   |
+| CHA | 7   | -2  | -2   |
+**Damage Immunities:** poison
+**Condition Immunities:** charmed, poisoned
+**Senses:** passive Perception 10
+**Languages:** —
+**CR:** 0 (0 or 10 XP)
+
+### Actions                                                                                                               
+
+_**Claw.** Melee Weapon Attack:_ +0 to hit, reach 5 ft., one target. _Hit:_ 1 slashing damage.
+
+## Vampiric Exultation
 _Prerequisite: Vampire (Ixalan), Ixalan setting_
 
 As an action, you transform the lower half of your body into a black vapor. You can float in the air and have a flying speed of 30 feet. This effect lasts for up to 10 minutes. Once you use this ability, you can't use it again until you finish a short or long rest.
