@@ -21,31 +21,31 @@ A good entertainer is versatile, spicing up every performance with a variety of 
 |9|Storyteller|
 |10|Tumbler|
 
-### Feature: By Popular Demand
+### Feature: By Popular Demand[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FEntertainer%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit")
 
 You can always find a place to perform, usually in an inn or tavern but possibly with a circus, at a theater, or even in a noble's court. At such a place, you receive free lodging and food of a modest or comfortable standard (depending on the quality of the establishment), as long as you perform each night. In addition, your performance makes you something of a local figure. When strangers recognize you in a town where you have performed, they typically take a liking to you.
 
-## Variant: Gladiator
+## Variant: Gladiator[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FEntertainer%3Fveaction%3Dedit%26section%3D4&uselang=en "Sign in to edit")
 
 A gladiator is as much an entertainer as any minstrel or circus performer, trained to make the arts of combat into a spectacle the crowd can enjoy. This kind of flashy combat is your entertainer routine, though you might also have some skills as a tumbler or actor. Using your By Popular Demand feature, you can find a place to perform in any place that features combat for entertainment — perhaps a gladiatorial arena or secret pit fighting club. You can replace the musical instrument in your equipment package with an inexpensive but unusual [weapon](https://dnd-5e.fandom.com/wiki/Weapons "Weapons"), such as a trident or net.
 
-## Baldur's Gate
+## Baldur's Gate[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FEntertainer%3Fveaction%3Dedit%26section%3D5&uselang=en "Sign in to edit")
 
 (Baldur's Gate: Descent into Avernus)
 
 From the Oasis Theater's spectacular singers and acrobats to the pantomimes and shadow puppeteers of the Wide, Baldur's Gate hosts a colorful array of performers. Good acts can always find ready audiences, and the constant flow of travelers means that both new spectators and new spectacles are always passing through.
 
-### Baldur's Gate Feature: Backstage Pass
+### Baldur's Gate Feature: Backstage Pass[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FEntertainer%3Fveaction%3Dedit%26section%3D6&uselang=en "Sign in to edit")
 
 The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate — though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.
 
 You've learned that most of the real business of entertainment (or any other venture) happens behind the scenes. It's easy for you to case what sorts of audiences attend what venue — like how toughs gather at the Blushing Mermaid or how brash patriars congregate at the Helm and Cloak. After a successful performance, you may meet an enthusiastic member of the crowd — someone of an occupation or social class that frequents the establishment. This contact is delighted to talk with you, and to listen.
 
-## Suggested Characteristics
+## Suggested Characteristics[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FEntertainer%3Fveaction%3Dedit%26section%3D7&uselang=en "Sign in to edit")
 
 Successful entertainers have to be able to capture and hold an audience's attention, so they tend to have flamboyant or forceful personalities. They're inclined toward the romantic and often cling to high-minded ideals about the practice of art and the appreciation of beauty.
 
-### Personality Traits
+### Personality Traits[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FEntertainer%3Fveaction%3Dedit%26section%3D8&uselang=en "Sign in to edit")
 
 - I know a story relevant to almost every situation.
 - Whenever I come to a new place, I collect local rumors and spread gossip.
@@ -56,7 +56,7 @@ Successful entertainers have to be able to capture and hold an audience's attent
 - I'll settle for nothing less than perfection.
 - I change my mood or my mind as quickly as I change key in a song.
 
-### Ideals
+### Ideals[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FEntertainer%3Fveaction%3Dedit%26section%3D9&uselang=en "Sign in to edit")
 
 - **Beauty.** When I perform, I make the world better than it was. (Good)
 - **Tradition.** The stories, legends, and songs of the past must never be forgotten, for they teach us who we are. (Lawful)
@@ -65,7 +65,7 @@ Successful entertainers have to be able to capture and hold an audience's attent
 - **People.** I like seeing the smiles on people's faces when I perform. That's all that matters. (Neutral)
 - **Honesty.** Art should reflect the soul; it should come from within and reveal who we really are. (Any)
 
-### Bonds
+### Bonds[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FEntertainer%3Fveaction%3Dedit%26section%3D10&uselang=en "Sign in to edit")
 
 - My instrument is my most treasured possession, and it reminds me of someone I love.
 - Someone stole my precious instrument, and someday I'll get it back.
@@ -74,7 +74,7 @@ Successful entertainers have to be able to capture and hold an audience's attent
 - I will do anything to prove myself superior to my hated rival.
 - I would do anything for the other members of my old troupe.
 
-### Flaws
+### Flaws[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FEntertainer%3Fveaction%3Dedit%26section%3D11&uselang=en "Sign in to edit")
 
 - I'll do anything to win fame and renown.
 - I'm a sucker for a pretty face.

@@ -113,25 +113,6 @@ While studying magic, you also specialized in another field of study. Choose one
 
 You gain a Wizard subclass of your choice. A subclass is a specialization that grants you features at certain Wizard levels. For the rest of your career, you gain each of your subclass’s features that are of your Wizard level or lower.
 
-#### Arcane Tradition (subclass alternative?)
-
-- [Bladesinging](https://dnd-5e.fandom.com/wiki/Wizard#Bladesinging) (Tasha's Cauldron of Everything, page 76; Sword Coast Adventurer's Guide, page 141)
-- [Chronurgy Magic](https://dnd-5e.fandom.com/wiki/Wizard#Chronurgy_Magic) (Explorer's Guide to Wildemount, page 184)
-- [Graviturgy Magic](https://dnd-5e.fandom.com/wiki/Wizard#Graviturgy_Magic) (Explorer's Guide to Wildemount, page 185)
-- [Order of Scribes](https://dnd-5e.fandom.com/wiki/Wizard#Order_of_Scribes) (Tasha's Cauldron of Everything, 77)
-- [School of Abjuration](https://dnd-5e.fandom.com/wiki/Wizard#School_of_Abjuration) (Player's Handbook, page 115)
-- [School of Conjuration](https://dnd-5e.fandom.com/wiki/Wizard#School_of_Conjuration) (Player's Handbook, page 116)
-- [School of Divination](https://dnd-5e.fandom.com/wiki/Wizard#School_of_Divination) (Player's Handbook, page 116)
-- [School of Enchantment](https://dnd-5e.fandom.com/wiki/Wizard#School_of_Enchantment) (Player's Handbook, page 117)
-- [School of Evocation](https://dnd-5e.fandom.com/wiki/Wizard#School_of_Evocation) (Player's Handbook, page 117)
-- [School of Illusion](https://dnd-5e.fandom.com/wiki/Wizard#School_of_Illusion) (Player's Handbook, page 118)
-- [School of Necromancy](https://dnd-5e.fandom.com/wiki/Wizard#School_of_Necromancy) (Player's Handbook, page 118)
-- [School of Transmutation](https://dnd-5e.fandom.com/wiki/Wizard#School_of_Transmutation) (Player's Handbook, page 119)
-- [War Magic](https://dnd-5e.fandom.com/wiki/Wizard#War_Magic) (Xanathar's Guide to Everything, page 59)
-
-#### Level 3: Cantrip Formulas (option)
-
-You have scribed a set of arcane formulas in your spellbook that you can use to formulate a cantrip in your mind. Whenever you finish a long rest and consult these formulas in your spellbook, you can replace one wizard cantrip you know with another cantrip from the wizard spell list.
 #### Level 4: Ability Score Improvement
 
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
