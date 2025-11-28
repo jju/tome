@@ -493,30 +493,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/champion.md",
+                "file": "Hammerkeep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "champion"
-            }
-          },
-          {
-            "id": "c78e7d71d47edd43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Hammerkeep"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -665,7 +651,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "c78e7d71d47edd43",
+  "active": "edbfdbe8be34a5fa",
   "lastOpenFiles": [
     "rules/champion.md",
     "conflict-files-obsidian-git.md",
