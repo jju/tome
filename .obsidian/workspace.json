@@ -1,697 +1,41 @@
 {
   "main": {
-    "id": "03c0e53f35943eb1",
+    "id": "e5d3ad0ddf00d013",
     "type": "split",
     "children": [
       {
-        "id": "f5c5ad225e82c4cf",
-        "type": "split",
-        "children": [
-          {
-            "id": "77e6c386eb065c62",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "db6b6a2ae558c905",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "world.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "world"
-                }
-              },
-              {
-                "id": "145b3d7770a46372",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Eladrin.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Eladrin"
-                }
-              },
-              {
-                "id": "b457c074468be4b2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "towns.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "towns"
-                }
-              },
-              {
-                "id": "e31c379c2d800880",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Hammerford.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-<<<<<<< HEAD
-                  "title": "Grimteeth"
-                }
-              },
-              {
-                "id": "986817b584b1f6dd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "DantagEmpire.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "DantagEmpire"
-                }
-              },
-              {
-                "id": "925a9285929fb086",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ArcanePurge.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "ArcanePurge"
-                }
-              },
-              {
-                "id": "0883f074fd16af01",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "LakeArkona.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "LakeArkona"
-=======
-                  "title": "Hammerford"
->>>>>>> parent of 67f6d18 (vault backup: 2025-11-28 06:57:51)
-                }
-              },
-              {
-                "id": "a13b9346c2257049",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/marine.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "marine"
-                }
-              },
-              {
-                "id": "dad24f02d57c881b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-<<<<<<< HEAD
-                    "file": "rules/guard.md",
-=======
-                    "file": "rules/index.md",
->>>>>>> parent of 67f6d18 (vault backup: 2025-11-28 06:57:51)
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-<<<<<<< HEAD
-                  "title": "guard"
-                }
-              },
-              {
-                "id": "c154332c4141cd26",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/priest.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "priest"
-                }
-              },
-              {
-                "id": "1d3d14b1bf4a881e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/mangonel.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "mangonel"
-                }
-              },
-              {
-                "id": "95b2120ae82c58b4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/ballista.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "ballista"
-                }
-              },
-              {
-                "id": "29305be06664f957",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Hakonaga.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Hakonaga"
-                }
-              },
-              {
-                "id": "1c306d9934d5c856",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "GoblinTransportGuilds.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "GoblinTransportGuilds"
-                }
-              },
-              {
-                "id": "61d00234ac9475aa",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "WardenofHammerkeep.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "WardenofHammerkeep"
-                }
-              },
-              {
-                "id": "5fb98a8fc82e1456",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "EagerWave.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "EagerWave"
-                }
-              },
-              {
-                "id": "03562ba87124d2ff",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "BidrithCrecur.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "BidrithCrecur"
-                }
-              },
-              {
-                "id": "fc6fc1380deaa7e9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Rhig.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Rhig"
-                }
-              },
-              {
-                "id": "7e2627de3760264d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "BidrithCrecur.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "BidrithCrecur"
-                }
-              },
-              {
-                "id": "3c2c76b1347dc4fb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ThePrisoner.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "ThePrisoner"
-                }
-              },
-              {
-                "id": "bdf0881fff56e738",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "CircleofHealingArts.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "CircleofHealingArts"
-                }
-              },
-              {
-                "id": "0e3e4858f04a2577",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ThePrisoner.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "ThePrisoner"
-                }
-              },
-              {
-                "id": "bd6b7799844e5706",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/priest.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-<<<<<<< HEAD
-                  "title": "acolyte"
-                }
-              },
-              {
-                "id": "1b69e6790d739977",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "secrets/npcs.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "npcs"
-=======
-                  "title": "priest"
->>>>>>> parent of b8f0391 (vault backup: 2025-11-27 15:34:48)
-                }
-              }
-            ],
-            "currentTab": 21
-=======
-                  "title": "index"
-                }
-              }
-            ],
-            "currentTab": 1
->>>>>>> parent of 67f6d18 (vault backup: 2025-11-28 06:57:51)
-          },
-          {
-            "id": "088bada69a0d8019",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e8c9c6db23647948",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Croaklands.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Croaklands"
-                }
-              },
-              {
-                "id": "7b7da8fda845501e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Keelmont.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Keelmont"
-                }
-              },
-              {
-                "id": "3018d520ba9130e9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Chult.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Chult"
-                }
-              },
-              {
-                "id": "ed94803605ae3f69",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-<<<<<<< HEAD
-                    "file": "gods.md",
-=======
-                    "file": "Bahamut.md",
->>>>>>> parent of 67f6d18 (vault backup: 2025-11-28 06:57:51)
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-<<<<<<< HEAD
-<<<<<<< HEAD
-                  "title": "cities"
-                }
-              },
-              {
-                "id": "7f10b5a302ce81e5",
-=======
-                  "title": "Bahamut"
-                }
-              },
-              {
-                "id": "ea8bc78741220360",
->>>>>>> parent of 67f6d18 (vault backup: 2025-11-28 06:57:51)
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-<<<<<<< HEAD
-                    "file": "rules/martialartsadept.md",
-=======
-                    "file": "Bahamut.md",
->>>>>>> parent of 67f6d18 (vault backup: 2025-11-28 06:57:51)
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-<<<<<<< HEAD
-                  "title": "martialartsadept"
-                }
-              }
-            ],
-            "currentTab": 4
-=======
-                  "title": "gods"
-                }
-              }
-            ],
-            "currentTab": 3
->>>>>>> parent of b8f0391 (vault backup: 2025-11-27 15:34:48)
-=======
-                  "title": "Bahamut"
-                }
-              },
-              {
-                "id": "6204a49e23560c43",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "LorStalk.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "LorStalk"
-                }
-              },
-              {
-                "id": "3fc0b379712dfa4d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Avandra.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Avandra"
-                }
-              }
-            ],
-            "currentTab": 6
->>>>>>> parent of 67f6d18 (vault backup: 2025-11-28 06:57:51)
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "f858e899a9b911da",
+        "id": "6951d5cab2888335",
         "type": "tabs",
         "children": [
           {
-            "id": "c00c02a48f44bda8",
+            "id": "1e94059322fd0c8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/downtime.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "downtime"
-            }
-          },
-          {
-            "id": "80e5f5f58369627b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "Saltmarsh.md",
-=======
-                "file": "Corellon.md",
->>>>>>> parent of 67f6d18 (vault backup: 2025-11-28 06:57:51)
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Saltmarsh"
-            }
-          },
-          {
-            "id": "9aa715971abafde5",
-=======
-              "title": "Corellon"
-            }
-          },
-          {
-            "id": "ceed2613fb6c6d28",
->>>>>>> parent of 67f6d18 (vault backup: 2025-11-28 06:57:51)
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "Blackstone.md",
-=======
-                "file": "Kord.md",
->>>>>>> parent of 67f6d18 (vault backup: 2025-11-28 06:57:51)
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Blackstone"
-            }
-          },
-          {
-            "id": "edbfdbe8be34a5fa",
-=======
-              "title": "Kord"
-            }
-          },
-          {
-            "id": "9c061b1076901e7d",
->>>>>>> parent of 67f6d18 (vault backup: 2025-11-28 06:57:51)
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
                 "file": "Hammerkeep.md",
-=======
-                "file": "Raei.md",
->>>>>>> parent of 67f6d18 (vault backup: 2025-11-28 06:57:51)
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
               "title": "Hammerkeep"
             }
-          },
-          {
-            "id": "df1a098f8b47b910",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
-          },
-          {
-            "id": "ef38e899b5b42586",
-=======
-              "title": "Raei"
-            }
-          },
-          {
-            "id": "b60d9dd5ab3e3a0d",
->>>>>>> parent of 67f6d18 (vault backup: 2025-11-28 06:57:51)
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "rules/feats.md",
-=======
-                "file": "Luxon.md",
->>>>>>> parent of 67f6d18 (vault backup: 2025-11-28 06:57:51)
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "feats"
-            }
           }
-        ],
-
-        "currentTab": 11
-        "currentTab": 5
-
-=======
-              "title": "Luxon"
-            }
-          },
-          {
-            "id": "6fb0cdb20d2f3666",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Erathis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Erathis"
-            }
-          },
-          {
-            "id": "abcd5ffa5408af86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/priest.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "priest"
-            }
-          }
-        ],
-        "currentTab": 5
->>>>>>> parent of 67f6d18 (vault backup: 2025-11-28 06:57:51)
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6afa92a40f0f3aa2",
+    "id": "a21397677f100adb",
     "type": "split",
     "children": [
       {
-        "id": "019110ea24a0221f",
+        "id": "a4b435a19bc16080",
         "type": "tabs",
         "children": [
           {
-            "id": "04954975777ea847",
+            "id": "9196e0155e0ed328",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -704,7 +48,7 @@
             }
           },
           {
-            "id": "4bb38bc9dbeda035",
+            "id": "bc7d8f55fa091797",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -721,7 +65,7 @@
             }
           },
           {
-            "id": "87ba599f60c20aaf",
+            "id": "33e7e0af25720f19",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -737,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "f4b756e0c1bed7f5",
+    "id": "16831b33c7fa36cc",
     "type": "split",
     "children": [
       {
-        "id": "0ad716b5697d0053",
+        "id": "1db20ccf1b766055",
         "type": "tabs",
         "children": [
           {
-            "id": "605a486f212f0a2c",
+            "id": "d69dd8b0626e0a3c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hextemplate.md",
+                "file": "Hammerkeep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -760,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hextemplate"
+              "title": "Backlinks for Hammerkeep"
             }
           },
           {
-            "id": "e339cfba52b50f45",
+            "id": "a314b7a835d90566",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Hammerkeep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Hammerkeep"
             }
           },
           {
-            "id": "07ac5179a252c027",
+            "id": "f39fa6268d2aceb4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -793,18 +137,18 @@
             }
           },
           {
-            "id": "8ac19a2aeb54c3a6",
+            "id": "0e93e5287de2a5d7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Hammerkeep.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Hammerkeep"
             }
           }
         ]
@@ -816,110 +160,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "bases:Create new base": false
     }
   },
-<<<<<<< HEAD
-  "active": "ef38e899b5b42586",
-  "lastOpenFiles": [
-    "rules/soldier.md",
-    "rules/mercenaryveteran.md",
-    "rules/keelboat.md",
-    "Orc.md",
-    "Aarakocra.md",
-    "BidrithCrecur.md",
-    "Hammerkeep.md",
-    "rules/martialartsadept.md",
-    "SimpleRhela.md",
-    "Snerpi.md",
-    "RioraRunninggoat.md",
-    "secrets/npcs.md",
-    "BreckenDirtbone.md",
-    "rules/commoner.md",
-    "DalrigGravelmantle.md",
-    "cities.md",
-    "gods.md",
-    "Bahamut.md",
-    "rules/acolyte.md",
-    "rules/priest.md",
-    "rules/guard.md",
-
-  "active": "df1a098f8b47b910",
-  "lastOpenFiles": [
-    "rules/priest.md",
-    "rules/guard.md",
-    "Hammerkeep.md",
-    "TwinWoods.md",
-    "CircleofHealingArts.md",
-    "Chult.md",
-    "Chokewoods.md",
-    "Blackstone.md",
-
-    "BloodstoneHall.md",
-    "BidrithCrecur.md",
-    "rules/noble.md",
-    "LorStalk.md",
-    "gods.md",
-    "Sehanine.md",
-    "Luxon.md",
-    "Erathis.md",
-    "Gruumsh.md",
-    "Melora.md",
-    "Ioun.md",
-    "ThePrisoner.md",
-    "QueenoftheWoods.md",
-    "secrets/npcs.md",
-    "rules/entertainer.md",
-    "rules/fartraveller.md",
-    "WardenofHammerkeep.md",
-    "Umizu.md",
-=======
-  "active": "145b3d7770a46372",
-  "lastOpenFiles": [
-    "Erathis.md",
-    "gods.md",
-    "UnkindQueen.md",
-    "Asmodeus.md",
-    "Luxon.md",
-    "Avandra.md",
-    "LorStalk.md",
-    "Pelor.md",
-    "Raei.md",
-    "Ioun.md",
-    "Sehanine.md",
-    "BidrithCrecur.md",
-    "Hammerkeep.md",
-    "Lolth.md",
-    "RavenQueen.md",
-    "Moradin.md",
-    "Melora.md",
-    "Kord.md",
-    "rules/priest.md",
-    "Corellon.md",
-    "Bahamut.md",
-    "Gruumsh.md",
-    "SimpleRhela.md",
-    "Orc.md",
-    "Orn.md",
-    "Croaklands.md",
->>>>>>> parent of 67f6d18 (vault backup: 2025-11-28 06:57:51)
-    "images/map-nuoro.png",
-    "images",
-    "places",
-    "creatures",
-    "npcs",
-    "characters",
-    "stories",
-    "secrets",
-    "rules",
-    "dnd",
-    "daylog"
-  ]
+  "active": "9196e0155e0ed328",
+  "lastOpenFiles": []
 }
