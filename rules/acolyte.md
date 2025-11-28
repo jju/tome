@@ -6,7 +6,7 @@ Choose a god, a pantheon of gods, or some other quasi-divine being, and work wit
 - **Languages:** Two of your choice
 - **Equipment:** A holy symbol (a gift to you when you entered the priesthood), a prayer book or prayer wheel, 5 sticks of incense, vestments, a set of common clothes, and a pouch containing 15 gp
 
-### Feature: Shelter of the Faithful
+### Feature: Shelter of the Faithful[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FAcolyte_%28Background%29%3Fveaction%3Dedit%26section%3D2&uselang=en "Sign in to edit")
 
 As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. You and your adventuring companions can expect to receive free healing and care at a temple, shrine, or other established presence of your faith, though you must provide any material components needed for spells. Those who share your religion will support you (but only you) at a modest lifestyle.
 

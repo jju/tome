@@ -6,7 +6,7 @@ When you choose this background, work with your DM to determine which military o
 - **Tool Proficiencies:** One type of [gaming set](https://dnd-5e.fandom.com/wiki/Tools "Tools"), vehicles (land)
 - **Equipment:** An insignia of rank, a trophy taken from a fallen enemy (a [dagger](https://dnd-5e.fandom.com/wiki/Weapons "Weapons"), broken blade, or piece of a banner), a bone dice set or playing card set, a set of common clothes, and a pouch containing 10 gp
 
-### Role
+### Role[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FSoldier_%28Background%29%3Fveaction%3Dedit%26section%3D2&uselang=en "Sign in to edit")
 
 During your time as a soldier, you had a specific role to play in your unit or army. Roll a d8 or choose from the options in the table below to determine your role:
 
@@ -21,17 +21,17 @@ During your time as a soldier, you had a specific role to play in your unit or a
 |7|Standard-bearer|
 |8|Support staff (cook, blacksmith, or the like)|
 
-### Feature: Military Rank
+### Feature: Military Rank[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FSoldier_%28Background%29%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit")
 
 You have a military rank from your career as a soldier. Soldiers loyal to your former military organization still recognize your authority and influence, and they defer to you if they are of a lower rank. You can invoke your rank to exert influence over other soldiers and requisition simple equipment or horses for temporary use. You can also usually gain access to friendly military encampments and fortresses where your rank is recognized.
 
-## Baldur's Gate
+## Baldur's Gate[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FSoldier_%28Background%29%3Fveaction%3Dedit%26section%3D4&uselang=en "Sign in to edit")
 
 (Baldur's Gate: Descent into Avernus)
 
 Mercenaries, private guards, Watch soldiers, and members of the Flaming Fist number among just a few of the many soldiers on the streets of Baldur's Gate.
 
-### Baldur's Gate Feature: City Guard
+### Baldur's Gate Feature: City Guard[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FSoldier_%28Background%29%3Fveaction%3Dedit%26section%3D5&uselang=en "Sign in to edit")
 
 The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate — though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.
 
@@ -40,17 +40,17 @@ You may choose to currently serve in either the Flaming Fist or the Watch. If yo
 - **Flaming Fist:** If you serve in the Flaming Fist, once every ten days, you must report to the Seatower of Balduran for training, and you're required to take a regular shift patrolling either the Lower City or the Outer City. In return, you have access to the Flaming Fist's fortresses and a direct line of communication with Flaming Fist officers and other soldiers. You can also pass through the city's gates without question — although you can't bring guests into the Upper City as a member of the Watch might. Additionally, you're always welcome at the Three Old Kegs, where the Three Old Toads are glad to greet you with a smile and a mug of ale.
 - **The Watch:** If you serve in the Watch, you're required to conduct a regular patrol in the Upper City or take a regular shift at its gates, and must report for training in the Watch Citadel once every ten days. In return, you have access to the Citadel and a direct line of communication with Watch officers and officials. Your word carries considerable weight in the High Hall, and most establishments in the Citadel Streets neighborhood are happy to give you and your friends free meals. Additionally, you can escort people into the Upper City without question, regardless of whether they are patriars or have Watch tokens. Outside the Upper City, however, most people regard you with suspicion, and you generally get a chilly reception while in uniform.
 
-### Baldur's Gate Feature: Loyalty Test
+### Baldur's Gate Feature: Loyalty Test[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FSoldier_%28Background%29%3Fveaction%3Dedit%26section%3D6&uselang=en "Sign in to edit")
 
 The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate — though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.
 
 You've had enough dealings with crooked soldiers that you can spot the behaviors common to corrupt guards and military officers a mile away. While awareness of such corruption doesn't equate to evidence of it, and your sense certainly isn't foolproof, your instinct proves a useful starting point when determining who might take a bribe, who might turn a blind eye to a crime, or who might have criminal connections. You can also use this sense to get a feeling about who might fulfill their duties strictly by the book.
 
-## Suggested Characteristics
+## Suggested Characteristics[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FSoldier_%28Background%29%3Fveaction%3Dedit%26section%3D7&uselang=en "Sign in to edit")
 
 The horrors of war combined with the rigid discipline of military service leave their mark on all soldiers, shaping their ideals, creating strong bonds, and often leaving them scarred and vulnerable to fear, shame, and hatred.
 
-### Personality Traits
+### Personality Traits[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FSoldier_%28Background%29%3Fveaction%3Dedit%26section%3D8&uselang=en "Sign in to edit")
 
 - I'm always polite and respectful.
 - I'm haunted by memories of war. I can't get the images of violence out of my mind.
@@ -61,7 +61,7 @@ The horrors of war combined with the rigid discipline of military service leave 
 - I have a crude sense of humor.
 - I face problems head-on. A simple, direct solution is the best path to success.
 
-### Ideals
+### Ideals[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FSoldier_%28Background%29%3Fveaction%3Dedit%26section%3D9&uselang=en "Sign in to edit")
 
 - **Greater Good.** Our lot is to lay down our lives in defense of others. (Good)
 - **Responsibility.** I do what I must and obey just authority. (Lawful)
@@ -70,7 +70,7 @@ The horrors of war combined with the rigid discipline of military service leave 
 - **Live and Let Live.** Ideals aren't worth killing over or going to war for. (Neutral)
 - **Nation.** My city, nation, or people are all that matter. (Any)
 
-### Bonds
+### Bonds[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FSoldier_%28Background%29%3Fveaction%3Dedit%26section%3D10&uselang=en "Sign in to edit")
 
 - I would still lay down my life for the people I served with.
 - Someone saved my life on the battlefield. To this day, I will never leave a friend behind.
@@ -79,7 +79,7 @@ The horrors of war combined with the rigid discipline of military service leave 
 - Those who fight beside me are those worth dying for.
 - I fight for those who cannot fight for themselves.
 
-### Flaws
+### Flaws[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FSoldier_%28Background%29%3Fveaction%3Dedit%26section%3D11&uselang=en "Sign in to edit")
 
 - The monstrous enemy we faced in battle still leaves me quivering with fear.
 - I have little respect for anyone who is not a proven warrior.

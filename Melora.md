@@ -1,6 +1,0 @@
-
-#### Commandments
-
-
-
-> [gods](gods.md)

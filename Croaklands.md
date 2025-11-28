@@ -1,8 +1,8 @@
 # The Croaklands
 
-Mostly [Bullywug](Bullywug.md) and [Tortle](Tortle.md) communities in the swampy lands around [Farza Bay](FarzaBay.md). Neither suffering nor prospering, but mostly independent of the [Dantag Empire](DantagEmpire.md) (though [Rundan](Rundan.md) thinks they have more influence than is truly the case).
+[Bullywug](Bullywug.md) and [Tortle](Tortle.md) and  communities. Neither suffering nor prospering, but independent of the [Dantag Empire](DantagEmpire.md)
 
-The [Lizardfolk](Lizardfolk.md) Queen has been attempting to elevate their position through trade deals.
+Genteel queen attempting to elevate their position through trade deals.
 
 > [places](places.md)
 > 

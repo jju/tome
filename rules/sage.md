@@ -4,7 +4,7 @@ You spent years learning the lore of the multiverse. You scoured manuscripts, st
 - **Languages:** Two of your choice
 - **Equipment:** A bottle of black ink, a quill, a small knife, a letter from a dead colleague posing a question you have not yet been able to answer, a set of common clothes, and a pouch containing 10 gp
 
-### Field of Study
+### Field of Study[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FSage_%28Background%29%3Fveaction%3Dedit%26section%3D2&uselang=en "Sign in to edit")
 
 To determine the nature of your scholarly training, roll a d8 or choose from the options in the table below.
 
@@ -19,26 +19,27 @@ To determine the nature of your scholarly training, roll a d8 or choose from the
 |7|Wizard's apprentice|
 |8|Scribe|
 
-### Feature: Researcher
+### Feature: Researcher[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FSage_%28Background%29%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit")
+
 When you attempt to learn or recall a piece of lore, if you do not know that information, you often know where and from whom you can obtain it. Usually, this information comes from a library, scriptorium, university, or a sage or other learned person or creature, Your DM might rule that the knowledge you seek is secreted away in an almost inaccessible place, or that it simply cannot be found. Unearthing the deepest secrets of the multiverse can require an adventure or even a whole campaign.
 
-## Baldur's Gate
+## Baldur's Gate[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FSage_%28Background%29%3Fveaction%3Dedit%26section%3D4&uselang=en "Sign in to edit")
 
 (Baldur's Gate: Descent into Avernus)
 
 Baldur's Gate has a modest academic community centered around the libraries of the High Hall and the various temples dedicated to gods of learning and innovation. Lecturers, researchers, and historians all participate with passing scholars from Candlekeep in a lively exchange of ideas, debating and collaborating in book-filled halls across the Upper and Lower City. The city is also rife with opportunities for arcane study, although its masters are dispersed across individual wizards' abodes and lack concentrated communities.
 
-### Baldur's Gate Feature: Rumor Monger
+### Baldur's Gate Feature: Rumor Monger[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FSage_%28Background%29%3Fveaction%3Dedit%26section%3D5&uselang=en "Sign in to edit")
 
 The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate — though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.
 
 Via your personal rumor mill and articles published in Baldur's Mouth, you can surmise a great deal about Baldurians' secrets — who's practicing necromancy, who's involved in spying or smuggling, who would purchase or craft dangerous magical wares without batting an eyelash. Whenever a noteworthy crime or mysterious happening occurs in the city, you immediately have a list of 1d4 suspects who, if they aren't involved, have a strong chance of knowing who is.
 
-## Suggested Characteristics
+## Suggested Characteristics[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FSage_%28Background%29%3Fveaction%3Dedit%26section%3D6&uselang=en "Sign in to edit")
 
 Sages are defined by their extensive studies, and their characteristics reflect this life of study. Devoted to scholarly pursuits, a sage values knowledge highly — sometimes in its own right, sometimes as a means toward other ideals.
 
-### Personality Traits
+### Personality Traits[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FSage_%28Background%29%3Fveaction%3Dedit%26section%3D7&uselang=en "Sign in to edit")
 
 - I use polysyllabic words that convey the impression of great erudition.
 - I've read every book in the world's greatest libraries — or I like to boast that I have.
@@ -49,7 +50,7 @@ Sages are defined by their extensive studies, and their characteristics reflect 
 - I am horribly, horribly awkward in social situations.
 - I'm convinced that people are always trying to steal my secrets.
 
-### Ideals
+### Ideals[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FSage_%28Background%29%3Fveaction%3Dedit%26section%3D8&uselang=en "Sign in to edit")
 
 - **Knowledge.** The path to power and self-improvement is through knowledge. (Neutral)
 - **Beauty.** What is beautiful points us beyond itself toward what is true. (Good)
@@ -58,7 +59,7 @@ Sages are defined by their extensive studies, and their characteristics reflect 
 - **Power.** Knowledge is the path to power and domination. (Evil)
 - **Self-Improvement.** The goal of a life of study is the betterment of oneself. (Any)
 
-### Bonds
+### Bonds[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FSage_%28Background%29%3Fveaction%3Dedit%26section%3D9&uselang=en "Sign in to edit")
 
 - It is my duty to protect my students.
 - I have an ancient text that holds terrible secrets that must not fall into the wrong hands.
@@ -67,7 +68,7 @@ Sages are defined by their extensive studies, and their characteristics reflect 
 - I've been searching my whole life for the answer to a certain question.
 - I sold my soul for knowledge. I hope to do great deeds and win it back.
 
-### Flaws
+### Flaws[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FSage_%28Background%29%3Fveaction%3Dedit%26section%3D10&uselang=en "Sign in to edit")
 
 - I am easily distracted by the promise of information.
 - Most people scream and run when they see a demon. I stop and take notes on its anatomy.

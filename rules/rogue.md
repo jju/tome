@@ -87,16 +87,6 @@ Your quick thinking and agility allow you to move and act quickly. On your turn,
 
 You gain a Rogue subclass of your choice. A subclass is a specialization that grants you features at certain Rogue levels. For the rest of your career, you gain each of your subclass’s features that are of your Rogue level or lower.
 
-- [Arcane Trickster](https://dnd-5e.fandom.com/wiki/Rogue#Arcane_Trickster) (Player's Handbook, page 97)
-- [Assassin](https://dnd-5e.fandom.com/wiki/Rogue#Assassin) (Player's Handbook, page 97)
-- [Inquisitive](https://dnd-5e.fandom.com/wiki/Rogue#Inquisitive) (Xanathar's Guide to Everything, page 45)
-- [Mastermind](https://dnd-5e.fandom.com/wiki/Rogue#Mastermind) (Xanathar's Guide to Everything, page 46)
-- [Phantom](https://dnd-5e.fandom.com/wiki/Rogue#Phantom) (Tasha's Cauldron of Everything, page 62)
-- [Scout](https://dnd-5e.fandom.com/wiki/Rogue#Scout) (Xanathar's Guide to Everything, page 47)
-- [Soulknife](https://dnd-5e.fandom.com/wiki/Rogue#Soulknife) (Tasha's Cauldron of Everything, page 63)
-- [Swashbuckler](https://dnd-5e.fandom.com/wiki/Rogue#Swashbuckler) (Xanathar's Guide to Everything, page 47; Sword Coast Adventurer's Guide, page 135)
-- [Thief](https://dnd-5e.fandom.com/wiki/Rogue#Thief) (Player's Handbook, page 97)
-
 #### Level 3: Steady Aim
 
 As a Bonus Action, you give yourself Advantage on your next attack roll on the current turn. You can use this feature only if you haven’t moved during this turn, and after you use it, your Speed is 0 until the end of the current turn.

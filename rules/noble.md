@@ -15,23 +15,23 @@ These details help establish your family and your title as features of the world
 - **Languages:** One of your choice
 - **Equipment:** A set of fine clothes, a signet ring, a scroll of pedigree, and a purse containing 25 gp
 
-### Feature: Position of Privilege
+### Feature: Position of Privilege[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FNoble_%28Background%29%3Fveaction%3Dedit%26section%3D2&uselang=en "Sign in to edit")
 
 Thanks to your noble birth, people are inclined to think the best of you. You are welcome in high society, and people assume you have the right to be wherever you are. The common folk make every effort to accommodate you and avoid your displeasure, and other people of high birth treat you as a member of the same social sphere. You can secure an audience with a local noble if you need to.
 
-### Variant Feature: Retainers
+### Variant Feature: Retainers[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FNoble_%28Background%29%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit")
 
 If your character has a noble background, you may select this background feature instead of Position of Privilege.
 
 You have the service of three retainers loyal to your family. These retainers can be attendants or messengers, and one might be a majordomo. Your retainers are commoners who can perform mundane tasks for you, but they do not fight for you, will not follow you into obviously dangerous areas (such as dungeons), and will leave if they are frequently endangered or abused.
 
-## Variant: Knight
+## Variant: Knight[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FNoble_%28Background%29%3Fveaction%3Dedit%26section%3D4&uselang=en "Sign in to edit")
 
 A knighthood is among the lowest noble titles in most societies, but it can be a path to higher status. If you wish to be a knight, choose the Retainers feature instead of the Position of Privilege feature. One of your commoner retainers is replaced by a noble who serves as your squire, aiding you in exchange for training on his or her own path to knighthood. Your two remaining retainers might include a groom to care for your horse and a servant who polishes your armor (and even helps you put it on).
 
 As an emblem of chivalry and the ideals of courtly love, you might include among your equipment a banner or other token from a noble lord or lady to whom you have given your heart — in a chaste sort of devotion. (This person could be your bond.)
 
-## Baldur's Gate
+## Baldur's Gate[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FNoble_%28Background%29%3Fveaction%3Dedit%26section%3D5&uselang=en "Sign in to edit")
 
 (Baldur's Gate: Descent into Avernus)
 
@@ -39,17 +39,17 @@ The patriars of Baldur's Gate live in the Upper City, where they host grand gala
 
 This combination of worldly savvy and local blindness characterizes almost all the nobility of Baldur's Gate. As a result, for those who wish to play patriars, the Patriar feature below replaces the Position and Privilege feature of the noble background. Those who wish to use the background's standard feature might have gained their standing in Baldur's Gate from business rather than inheritance.
 
-### Baldur's Gate Feature: Patriar
+### Baldur's Gate Feature: Patriar[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FNoble_%28Background%29%3Fveaction%3Dedit%26section%3D6&uselang=en "Sign in to edit")
 
 The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate — though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.
 
 As a member of one of the elite families of Baldur's Gate, you may pass through city gates without paying tolls, mingle among the Gate's nobility unquestioned, and impress those on the lookout for wealthy patrons. You are welcome in the Upper City and may stay there after dark without being harassed or evicted. Your word is accepted over others' without question, and any corruption among guards or government officials tends to work in your favor, not against you — at least until you make some effort to expose it.
 
-## Suggested Characteristics
+## Suggested Characteristics[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FNoble_%28Background%29%3Fveaction%3Dedit%26section%3D7&uselang=en "Sign in to edit")
 
 Nobles are born and raised to a very different lifestyle than most people ever experience, and their personalities reflect that upbringing. A noble title comes with a plethora of bonds — responsibilities to family, to other nobles (including the sovereign), to the people entrusted to the family's care, or even to the title itself. But this responsibility is often a good way to undermine a noble.
 
-### Personality Traits
+### Personality Traits[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FNoble_%28Background%29%3Fveaction%3Dedit%26section%3D8&uselang=en "Sign in to edit")
 
 - My eloquent flattery makes everyone I talk to feel like the most wonderful and important person in the world.
 - The common folk love me for my kindness and generosity.
@@ -60,7 +60,7 @@ Nobles are born and raised to a very different lifestyle than most people ever e
 - My favor, once lost, is lost forever.
 - If you do me an injury, I will crush you, ruin your name, and salt your fields.
 
-### Ideals
+### Ideals[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FNoble_%28Background%29%3Fveaction%3Dedit%26section%3D9&uselang=en "Sign in to edit")
 
 - **Respect.** Respect is due to me because of my position, but all people regardless of station deserve to be treated with dignity. (Good)
 - **Responsibility.** It is my duty to respect the authority of those above me, just as those below me must respect mine. (Lawful)
@@ -69,7 +69,7 @@ Nobles are born and raised to a very different lifestyle than most people ever e
 - **Family.** Blood runs thicker than water. (Any)
 - **Noble Obligation.** It is my duty to protect and care for the people beneath me. (Good)
 
-### Bonds
+### Bonds[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FNoble_%28Background%29%3Fveaction%3Dedit%26section%3D10&uselang=en "Sign in to edit")
 
 - I will face any challenge to win the approval of my family.
 - My house's alliance with another noble family must be sustained at all costs.
@@ -78,7 +78,7 @@ Nobles are born and raised to a very different lifestyle than most people ever e
 - My loyalty to my sovereign is unwavering.
 - The common folk must see me as a hero of the people.
 
-### Flaws
+### Flaws[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FNoble_%28Background%29%3Fveaction%3Dedit%26section%3D11&uselang=en "Sign in to edit")
 
 - I secretly believe that everyone is beneath me.
 - I hide a truly scandalous secret that could ruin my family forever.
@@ -86,40 +86,3 @@ Nobles are born and raised to a very different lifestyle than most people ever e
 - I have an insatiable desire for carnal pleasures.
 - In fact, the world does revolve around me.
 - By my words and actions, I often bring shame to my family.
-
-# NPC Nobles
-
-[Noble](https://www.dndbeyond.com/monsters/5195145-noble)
-
-Medium Or Small Humanoid, Neutral
-AC 15    Initiative +1 (11)
-HP 9 (2d8)
-Speed 30 ft.
-
-|     |     | Mod | Save |
-| --- | --- | --- | ---- |
-| STR | 11  | +0  | +0   |
-| DEX | 12  | +1  | +1   |
-| CON | 11  | +0  | +0   |
-
-| | |Mod|Save|
-|---|---|---|---|
-|INT|12|+1|+1|
-|WIS|14|+2|+2|
-|CHA|16|+3|+3|
-**Skills** [Deception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +5, [Insight](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +4, [Persuasion](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +5
-**Gear** [Breastplate](https://www.dndbeyond.com/equipment/13-breastplate), [Rapier](https://www.dndbeyond.com/equipment/28-rapier)
-**Senses** Passive Perception 12
-**Languages** Common plus two other languages
-**CR** 1/8 (XP 25; PB +2)
-
-## Actions
-
-_**Rapier.** Melee Attack Roll:_ +3, reach 5 ft. _Hit:_ 5 (1d8 + 1) Piercing damage.
-
-## Reactions
-
-_**Parry.** Trigger:_ The noble is hit by a melee attack roll while holding a weapon. _Response:_ The noble adds 2 to its AC against that attack, possibly causing it to miss.
-
-> source: https://www.dndbeyond.com/monsters/5195145-noble
-> [npcs](npcs.md)
