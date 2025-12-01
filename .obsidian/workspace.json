@@ -287,12 +287,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/bard.md",
+                "file": "rules/druid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bard"
+              "title": "druid"
             }
           },
           {
@@ -461,6 +461,8 @@
   },
   "active": "6fb0cdb20d2f3666",
   "lastOpenFiles": [
+    "rules/cleric.md",
+    "rules/bard.md",
     "rules/barbarian.md",
     "rules/fighter.md",
     "rules/rogue.md",
@@ -485,8 +487,6 @@
     "Avandra.md",
     "LorStalk.md",
     "Pelor.md",
-    "Raei.md",
-    "Ioun.md",
     "images/map-nuoro.png",
     "images",
     "places",
