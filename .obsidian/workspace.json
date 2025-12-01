@@ -287,12 +287,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/druid.md",
+                "file": "rules/sage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "druid"
+              "title": "sage"
             }
           },
           {
@@ -461,6 +461,19 @@
   },
   "active": "6fb0cdb20d2f3666",
   "lastOpenFiles": [
+    "Rhig.md",
+    "CircleofHealingArts.md",
+    "Hammerkeep.md",
+    "Snerpi.md",
+    "Melora.md",
+    "gods.md",
+    "Siabsungkoh.md",
+    "TayyibEmpire.md",
+    "AkharinSangar.md",
+    "rules/warlock.md",
+    "rules/wizard.md",
+    "rules/sorcerer.md",
+    "rules/druid.md",
     "rules/cleric.md",
     "rules/bard.md",
     "rules/barbarian.md",
@@ -474,19 +487,6 @@
     "rules/reborn.md",
     "hateswords.md",
     "OldZhaalumi.md",
-    "Oakhurst.md",
-    "NineHells.md",
-    "HangmansLibrary.md",
-    "Blasingdell.md",
-    "Abyss.md",
-    "Eladrin.md",
-    "gods.md",
-    "UnkindQueen.md",
-    "Asmodeus.md",
-    "Luxon.md",
-    "Avandra.md",
-    "LorStalk.md",
-    "Pelor.md",
     "images/map-nuoro.png",
     "images",
     "places",
