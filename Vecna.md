@@ -4,7 +4,7 @@ The Lich Lord was once an archmage who cheated death and usurped power to become
 
 Symbolized by their hand and eye which were left behind when they were dissolved and reconstructed.
 
-They loathe the other gods, with an especial hatred for [Ioun](Ioun.md). The [Raven Queen](RavenQueen.md) hates Vecna for affronting her purpose.
+They loathe the other gods, with an especial hatred for [Ioun](Ioun.md). The [Raven Queen](UnkindQueen.md) hates Vecna for affronting her purpose.
 #### Commandments
 
 * Learn all you can and keep hidden what you know.

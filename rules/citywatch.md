@@ -8,10 +8,10 @@ Even if you're not city-born or city-bred, this background can describe your ear
 - **Languages:** Any two of your choice
 - **Equipment:** A uniform in the style of your unit and indicative of your rank, a horn with which to summon help, a set of manacles, and a pouch containing 10 gp
 
-### Feature: Watcher's Eye[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FCity_Watch%3Fveaction%3Dedit%26section%3D2&uselang=en "Sign in to edit")
+### Feature: Watcher's Eye
 
 Your experience in enforcing the law, and dealing with lawbreakers, gives you a feel for local laws and criminals. You can easily find the local outpost of the watch or a similar organization, and just as easily pick out the dens of criminal activity in a community, although you're more likely to be welcome in the former locations rather than the latter.
 
-## Variant: Investigator[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FCity_Watch%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit")
+## Variant: Investigator
 
 Rarer than watch or patrol members are a community's investigators, who are responsible for solving crimes after the fact. Though such folk are seldom found in rural areas, nearly every settlement of decent size has at least one or two watch members who have the skill to investigate crime scenes and track down criminals. If your prior experience is as an investigator, you have proficiency in Investigation rather than Athletics.

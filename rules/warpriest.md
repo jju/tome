@@ -38,6 +38,7 @@ Speed 30 ft.
 ## Background
 
 War priests worship deities of war, protection, and strategy. They plan tactics, lead soldiers into battle, confront enemy spellcasters, and tend to casualties.
+
 A war priest might command an army or serve as the right hand of a warlord (appears in this book) on the battlefield.
 
 War priests typically adorn themselves with a symbol of their faith. You can roll on the War Priest Holy Symbols table below, or choose one that fits your campaign.
