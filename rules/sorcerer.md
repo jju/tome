@@ -121,6 +121,14 @@ Whenever you gain a Sorcerer level, you can replace one of your Metamagic option
 
 You gain a Sorcerer subclass of your choice. A subclass is a specialization that grants you features at certain Sorcerer levels. For the rest of your career, you gain each of your subclass’s features that are of your Sorcerer level or lower.
 
+- [Aberrant Mind](https://dnd-5e.fandom.com/wiki/Sorcerer#Aberrant_Mind) (Tasha's Cauldron of Everything, page 66)
+- [Clockwork Soul](https://dnd-5e.fandom.com/wiki/Sorcerer#Clockwork_Soul) (Tasha's Cauldron of Everything, page 68)
+- [Divine Soul](https://dnd-5e.fandom.com/wiki/Sorcerer#Divine_Soul) (Xanathar's Guide to Everything, page 50)
+- [Draconic Bloodline](https://dnd-5e.fandom.com/wiki/Sorcerer#Draconic_Bloodline) (Player's Handbook, page 102)
+- [Pyromancer](https://dnd-5e.fandom.com/wiki/Sorcerer#Pyromancer) (Plane Shift: Kaladesh, page 9)
+- [Shadow Magic](https://dnd-5e.fandom.com/wiki/Sorcerer#Shadow_Magic) (Xanathar's Guide to Everything, page 50)
+- [Storm Sorcery](https://dnd-5e.fandom.com/wiki/Sorcerer#Storm_Sorcery) (Xanathar's Guide to Everything, page 51)
+- [Wild Magic](https://dnd-5e.fandom.com/wiki/Sorcerer#Wild_Magic) (Player's Handbook, page 103)
 #### Level 4: Ability Score Improvement
 
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.

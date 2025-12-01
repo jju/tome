@@ -113,8 +113,6 @@ While studying magic, you also specialized in another field of study. Choose one
 
 You gain a Wizard subclass of your choice. A subclass is a specialization that grants you features at certain Wizard levels. For the rest of your career, you gain each of your subclass’s features that are of your Wizard level or lower.
 
-#### Arcane Tradition (subclass alternative?)
-
 - [Bladesinging](https://dnd-5e.fandom.com/wiki/Wizard#Bladesinging) (Tasha's Cauldron of Everything, page 76; Sword Coast Adventurer's Guide, page 141)
 - [Chronurgy Magic](https://dnd-5e.fandom.com/wiki/Wizard#Chronurgy_Magic) (Explorer's Guide to Wildemount, page 184)
 - [Graviturgy Magic](https://dnd-5e.fandom.com/wiki/Wizard#Graviturgy_Magic) (Explorer's Guide to Wildemount, page 185)

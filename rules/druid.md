@@ -132,6 +132,14 @@ When you cast the spell in this way, the familiar is Fey and disappears when you
 
 You gain a Druid subclass of your choice. A subclass is a specialization that grants you features at certain Druid levels. For the rest of your career, you gain each of your subclass’s features that are of your Druid level or lower.
 
+- [Circle of Dreams](https://dnd-5e.fandom.com/wiki/Druid_\(Class\)#Circle_of_Dreams) (Xanathar's Guide to Everything, page 22)
+- [Circle of the Land](https://dnd-5e.fandom.com/wiki/Druid_\(Class\)#Circle_of_the_Land) (Player's Handbook, page 68)
+- [Circle of the Moon](https://dnd-5e.fandom.com/wiki/Druid_\(Class\)#Circle_of_the_Moon) (Player's Handbook, page 69)
+- [Circle of the Shepherd](https://dnd-5e.fandom.com/wiki/Druid_\(Class\)#Circle_of_the_Shepherd) (Xanathar's Guide to Everything, page 23)
+- [Circle of Spores](https://dnd-5e.fandom.com/wiki/Druid_\(Class\)#Circle_of_Spores) (Tasha's Cauldron of Everything, page 36; Guildmasters' Guide to Ravnica, page 26)
+- [Circle of Stars](https://dnd-5e.fandom.com/wiki/Druid_\(Class\)#Circle_of_Stars) (Tasha's Cauldron of Everything, page 38)
+- [Circle of Wildfire](https://dnd-5e.fandom.com/wiki/Druid_\(Class\)#Circle_of_Wildfire) (Tasha's Cauldron of Everything, page 39)
+
 #### Level 4: Ability Score Improvement
 
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.

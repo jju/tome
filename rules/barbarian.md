@@ -101,6 +101,15 @@ You can throw aside all concern for defense to attack with increased ferocity. W
 
 You gain a Barbarian subclass of your choice. A subclass is a specialization that grants you features at certain Barbarian levels. For the rest of your career, you gain each of your subclass’s features that are of your Barbarian level or lower.
 
+- [Path of the Ancestral Guardian](https://dnd-5e.fandom.com/wiki/Barbarian#Path_of_the_Ancestral_Guardian) (Xanathar's Guide to Everything, page 9)
+- [Path of the Battlerager](https://dnd-5e.fandom.com/wiki/Barbarian#Path_of_the_Battlerager) (Sword Coast Adventurer's Guide, page 121)
+- [Path of the Beast](https://dnd-5e.fandom.com/wiki/Barbarian#Path_of_the_Beast) (Tasha's Cauldron of Everything, page 24)
+- [Path of the Berserker](https://dnd-5e.fandom.com/wiki/Barbarian#Path_of_the_Berserker) (Player's Handbook, page 49)
+- [Path of the Storm Herald](https://dnd-5e.fandom.com/wiki/Barbarian#Path_of_the_Storm_Herald) (Xanathar's Guide to Everything, page 9)
+- [Path of the Totem Warrior](https://dnd-5e.fandom.com/wiki/Barbarian#Path_of_the_Totem_Warrior) (Player's Handbook, page 50; Sword Coast Adventurer's Guide, page 121)
+- [Path of Wild Magic](https://dnd-5e.fandom.com/wiki/Barbarian#Path_of_Wild_Magic) (Tasha's Cauldron of Everything, page 25)
+- [Path of the Zealot](https://dnd-5e.fandom.com/wiki/Barbarian#Path_of_the_Zealot) (Xanathar's Guide to Everything, page 11)
+
 #### Level 3: Primal Knowledge
 
 You gain proficiency in another skill of your choice from the skill list available to Barbarians at level 1.

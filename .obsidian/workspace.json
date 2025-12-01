@@ -1,330 +1,174 @@
 {
   "main": {
-    "id": "03c0e53f35943eb1",
+    "id": "e5d3ad0ddf00d013",
     "type": "split",
     "children": [
       {
-        "id": "f5c5ad225e82c4cf",
-        "type": "split",
-        "children": [
-          {
-            "id": "77e6c386eb065c62",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "db6b6a2ae558c905",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "world.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "world"
-                }
-              },
-              {
-                "id": "145b3d7770a46372",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Eladrin.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Eladrin"
-                }
-              },
-              {
-                "id": "b457c074468be4b2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "towns.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "towns"
-                }
-              },
-              {
-                "id": "e31c379c2d800880",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Hammerford.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Hammerford"
-                }
-              },
-              {
-                "id": "623f6409f3ec9016",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Kenku.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Kenku"
-                }
-              },
-              {
-                "id": "ce4b4334239bef16",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/index.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "index"
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "088bada69a0d8019",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e8c9c6db23647948",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Croaklands.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Croaklands"
-                }
-              },
-              {
-                "id": "7b7da8fda845501e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Keelmont.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Keelmont"
-                }
-              },
-              {
-                "id": "3018d520ba9130e9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Chult.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Chult"
-                }
-              },
-              {
-                "id": "ed94803605ae3f69",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Bahamut.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Bahamut"
-                }
-              },
-              {
-                "id": "ea8bc78741220360",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Bahamut.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Bahamut"
-                }
-              },
-              {
-                "id": "6204a49e23560c43",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "LorStalk.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "LorStalk"
-                }
-              },
-              {
-                "id": "3fc0b379712dfa4d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Avandra.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Avandra"
-                }
-              }
-            ],
-            "currentTab": 6
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "f858e899a9b911da",
+        "id": "6951d5cab2888335",
         "type": "tabs",
         "children": [
           {
-            "id": "c00c02a48f44bda8",
+            "id": "1e94059322fd0c8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/downtime.md",
+                "file": "ArcanePurge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "downtime"
+              "title": "ArcanePurge"
             }
           },
           {
-            "id": "80e5f5f58369627b",
+            "id": "4cd7abecbc44cbd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Corellon.md",
+                "file": "HangmansLibrary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Corellon"
+              "title": "HangmansLibrary"
             }
           },
           {
-            "id": "ceed2613fb6c6d28",
+            "id": "b2f1bc6709911363",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kord.md",
+                "file": "Asmodeus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kord"
+              "title": "Asmodeus"
             }
           },
           {
-            "id": "9c061b1076901e7d",
+            "id": "6ce5c2fc14ae6144",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raei.md",
+                "file": "rules/knightorder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Raei"
-            }
-          },
-          {
-            "id": "b60d9dd5ab3e3a0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Luxon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Luxon"
-            }
-          },
-          {
-            "id": "6fb0cdb20d2f3666",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/sage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "sage"
-            }
-          },
-          {
-            "id": "abcd5ffa5408af86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/priest.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "priest"
+              "title": "knightorder"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
+      },
+      {
+        "id": "ce196e2f9001aae7",
+        "type": "split",
+        "children": [
+          {
+            "id": "6b20df96ac8835da",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2b671f0df9863f2a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Kobold.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Kobold"
+                }
+              },
+              {
+                "id": "2771a0702e231c15",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Abyss.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Abyss"
+                }
+              },
+              {
+                "id": "8029467d64b9f180",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "GoldenDragons.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "GoldenDragons"
+                }
+              },
+              {
+                "id": "f1f44a7517f00e31",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Kord.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Kord"
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "f95a241c1a1d9096",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9e0065d6ce223b91",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "gods.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "gods"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6afa92a40f0f3aa2",
+    "id": "a21397677f100adb",
     "type": "split",
     "children": [
       {
-        "id": "019110ea24a0221f",
+        "id": "a4b435a19bc16080",
         "type": "tabs",
         "children": [
           {
-            "id": "04954975777ea847",
+            "id": "9196e0155e0ed328",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -337,7 +181,7 @@
             }
           },
           {
-            "id": "4bb38bc9dbeda035",
+            "id": "bc7d8f55fa091797",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -354,7 +198,7 @@
             }
           },
           {
-            "id": "87ba599f60c20aaf",
+            "id": "33e7e0af25720f19",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -370,20 +214,20 @@
     "width": 300
   },
   "right": {
-    "id": "f4b756e0c1bed7f5",
+    "id": "16831b33c7fa36cc",
     "type": "split",
     "children": [
       {
-        "id": "0ad716b5697d0053",
+        "id": "1db20ccf1b766055",
         "type": "tabs",
         "children": [
           {
-            "id": "605a486f212f0a2c",
+            "id": "d69dd8b0626e0a3c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hextemplate.md",
+                "file": "Kobold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -393,25 +237,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hextemplate"
+              "title": "Backlinks for Kobold"
             }
           },
           {
-            "id": "e339cfba52b50f45",
+            "id": "a314b7a835d90566",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Kobold.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Kobold"
             }
           },
           {
-            "id": "07ac5179a252c027",
+            "id": "f39fa6268d2aceb4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -426,18 +270,18 @@
             }
           },
           {
-            "id": "8ac19a2aeb54c3a6",
+            "id": "0e93e5287de2a5d7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Kobold.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Kobold"
             }
           }
         ]
@@ -449,54 +293,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "bases:Create new base": false
     }
   },
-  "active": "6fb0cdb20d2f3666",
+  "active": "6ce5c2fc14ae6144",
   "lastOpenFiles": [
-    "Rhig.md",
-    "CircleofHealingArts.md",
-    "Hammerkeep.md",
-    "Snerpi.md",
-    "Melora.md",
+    "BreckenDirtbone.md",
+    "GoldenDragons.md",
     "gods.md",
-    "Siabsungkoh.md",
-    "TayyibEmpire.md",
-    "AkharinSangar.md",
-    "rules/warlock.md",
+    "factions.md",
+    "secrets/world.md",
+    "Hammerkeep.md",
+    "WardenofHammerkeep.md",
+    "Barbarian.md",
+    "Bard.md",
+    "rules/yuan-ti.md",
     "rules/wizard.md",
+    "rules/warlock.md",
     "rules/sorcerer.md",
+    "rules/rogue.md",
+    "rules/ranger.md",
+    "rules/paladin.md",
+    "rules/monk.md",
+    "rules/knightorder.md",
+    "rules/knight.md",
+    "rules/fighter.md",
     "rules/druid.md",
     "rules/cleric.md",
     "rules/bard.md",
     "rules/barbarian.md",
-    "rules/fighter.md",
-    "rules/rogue.md",
-    "rules/monk.md",
-    "rules/paladin.md",
-    "rules/ranger.md",
-    "Erathis.md",
-    "rules/scout.md",
-    "rules/reborn.md",
-    "hateswords.md",
-    "OldZhaalumi.md",
-    "images/map-nuoro.png",
-    "images",
-    "places",
-    "creatures",
-    "npcs",
-    "characters",
-    "stories",
-    "secrets",
-    "rules",
-    "dnd",
-    "daylog"
+    "Blasingdell.md",
+    "NineHells.md"
   ]
 }

@@ -112,6 +112,16 @@ If a Channel Divinity effect requires a saving throw, the DC equals the spell sa
 
 You gain a Paladin subclass of your choice. A subclass is a specialization that grants you features at certain Paladin levels. For the rest of your career, you gain each of your subclass’s features that are of your Paladin level or lower.
 
+- [Oath of the Ancients](https://dnd-5e.fandom.com/wiki/Paladin#Oath_of_the_Ancients) (Player's Handbook, page 86)
+- [Oath of Conquest](https://dnd-5e.fandom.com/wiki/Paladin#Oath_of_Conquest) (Xanathar's Guide to Everything, page 37)
+- [Oath of the Crown](https://dnd-5e.fandom.com/wiki/Paladin#Oath_of_the_Crown) (Sword Coast Adventurer's Guide, page 132)
+- [Oath of Devotion](https://dnd-5e.fandom.com/wiki/Paladin#Oath_of_Devotion) (Player's Handbook, page 85)
+- [Oath of Glory](https://dnd-5e.fandom.com/wiki/Paladin#Oath_of_Glory) (Tasha's Cauldron of Everything, page 53; Mythic Odysseys of Theros, page 29)
+- [Oath of Redemption](https://dnd-5e.fandom.com/wiki/Paladin#Oath_of_Redemption) (Xanathar's Guide to Everything, page 38)
+- [Oath of Vengeance](https://dnd-5e.fandom.com/wiki/Paladin#Oath_of_Vengeance) (Player's Handbook, page 87)
+- [Oath of the Watchers](https://dnd-5e.fandom.com/wiki/Paladin#Oath_of_the_Watchers) (Tasha's Cauldron of Everything, page 54)
+- [Oathbreaker](https://dnd-5e.fandom.com/wiki/Paladin#Oathbreaker) (Dungeon Master's Guide, page 97)
+
 #### Level 4: Ability Score Improvement
 
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.

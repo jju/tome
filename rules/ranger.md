@@ -107,6 +107,15 @@ You gain a Fighting Style feat of your choice. Instead of choosing one of those 
 
 You gain a [Ranger Subclass](ranger.md#Ranger%20Subclasses) of your choice. A subclass is a specialization that grants you features at certain Ranger levels. For the rest of your career, you gain each of your subclass’s features that are of your Ranger level or lower.
 
+- [Beast Master](https://dnd-5e.fandom.com/wiki/Ranger#Beast_Master) (Player's Handbook, page 93)
+- [Drakewarden](https://dnd-5e.fandom.com/wiki/Ranger#Drakewarden) (Fizban's Treasury of Dragons, page 15)
+- [Fey Wanderer](https://dnd-5e.fandom.com/wiki/Ranger#Fey_Wanderer) (Tasha's Cauldron of Everything, page 58)
+- [Gloom Stalker](https://dnd-5e.fandom.com/wiki/Ranger#Gloom_Stalker) (Xanathar's Guide to Everything, page 41)
+- [Horizon Walker](https://dnd-5e.fandom.com/wiki/Ranger#Horizon_Walker) (Xanathar's Guide to Everything, page 42)
+- [Hunter](https://dnd-5e.fandom.com/wiki/Ranger#Hunter) (Player's Handbook, page 93)
+- [Monster Slayer](https://dnd-5e.fandom.com/wiki/Ranger#Monster_Slayer) (Xanathar's Guide to Everything, page 43)
+- [Swarmkeeper](https://dnd-5e.fandom.com/wiki/Ranger#Swarmkeeper) (Tasha's Cauldron of Everything, page 59)
+
 #### Level 4: Ability Score Improvement
 
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Ranger levels 8, 12, and 16.

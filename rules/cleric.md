@@ -100,6 +100,25 @@ You roll an additional d8 when you reach Cleric levels 7 (2d8), 13 (3d8), and 18
 
 You gain a Cleric subclass of your choice. A subclass is a specialization that grants you features at certain Cleric levels. For the rest of your career, you gain each of your subclass’s features that are of your Cleric level or lower.
 
+- [Ambition Domain](https://dnd-5e.fandom.com/wiki/Cleric#Ambition_Domain) (Plane Shift: Amonkhet, page 27)
+- [Arcana Domain](https://dnd-5e.fandom.com/wiki/Cleric#Arcana_Domain) (Sword Coast Adventurer's Guide, page 125)
+- [Death Domain](https://dnd-5e.fandom.com/wiki/Cleric#Death_Domain) (Dungeon Master's Guide, page 96)
+- [Forge Domain](https://dnd-5e.fandom.com/wiki/Cleric#Forge_Domain) (Xanathar's Guide to Everything, page 18)
+- [Grave Domain](https://dnd-5e.fandom.com/wiki/Cleric#Grave_Domain) (Xanathar's Guide to Everything, page 19)
+- [Knowledge Domain](https://dnd-5e.fandom.com/wiki/Cleric#Knowledge_Domain) (Player's Handbook, page 59)
+- [Life Domain](https://dnd-5e.fandom.com/wiki/Cleric#Life_Domain) (Player's Handbook, page 60)
+- [Light Domain](https://dnd-5e.fandom.com/wiki/Cleric#Light_Domain) (Player's Handbook, page 60)
+- [Nature Domain](https://dnd-5e.fandom.com/wiki/Cleric#Nature_Domain) (Player's Handbook, page 61)
+- [Order Domain](https://dnd-5e.fandom.com/wiki/Cleric#Order_Domain) (Tasha's Cauldron of Everything, page 31; Guildmasters' Guide to Ravnica, page 25)
+- [Peace Domain](https://dnd-5e.fandom.com/wiki/Cleric#Peace_Domain) (Tasha's Cauldron of Everything, page 33)
+- [Solidarity Domain](https://dnd-5e.fandom.com/wiki/Cleric#Solidarity_Domain) (Plane Shift: Amonkhet, page 24)
+- [Strength Domain](https://dnd-5e.fandom.com/wiki/Cleric#Strength_Domain) (Plane Shift: Amonkhet, page 25)
+- [Tempest Domain](https://dnd-5e.fandom.com/wiki/Cleric#Tempest_Domain) (Player's Handbook, page 62)
+- [Trickery Domain](https://dnd-5e.fandom.com/wiki/Cleric#Trickery_Domain) (Player's Handbook, page 62)
+- [Twilight Domain](https://dnd-5e.fandom.com/wiki/Cleric#Twilight_Domain) (Tasha's Cauldron of Everything, page 34)
+- [War Domain](https://dnd-5e.fandom.com/wiki/Cleric#War_Domain) (Player's Handbook, page 63)
+- [Zeal Domain](https://dnd-5e.fandom.com/wiki/Cleric#Zeal_Domain) (Plane Shift: Amonkhet, page 28)
+
 #### Level 4: Ability Score Improvement
 
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Cleric levels 8, 12, and 16.

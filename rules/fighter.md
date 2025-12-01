@@ -87,6 +87,17 @@ You have a mind for tactics on and off the battlefield. When you fail an ability
 
 You gain a Fighter subclass of your choice. A subclass is a specialization that grants you features at certain Fighter levels. For the rest of your career, you gain each of your subclass’s features that are of your Fighter level or lower.
 
+- [Arcane Archer](https://dnd-5e.fandom.com/wiki/Fighter#Arcane_Archer) (Xanathar's Guide to Everything, page 28)
+- [Battle Master](https://dnd-5e.fandom.com/wiki/Fighter#Battle_Master) (Player's Handbook, page 73)
+- [Cavalier](https://dnd-5e.fandom.com/wiki/Fighter#Cavalier) (Xanathar's Guide to Everything, page 30)
+- [Champion](https://dnd-5e.fandom.com/wiki/Fighter#Champion) (Player's Handbook, page 72)
+- [Echo Knight](https://dnd-5e.fandom.com/wiki/Fighter#Echo_Knight) (Explorer's Guide to Wildemount, pages 183-184)
+- [Eldritch Knight](https://dnd-5e.fandom.com/wiki/Fighter#Eldritch_Knight) (Player's Handbook, page 74)
+- [Psi Warrior](https://dnd-5e.fandom.com/wiki/Fighter#Psi_Warrior) (Tasha's Cauldron of Everything, page 42)
+- [Purple Dragon Knight](https://dnd-5e.fandom.com/wiki/Fighter#Purple_Dragon_Knight) (Sword Coast Adventurer's Guide, page 128)
+- [Rune Knight](https://dnd-5e.fandom.com/wiki/Fighter#Rune_Knight) (Tasha's Cauldron of Everything, page 44)
+- [Samurai](https://dnd-5e.fandom.com/wiki/Fighter#Samurai) (Xanathar's Guide to Everything, page 31)
+
 #### Level 4: Ability Score Improvement
 
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Fighter levels 6, 8, 12, 14, and 16.

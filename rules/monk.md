@@ -114,6 +114,17 @@ If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of 
 
 You gain a Monk subclass of your choice. A subclass is a specialization that grants you features at certain Monk levels. For the rest of your career, you gain each of your subclass’s features that are of your Monk level or lower.
 
+- [Way of the Ascendant Dragon](https://dnd-5e.fandom.com/wiki/Monk#Way_of_the_Ascendant_Dragon) (Fizban's Treasury of Dragons, page 13)
+- [Way of the Astral Self](https://dnd-5e.fandom.com/wiki/Monk#Way_of_the_Astral_Self) (Tasha's Cauldron of Everything, page 50)
+- [Way of the Drunken Master](https://dnd-5e.fandom.com/wiki/Monk#Way_of_the_Drunken_Master) (Xanathar's Guide to Everything, page 33)
+- [Way of the Four Elements](https://dnd-5e.fandom.com/wiki/Monk#Way_of_the_Four_Elements) (Player's Handbook, page 80)
+- [Way of the Kensei](https://dnd-5e.fandom.com/wiki/Monk#Way_of_the_Kensei) (Xanathar's Guide to Everything, page 34)
+- [Way of the Long Death](https://dnd-5e.fandom.com/wiki/Monk#Way_of_the_Long_Death) (Sword Coast Adventurer's Guide, page 130)
+- [Way of Mercy](https://dnd-5e.fandom.com/wiki/Monk#Way_of_Mercy) (Tasha's Cauldron of Everything, page 49)
+- [Way of the Open Hand](https://dnd-5e.fandom.com/wiki/Monk#Way_of_the_Open_Hand) (Player's Handbook, page 79)
+- [Way of Shadow](https://dnd-5e.fandom.com/wiki/Monk#Way_of_Shadow) (Player's Handbook, page 80)
+- [Way of the Sun Soul](https://dnd-5e.fandom.com/wiki/Monk#Way_of_the_Sun_Soul) (Xanathar's Guide to Everything, page 35)
+
 #### Level 4: Ability Score Improvement
 
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.

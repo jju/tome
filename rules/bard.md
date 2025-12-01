@@ -108,6 +108,15 @@ For example, if you make a Strength ([Athletics](https://www.dndbeyond.com/sourc
 
 You gain a Bard subclass of your choice. A subclass is a specialization that grants you features at certain Bard levels. For the rest of your career, you gain each of your subclass’s features that are of your Bard level or lower.
 
+- [College of Creation](https://dnd-5e.fandom.com/wiki/Bard_\(Class\)#College_of_Creation) (Tasha's Cauldron of Everything, page 28)
+- [College of Eloquence](https://dnd-5e.fandom.com/wiki/Bard_\(Class\)#College_of_Eloquence) (Tasha's Cauldron of Everything, page 29; Mythic Odysseys of Theros, page 28)
+- [College of Glamour](https://dnd-5e.fandom.com/wiki/Bard_\(Class\)#College_of_Glamour) (Xanathar's Guide to Everything, page 14)
+- [College of Lore](https://dnd-5e.fandom.com/wiki/Bard_\(Class\)#College_of_Lore) (Player's Handbook, page 54)
+- [College of Spirits](https://dnd-5e.fandom.com/wiki/Bard_\(Class\)#College_of_Spirits) (Van Richten's Guide to Ravenloft, page 28)
+- [College of Swords](https://dnd-5e.fandom.com/wiki/Bard_\(Class\)#College_of_Swords) (Xanathar's Guide to Everything, page 15)
+- [College of Valor](https://dnd-5e.fandom.com/wiki/Bard_\(Class\)#College_of_Valor) (Player's Handbook, page 55)
+- [College of Whispers](https://dnd-5e.fandom.com/wiki/Bard_\(Class\)#College_of_Whispers) (Xanathar's Guide to Everything, page 16)
+
 #### Level 4: Ability Score Improvement
 
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Bard levels 8, 12, and 16.
