@@ -1,4 +1,4 @@
-
+Plasmoids are amorphous beings with no typical shape. In the presence of other folk, they often adopt a similar shape, but there's little chance of mistaking a plasmoid for anything else.
 ## Plasmoid Traits
 (Astral Adventurer's Guide, page 14)
 

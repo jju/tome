@@ -1,4 +1,4 @@
-Eladrin are elves of the Feywild, a realm of perilous beauty and boundless magic. Using that magic, eladrin can step from one place to another in the blink of an eye, and each eladrin resonates with emotions captured in the Feywild in the form of seasons-affinities that affect the eladrin's mood and appearance. An eladrin's season can change, though some remain in one season forever. 
+Eladrin are elves of the [Feywild](Feywild.md), a realm of perilous beauty and boundless magic. Using that magic, eladrin can step from one place to another in the blink of an eye, and each eladrin resonates with emotions captured in the Feywild in the form of seasons-affinities that affect the eladrin's mood and appearance. An eladrin's season can change, though some remain in one season forever. 
 
 Choose your season or roll on the Eladrin Seasons table.
 Your Trance trait lets you change your season.
@@ -15,9 +15,9 @@ Like other elves, eladrin can live to be over 750 years old.
 
 ## Eladrin Traits
 
-**Creature Type.** Humanoid (Also considered an elf for any prerequisite or effect that requires one to be an elf.)
-**Size.** Medium
-**Speed.** 30 feet
+**Creature Type:** Humanoid (Also considered an elf for any prerequisite or effect that requires one to be an elf.)
+**Size:** Medium
+**Speed:** 30 feet
 
 #### Darkvision
 
@@ -71,7 +71,7 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 
 When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
 
-## Autumn Eladrin
+# Autumn Eladrin
 
 Eladrin often enter the autumn season when they are overcome by feelings of goodwill. In this aspect, they defuse conflicts and alleviate suffering by using their magic to relieve any ailments that afflict the people who come to them for aid. They tolerate no violence in their presence and move quickly to settle disputes, to ensure that peace continues to reign.
 
@@ -128,9 +128,11 @@ Whenever the eladrin deals damage to the charmed creature, the charmed creature 
 
 ***Foster Peace.*** If a creature charmed by the eladrin hits with an attack roll while within 60 feet of the eladrin, the eladrin magically causes the attack to miss, provided the eladrin can see the attacker.
 
-## Spring Eladrin
+# Spring Eladrin
 
 Their hearts filled with joy, spring eladrin cavort through their sylvan realms, their songs and laughter filling the air. These playful eladrin beguile other creatures to fill them with the joy of spring. Their antics can lead other creatures into danger and make mischief for them.
+
+## Spring Eladrin
 
 Medium Fey (E), Typically Chaotic Neutral
 Armor Class 19 (natural armor)

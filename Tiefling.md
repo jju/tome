@@ -6,7 +6,8 @@ A tiefling chooses whether to embrace or lament their fiendish legacy. The three
 ## Characters
 
 * [Fillika](Fillika.md)
-* 
+* TieflingRanger - Gloom
+* [WardenofHammerkeep](WardenofHammerkeep.md)
 
 
 > source: https://www.dndbeyond.com/species/1751443-tiefling 

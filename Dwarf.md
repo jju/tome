@@ -4,7 +4,9 @@ Squat and often bearded, the original dwarves carved cities and strongholds into
 
 ## Characters
 
-* men stoneseeker
+* Mek Stoneseeker
+* [DalrigGravelmantle](DalrigGravelmantle.md) - priest of [Erathis](Erathis.md) in [Hammerkeep](Hammerkeep.md)
+* [Urdl](Urdl.md) - merchant heading to [Dracolathe](Dracolathe.md)
 
 ![dwarf](rules/dwarf.md)
 
