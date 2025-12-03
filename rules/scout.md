@@ -1,3 +1,4 @@
+# Scout
 [Scout](https://www.dndbeyond.com/monsters/5174957-scout)
 
 Medium Or Small Humanoid, Neutral
