@@ -8,7 +8,7 @@ Although generally poor swimmers, tortles are capable of floating on water and c
 
 ## Characters
 
-* Sunny
+* [Sunny](Sunny.md) 
 
 
 ![tortle](rules/tortle.md)

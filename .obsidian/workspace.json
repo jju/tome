@@ -192,12 +192,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Skytusk.md",
+                    "file": "Ratfolk.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Skytusk"
+                  "title": "Ratfolk"
                 }
               },
               {
@@ -418,6 +418,19 @@
   },
   "active": "ea3533f5edfbc5a5",
   "lastOpenFiles": [
+    "Talon.md",
+    "Tharizdun.md",
+    "world.md",
+    "Wyrmshood.md",
+    "Xuedei.md",
+    "Yeonido.md",
+    "Yongjing.md",
+    "Zhaalum.md",
+    "Zinda.md",
+    "Vasha.md",
+    "Tortle.md",
+    "Sunny.md",
+    "Skytusk.md",
     "secrets/npcs.md",
     "RioraRunninggoat.md",
     "ThePrisoner.md",
@@ -430,19 +443,6 @@
     "Tabaxi.md",
     "UndergroundThree.md",
     "WardenofHammerkeep.md",
-    "Green.md",
-    "Dwarf.md",
-    "Urdl.md",
-    "Gnome.md",
-    "Hammerkeep.md",
-    "Orc.md",
-    "Kobold.md",
-    "Dragonborn.md",
-    "rules/eladrin.md",
-    "rules/plasmoid.md",
-    "rules/dragonborn.md",
-    "Cyzzarun.md",
-    "rules/archdruid.md",
-    "Miergag.md"
+    "Green.md"
   ]
 }
