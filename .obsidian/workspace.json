@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyzzarun.md",
+                "file": "rules/plasmoid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cyzzarun"
+              "title": "plasmoid"
             }
           }
         ],
@@ -187,6 +187,20 @@
                 }
               },
               {
+                "id": "ea3533f5edfbc5a5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "secrets/npcs.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "npcs"
+                }
+              },
+              {
                 "id": "f1f44a7517f00e31",
                 "type": "leaf",
                 "state": {
@@ -201,7 +215,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           },
           {
             "id": "f95a241c1a1d9096",
@@ -213,15 +227,44 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/aarakocra.md",
+                    "file": "Abyss.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "aarakocra"
+                  "title": "Abyss"
+                }
+              },
+              {
+                "id": "09269706127143b4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "rules/archdruid.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "archdruid"
+                }
+              },
+              {
+                "id": "c08fd12cddcb4b19",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "rules/plasmoid.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "plasmoid"
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -375,15 +418,22 @@
   },
   "active": "a6cbacd88e419232",
   "lastOpenFiles": [
+    "rules/dragonborn.md",
+    "rules/plasmoid.md",
+    "Cyzzarun.md",
+    "rules/archdruid.md",
+    "Miergag.md",
+    "secrets/npcs.md",
+    "rules/reddragon.md",
+    "Dracolathe.md",
+    "Abyss.md",
+    "rules/aarakocra.md",
     "rules/golddragon.md",
     "rules/bandit.md",
     "GoldenDragons.md",
-    "Cyzzarun.md",
-    "Dracolathe.md",
     "Ratfolk.md",
     "rules/ratfolk.md",
     "Bard.md",
-    "rules/aarakocra.md",
     "gods.md",
     "rules/raider.md",
     "rules/marine.md",
@@ -393,13 +443,6 @@
     "rules/smuggler.md",
     "rules/scout.md",
     "rules/orc.md",
-    "rules/wererat.md",
-    "rules/allip.md",
-    "rules/warpriest.md",
-    "UnkindQueen.md",
-    "RavenQueen.md",
-    "rules/warlord.md",
-    "rules/paladin.md",
-    "rules/citywatch.md"
+    "rules/wererat.md"
   ]
 }
