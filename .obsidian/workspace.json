@@ -265,12 +265,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dracolathe.md",
+                "file": "history.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dracolathe"
+              "title": "history"
             }
           }
         ],
@@ -409,12 +409,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/plasmoid.md",
+                    "file": "secrets/world.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "plasmoid"
+                  "title": "world"
                 }
               }
             ],
@@ -572,6 +572,11 @@
   },
   "active": "0ba3383ffaf23b18",
   "lastOpenFiles": [
+    "secrets/world.md",
+    "history.md",
+    "rules/plasmoid.md",
+    "Dracolathe.md",
+    "DjayaniJanya.md",
     "Bedwistre.md",
     "Battlemoor.md",
     "rules/gelatinouscube.md",
@@ -592,11 +597,6 @@
     "rules/druid.md",
     "rules/raider.md",
     "rules/berserker.md",
-    "rules/assassin.md",
-    "rules/pirate.md",
-    "rules/scout.md",
-    "rules/smuggler.md",
-    "rules/priest.md",
-    "rules/paladin.md"
+    "rules/assassin.md"
   ]
 }
