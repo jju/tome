@@ -2,7 +2,7 @@
 
 [Dragonborn](Dragonborn.md) guardians of the city of [Dracolathe](Dracolathe.md). They're generally associated with the worship of [Bahamut](Bahamut.md), though their headquarters is technically a separate building (right next to the temple).
 
-They are a mix of [guards](guard.md) [knights](knight.md) [veterans](mercenaryveteran.md) and a smattering of [raiders](raider.md) with the rest of the ranks padded out by [commoners](commoner.md) led by a [Guard Captain](guard.md#Guard%20Captain). The head of the temple of Bahamut (a Dragonborn [warpriest](warpriest.md)). There are a few [Orc](Orc.md), [Kobold](Kobold.md), and [Tabaxi](Tabaxi.md) members of the Golden Dragons, but absolutely zero [Dwarves](Dwarf.md).
+They are a mix of [guards](guard.md) [knights](knight.md) [warriors](warrior.md) [veterans](mercenaryveteran.md) and a smattering of [raiders](raider.md) with the rest of the ranks padded out by [commoners](commoner.md) and [toughs](tough.md) led by a [Guard Captain](guard.md#Guard%20Captain). The head of the temple of Bahamut (a Dragonborn [warpriest](warpriest.md)). There are a few [Orc](Orc.md), [Kobold](Kobold.md), and [Tabaxi](Tabaxi.md) members of the Golden Dragons, but absolutely zero [Dwarves](Dwarf.md).
 
 Many of the Guard know of [Brecken Dirtbone](BreckenDirtbone.md) down in [Hammerkeep](Hammerkeep.md) mostly because of the many letters they send up river dictating intricate policies of divine law enforcement.
 

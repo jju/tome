@@ -132,9 +132,135 @@
               "icon": "lucide-file",
               "title": "scout"
             }
+          },
+          {
+            "id": "a04b8fa35458caa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/pirate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pirate"
+            }
+          },
+          {
+            "id": "fe7d4fb5009fd5ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/mage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mage"
+            }
+          },
+          {
+            "id": "bc425ecc85dd58b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/druid.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "druid"
+            }
+          },
+          {
+            "id": "de745ffb8834e17d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/archdruid.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "archdruid"
+            }
+          },
+          {
+            "id": "15cb872b98cd627e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/commoner.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "commoner"
+            }
+          },
+          {
+            "id": "0d909f7c82dfef61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/tough.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tough"
+            }
+          },
+          {
+            "id": "9cbad7cc3601c3ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/vampirefamiliar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vampirefamiliar"
+            }
+          },
+          {
+            "id": "cfeff5044b28a193",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/warrior.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "warrior"
+            }
+          },
+          {
+            "id": "1e38bcc35b67e60e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/vampire.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vampire"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 17
       },
       {
         "id": "ce196e2f9001aae7",
@@ -192,12 +318,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/golddragon.md",
+                    "file": "GoldenDragons.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "golddragon"
+                  "title": "GoldenDragons"
                 }
               },
               {
@@ -229,7 +355,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 3
           },
           {
             "id": "f95a241c1a1d9096",
@@ -430,33 +556,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "4097c9451d6eb92e",
+  "active": "1e38bcc35b67e60e",
   "lastOpenFiles": [
-    "rules/smuggler.md",
+    "rules/warrior.md",
+    "rules/vampire.md",
+    "GoldenDragons.md",
+    "rules/vampirefamiliar.md",
+    "rules/tough.md",
+    "rules/commoner.md",
+    "rules/mage.md",
+    "rules/guard.md",
+    "rules/citywatch.md",
+    "rules/golddragon.md",
+    "rules/fartraveller.md",
+    "rules/gladiator.md",
+    "rules/archdruid.md",
+    "rules/naturepriest.md",
+    "rules/druid.md",
     "rules/raider.md",
+    "rules/berserker.md",
+    "rules/assassin.md",
+    "rules/pirate.md",
+    "rules/scout.md",
+    "rules/smuggler.md",
     "rules/priest.md",
     "rules/paladin.md",
     "rules/outlander.md",
     "rules/noble.md",
-    "rules/merchant.md",
-    "rules/knight.md",
-    "rules/knightorder.md",
-    "rules/bandit.md",
-    "rules/banditcaptain.md",
-    "cultist.md",
-    "Dracolathe.md",
-    "rules/fartraveller.md",
-    "Ratfolk.md",
-    "ThePrisoner.md",
-    "Talon.md",
-    "Tharizdun.md",
-    "world.md",
-    "Wyrmshood.md",
-    "Xuedei.md",
-    "Yeonido.md",
-    "Yongjing.md",
-    "Zhaalum.md",
-    "Zinda.md",
-    "Vasha.md"
+    "rules/merchant.md"
   ]
 }

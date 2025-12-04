@@ -1,3 +1,7 @@
+# Berserker
+
+See also the entry for [raider](raider.md).
+
 [Berserker](https://www.dndbeyond.com/monsters/16805-berserker)
 
 Medium Humanoid, Any Chaotic Alignment

@@ -1,3 +1,4 @@
+# Guard
 [Guard](https://www.dndbeyond.com/monsters/5195065-guard)
 
 Medium Or Small Humanoid, Neutral
@@ -27,6 +28,7 @@ Speed 30 ft.
 _**Spear.** Melee or Ranged Attack Roll:_ +3, reach 5 ft. or range 20/60 ft. _Hit:_ 4 (1d6 + 1) Piercing damage.
 
 > source: https://www.dndbeyond.com/monsters/5195065-guard
+> [npcs](npcs.md)
 
 # Guard Captain
 
@@ -63,3 +65,4 @@ _**Javelin.** Melee or Ranged Attack Roll:_ +6, reach 5 ft. or range 30/120 ft. 
 _**Longsword.** Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 15 (2d10 + 4) Slashing damage.
 
 > source: https://www.dndbeyond.com/monsters/5195064-guard-captain 
+> [npcs](npcs.md)
