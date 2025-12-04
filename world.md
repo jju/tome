@@ -3,16 +3,17 @@ This rump of the world known as [Nuoro](Nuoro.md) has many places. Everywhere ha
 ![map-nuoro](images/map-nuoro.png)
 ## History
 
-The current year in the Imperial Calendar is [IC4996](IC4996.md).
+What is history apart from a bunch of things that happened? At the time of this writing[^1] the things that are happening are different depending on where you are, obviously. 
 
-* [The Last Ten Years](history.md#The%20Last%20Ten%20Years)
-* [The Last Fifty Years](history.md#The%20Last%20Fifty%20Years)
-* [The Last Hundred Years](history.md#The%20Last%20Hundred%20Years)
-* [The Last Five Hundred Years](history.md#The%20Last%20Five%20Hundred%20Years)
-* [The Last Thousand Years](history.md#The%20Last%20Thousand%20Years)
-* [Before That](history.md#Before%20That)
+If you're in [Dracolathe](Dracolathe.md) I'm sure you are concerned about the way food isn't getting into the city to feed your prattling maw. Historically we could draw a bunch of lines between your growling belly and the [Grim War](GrimWar.md) and the decisions made by a far-off emperor to reward [some people](Dragonborn.md) some people with the homes of [another people](Dwarf.md). 
 
-## Places
+But on the edges of the [Kanliwood](Kanliwood.md) in [Rundan](Rundan.md) the recent increase (as compared to what people remember their parents telling them or the long-lifers remember firsthand) in monster sightings means food policy in [Ikizh](Ikizh.md) isn't that top of mind. Maybe all the deeds of the gods aeons ago are actually what's driving the weirdness in the woods. Or maybe there are just a pile of weird wizards doing weird wizard shit.
+
+What I'm trying to get at here is that "history" isn't a good way of getting to know [Nuoro](Nuoro.md), especially for you, my reader displaced from me in time and space. Beyond the people you get to know, how much do you really care? Historians, arcanists and theologians can go into all sorts of details on how they say the world got to be this way, and some of them might even be right.
+
+[^1]: In the Imperial Calendar the year is [IC4996](IC4996.md).
+## A Sketch of Civilization
+What we can say is that [Nuoro](Nuoro.md) is a fragmented land. The fertile kingdom of [Rundan](Rundan.md) in the east is part of the continental [Dantag Empire](DantagEmpire.md). [Ikizh](Ikizh.md) is the slightly less religious queendom in the southwest, with the nominally Imperial [Dracolathe](Dracolathe.md) in the [Grimteeth](Grimteeth.md) and the vast uncivilized forests in between. Nobody who lives outside the northwest (mostly [Orc](Orc.md) and [Goliath](Goliath.md) groups) cares about anywhere past [Tayama](Tayama.md). 
 
 * [Bedwistre](Bedwistre.md)
 * [Blackstone](Blackstone.md)
@@ -35,7 +36,6 @@ The current year in the Imperial Calendar is [IC4996](IC4996.md).
 * [Oecumene](Oecumene.md)
 * [Perolmani](Perolmani.md)
 * [Rundan](Rundan.md)
-* [Siabsungkoh](Siabsungkoh.md)
 * [Tayama](Tayama.md)
 * [UzakHills](UzakHills.md)
 * [Witchpeak](Witchpeak.md)

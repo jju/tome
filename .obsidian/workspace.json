@@ -265,12 +265,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "history.md",
+                "file": "Oecumene.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "history"
+              "title": "Oecumene"
             }
           }
         ],
@@ -332,12 +332,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GoldenDragons.md",
+                    "file": "secrets/world.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "GoldenDragons"
+                  "title": "world"
                 }
               },
               {
@@ -409,16 +409,16 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "secrets/world.md",
+                    "file": "Chokewoods.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "world"
+                  "title": "Chokewoods"
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -453,7 +453,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "see also",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -474,7 +474,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -570,10 +571,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "0ba3383ffaf23b18",
+  "active": "bc7d8f55fa091797",
   "lastOpenFiles": [
+    "Chokewoods.md",
+    "world.md",
+    "Oecumene.md",
+    "mountains.md",
+    "Perolmani.md",
+    "places.md",
+    "Ikizh.md",
+    "secrets/history.md",
     "secrets/world.md",
-    "history.md",
+    "GoldenDragons.md",
+    "stories/index.md",
     "rules/plasmoid.md",
     "Dracolathe.md",
     "DjayaniJanya.md",
@@ -582,21 +592,12 @@
     "rules/gelatinouscube.md",
     "rules/vampire.md",
     "rules/warrior.md",
-    "GoldenDragons.md",
     "rules/vampirefamiliar.md",
     "rules/tough.md",
     "rules/commoner.md",
     "rules/mage.md",
     "rules/guard.md",
     "rules/citywatch.md",
-    "rules/golddragon.md",
-    "rules/fartraveller.md",
-    "rules/gladiator.md",
-    "rules/archdruid.md",
-    "rules/naturepriest.md",
-    "rules/druid.md",
-    "rules/raider.md",
-    "rules/berserker.md",
-    "rules/assassin.md"
+    "rules/golddragon.md"
   ]
 }
