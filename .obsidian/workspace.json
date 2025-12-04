@@ -265,12 +265,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/gelatinouscube.md",
+                "file": "Dracolathe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gelatinouscube"
+              "title": "Dracolathe"
             }
           }
         ],
@@ -572,8 +572,10 @@
   },
   "active": "0ba3383ffaf23b18",
   "lastOpenFiles": [
-    "rules/vampire.md",
+    "Bedwistre.md",
+    "Battlemoor.md",
     "rules/gelatinouscube.md",
+    "rules/vampire.md",
     "rules/warrior.md",
     "GoldenDragons.md",
     "rules/vampirefamiliar.md",
@@ -595,8 +597,6 @@
     "rules/scout.md",
     "rules/smuggler.md",
     "rules/priest.md",
-    "rules/paladin.md",
-    "rules/outlander.md",
-    "rules/noble.md"
+    "rules/paladin.md"
   ]
 }
