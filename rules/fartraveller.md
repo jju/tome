@@ -9,7 +9,7 @@ Although you will undoubtedly find some of this land's ways to be strange and di
 - **Skills:** Insight, Perception
 - **Tool Proficiencies:** Any one musical instrument or gaming set of your choice, likely something native to your homeland
 - **Languages:** Any one of your choice
-- **Equipment:** One set of traveler's clothes, any one musical instrument or gaming set you are proficient with, poorly wrought maps from your homeland that depict where you are in Faerûn, a small piece of jewelry worth 10 gp in the style of your homeland's craftsmanship, and a pouch containing 5 gp
+- **Equipment:** One set of traveler's clothes, any one musical instrument or gaming set you are proficient with, poorly wrought maps from your homeland that depict where you are in [Nuoro](Nuoro.md), a small piece of jewelry worth 10 gp in the style of your homeland's craftsmanship, and a pouch containing 5 gp
 
 ### Why Are You Here?
 
@@ -74,25 +74,25 @@ The most important decision in creating a far traveler background is determining
 
 ### Evermeet
 
-The fabled elven islands far to the west are home to elves who have never been to Faerûn. They often find it a harsher place than they expected when they do make the trip. If you are an elf, Evermeet is a logical (though not mandatory) choice for your homeland.
+The fabled elven islands far to the west are home to elves who have never been to [Nuoro](Nuoro.md). They often find it a harsher place than they expected when they do make the trip. If you are an elf, Evermeet is a logical (though not mandatory) choice for your homeland.
 
-Most of those who emigrate from Evermeet are either exiles, forced out for committing some infraction of elven law, or emissaries who come to Faerûn for a purpose that benefits elven culture or society.
+Most of those who emigrate from Evermeet are either exiles, forced out for committing some infraction of elven law, or emissaries who come to [Nuoro](Nuoro.md) for a purpose that benefits elven culture or society.
 
 ### Halruaa
 
-Located on the southern edges of the Shining South, and hemmed in by mountains all around, the magocracy of Halruaa is a bizarre land to most in Faerûn who know about it. Many folk have heard of the strange skyships the Halruaans sail, and a few know of the tales that even the least of their people can work magic.
+Located on the southern edges of the Shining South, and hemmed in by mountains all around, the magocracy of Halruaa is a bizarre land to most in the [Dantag Empire](DantagEmpire.md) who know about it. Many folk have heard of the strange skyships the Halruaans sail, and a few know of the tales that even the least of their people can work magic.
 
-Halruaans usually make their journeys into Faerûn for personal reasons, since their government has a strict stance against unauthorized involvement with other nations and organizations. You might have been exiled for breaking one of Halruaa's many byzantine laws, or you could be a pilgrim who seeks the shrines of the gods of magic.
+Halruaans usually make their journeys into Dantag (or Nuoro) for personal reasons, since their government has a strict stance against unauthorized involvement with other nations and organizations. You might have been exiled for breaking one of Halruaa's many byzantine laws, or you could be a pilgrim who seeks the shrines of the gods of magic.
 
 ### Kara-Tur
 
-The continent of Kara-Tur, far to the east of Faerûn, is home to people whose customs are unfamiliar to the folk of the Sword Coast. If you come from Kara-Tur, the people of Faerûn likely refer to you as Shou, even if that isn't your true ethnicity, because that's the blanket term they use for everyone who shares your origin.
+The continent of Kara-Tur, far to the east of Nuoro, is home to people whose customs are unfamiliar to the folk of the Dantag Empire. If you come from Kara-Tur, the people of Faerûn likely refer to you as Shou, even if that isn't your true ethnicity, because that's the blanket term they use for everyone who shares your origin.
 
-The folk of Kara-Tur occasionally travel to Faerûn as diplomats or to forge trade relations with prosperous merchant cartels. You might have come here as part of some such delegation, then decided to stay when the mission was over.
+The folk of Kara-Tur occasionally travel to Dantag as diplomats or to forge trade relations with prosperous merchant cartels. You might have come here as part of some such delegation, then decided to stay when the mission was over.
 
 ### Mulhorand
 
-From the terrain to the architecture to the god-kings who rule over these lands, nearly everything about Mulhorand is alien to someone from the Sword Coast. You likely experienced the same sort of culture shock when you left your desert home and traveled to the unfamiliar climes of northern Faerûn. Recent events in your homeland have led to the abolition of slavery, and a corresponding increase in the traffic between Mulhorand and the distant parts of Faerûn.
+From the terrain to the architecture to the god-kings who rule over these lands, nearly everything about Mulhorand is alien to someone from Nuoro. You likely experienced the same sort of culture shock when you left your desert home and traveled to the unfamiliar climes of northern Nuoro. Recent events in your homeland have led to the abolition of slavery, and a corresponding increase in the traffic between Mulhorand and the distant parts of the world.
 
 Those who leave behind Mulhorand's sweltering deserts and ancient pyramids for a glimpse at a different life do so for many reasons. You might be in the North simply to see the strangeness this wet land has to offer, or because you have made too many enemies among the desert communities of your home.
 
@@ -104,7 +104,7 @@ Sossal exists far to the northeast, hard up against the endless ice to the north
 
 ### Zakhara
 
-As the saying goes among those in Faerûn who know of the place, "To get to Zakhara, go south. Then go south some more." Of course, you followed an equally long route when you came north from your place of birth. Though it isn't unusual for Zakharans to visit the southern extremes of Faerûn for trading purposes, few of them stray as far from home as you have.
+As the saying goes among those in Dantag who know of the place, "To get to Zakhara, go south. Then go south some more." Of course, you followed an equally long route when you came north from your place of birth. Though it isn't unusual for Zakharans to visit the southern extremes of Faerûn for trading purposes, few of them stray as far from home as you have.
 
 You might be traveling to discover what wonders are to be found outside the deserts and sword-like mountains of your homeland, or perhaps you are on a pilgrimage to understand the gods that others worship, so that you might better appreciate your own deities.
 

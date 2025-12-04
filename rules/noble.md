@@ -87,8 +87,7 @@ Nobles are born and raised to a very different lifestyle than most people ever e
 - In fact, the world does revolve around me.
 - By my words and actions, I often bring shame to my family.
 
-# NPC Nobles
-
+# Noble
 [Noble](https://www.dndbeyond.com/monsters/5195145-noble)
 
 Medium Or Small Humanoid, Neutral

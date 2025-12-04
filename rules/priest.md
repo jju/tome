@@ -1,5 +1,4 @@
 # Priest Acolyte
-
 [Priest Acolyte](https://www.dndbeyond.com/monsters/5195169-priest-acolyte)
 
 Medium Or Small Humanoid (Cleric), Neutral
