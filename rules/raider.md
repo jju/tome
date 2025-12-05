@@ -3,7 +3,7 @@
 
 Outland raider bands that satisfy their bloodlust by slaying any humanoids that stand against them. Some find their way into civilized society.
 
-See also [berserker](berserker.md).
+> see also [berserker](berserker.md)
 
 Medium Humanoid, Chaotic Evil
 AC 13 (hide armor)    Initiative +1 (11)
