@@ -573,11 +573,13 @@
   },
   "active": "0ba3383ffaf23b18",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "rules/archdruid.md",
+    "Dragons.md",
     "rules/raider.md",
     "rules/naturepriest.md",
     "rules/berserker.md",
     "Oecumene.md",
-    "rules/archdruid.md",
     "Chokewoods.md",
     "world.md",
     "mountains.md",
@@ -596,8 +598,6 @@
     "rules/gelatinouscube.md",
     "rules/vampire.md",
     "rules/warrior.md",
-    "rules/vampirefamiliar.md",
-    "rules/tough.md",
-    "rules/commoner.md"
+    "rules/vampirefamiliar.md"
   ]
 }
