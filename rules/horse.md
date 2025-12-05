@@ -24,3 +24,6 @@ Speed 60 ft.
 ## Actions
 
 _**Hooves.** Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 7 (1d8 + 3) Bludgeoning damage.
+
+> [creatures](creatures.md)
+> 

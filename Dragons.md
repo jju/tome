@@ -9,3 +9,8 @@ adults have multiple lairs 50-75 miles apart, hunts around each for a month or s
 ancient have lairs that get magical and influence the world for hundreds of miles
 
 so [Nuoro](Nuoro.md) could have ~60 young dragons and 6-8 adult/ancient ones
+
+[Cyzzarun](Cyzzarun.md) would normally have pushed out
+
+> [creatures](creatures.md)
+> [npcs](npcs.md) 

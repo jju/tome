@@ -27,5 +27,78 @@ Starting at 3rd level, choose one of the options below each time you take the He
 
 If you miss with an attack roll or fail an ability check or a saving throw, you can draw on your bonds of reciprocity to gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +3). You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
-> source: _Mordenkainen Presents: Monsters of the Multiverse_ (2021)
+# Hobgoblin Warrior
+[Hobgoblin Warrior](https://www.dndbeyond.com/monsters/5195079-hobgoblin-warrior)
+
+Medium Fey (Goblinoid), Lawful Evil
+AC 18    Initiative +3 (13)
+HP 11 (2d8 + 2)
+Speed 30 ft.
+
+|     |     | Mod | Save |
+| --- | --- | --- | ---- |
+| STR | 13  | +1  | +1   |
+| DEX | 12  | +1  | +1   |
+| CON | 12  | +1  | +1   |
+
+|     |     | Mod | Save |
+| --- | --- | --- | ---- |
+| INT | 10  | +0  | +0   |
+| WIS | 10  | +0  | +0   |
+| CHA | 9   | -1  | -1   |
+
+**Gear** [Half Plate Armor](https://www.dndbeyond.com/equipment/14-half-plate), [Longbow](https://www.dndbeyond.com/equipment/37-longbow), [Longsword](https://www.dndbeyond.com/equipment/4-longsword), [Shield](https://www.dndbeyond.com/equipment/8-shield)
+**Senses** [Darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., Passive Perception 10
+**Languages** Common, Goblin
+**CR** 1/2 (XP 100; PB +2)
+
+## Traits
+
+_**Pack Tactics.**_ The hobgoblin has [Advantage](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Advantage) on an attack roll against a creature if at least one of the hobgoblin’s allies is within 5 feet of the creature and the ally doesn’t have the [Incapacitated](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition.
+
+## Actions
+
+_**Longsword.** Melee Attack Roll:_ +3, reach 5 ft. _Hit:_ 12 (2d10 + 1) Slashing damage.
+
+_**Longbow.** Ranged Attack Roll:_ +3, range 150/600 ft. _Hit:_ 5 (1d8 + 1) Piercing damage plus 7 (3d4) Poison damage.
+
+# Hobgoblin Captain
+[Hobgoblin Captain](https://www.dndbeyond.com/monsters/5195077-hobgoblin-captain)
+
+Medium Fey (Goblinoid), Lawful Evil
+AC 17    Initiative +4 (14)
+HP 58 (9d8 + 18)
+Speed 30 ft.
+
+|     |     | Mod | Save |
+| --- | --- | --- | ---- |
+| STR | 15  | +2  | +2   |
+| DEX | 14  | +2  | +2   |
+| CON | 14  | +2  | +2   |
+
+|     |     | Mod | Save |
+| --- | --- | --- | ---- |
+| INT | 12  | +1  | +1   |
+| WIS | 10  | +0  | +0   |
+| CHA | 13  | +1  | +1   |
+
+**Gear** [Greatsword](https://www.dndbeyond.com/equipment/22-greatsword), [Half Plate Armor](https://www.dndbeyond.com/equipment/14-half-plate), [Longbow](https://www.dndbeyond.com/equipment/37-longbow)
+**Senses** [Darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., Passive Perception 10
+**Languages** Common, Goblin
+**CR** 3 (XP 700; PB +2)
+
+## Traits
+
+_**Aura of Authority.**_ While in a 10-foot Emanation originating from the hobgoblin, the hobgoblin and its allies have [Advantage](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Advantage) on attack rolls and saving throws, provided the hobgoblin doesn’t have the [Incapacitated](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition.
+
+## Actions
+
+_**Multiattack.**_ The hobgoblin makes two attacks, using Greatsword or Longbow in any combination.
+
+_**Greatsword.** Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 9 (2d6 + 2) Slashing damage plus 3 (1d6) Poison damage.
+
+_**Longbow.** Ranged Attack Roll:_ +4, range 150/600 ft. _Hit:_ 6 (1d8 + 2) Piercing damage plus 5 (2d4) Poison damage.
+
+> source: _Mordenkainen Presents: Monsters of the Multiverse_ (2021) https://www.dndbeyond.com/monsters/5195079-hobgoblin-warrior https://www.dndbeyond.com/monsters/5195077-hobgoblin-captain
 > [species](species.md)
+> [npcs](npcs.md)
