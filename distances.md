@@ -2,8 +2,8 @@
 | Trip               | Distance (direct) | Days Overland (hike/horse/explore)                                                             | Courier (post-road)     | Cargo Overland | Sea/River                  |
 | ------------------ | ----------------- | ---------------------------------------------------------------------------------------------- | ----------------------- | -------------- | -------------------------- |
 | *Dracolathe to...* |                   |                                                                                                |                         |                |                            |
-| Hammerford         | 24 miles          | 3 hex mtn rd (slow) 1 hex forest rd (normal)                                                   | 9 hrs (exhausted horse) |                | N/A                        |
-| Blackstone         | 40 miles          | 5 hex mtn rd (slow) 1 hex forest rd (normal)                                                   | 14 hrs (2 horses)       |                |                            |
+| Hammerford         | 24 miles          | 3 hex mtn rd (slow 12hrs) 1 hex forest rd (normal 2-3hrs) = 14-15hrs or 2 days                 | 9 hrs (exhausted horse) |                | N/A                        |
+| Blackstone         | 40 miles          | 5 hex mtn rd (slow 20hrs) 1 hex forest rd (normal 2-3hrs) = 3 days                             | 14 hrs (2 horses)       |                |                            |
 | Khudurra           | 96 miles          | 1 hex mtn Grd (normal) 1 hex forest Grd (fast) 2 hex plains Grd (xfast)                        |                         |                | N/A                        |
 | Sivekkah           | 120 miles         | 2 hex mtn Grd (normal) 3 hex plains Grd (xfast)                                                |                         |                | N/A                        |
 | Hammerkeep         | 168 miles         | 2 hex mtn (slow) 5 hex forest (normal)                                                         |                         |                | 1 hex mtn 7 hex river(d)   |
