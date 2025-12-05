@@ -1,12 +1,18 @@
+There are a lot of religious leaders hanging around [Nuoro](Nuoro.md). It's a legitimate route to power in this part of the world, especially with the huge amount of support the [Dantag Empire](DantagEmpire.md) gives to its many [gods](gods.md).
+
+In terms of who you see when you're wandering around, you can't guarantee someone can do stuff like "channel the power of the divine to smite your enemies/heal the sick" because the people who work with the many temples are diverse in their abilities. Some are noblefolk, and some are commoners and some are weird monks who like to meditate a lot. It varies.
 
 > Acolytes are junior members of a clergy, usually answerable to a priest. They perform a variety of functions in a temple and are granted minor spellcasting power by their deities.
+
+> War priests worship deities of war, protection, and strategy. They plan tactics, lead soldiers into battle, confront enemy spellcasters, and tend to casualties.
+
 
 ## Stats
 
 * [Priest Acolyte](priest.md#Priest%20Acolyte)
 * [Priest](priest.md#Priest)
-* [warpriest](warpriest.md)
-* [martialartsadept](martialartsadept.md)
+* [Warpriest](warpriest.md#Warpriest)
+* [Fighting Monks](martialartsadept.md#Fighting%20Monks)
 * [cleric](rules/cleric.md)
 * [commoner](commoner.md)
 * [noble](noble.md)

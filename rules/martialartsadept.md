@@ -1,3 +1,5 @@
+# Fighting Monks
+
 Medium Humanoid, Any Alignment
 AC 16 (Unarmored Defense)    Initiative +3
 HP 60 (11d8 + 11)
@@ -39,7 +41,9 @@ Speed 40 ft.
 ## Background
 
 Martial arts adepts are disciplined monks with extensive training in hand-to-hand combat. Some protect monasteries; others travel the world seeking enlightenment or new forms of combat to master. A few become bodyguards, trading their combat prowess and loyalty for food and lodging.
+
 Some martial artists adorn themselves with tattoos to honor inspirations or instructors, or to memorialize profound lessons, triumphs, or defeats.
+
 You may roll on the Martial Arts Adept Tattoos table to determine what sort of tattoo an adept bears.
 
 | d8  | Tattoo                                                                                   |
