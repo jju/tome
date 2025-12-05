@@ -1,6 +1,6 @@
 # Berserker
 
-See also the entry for [raider](raider.md).
+> see also [raider](raider.md)
 
 [Berserker](https://www.dndbeyond.com/monsters/16805-berserker)
 

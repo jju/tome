@@ -265,12 +265,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/berserker.md",
+                "file": "rules/archdruid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "berserker"
+              "title": "archdruid"
             }
           }
         ],
@@ -573,6 +573,9 @@
   },
   "active": "0ba3383ffaf23b18",
   "lastOpenFiles": [
+    "rules/raider.md",
+    "rules/naturepriest.md",
+    "rules/berserker.md",
     "Oecumene.md",
     "rules/archdruid.md",
     "Chokewoods.md",
@@ -595,9 +598,6 @@
     "rules/warrior.md",
     "rules/vampirefamiliar.md",
     "rules/tough.md",
-    "rules/commoner.md",
-    "rules/mage.md",
-    "rules/guard.md",
-    "rules/citywatch.md"
+    "rules/commoner.md"
   ]
 }
