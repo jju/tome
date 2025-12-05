@@ -1,11 +1,11 @@
 
-| Trip               | Distance  | Days Overland (hike/horse/explore) | Courier                 | Cargo Overland | Sea/River |
-| ------------------ | --------- | ---------------------------------- | ----------------------- | -------------- | --------- |
-| *Dracolathe to...* |           |                                    |                         |                |           |
-| Hammerford         | 24 miles  | 3 hex mtn rd 1 hex forest rd       | 9 hrs (exhausted horse) |                | N/A       |
-| Blackstone         | 40 miles  | 5 hex mtn rd 1 hex forest rd       | 14 hrs (2 horses)       |                |           |
-| Khudurra           | 96 miles  |                                    |                         |                |           |
-| Sivekkah           |           |                                    |                         |                |           |
-| Hammerkeep         |           |                                    |                         |                |           |
-| Hammersford        |           |                                    |                         |                |           |
-| Bedwistre          | 240 miles | 3 hex mtn 5 hex                    |                         |                |           |
+| Trip               | Distance (direct) | Days Overland (hike/horse/explore)                                                             | Courier (post-road)     | Cargo Overland | Sea/River                  |
+| ------------------ | ----------------- | ---------------------------------------------------------------------------------------------- | ----------------------- | -------------- | -------------------------- |
+| *Dracolathe to...* |                   |                                                                                                |                         |                |                            |
+| Hammerford         | 24 miles          | 3 hex mtn rd (slow) 1 hex forest rd (normal)                                                   | 9 hrs (exhausted horse) |                | N/A                        |
+| Blackstone         | 40 miles          | 5 hex mtn rd (slow) 1 hex forest rd (normal)                                                   | 14 hrs (2 horses)       |                |                            |
+| Khudurra           | 96 miles          | 1 hex mtn Grd (normal) 1 hex forest Grd (fast) 2 hex plains Grd (xfast)                        |                         |                | N/A                        |
+| Sivekkah           | 120 miles         | 2 hex mtn Grd (normal) 3 hex plains Grd (xfast)                                                |                         |                | N/A                        |
+| Hammerkeep         | 168 miles         | 2 hex mtn (slow) 5 hex forest (normal)                                                         |                         |                | 1 hex mtn 7 hex river(d)   |
+| Hammersford        | 264 miles         | 2 hex mtn (slow) 5 hex forest (normal) 4 hex plains (fast)                                     |                         |                | 1 hex mtn 11 hex river (d) |
+| Bedwistre          | 240 miles         | 3 hex mtn (slow) 5 hex forest (slow) 3 hex plain (fast) (south of [NuoroRiver](NuoroRiver.md)) |                         |                | 1 hex mtn 14 hex river (d) |

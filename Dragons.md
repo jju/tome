@@ -7,3 +7,5 @@ young make lair
 adults have multiple lairs 50-75 miles apart, hunts around each for a month or so
 
 ancient have lairs that get magical and influence the world for hundreds of miles
+
+so [Nuoro](Nuoro.md) could have ~60 young dragons and 6-8 adult/ancient ones
