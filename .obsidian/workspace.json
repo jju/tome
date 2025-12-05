@@ -307,12 +307,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/fishingboat.md",
+                "file": "Chokewoods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fishingboat"
+              "title": "Chokewoods"
             }
           }
         ],
@@ -374,12 +374,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/keelboat.md",
+                    "file": "Gnome.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "keelboat"
+                  "title": "Gnome"
                 }
               },
               {
@@ -614,11 +614,18 @@
   },
   "active": "eeb6a9fe6d5ec21b",
   "lastOpenFiles": [
-    "rules/keelboat.md",
-    "rules/martialartsadept.md",
-    "rules/fishingboat.md",
-    "rules/allip.md",
+    "BohaiLake.md",
     "Priests.md",
+    "Gnome.md",
+    "rules/deepgnome.md",
+    "rules/keelboat.md",
+    "rules/cultist.md",
+    "Bandits.md",
+    "rules/bandit.md",
+    "rules/fishingboat.md",
+    "distances.md",
+    "rules/martialartsadept.md",
+    "rules/allip.md",
     "rules/warpriest.md",
     "rules/priest.md",
     "rules/acolyte.md",
@@ -626,19 +633,12 @@
     "Moradin.md",
     "Mages.md",
     "rules/hobgoblin.md",
-    "rules/bandit.md",
-    "Bandits.md",
     "rules/assassin.md",
     "Dragons.md",
     "rules/horse.md",
-    "distances.md",
     "rules/travel.md",
     "secrets/world.md",
     "rules/archdruid.md",
-    "conflict-files-obsidian-git.md",
-    "rules/raider.md",
-    "rules/naturepriest.md",
-    "rules/berserker.md",
-    "Oecumene.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
