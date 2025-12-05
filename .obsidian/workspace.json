@@ -265,12 +265,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/archdruid.md",
+                "file": "Dragons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "archdruid"
+              "title": "Dragons"
             }
           }
         ],
@@ -395,12 +395,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/archdruid.md",
+                    "file": "distances.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "archdruid"
+                  "title": "distances"
                 }
               },
               {
@@ -453,7 +453,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"see also\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -474,8 +474,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -571,11 +570,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "0ba3383ffaf23b18",
+  "active": "09269706127143b4",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "rules/archdruid.md",
     "Dragons.md",
+    "conflict-files-obsidian-git.md",
     "rules/raider.md",
     "rules/naturepriest.md",
     "rules/berserker.md",
