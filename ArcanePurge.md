@@ -3,7 +3,7 @@ At this late date, and from this distant vantage, it's very unclear how the Grea
 
 The big problem of course was that the Betrayal hadn't involved many arcanists in [Nuoro](Nuoro.md) so they weren't prepared to defend themselves. The purge was a huge cataclysmic event that happened far away, but trickled down (like the occasional floodings of the [Nuoro River](NuoroRiver.md), a comparison oft-poeticized) to soak everyone.
 
-What this means generally is that there are no great colleges of magic in [Rundan](Rundan.md). [Ikizh](Ikizh.md) has been making rumblings of creating one now that they're independent of the [Dantag Empire](DantagEmpire.md) but there are a lot of challenges to overcome politically (the rivalry between the dozen arcanists involved in Khudurra and Sivekkah's rival projects is already quite bitter) and superstitionwise; most regular folk don't trust magic that i
+What this means generally is that there are no great colleges of magic in [Nuoro](Nuoro.md). It's hard to see that ever changing in [Rundan](Rundan.md), but [Ikizh](Ikizh.md) has been making rumblings of creating one now that they're independent of the [Dantag Empire](DantagEmpire.md). There are a lot of challenges to overcome politically (the rivalry between the dozen arcanists involved in Khudurra and Sivekkah's rival projects is already quite bitter) and superstitionwise; most regular folk don't trust magic that isn't clearly being bestowed by one of the [gods](gods.md).
 
 > [history](history.md)
 > 

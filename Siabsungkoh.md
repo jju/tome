@@ -6,7 +6,7 @@ Languages: Common Draconic Maynah
 
 Dyn Singh Night Market - needs to gain favour of the five families of the valley. Dyn Singh Merchant Collective
 
-Outer Edges - independent subsusting from the wild, trading in dubious dangerous goods. Scholarly Preed family thinks the land has grown angry and will soon swallow the valley.
+Outer Edges - independent subsisting from the wild, trading in dubious dangerous goods. Scholarly Preed family thinks the land has grown angry and will soon swallow the valley.
 
 Avyrn Mountain - long ago sorceror Phi Maymoon made a pact with the mountain's nature spirits to protect the valley.
 
