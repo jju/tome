@@ -27,12 +27,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chult.md",
+                "file": "cities.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Chult"
+              "title": "cities"
             }
           }
         ],
@@ -94,12 +104,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Ikizh.md",
+                    "file": "places.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Ikizh"
+                  "title": "places"
                 }
               },
               {
@@ -320,6 +330,10 @@
   },
   "active": "5f1879a99431e142",
   "lastOpenFiles": [
+    "Bedwistre.md",
+    "places.md",
+    "Ikizh.md",
+    "Chult.md",
     "Rundan.md",
     "Aurich.md",
     "Chokewoods.md",
@@ -341,10 +355,6 @@
     "rules/raider.md",
     "rules/orc.md",
     "Asmodeus.md",
-    "HangmansLibrary.md",
-    "ArcanePurge.md",
-    "Sivekkah.md",
-    "Ikizh.md",
-    "gods.md"
+    "HangmansLibrary.md"
   ]
 }

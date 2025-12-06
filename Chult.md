@@ -31,3 +31,4 @@ Suspected: small number of weretigers, grungs (frogfolk), and [yuan-ti](yuan-ti.
 
 
 > [places](places.md)
+> [islands](islands.md)

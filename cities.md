@@ -5,5 +5,5 @@ The cities of Nuoro aren't anything really to compare with the glories of the mo
 * [Hammerkeep](Hammerkeep.md)
 * [Hammersford](Hammersford.md)
 * [Khudurra](Khudurra.md)
-* [Siabsungkoh](Siabsungkoh.md)
+* [Sivekkah](Sivekkah.md)
 * [Tayama](Tayama.md)
