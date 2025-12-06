@@ -48,7 +48,7 @@ Many people still don't believe [Nuoro](Nuoro.md) is an island. I don't know wha
 
 Most of the [Dantag Empire](DantagEmpire.md) is about a hundred miles across the sea to the east on the [Anor](Anor.md) landmass[^2]. You can sail across in a day or two, but not a lot of people do.
 
-Sailing southwest of Nuoro is where you find a lot more stuff. According to Three Finger Farza, the Continent of [Noricum](Noricum.md) is about 900 miles that way and it's got lots of people and small countries. [Mulhorand](Mulhorand.md) and [Zakhara](Zakhara.md). Before you get there you might end up at one of the small archipelago nations, inl
+Sailing southwest of Nuoro is where you find a lot more stuff. According to Three Finger Farza, the Continent of [Noricum](Noricum.md) is about 900 miles that way and it's got lots of people and small countries like [Halruaa](Halruaa.md), [Mulhorand](Mulhorand.md) and [Zakhara](Zakhara.md). Before you get there you might end up at one of the small archipelago nations, including [Chult](Chult.md).
 
 An even farther voyage across [Anor](Anor.md) and then sailing east might bring you to [Uradun](Uradun.md), and going north into the ice, could bring you to [Yldstead](Yldstead.md) if you don't die on the way.
 

@@ -80,19 +80,19 @@ Most of those who emigrate from Evermeet are either exiles, forced out for commi
 
 ### Halruaa
 
-Located on the southern edges of [Noricum](Noricum.md), and hemmed in by mountains all around, the magocracy of Halruaa is a bizarre land to most in the [Dantag Empire](DantagEmpire.md) who know about it. Many folk have heard of the strange skyships the Halruaans sail, and a few know of the tales that even the least of their people can work magic.
+Located on the southern edges of [Noricum](Noricum.md), and hemmed in by mountains all around, the magocracy of [Halruaa](Halruaa.md) is a bizarre land to most in the [Dantag Empire](DantagEmpire.md) who know about it. Many folk have heard of the strange skyships the Halruaans sail, and a few know of the tales that even the least of their people can work magic.
 
 Halruaans usually make their journeys into Dantag (or Nuoro) for personal reasons, since their government has a strict stance against unauthorized involvement with other nations and organizations. You might have been exiled for breaking one of Halruaa's many byzantine laws, or you could be a pilgrim who seeks the shrines of the gods of magic.
 
 ### Uradun
 
-The continent of Uradun, far to the east of Nuoro, is home to people whose customs are unfamiliar to the folk of the Dantag Empire. If you come from Uradun, the people of Anor likely refer to you as Zow, even if that isn't your true ethnicity, because that's the blanket term they use for everyone who shares your origin.
+The continent of [Uradun](Uradun.md), far to the east of Anor, is home to people whose customs are unfamiliar to the folk of the Dantag Empire. If you come from Uradun, the people of Anor likely refer to you as Zow, even if that isn't your true ethnicity, because that's the blanket term they use for everyone who shares your origin.
 
 The folk of Uradun occasionally travel to Dantag as diplomats or to forge trade relations with prosperous merchant cartels. You might have come here as part of some such delegation, then decided to stay when the mission was over.
 
 ### Mulhorand
 
-From the terrain to the architecture to the god-kings who rule over these lands, nearly everything about Mulhorand is alien to someone from Nuoro. You likely experienced the same sort of culture shock when you left your desert home and traveled to the unfamiliar climes of Nuoro. Recent events in your homeland have led to the abolition of slavery, and a corresponding increase in the traffic between Mulhorand and the distant parts of the world.
+From the terrain to the architecture to the god-kings who rule over these lands, nearly everything about [Mulhorand](Mulhorand.md) is alien to someone from Nuoro. You likely experienced the same sort of culture shock when you left your desert home and traveled to the unfamiliar climes of Nuoro. Recent events in your homeland have led to the abolition of slavery, and a corresponding increase in the traffic between Mulhorand and the distant parts of the world.
 
 Those who leave behind Mulhorand's sweltering deserts and ancient pyramids for a glimpse at a different life do so for many reasons. You might be in the North simply to see the strangeness this wet land has to offer, or because you have made too many enemies among the desert communities of your home.
 
