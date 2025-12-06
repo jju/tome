@@ -104,12 +104,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Dracolathe.md",
+                    "file": "places.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Dracolathe"
+                  "title": "places"
                 }
               }
             ],
@@ -167,12 +167,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/mercenaryveteran.md",
+                    "file": "rules/sailingship.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "mercenaryveteran"
+                  "title": "sailingship"
                 }
               }
             ],
@@ -328,11 +328,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "ef4f94540115296c",
+  "active": "1cda387c3da62ea1",
   "lastOpenFiles": [
-    "Golgewood.md",
     "rules/mercenaryveteran.md",
     "places.md",
+    "Dracolathe.md",
+    "Golgewood.md",
     "Padserae.md",
     "rules/noble.md",
     "rules/backgrounds.md",
@@ -354,7 +355,6 @@
     "rules/artificer.md",
     "Stagcross.md",
     "rules/acolyte.md",
-    "Chokewoods.md",
-    "BloodstoneHall.md"
+    "Chokewoods.md"
   ]
 }

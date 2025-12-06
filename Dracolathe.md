@@ -8,7 +8,7 @@ A famine is currently hitting Dracolathe which is experimenting with a democrati
 
 ## Factions
 
-
+* Bloodaxes - mercenary company that doesn't give a fuck that Dracolathe changed hands.
 
 [^1]: This characterization is disputed.
 
