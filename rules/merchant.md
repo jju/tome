@@ -4,17 +4,15 @@ Before becoming an adventurer, you were a successful merchant operating out Hill
 - **Tool Proficiencies:** Vehicles (land), vehicles (water)
 - **Equipment:** A set of fine clothes, a signet ring, a letter of introduction from your family's trading house, and a purse containing 25 gp
 
-### Feature: Factor[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FHillsfar_Merchant%3Fveaction%3Dedit%26section%3D2&uselang=en "Sign in to edit")
-
+### Feature: Factor
 Although you've left the day-to-day life of a merchant behind, your family has assigned you the services of a loyal retainer from the business, a factor, husbanding agent, seafarer, caravan guard, or clerk. This individual is a commoner who can perform mundane tasks for you such as making purchases, delivering messages, and running errands. He or she will not fight for you and will not follow you into obviously dangerous areas (such as dungeons), and will leave if frequently endangered or abused. If he or she is killed, the family assigns you another within a few days. Note: This feature is a variant of the Noble Knight's Retainers feature.
 
-### Alternate Feature: Trade Contact[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FHillsfar_Merchant%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit")
+### Alternate Feature: Trade Contact
+You and your family have trade contacts such as caravan masters, shopkeepers, sailors, artisans, and farmers throughout [Nuoro](Nuoro.md) and all along the Wyrmscale Coast. Once per game session, when adventuring in either of those areas, you can use those contacts to get information about the local area or to pass a message to someone in those areas, even across the great distance between the two areas. Note: This feature is a variant of the Criminal Contact and Researcher features.
 
-You and your family have trade contacts such as caravan masters, shopkeepers, sailors, artisans, and farmers throughout the Moonsea region and all along the Sword Coast. Once per game session, when adventuring in either of those areas, you can use those contacts to get information about the local area or to pass a message to someone in those areas, even across the great distance between the two areas. Note: This feature is a variant of the Criminal Contact and Researcher features.
+## Suggested Characteristics
 
-## Suggested Characteristics[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FHillsfar_Merchant%3Fveaction%3Dedit%26section%3D4&uselang=en "Sign in to edit")
-
-### Personality Traits[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FHillsfar_Merchant%3Fveaction%3Dedit%26section%3D5&uselang=en "Sign in to edit")
+### Personality Traits
 
 - I fill my evenings with wine or mead and song.
 - I greatly admire gladiators and enjoy the Arena.
@@ -25,8 +23,7 @@ You and your family have trade contacts such as caravan masters, shopkeepers, sa
 - The Red Plumes caught me once. I hate them.
 - I ask a lot of questions to get information about those with whom I am working and dealing.
 
-### Ideals[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FHillsfar_Merchant%3Fveaction%3Dedit%26section%3D6&uselang=en "Sign in to edit")
-
+### Ideals
 - Frugal: I spend my money very carefully. (Lawful)
 - Profligate: I tend to spend extravagantly. (Chaotic)
 - Honest: I deal with others above board. (Any)
@@ -34,8 +31,7 @@ You and your family have trade contacts such as caravan masters, shopkeepers, sa
 - Charitable: I give generously to others. (Good)
 - Greedy: I do not share my wealth with others. (Evil)
 
-### Bonds[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FHillsfar_Merchant%3Fveaction%3Dedit%26section%3D7&uselang=en "Sign in to edit")
-
+### Bonds
 - I am fiercely loyal to those with whom I work.
 - I must uphold the good name of my family.
 - I will prove myself to my family as an adventurer.
@@ -43,8 +39,7 @@ You and your family have trade contacts such as caravan masters, shopkeepers, sa
 - I love making deals and negotiating agreements.
 - I guard my wealth jealously.
 
-### Flaws[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FHillsfar_Merchant%3Fveaction%3Dedit%26section%3D8&uselang=en "Sign in to edit")
-
+### Flaws
 - I am a braggart. I promote myself shamelessly.
 - I am vain. I always wear the latest fashions.
 - I am a glutton. I eat and drink to excess.

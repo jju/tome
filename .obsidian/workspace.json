@@ -90,12 +90,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Khudurra.md",
+                    "file": "Sivekkah.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Khudurra"
+                  "title": "Sivekkah"
                 }
               }
             ],
@@ -153,12 +153,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/citywatch.md",
+                    "file": "rules/outlander.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "citywatch"
+                  "title": "outlander"
                 }
               }
             ],
@@ -197,7 +197,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Kara-Tur",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -316,31 +316,31 @@
   },
   "active": "1cda387c3da62ea1",
   "lastOpenFiles": [
-    "rules/artificer.md",
+    "rules/sage.md",
     "rules/backgrounds.md",
+    "rules/scout.md",
+    "Sivekkah.md",
+    "places.md",
+    "rules/urchin.md",
+    "rules/soldier.md",
+    "rules/smuggler.md",
+    "rules/merchant.md",
+    "rules/fartraveller.md",
+    "rules/knightorder.md",
+    "Kenku.md",
+    "Khudurra.md",
+    "rules/entertainer.md",
+    "rules/criminal.md",
+    "rules/citywatch.md",
+    "rules/artificer.md",
     "Stagcross.md",
     "rules/acolyte.md",
     "Chokewoods.md",
-    "Khudurra.md",
-    "Sivekkah.md",
     "BloodstoneHall.md",
-    "places.md",
     "Saltmarsh.md",
     "Abyss.md",
     "Kobold.md",
     "Kord.md",
-    "rules/bandit.md",
-    "Haicong.md",
-    "Seaton.md",
-    "towns.md",
-    "world.md",
-    "cities.md",
-    "Tayama.md",
-    "Oakhurst.md",
-    "Blasingdell.md",
-    "Garetton.md",
-    "FarzaBay.md",
-    "DjayaniJanya.md",
-    "Dayawlongon.md"
+    "rules/bandit.md"
   ]
 }

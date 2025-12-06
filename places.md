@@ -20,6 +20,7 @@
 * [Oddlewett](Oddlewett.md)
 * [Perolmani](Perolmani.md)
 * [Rundan](Rundan.md)
+* [Sivekkah](Sivekkah.md)
 * [Tayama](Tayama.md)
 * [UzakHills](UzakHills.md)
 * [Witchpeak](Witchpeak.md)
@@ -54,9 +55,11 @@
 * Sowhorn
 * Quintus
 * Padserae
-* Uradun
-* Yldstead
+* [Uradun](fartraveller.md#Uradun)
+* [Yldstead](fartraveller.md#Yldstead)
 * Notertent
+* Anor - Dantag Continent
+* Noricum - Another continent
 
 # Elsewhere
 

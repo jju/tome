@@ -6,28 +6,24 @@ You begin your adventuring career with enough money to live modestly but securel
 - **Tool Proficiencies:** Disguise kit, [thieves' tools](https://dnd-5e.fandom.com/wiki/Tools#Thieves'_Tools "Tools")
 - **Equipment:** A small knife, a map of the city you grew up in, a pet mouse, a token to remember your parents by, a set of common clothes, and a pouch containing 10 gp
 
-### Feature: City Secrets[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FUrchin%3Fveaction%3Dedit%26section%3D2&uselang=en "Sign in to edit")
+### Feature: City Secrets
 
 You know the secret patterns and flow to cities and can find passages through the urban sprawl that others would miss. When you are not in combat, you (and companions you lead) can travel between any two locations in the city twice as fast as your speed would normally allow.
 
-## Baldur's Gate[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FUrchin%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit")
-
-(Baldur's Gate: Descent into Avernus)
+## Dracolathe
 
 Bands of orphans and runaways band together in the Outer City, running after passersby in ragged throngs to plead for scraps. In the Lower City, urchins are often recruited into the lowest echelons of the Guild or pressed into dirty and dangerous work by unscrupulous masters.
 
-### Baldur's Gate Feature: Gateguide Connection[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FUrchin%3Fveaction%3Dedit%26section%3D4&uselang=en "Sign in to edit")
+### Dracolathe Feature: Gateguide Connection
 
-The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate — though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.
+The effects of a Dracolathe feature can be used only while the character is in Dracolathe — though, at the DM's discretion, they might have applicable effects in situations similar to those in Dracolathe.
 
 Even though you might not be a member of the Gateguides crew, you've associated with enough of them that you know their torch-based code. From the lighting, placement, and type of torch arranged on or near a structure, you can gather a great deal of information about those who live or do business there, particularly if they deal fairly with strangers, have Guild or government connections, or have either helped or denied the Gateguides in the past.
 
-## Suggested Characteristics[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FUrchin%3Fveaction%3Dedit%26section%3D5&uselang=en "Sign in to edit")
-
+## Suggested Characteristics
 Urchins are shaped by lives of desperate poverty, for good and for ill. They tend to be driven either by a commitment to the people with whom they shared life on the street or by a burning desire to find a better life — and maybe get some payback on all the rich people who treated them badly.
 
-### Personality Traits[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FUrchin%3Fveaction%3Dedit%26section%3D6&uselang=en "Sign in to edit")
-
+### Personality Traits
 - I hide scraps of food and trinkets away in my pockets.
 - I ask a lot of questions.
 - I like to squeeze into small places where no one else can get to me.
@@ -37,8 +33,7 @@ Urchins are shaped by lives of desperate poverty, for good and for ill. They ten
 - I don't like to bathe.
 - I bluntly say what other people are hinting at or hiding.
 
-### Ideals[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FUrchin%3Fveaction%3Dedit%26section%3D7&uselang=en "Sign in to edit")
-
+### Ideals
 - **Respect.** All people, rich or poor, deserve respect. (Good)
 - **Community.** We have to take care of each other, because no one else is going to do it. (Lawful)
 - **Change.** The low are lifted up, and the high and mighty are brought down. Change is the nature of things. (Chaotic)
@@ -46,8 +41,7 @@ Urchins are shaped by lives of desperate poverty, for good and for ill. They ten
 - **People.** I help the people who help me – that's what keeps us alive. (Neutral)
 - **Aspiration.** I'm going to prove that I'm worthy of a better life. (Any)
 
-### Bonds[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FUrchin%3Fveaction%3Dedit%26section%3D8&uselang=en "Sign in to edit")
-
+### Bonds
 - My town or city is my home, and I'll fight to defend it.
 - I sponsor an orphanage to keep others from enduring what I was forced to endure.
 - I owe my survival to another urchin who taught me to live on the streets.
@@ -55,8 +49,7 @@ Urchins are shaped by lives of desperate poverty, for good and for ill. They ten
 - I escaped my life of poverty by robbing an important person, and I'm wanted for it.
 - No one else should have to endure the hardships I've been through.
 
-### Flaws[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FUrchin%3Fveaction%3Dedit%26section%3D9&uselang=en "Sign in to edit")
-
+### Flaws
 - If I'm outnumbered, I will run away from a fight.
 - Gold seems like a lot of money to me, and I'll do just about anything for more of it.
 - I will never fully trust anyone other than myself.

@@ -4,8 +4,7 @@ You thrive in front of an audience. You know how to entrance them, entertain the
 - **Tool Proficiencies:** [Disguise kit](https://dnd-5e.fandom.com/wiki/Tools#Disguise_Kit "Tools"), one type of musical instrument
 - **Equipment:** A musical instrument (one of your choice), the favor of an admirer (love letter, lock of hair, or [trinket](https://dnd-5e.fandom.com/wiki/Trinkets "Trinkets")), costume clothes, and a pouch containing 15 gp
 
-### Routine[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FEntertainer%3Fveaction%3Dedit%26section%3D2&uselang=en "Sign in to edit")
-
+### Routine
 A good entertainer is versatile, spicing up every performance with a variety of different routines. Choose one to three routines or roll on the table below to define your expertise as an entertainer.
 
 |d10|Routines|
@@ -29,15 +28,13 @@ You can always find a place to perform, usually in an inn or tavern but possibly
 
 A gladiator is as much an entertainer as any minstrel or circus performer, trained to make the arts of combat into a spectacle the crowd can enjoy. This kind of flashy combat is your entertainer routine, though you might also have some skills as a tumbler or actor. Using your By Popular Demand feature, you can find a place to perform in any place that features combat for entertainment — perhaps a gladiatorial arena or secret pit fighting club. You can replace the musical instrument in your equipment package with an inexpensive but unusual [weapon](https://dnd-5e.fandom.com/wiki/Weapons "Weapons"), such as a trident or net.
 
-## Baldur's Gate
+## Sivekkah
 
-(Baldur's Gate: Descent into Avernus)
+From the Oasis Theater's spectacular singers and acrobats to the pantomimes and shadow puppeteers of the Wide, Sivekkah hosts a colorful array of performers. Good acts can always find ready audiences, and the constant flow of travelers means that both new spectators and new spectacles are always passing through.
 
-From the Oasis Theater's spectacular singers and acrobats to the pantomimes and shadow puppeteers of the Wide, Baldur's Gate hosts a colorful array of performers. Good acts can always find ready audiences, and the constant flow of travelers means that both new spectators and new spectacles are always passing through.
+### Sivekkah Feature: Backstage Pass
 
-### Baldur's Gate Feature: Backstage Pass
-
-The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate — though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.
+The effects of a Sivekkah feature can be used only while the character is in Sivekkah — though, at the DM's discretion, they might have applicable effects in situations similar to those in Sivekkah.
 
 You've learned that most of the real business of entertainment (or any other venture) happens behind the scenes. It's easy for you to case what sorts of audiences attend what venue — like how toughs gather at the Blushing Mermaid or how brash patriars congregate at the Helm and Cloak. After a successful performance, you may meet an enthusiastic member of the crowd — someone of an occupation or social class that frequents the establishment. This contact is delighted to talk with you, and to listen.
 
