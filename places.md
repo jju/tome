@@ -47,7 +47,7 @@
 * [TwinWoods](TwinWoods.md)
 * [Winterhaven](Winterhaven.md)
 * [Xuedei](Xuedei.md)
-* Stagcross
+* [Stagcross](Stagcross.md)
 * Hallasen
 * Chambery
 * Dompatria
