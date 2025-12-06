@@ -5,8 +5,7 @@ You are a member of an artisan's guild, skilled in a particular field and closel
 - **Languages:** One of your choice
 - **Equipment:** A set of artisan's tools (one of your choice), a letter of introduction from your guild, a set of traveler's clothes, and a pouch containing 15 gp
 
-### Guild Business[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FGuild_Artisan%3Fveaction%3Dedit%26section%3D2&uselang=en "Sign in to edit")
-
+### Guild Business
 Guilds are generally found in cities large enough to support several artisans practicing the same trade. However, your guild might instead be a loose network of artisans who each work in a different village within a larger realm. Work with your DM to determine the nature of your guild. You can select your guild business from the Guild Business table or roll randomly.
 
 |d20|Guild Business|
@@ -34,38 +33,31 @@ Guilds are generally found in cities large enough to support several artisans pr
 
 As a member of your guild, you know the skills needed to create finished items from raw materials (reflected in your proficiency with a certain kind of artisan's tools), as well as the principles of trade and good business practices. The question now is whether you abandon your trade for adventure, or take on the extra effort to weave adventuring and trade together.
 
-### Feature: Guild Membership[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FGuild_Artisan%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit")
-
+### Feature: Guild Membership
 As an established and respected member of a guild, you can rely on certain benefits that membership provides. Your fellow guild members will provide you with lodging and food if necessary, and pay for your funeral if needed. In some cities and towns, a guildhall offers a central place to meet other members of your profession, which can be a good place to meet potential patrons, allies, or hirelings.
 
 Guilds often wield tremendous political power. If you are accused of a crime, your guild will support you if a good case can be made for your innocence or the crime is justifiable. You can also gain access to powerful political figures through the guild, if you are a member in good standing. Such connections might require the donation of money or magic items to the guild's coffers.
 
 You must pay dues of 5 gp per month to the guild. If you miss payments, you must make up back dues to remain in the guild's good graces.
 
-## Variant: Guild Merchant[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FGuild_Artisan%3Fveaction%3Dedit%26section%3D4&uselang=en "Sign in to edit")
-
+## Variant: Guild Merchant
 Instead of an artisans' guild, you might belong to a guild of traders, caravan masters, or shopkeepers. You don't craft items yourself but earn a living by buying and selling the works of others (or the raw materials artisans need to practice their craft). Your guild might be a large merchant consortium (or family) with interests across the region. Perhaps you transported goods from one place to another, by ship, wagon, or caravan, or bought them from traveling traders and sold them in your own little shop. In some ways, the traveling merchant's life lends itself to adventure far more than the life of an artisan.
 
 Rather than proficiency with artisan's tools, you might be proficient with [navigator's tools](https://dnd-5e.fandom.com/wiki/Tools#Navigator's_Tools "Tools") or an additional [language](https://dnd-5e.fandom.com/wiki/Languages "Languages"). And instead of artisan's tools, you can start with a mule and a cart.
 
-## Baldur's Gate[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FGuild_Artisan%3Fveaction%3Dedit%26section%3D5&uselang=en "Sign in to edit")
+## Bedwistre
+Numerous guilds and professional associations exist in Bedwistre, covering every imaginable trade and discipline from gravediggers to moneylenders.
 
-(Baldur's Gate: Descent into Avernus)
+### Bedwistre Feature: Professional Courtesy
+The effects of a Bedwistre feature can be used only while the character is in Bedwistre — though, at the DM's discretion, they might have applicable effects in situations similar to those in Bedwistre.
 
-Numerous guilds and professional associations exist in Baldur's Gate, covering every imaginable trade and discipline from gravediggers to moneylenders.
+You're familiar with the city's crews, their territories, and inter-crew politics. Choose one of the three districts of Bedwistre: the Upper City, the Lower City, or the Outer City. This is the district where you conduct most of your business. Whenever you need information about something in one of that district's neighborhoods, you can seek out crew members in that area and learn the local gossip. You can also gain unimpeded entry to nearly any bank, guild hall, place of business, workhouse, or crew meeting place in your district.
 
-### Baldur's Gate Feature: Professional Courtesy[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FGuild_Artisan%3Fveaction%3Dedit%26section%3D6&uselang=en "Sign in to edit")
-
-The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate — though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.
-
-You're familiar with the city's crews, their territories, and inter-crew politics. Choose one of the three districts of Baldur's Gate: the Upper City, the Lower City, or the Outer City. This is the district where you conduct most of your business. Whenever you need information about something in one of that district's neighborhoods, you can seek out crew members in that area and learn the local gossip. You can also gain unimpeded entry to nearly any bank, guild hall, place of business, workhouse, or crew meeting place in your district.
-
-## Suggested Characteristics[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FGuild_Artisan%3Fveaction%3Dedit%26section%3D7&uselang=en "Sign in to edit")
+## Suggested Characteristics
 
 Guild artisans are among the most ordinary people in the world — until they set down their tools and take up an adventuring career. They understand the value of hard work and the importance of community, but they're vulnerable to sins of greed and covetousness.
 
-### Personality Traits[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FGuild_Artisan%3Fveaction%3Dedit%26section%3D8&uselang=en "Sign in to edit")
-
+### Personality Traits
 - I believe that anything worth doing is worth doing right. I can't help it — I'm a perfectionist.
 - I'm a snob who looks down on those who can't appreciate fine art.
 - I always want to know how things work and what makes people tick.
@@ -75,8 +67,7 @@ Guild artisans are among the most ordinary people in the world — until they se
 - I don't part with my money easily and will haggle tirelessly to get the best deal possible.
 - I'm well known for my work, and I want to make sure everyone appreciates it. I'm always taken aback when people haven't heard of me.
 
-### Ideals[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FGuild_Artisan%3Fveaction%3Dedit%26section%3D9&uselang=en "Sign in to edit")
-
+### Ideals
 - **Community.** It is the duty of all civilized people to strengthen the bonds of community and the security of civilization. (Lawful)
 - **Generosity.** My talents were given to me so that I could use them to benefit the world. (Good)
 - **Freedom.** Everyone should be free to pursue their own livelihood. (Chaotic)
@@ -84,8 +75,7 @@ Guild artisans are among the most ordinary people in the world — until they se
 - **People.** I'm committed to the people I care about, not to ideals. (Neutral)
 - **Aspiration.** I work hard to be the best there is at my craft. (Any)
 
-### Bonds[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FGuild_Artisan%3Fveaction%3Dedit%26section%3D10&uselang=en "Sign in to edit")
-
+### Bonds
 - The workshop where I learned my trade is the most important place in the world to me.
 - I created a great work for someone, and then found them unworthy to receive it. I'm still looking for someone worthy.
 - I owe my guild a great debt for forging me into the person I am today.
@@ -93,8 +83,7 @@ Guild artisans are among the most ordinary people in the world — until they se
 - One day I will return to my guild and prove that I am the greatest artisan of them all.
 - I will get revenge on the evil forces that destroyed my place of business and ruined my livelihood.
 
-### Flaws[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FGuild_Artisan%3Fveaction%3Dedit%26section%3D11&uselang=en "Sign in to edit")
-
+### Flaws
 - I'll do anything to get my hands on something rare or priceless.
 - I'm quick to assume that someone is trying to cheat me.
 - No one must ever learn that I once stole money from guild coffers.

@@ -153,12 +153,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/fartraveller.md",
+                    "file": "rules/hermit.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "fartraveller"
+                  "title": "hermit"
                 }
               }
             ],
@@ -314,11 +314,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "5c1f25dd815cff62",
+  "active": "1cda387c3da62ea1",
   "lastOpenFiles": [
+    "rules/guildartisan.md",
+    "rules/backgrounds.md",
+    "rules/acolyte.md",
     "rules/fartraveller.md",
     "places.md",
-    "rules/backgrounds.md",
     "rules/folkhero.md",
     "rules/fisher.md",
     "rules/gambler.md",
@@ -339,8 +341,6 @@
     "rules/scout.md",
     "rules/urchin.md",
     "rules/soldier.md",
-    "rules/smuggler.md",
-    "rules/merchant.md",
-    "Kenku.md"
+    "rules/smuggler.md"
   ]
 }

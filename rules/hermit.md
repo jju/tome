@@ -5,8 +5,7 @@ You lived in seclusion — either in a sheltered community such as a monastery, 
 - **Languages:** One of your choice
 - **Equipment:** A scroll case stuffed full of notes from your studies or prayers, a winter blanket, a set of common clothes, an herbalism kit, and 5 gp
 
-### Life of Seclusion[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FHermit%3Fveaction%3Dedit%26section%3D2&uselang=en "Sign in to edit")
-
+### Life of Seclusion
 What was the reason for your isolation, and what changed to allow you to end your solitude? You can work with your DM to determine the exact nature of your seclusion, or you can choose or roll on the table below to determine the reason behind your seclusion.
 
 |d8|Life of Seclusion|
@@ -20,40 +19,35 @@ What was the reason for your isolation, and what changed to allow you to end you
 |7|I was the caretaker of an ancient ruin or relic.|
 |8|I was a pilgrim in search of a person, place, or relic of spiritual significance.|
 
-### Other Hermits[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FHermit%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit")
-
+### Other Hermits
 This hermit background assumes a contemplative sort of seclusion that allows room for study and prayer. If you want to play a rugged wilderness recluse who lives off the land while shunning the company of other people, look at the [outlander](https://dnd-5e.fandom.com/wiki/Outlander "Outlander") background. On the other hand, if you want to go in a more religious direction, the [acolyte](https://dnd-5e.fandom.com/wiki/Acolyte_\(Background\) "Acolyte (Background)") might be what you're looking for. Or you could even be a [charlatan](https://dnd-5e.fandom.com/wiki/Charlatan "Charlatan"), posing as a wise and holy person and letting pious fools support you.
 
-### Feature: Discovery[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FHermit%3Fveaction%3Dedit%26section%3D4&uselang=en "Sign in to edit")
-
+### Feature: Discovery
 The quiet seclusion of your extended hermitage gave you access to a unique and powerful discovery. The exact nature of this revelation depends on the nature of your seclusion. It might be a great truth about the cosmos, the deities, the powerful beings of the outer planes, or the forces of nature. It could be a site that no one else has ever seen. You might have uncovered a fact that has long been forgotten, or unearthed some relic of the past that could rewrite history. It might be information that would be damaging to the people who or consigned you to exile, and hence the reason for your return to society.
 
 Work with your DM to determine the details of your discovery and its impact on the campaign.
 
-## Baldur's Gate[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FHermit%3Fveaction%3Dedit%26section%3D5&uselang=en "Sign in to edit")
+## Sivekkah
 
-(Baldur's Gate: Descent into Avernus)
+While some might think it strange to find hermits in a bustling city, others know that sometimes the most profound solitude exists in the midst of a crowd. Sivekkah holds a handful of souls who manage to find isolation amid its tumult.
 
-While some might think it strange to find hermits in a bustling city, others know that sometimes the most profound solitude exists in the midst of a crowd. Baldur's Gate holds a handful of souls who manage to find isolation amid its tumult.
-
-### Hermit Origins[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FHermit%3Fveaction%3Dedit%26section%3D6&uselang=en "Sign in to edit")
-
+### Hermit Origins
 Any number of personal choices or ill-fated circumstances might have led you to turn away from society. You may, if you wish, choose or roll an origin event from the Hermit Origins table.
 
-|d6|Origin|
-|---|---|
-|1|You led an ill-fated expedition into the Riverveins. Your friends were swept away by flooding, and you've never been able to shake the guilt of causing their deaths over a frivolous lark. You've maintained a solitary vigil outside the cavern entrance ever since.|
-|2|You crossed the Guild in a bad way. Fortunately, its members think you're dead. Less fortunately, maintaining that deception might require you to stay in hiding until you actually are.|
-|3|You study the puzzles of mortal natures. You've seen followers of evil deities perform miracles for the helpless at Twin Songs, and you've seen patriars who worship good deities turn their backs on the poor daily. Bearing witness to such things, and meditating on their contradictions, fills your hours.|
-|4|You tend to some part of the city's forgotten history: the unmarked graves in Cliffside Cemetery, the crumbling remains of dead patriar families' manors, or a collection of religious texts stuffed into an attic and forgotten when a believer's patron deity died. In this solitary work, you've learned secrets no one else knows.|
-|5|You killed a patriar's scion in an illegal duel. The family swore revenge, and you fled to the slums rather than risk bringing their wrath down on your kin.|
-|6|You aren't originally from Baldur's Gate. You came here seeking something else, only to learn that the quest that drove you had become impossible to fulfill — its object was destroyed or its purpose was negated by some superseding event. Suddenly directionless and unable to return to your homeland, you have lingered, adrift, in this wretched city.|
+| d6  | Origin                                                                                                                                                                                                                                                                                                                                                   |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | You led an ill-fated expedition into the Riverveins. Your friends were swept away by flooding, and you've never been able to shake the guilt of causing their deaths over a frivolous lark. You've maintained a solitary vigil outside the cavern entrance ever since.                                                                                   |
+| 2   | You crossed the Guild in a bad way. Fortunately, its members think you're dead. Less fortunately, maintaining that deception might require you to stay in hiding until you actually are.                                                                                                                                                                 |
+| 3   | You study the puzzles of mortal natures. You've seen followers of evil deities perform miracles for the helpless at Twin Songs, and you've seen patriars who worship good deities turn their backs on the poor daily. Bearing witness to such things, and meditating on their contradictions, fills your hours.                                          |
+| 4   | You tend to some part of the city's forgotten history: the unmarked graves in Cliffside Cemetery, the crumbling remains of dead patriar families' manors, or a collection of religious texts stuffed into an attic and forgotten when a believer's patron deity died. In this solitary work, you've learned secrets no one else knows.                   |
+| 5   | You killed a patriar's scion in an illegal duel. The family swore revenge, and you fled to the slums rather than risk bringing their wrath down on your kin.                                                                                                                                                                                             |
+| 6   | You aren't originally from Sivekkah. You came here seeking something else, only to learn that the quest that drove you had become impossible to fulfill — its object was destroyed or its purpose was negated by some superseding event. Suddenly directionless and unable to return to your homeland, you have lingered, adrift, in this wretched city. |
 
-### Baldur's Gate Feature: The Real City[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FHermit%3Fveaction%3Dedit%26section%3D7&uselang=en "Sign in to edit")
+### Sivekkah Feature: The Real City[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FHermit%3Fveaction%3Dedit%26section%3D7&uselang=en "Sign in to edit")
 
-The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate — though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.
+The effects of a Sivekkah feature can be used only while the character is in Sivekkah — though, at the DM's discretion, they might have applicable effects in situations similar to those in Sivekkah.
 
-You know the Baldur's Gate most Baldurians ignore, the dog-eat-dog world of the homeless and unfortunate. You know where to go in the Lower City and Outer City for anonymity. In these slums and alley camps, you can get a damp bed and a bad meal, but also a degree of privacy and no questions asked. Living here isn't comfortable, but it's unlikely anyone will find you — and you can stay as long as you want.
+You know the Sivekkah most Baldurians ignore, the dog-eat-dog world of the homeless and unfortunate. You know where to go in the Lower City and Outer City for anonymity. In these slums and alley camps, you can get a damp bed and a bad meal, but also a degree of privacy and no questions asked. Living here isn't comfortable, but it's unlikely anyone will find you — and you can stay as long as you want.
 
 ## Suggested Characteristics[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FHermit%3Fveaction%3Dedit%26section%3D8&uselang=en "Sign in to edit")
 
