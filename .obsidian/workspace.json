@@ -90,12 +90,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Sivekkah.md",
+                    "file": "places.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Sivekkah"
+                  "title": "places"
                 }
               }
             ],
@@ -153,12 +153,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/outlander.md",
+                    "file": "rules/mercenaryveteran.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "outlander"
+                  "title": "mercenaryveteran"
                 }
               }
             ],
@@ -316,11 +316,13 @@
   },
   "active": "1cda387c3da62ea1",
   "lastOpenFiles": [
-    "rules/sage.md",
+    "rules/noble.md",
     "rules/backgrounds.md",
-    "rules/scout.md",
-    "Sivekkah.md",
+    "rules/outlander.md",
     "places.md",
+    "Sivekkah.md",
+    "rules/sage.md",
+    "rules/scout.md",
     "rules/urchin.md",
     "rules/soldier.md",
     "rules/smuggler.md",
@@ -339,8 +341,6 @@
     "BloodstoneHall.md",
     "Saltmarsh.md",
     "Abyss.md",
-    "Kobold.md",
-    "Kord.md",
-    "rules/bandit.md"
+    "Kobold.md"
   ]
 }

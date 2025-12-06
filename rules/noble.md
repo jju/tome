@@ -31,19 +31,16 @@ A knighthood is among the lowest noble titles in most societies, but it can be a
 
 As an emblem of chivalry and the ideals of courtly love, you might include among your equipment a banner or other token from a noble lord or lady to whom you have given your heart — in a chaste sort of devotion. (This person could be your bond.)
 
-## Baldur's Gate
+## Bedwistre
+The patriars of Bedwistre live in the Upper City, where they host grand galas and flaunt cosmopolitan fashions, but are walled off from the poverty and squalor of the less fortunate districts and their neighborhoods. Although they might visit prosperous Bloomridge to try a fashionable restaurant or boutique, or watch a spectacle at the Pyramid Theater, the patriars have little reason to venture into the dirtier, more dangerous parts of the city. If they do, it is generally as thrill-seeking tourists or enclosed by a retinue of armed guards, not as friends or neighbors. As a result, many patriars are at once acutely attuned to the nuances of royal courts half a continent away and shockingly ignorant of what life is like for the poor outside their own doorsteps.
 
-(Baldur's Gate: Descent into Avernus)
+This combination of worldly savvy and local blindness characterizes almost all the nobility of Bedwistre. As a result, for those who wish to play patriars, the Patriar feature below replaces the Position and Privilege feature of the noble background. Those who wish to use the background's standard feature might have gained their standing in Bedwistre from business rather than inheritance.
 
-The patriars of Baldur's Gate live in the Upper City, where they host grand galas and flaunt cosmopolitan fashions, but are walled off from the poverty and squalor of the less fortunate districts and their neighborhoods. Although they might visit prosperous Bloomridge to try a fashionable restaurant or boutique, or watch a spectacle at the Oasis Theater, the patriars have little reason to venture into the dirtier, more dangerous parts of the city. If they do, it is generally as thrill-seeking tourists or enclosed by a retinue of armed guards, not as friends or neighbors. As a result, many patriars are at once acutely attuned to the nuances of royal courts half a continent away and shockingly ignorant of what life is like for the poor outside their own doorsteps.
+### Bedwistre Feature: Patriar
 
-This combination of worldly savvy and local blindness characterizes almost all the nobility of Baldur's Gate. As a result, for those who wish to play patriars, the Patriar feature below replaces the Position and Privilege feature of the noble background. Those who wish to use the background's standard feature might have gained their standing in Baldur's Gate from business rather than inheritance.
+The effects of a Bedwistre feature can be used only while the character is in Bedwistre — though, at the DM's discretion, they might have applicable effects in situations similar to those in Bedwistre.
 
-### Baldur's Gate Feature: Patriar
-
-The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate — though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.
-
-As a member of one of the elite families of Baldur's Gate, you may pass through city gates without paying tolls, mingle among the Gate's nobility unquestioned, and impress those on the lookout for wealthy patrons. You are welcome in the Upper City and may stay there after dark without being harassed or evicted. Your word is accepted over others' without question, and any corruption among guards or government officials tends to work in your favor, not against you — at least until you make some effort to expose it.
+As a member of one of the elite families of Bedwistre, you may pass through city gates without paying tolls, mingle among the city's nobility unquestioned, and impress those on the lookout for wealthy patrons. You are welcome in the Upper City and may stay there after dark without being harassed or evicted. Your word is accepted over others' without question, and any corruption among guards or government officials tends to work in your favor, not against you — at least until you make some effort to expose it.
 
 ## Suggested Characteristics
 
