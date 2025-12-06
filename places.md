@@ -51,15 +51,13 @@
 * [Stagcross](Stagcross.md)
 * Hallasen
 * Chambery
-* Dompatria
-* Sowhorn
+* [Sowhorn](Sowhorn.md)
 * Quintus
-* Padserae
+* [Padserae](Padserae.md)
 * [Uradun](fartraveller.md#Uradun)
 * [Yldstead](fartraveller.md#Yldstead)
 * Notertent
-* Anor - Dantag Continent
-* Noricum - Another continent
+
 
 # Elsewhere
 
@@ -77,6 +75,10 @@
 * [Yeonido](Yeonido.md)
 * [Yongjing](Yongjing.md)
 * [Zinda](Zinda.md)
+* Anor - Dantag Continent
+* Noricum - Another continent
+* Evermeet - Isle of the Elves
+* [Dompatria](Dompatria.md) - A city in the [DantagEmpire](DantagEmpire.md) (back on Anor)
 # Planes of Existence
 
 * [Abyss](Abyss.md)
