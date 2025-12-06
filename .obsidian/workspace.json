@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cities.md",
+                "file": "towns.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -42,7 +42,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cities"
+              "title": "towns"
             }
           }
         ],
@@ -104,12 +104,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "towns.md",
+                    "file": "Haicong.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "towns"
+                  "title": "Haicong"
                 }
               },
               {
@@ -328,8 +328,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "72dbaa94020d0892",
+  "active": "5f1879a99431e142",
   "lastOpenFiles": [
+    "world.md",
+    "Haicong.md",
+    "cities.md",
+    "towns.md",
+    "Tayama.md",
+    "Oakhurst.md",
     "Blasingdell.md",
     "places.md",
     "Garetton.md",
@@ -338,7 +344,6 @@
     "Dayawlongon.md",
     "Atagua.md",
     "AkharinSangar.md",
-    "cities.md",
     "Bedwistre.md",
     "Ikizh.md",
     "Chult.md",
@@ -350,11 +355,6 @@
     "rules/bandit.md",
     "rules/vampire.md",
     "rules/warrior.md",
-    "rules/vampirefamiliar.md",
-    "rules/tough.md",
-    "rules/commoner.md",
-    "rules/archdruid.md",
-    "rules/druid.md",
-    "rules/mage.md"
+    "rules/vampirefamiliar.md"
   ]
 }
