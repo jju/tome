@@ -77,8 +77,8 @@
 * Noricum - Another continent (southeast of Nuoro)
 * Evermeet - Isle of the Elves (West of Anor)
 * [Dompatria](Dompatria.md) - A city in the [DantagEmpire](DantagEmpire.md) (back on Anor)
-* Mulhorand - desert nation on Noricum
-* Zakhara - another desert nation even further south on Noricum
+* [Mulhorand](Mulhorand.md) - desert nation on Noricum
+* [Zakhara](Zakhara.md) - another desert nation even further south on Noricum
 * [Uradun](fartraveller.md#Uradun) - continent to far east of Nuoro
 * [Yldstead](fartraveller.md#Yldstead) - far northeast of Nuoro
 # Planes of Existence
