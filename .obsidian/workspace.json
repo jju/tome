@@ -104,12 +104,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "places.md",
+                    "file": "towns.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "places"
+                  "title": "towns"
                 }
               },
               {
@@ -328,10 +328,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "5f1879a99431e142",
+  "active": "72dbaa94020d0892",
   "lastOpenFiles": [
-    "Bedwistre.md",
+    "Blasingdell.md",
     "places.md",
+    "Garetton.md",
+    "FarzaBay.md",
+    "DjayaniJanya.md",
+    "Dayawlongon.md",
+    "Atagua.md",
+    "AkharinSangar.md",
+    "cities.md",
+    "Bedwistre.md",
     "Ikizh.md",
     "Chult.md",
     "Rundan.md",
@@ -347,14 +355,6 @@
     "rules/commoner.md",
     "rules/archdruid.md",
     "rules/druid.md",
-    "rules/mage.md",
-    "rules/pirate.md",
-    "rules/scout.md",
-    "Dracolathe.md",
-    "Bard.md",
-    "rules/raider.md",
-    "rules/orc.md",
-    "Asmodeus.md",
-    "HangmansLibrary.md"
+    "rules/mage.md"
   ]
 }

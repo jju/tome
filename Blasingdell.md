@@ -11,3 +11,4 @@ A mining town in the [Grimteeth](Grimteeth.md) with a population of about 2000 d
 * Town hall - Mayor Berrick Miles [Dwarf](Dwarf.md) [noble](noble.md)
 
 > [places](places.md)
+> [towns](towns.md)

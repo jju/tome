@@ -31,6 +31,7 @@
 * [BloodstoneHall](BloodstoneHall.md)
 * [BohaiLake](BohaiLake.md)
 * [Duvenstoll](Duvenstoll.md)
+* [FarzaBay](FarzaBay.md)
 * [Garetton](Garetton.md)
 * [GarettonForest](GarettonForest.md)
 * [GrapplersCreek](GrapplersCreek.md)
@@ -46,6 +47,16 @@
 * [TwinWoods](TwinWoods.md)
 * [Winterhaven](Winterhaven.md)
 * [Xuedei](Xuedei.md)
+* Stagcross
+* Hallasen
+* Chambery
+* Dompatria
+* Sowhorn
+* Quintus
+* Padserae
+* Uradun
+* Yldstead
+* Notertent
 
 # Elsewhere
 
@@ -54,7 +65,6 @@
 * [Chult](Chult.md)
 * [Dayawlongon](Dayawlongon.md)
 * [DjayaniJanya](DjayaniJanya.md)
-* [FarzaBay](FarzaBay.md)
 * [Sensa](Sensa.md)
 * [Shankhabhumi](Shankhabhumi.md)
 * [Siabsungkoh](Siabsungkoh.md)
