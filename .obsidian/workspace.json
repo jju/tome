@@ -97,9 +97,23 @@
                   "icon": "lucide-file",
                   "title": "places"
                 }
+              },
+              {
+                "id": "ef4f94540115296c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Dracolathe.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Dracolathe"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "f95a241c1a1d9096",
@@ -314,12 +328,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "1cda387c3da62ea1",
+  "active": "ef4f94540115296c",
   "lastOpenFiles": [
+    "Golgewood.md",
+    "rules/mercenaryveteran.md",
+    "places.md",
+    "Padserae.md",
     "rules/noble.md",
     "rules/backgrounds.md",
     "rules/outlander.md",
-    "places.md",
     "Sivekkah.md",
     "rules/sage.md",
     "rules/scout.md",
@@ -338,9 +355,6 @@
     "Stagcross.md",
     "rules/acolyte.md",
     "Chokewoods.md",
-    "BloodstoneHall.md",
-    "Saltmarsh.md",
-    "Abyss.md",
-    "Kobold.md"
+    "BloodstoneHall.md"
   ]
 }
