@@ -1,41 +1,69 @@
 
 # Nuoro
 
-* [Bedwistre](Bedwistre.md)
-* [Chokewoods](Chokewoods.md)
+## Countries
+
+* [Rundan](Rundan.md)
+* [Ikizh](Ikizh.md)
 * [Croaklands](Croaklands.md)
-* [Dracolathe](Dracolathe.md)
+
+### Cities & Towns
+
+**Rundan:**
+* [Bedwistre](Bedwistre.md)
+* [Hammerkeep](Hammerkeep.md)
+* [Hammersford](Hammersford.md)
+* [Oakhurst](Oakhurst.md)
+* [GrapplersCreek](GrapplersCreek.md)
+* Godsbreath - farming area in Rundan
+
+**Ikizh:**
+* [Khudurra](Khudurra.md)
+* [Sivekkah](Sivekkah.md)
+* [Stagcross](Stagcross.md)
+* [Duvenstoll](Duvenstoll.md)
+
+**Grimteeth:**
+* [Dracolathe](Dracolathe.md) / [Zhaalum](Zhaalum.md)
+* [Blackstone](Blackstone.md)
+* [Blasingdell](Blasingdell.md)
+* [Hammerford](Hammerford.md)
+* [Aurich](Aurich.md)
+
+**Twin Woods:**
+* [Padserae](Padserae.md)
+* [Sowhorn](Sowhorn.md)
+
+**Northwest:**
+* [Tayama](Tayama.md)
+* San Citlan - city in northwest wastes, near village of Milpazul, and Hollow mine of Pontezula in the Silver Veins
+
+**Croaklands:**
+* [Saltmarsh](Saltmarsh.md)
+* [Seaton](Seaton.md)
+
+* [Chokewoods](Chokewoods.md)
 * [DwarfRoad](DwarfRoad.md)
 * [FadedCoast](FadedCoast.md)
 * [FarUzak](FarUzak.md)
 * [Grimteeth](Grimteeth.md)
 * [Golgewood](Golgewood.md)
-* [Hammersford](Hammersford.md) & [Hammerkeep](Hammerkeep.md)
-* [Ikizh](Ikizh.md)
 * [Kanliwood](Kanliwood.md) & [Karanliwood](Karanliwood.md)
-* [Khudurra](Khudurra.md)
 * [LakeArkona](LakeArkona.md)
 * [Nuoro](Nuoro.md)
 * [NuoroRiver](NuoroRiver.md)
 * [Oddlewett](Oddlewett.md)
 * [Perolmani](Perolmani.md)
-* [Rundan](Rundan.md)
-* [Sivekkah](Sivekkah.md)
-* [Tayama](Tayama.md)
+
 * [UzakHills](UzakHills.md)
 * [Witchpeak](Witchpeak.md)
 * [Zhaalum](Zhaalum.md)
-* [Aurich](Aurich.md)
 * [Battlemoor](Battlemoor.md)
-* [Blackstone](Blackstone.md)
-* [Blasingdell](Blasingdell.md)
 * [BloodstoneHall](BloodstoneHall.md)
 * [BohaiLake](BohaiLake.md)
-* [Duvenstoll](Duvenstoll.md)
 * [FarzaBay](FarzaBay.md)
 * [Garetton](Garetton.md)
 * [GarettonForest](GarettonForest.md)
-* [GrapplersCreek](GrapplersCreek.md)
 * [Haicong](Haicong.md)
 * [HuskenHills](HuskenHills.md)
 * [Jichileh](Jichileh.md)
@@ -43,20 +71,16 @@
 * [LakeArkona](LakeArkona.md)
 * [Oecumene](Oecumene.md)
 * [Raftons](Raftons.md)
-* [Sivekkah](Sivekkah.md)
 * [Skytusk](Skytusk.md)
 * [TwinWoods](TwinWoods.md)
 * [Winterhaven](Winterhaven.md)
 * [Xuedei](Xuedei.md)
-* [Stagcross](Stagcross.md)
 * Hallasen
 * Chambery
-* [Sowhorn](Sowhorn.md)
 * Quintus
-* [Padserae](Padserae.md)
 * Notertent
-* Godsbreath - farming area in Rundan
-* San Citlan - city in northwest wastes, near village of Milpazul, and Hollow mine of Pontezula in the Silver Veins
+
+
 
 
 # Elsewhere
