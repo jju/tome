@@ -60,12 +60,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Oakhurst.md",
+                    "file": "hateswords.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Oakhurst"
+                  "title": "hateswords"
                 }
               },
               {
@@ -475,12 +475,17 @@
   },
   "active": "b457c074468be4b2",
   "lastOpenFiles": [
+    "rules/reborn.md",
+    "hateswords.md",
+    "HangmansLibrary.md",
+    "Sivekkah.md",
+    "Khudurra.md",
+    "Oakhurst.md",
     "towns.md",
     "conflict-files-obsidian-git.md",
     "world.md",
     "rules/fishingboat.md",
     "rules/cultist.md",
-    "Sivekkah.md",
     "Priests.md",
     "Mages.md",
     "Aurich.md",
@@ -496,11 +501,6 @@
     "rules/vampire.md",
     "rules/tough.md",
     "rules/reddragon.md",
-    "rules/ratfolk.md",
-    "rules/raider.md",
-    "rules/plasmoid.md",
-    "rules/pirate.md",
-    "rules/naturepriest.md",
     "images/map-nuoro.png",
     "images",
     "places",
