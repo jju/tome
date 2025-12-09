@@ -90,12 +90,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Haicong.md",
+                    "file": "places.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Haicong"
+                  "title": "places"
                 }
               }
             ],
@@ -181,12 +181,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Mulhorand.md",
+                    "file": "Xuedei.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Mulhorand"
+                  "title": "Xuedei"
                 }
               },
               {
@@ -372,14 +372,17 @@
   },
   "active": "5c1f25dd815cff62",
   "lastOpenFiles": [
+    "Haicong.md",
+    "world.md",
+    "Xuedei.md",
+    "AkharinSangar.md",
+    "Mulhorand.md",
     "places.md",
     "Winterhaven.md",
-    "Mulhorand.md",
     "rules/fartraveller.md",
     "Uradun.md",
     "Zakhara.md",
     "Halruaa.md",
-    "world.md",
     "Noricum.md",
     "Siabsungkoh.md",
     "Yldstead.md",
@@ -394,9 +397,6 @@
     "rules/acolyte.md",
     "rules/folkhero.md",
     "rules/fisher.md",
-    "rules/gambler.md",
-    "rules/knightorder.md",
-    "Anor.md",
-    "Dompatria.md"
+    "rules/gambler.md"
   ]
 }

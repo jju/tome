@@ -7,9 +7,10 @@
 * [Ikizh](Ikizh.md)
 * [Croaklands](Croaklands.md)
 
-### Cities & Towns
+## Cities & Towns
 
-**Rundan:**
+### Rundan
+
 * [Bedwistre](Bedwistre.md)
 * [Hammerkeep](Hammerkeep.md)
 * [Hammersford](Hammersford.md)
@@ -17,71 +18,91 @@
 * [GrapplersCreek](GrapplersCreek.md)
 * Godsbreath - farming area in Rundan
 
-**Ikizh:**
+### Ikizh
+
 * [Khudurra](Khudurra.md)
 * [Sivekkah](Sivekkah.md)
 * [Stagcross](Stagcross.md)
 * [Duvenstoll](Duvenstoll.md)
 
-**Grimteeth:**
+### Grimteeth
+
 * [Dracolathe](Dracolathe.md) / [Zhaalum](Zhaalum.md)
 * [Blackstone](Blackstone.md)
 * [Blasingdell](Blasingdell.md)
 * [Hammerford](Hammerford.md)
 * [Aurich](Aurich.md)
 
-**Twin Woods:**
+### Twin Woods
+
 * [Padserae](Padserae.md)
 * [Sowhorn](Sowhorn.md)
 
-**Northwest:**
+### Northwest
+
 * [Tayama](Tayama.md)
 * San Citlan - city in northwest wastes, near village of Milpazul, and Hollow mine of Pontezula in the Silver Veins
 
-**Croaklands:**
+### Croaklands
+
 * [Saltmarsh](Saltmarsh.md)
 * [Seaton](Seaton.md)
 
-* [Chokewoods](Chokewoods.md)
-* [DwarfRoad](DwarfRoad.md)
-* [FadedCoast](FadedCoast.md)
-* [FarUzak](FarUzak.md)
-* [Grimteeth](Grimteeth.md)
-* [Golgewood](Golgewood.md)
-* [Kanliwood](Kanliwood.md) & [Karanliwood](Karanliwood.md)
-* [LakeArkona](LakeArkona.md)
-* [Nuoro](Nuoro.md)
-* [NuoroRiver](NuoroRiver.md)
-* [Oddlewett](Oddlewett.md)
-* [Perolmani](Perolmani.md)
 
-* [UzakHills](UzakHills.md)
+
+## Mountains
+
+* [Grimteeth](Grimteeth.md)
 * [Witchpeak](Witchpeak.md)
-* [Zhaalum](Zhaalum.md)
-* [Battlemoor](Battlemoor.md)
-* [BloodstoneHall](BloodstoneHall.md)
+* [UzakHills](UzakHills.md)
+* [FarUzak](FarUzak.md)
+* [HuskenHills](HuskenHills.md)
+* [Skytusk](Skytusk.md)
+
+
+
+
+## Forests
+
+* [Chokewoods](Chokewoods.md)
+* [Kanliwood](Kanliwood.md) & [Karanliwood](Karanliwood.md) ([TwinWoods](TwinWoods.md))
+* [Perolmani](Perolmani.md)
+* [Golgewood](Golgewood.md)
+* [GarettonForest](GarettonForest.md)
+
+## Wetlands
+
+* [Croaklands](Croaklands.md)
+* [Oddlewett](Oddlewett.md)
+* [FadedCoast](FadedCoast.md)
+
+## Bodies of Water
+
+* [NuoroRiver](NuoroRiver.md)
+* [LakeArkona](LakeArkona.md)
 * [BohaiLake](BohaiLake.md)
 * [FarzaBay](FarzaBay.md)
-* [Garetton](Garetton.md)
-* [GarettonForest](GarettonForest.md)
-* [Haicong](Haicong.md)
-* [HuskenHills](HuskenHills.md)
-* [Jichileh](Jichileh.md)
-* [Keelmont](Keelmont.md)
-* [LakeArkona](LakeArkona.md)
+
+## Islands
+
 * [Oecumene](Oecumene.md)
+* [Keelmont](Keelmont.md)
+# unassigned
+
+* [DwarfRoad](DwarfRoad.md)
+* [Nuoro](Nuoro.md)
+* [Battlemoor](Battlemoor.md)
+* [BloodstoneHall](BloodstoneHall.md)
+* [Garetton](Garetton.md)
+* [Haicong](Haicong.md)
+* [Jichileh](Jichileh.md)
 * [Raftons](Raftons.md)
-* [Skytusk](Skytusk.md)
-* [TwinWoods](TwinWoods.md)
 * [Winterhaven](Winterhaven.md)
 * [Xuedei](Xuedei.md)
 * Hallasen
 * Chambery
 * Quintus
 * Notertent
-
-
-
 
 # Elsewhere
 
@@ -106,8 +127,7 @@
 * [Zakhara](Zakhara.md) - another desert nation even further south on Noricum
 * [Uradun](fartraveller.md#Uradun) - continent to far east of Nuoro
 * [Yldstead](fartraveller.md#Yldstead) - far northeast of Nuoro
-* 
-* [Zinda](Zinda.md) - rainforest city [Noricum](Noricum.md)
+* [Zinda](Zinda.md) - rainforest city [Anor](Anor.md)
 # Planes of Existence
 
 * [Abyss](Abyss.md)
