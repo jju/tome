@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "world.md",
+                "file": "characters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "world"
+              "title": "characters"
             }
           }
         ],
@@ -370,14 +370,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "5c1f25dd815cff62",
+  "active": "59a64d6ee264bee5",
   "lastOpenFiles": [
-    "Haicong.md",
+    "Sunny.md",
+    "characters.md",
     "world.md",
+    "places.md",
+    "Haicong.md",
     "Xuedei.md",
     "AkharinSangar.md",
     "Mulhorand.md",
-    "places.md",
     "Winterhaven.md",
     "rules/fartraveller.md",
     "Uradun.md",
@@ -395,8 +397,6 @@
     "rules/hermit.md",
     "rules/guildartisan.md",
     "rules/acolyte.md",
-    "rules/folkhero.md",
-    "rules/fisher.md",
-    "rules/gambler.md"
+    "rules/folkhero.md"
   ]
 }

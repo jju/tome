@@ -9,7 +9,7 @@ If you're in [Dracolathe](Dracolathe.md) I'm sure you are concerned about the wa
 
 But on the edges of the [Kanliwood](Kanliwood.md) in [Rundan](Rundan.md) the recent increase (as compared to what people remember their parents telling them or the long-lifers remember firsthand) in monster sightings means food policy in [Ikizh](Ikizh.md) isn't that top of mind. Maybe all the deeds of the gods aeons ago are actually what's driving the weirdness in the woods. Or maybe there are just a pile of weird wizards doing weird wizard shit.
 
-What I'm trying to get at here is that "history" isn't a good way of getting to know [Nuoro](Nuoro.md), especially for you, my reader displaced from me in time and space. Beyond the people you get to know, how much do you really care? Historians, arcanists and theologians can go into all sorts of details on how they say the world got to be this way, and some of them might even be right.
+What I'm trying to get at here is that "history" isn't a good way of getting to know [Nuoro](Nuoro.md), especially for you, my reader displaced from me in time and space. Beyond [the people you get to know](characters.md), how much do you really care? Historians, arcanists and theologians can go into all sorts of details on how they say the world got to be this way, and some of them might even be right.
 
 [^1]: In the Imperial Calendar the year is [IC4996](IC4996.md).
 ## A Sketch of Civilization
