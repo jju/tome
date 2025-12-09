@@ -3,6 +3,8 @@
 
 Trained in the use of poison, assassins are remorseless killers who work for nobles, guildmasters, sovereigns, and anyone else who can afford them.
 
+> see also: [Assassin](rules/rogue.md#Assassin) 
+
 Medium Or Small Humanoid, Neutral
 AC 16    Initiative +10 (20)
 HP 97 (15d8 + 30)
