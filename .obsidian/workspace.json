@@ -233,16 +233,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dragons.md",
+                "file": "rules/golddragon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dragons"
+              "title": "golddragon"
+            }
+          },
+          {
+            "id": "565a8ecc0d633187",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/weather.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "weather"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       },
       {
         "id": "ce196e2f9001aae7",
@@ -272,12 +286,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/assassin.md",
+                    "file": "rules/dragon.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "assassin"
+                  "title": "dragon"
                 }
               }
             ],
@@ -566,8 +580,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "13994bc66b22abe5",
+  "active": "565a8ecc0d633187",
   "lastOpenFiles": [
+    "rules/turns.md",
+    "rules/travel.md",
+    "rules/backgrounds.md",
+    "rules/downtime.md",
+    "rules/hazardsystem.md",
+    "rules/wilderness.md",
+    "Dragons.md",
+    "rules/dragon.md",
+    "rules/assassin.md",
+    "rules/golddragon.md",
     "ArmsBetrayers.md",
     "gods.md",
     "Zehir.md",
@@ -583,16 +607,6 @@
     "Naviask.md",
     "Desirat.md",
     "Ceratos.md",
-    "Bahamut.md",
-    "rules/duergar.md",
-    "MarvaBrokenchains.md",
-    "rules/rogue.md",
-    "rules/assassin.md",
-    "places.md",
-    "rules/bard.md",
-    "rules/gambler.md",
-    "characters.md",
-    "Xuedei.md",
-    "Sunny.md"
+    "Bahamut.md"
   ]
 }
