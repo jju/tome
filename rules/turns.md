@@ -10,7 +10,7 @@ roll on [dungeon](dungeon.md) for every 10 minutes exploring a room
 roll on [wilderness](wilderness.md) for every 4 hours exploring a hex
 
 ## Travel Turns
-roll on for every day of travelling
+roll on [travel](travel.md) for every day of travelling
 
 ## Downtime Turns
 roll on [downtime](downtime.md) to see how long the turn lasts
