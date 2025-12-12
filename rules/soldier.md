@@ -25,24 +25,22 @@ During your time as a soldier, you had a specific role to play in your unit or a
 
 You have a military rank from your career as a soldier. Soldiers loyal to your former military organization still recognize your authority and influence, and they defer to you if they are of a lower rank. You can invoke your rank to exert influence over other soldiers and requisition simple equipment or horses for temporary use. You can also usually gain access to friendly military encampments and fortresses where your rank is recognized.
 
-## Baldur's Gate
+## Khudurra
 
-(Baldur's Gate: Descent into Avernus)
+Mercenaries, private guards, Watch soldiers, and members of the Flaming Fist number among just a few of the many soldiers on the streets of [Khudurra](Khudurra.md).
 
-Mercenaries, private guards, Watch soldiers, and members of the Flaming Fist number among just a few of the many soldiers on the streets of Baldur's Gate.
+### Khudurra Feature: City Guard
 
-### Baldur's Gate Feature: City Guard
-
-The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate — though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.
+The effects of a Khudurra feature can be used only while the character is in Khudurra — though, at the DM's discretion, they might have applicable effects in situations similar to those in Khudurra.
 
 You may choose to currently serve in either the Flaming Fist or the Watch. If you do, you have responsibilities related to your post. For as long as you perform these responsibilities, you gain benefits. If you stop performing your responsibilities, though, you lose access to the benefits and might suffer further fallout. Should you lose these benefits, you may regain them by having an unpleasant conversation with your commanding officer and fulfilling your responsibilities for a month.
 
 - **Flaming Fist:** If you serve in the Flaming Fist, once every ten days, you must report to the Seatower of Balduran for training, and you're required to take a regular shift patrolling either the Lower City or the Outer City. In return, you have access to the Flaming Fist's fortresses and a direct line of communication with Flaming Fist officers and other soldiers. You can also pass through the city's gates without question — although you can't bring guests into the Upper City as a member of the Watch might. Additionally, you're always welcome at the Three Old Kegs, where the Three Old Toads are glad to greet you with a smile and a mug of ale.
 - **The Watch:** If you serve in the Watch, you're required to conduct a regular patrol in the Upper City or take a regular shift at its gates, and must report for training in the Watch Citadel once every ten days. In return, you have access to the Citadel and a direct line of communication with Watch officers and officials. Your word carries considerable weight in the High Hall, and most establishments in the Citadel Streets neighborhood are happy to give you and your friends free meals. Additionally, you can escort people into the Upper City without question, regardless of whether they are patriars or have Watch tokens. Outside the Upper City, however, most people regard you with suspicion, and you generally get a chilly reception while in uniform.
 
-### Baldur's Gate Feature: Loyalty Test
+### Khudurra Feature: Loyalty Test
 
-The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate — though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.
+The effects of a Khudurra feature can be used only while the character is in Khudurra — though, at the DM's discretion, they might have applicable effects in situations similar to those in Khudurra.
 
 You've had enough dealings with crooked soldiers that you can spot the behaviors common to corrupt guards and military officers a mile away. While awareness of such corruption doesn't equate to evidence of it, and your sense certainly isn't foolproof, your instinct proves a useful starting point when determining who might take a bribe, who might turn a blind eye to a crime, or who might have criminal connections. You can also use this sense to get a feeling about who might fulfill their duties strictly by the book.
 

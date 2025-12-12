@@ -3,5 +3,7 @@ The furthest Western reach of the [Dantag Empire](DantagEmpire.md) which control
 
 Theocracy council of 9 guides the local king. They root out heresy and those who question the divine world. By unleashing the power of the moon key?
 
+[Bedwistre](Bedwistre.md) is the capital city
+
 > [places](places.md)
 > [factions](factions.md)

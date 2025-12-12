@@ -4,8 +4,7 @@ You are an experienced criminal with a history of breaking the law. You have spe
 - **Tool Proficiencies:** One type of gaming set, [thieves' tools](https://dnd-5e.fandom.com/wiki/Tools#Thieves'_Tools "Tools")
 - **Equipment:** A crowbar, a set of dark common clothes including a hood, and a pouch containing 15 gp
 
-### Specialty[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FCriminal%3Fveaction%3Dedit%26section%3D2&uselang=en "Sign in to edit")
-
+### Specialty
 There are many kinds of criminals, and within a thieves' guild or similar criminal organization, individual members have particular specialties. Even criminals who operate outside of such organizations have strong preferences for certain kinds of crimes over others. Choose the role you played in your criminal life, or roll on the table below.
 
 |d8|Specialty|
@@ -19,10 +18,8 @@ There are many kinds of criminals, and within a thieves' guild or similar crimin
 |7|Pickpocket|
 |8|Smuggler|
 
-### Feature: Criminal Contact[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FCriminal%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit")
-
+### Feature: Criminal Contact
 You have a reliable and trustworthy contact who acts as your liaison to a network of other criminals. You know how to get messages to and from your contact, even over great distances; specifically, you know the local messengers, corrupt caravan masters, and seedy sailors who can deliver messages for you.
 
-## Variant: Spy[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FCriminal%3Fveaction%3Dedit%26section%3D4&uselang=en "Sign in to edit")
-
+## Variant: Spy
 Although your capabilities are not much different from those of a burglar or smuggler, you learned and practiced them in a very different context: as an espionage agent. You might have been an officially sanctioned agent of the crown, or perhaps you sold the secrets you uncovered to the highest bidder.

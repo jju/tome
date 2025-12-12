@@ -4,7 +4,7 @@ You were trained for battle on sandy beaches and rocky shores. You have launched
 - **Tool Proficiencies:** Vehicles (water, land)
 - **Equipment:** A dagger that belonged to a fallen comrade, a folded flag emblazoned with the symbol of your ship or company, a set of traveler's clothes, and a belt pouch containing 10 gp
 
-### Hardship Endured[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FMarine%3Fveaction%3Dedit%26section%3D2&uselang=en "Sign in to edit")
+### Hardship Endured
 
 Hardship in your past has forged you into an unstoppable living weapon. This hardship is essential to you and is at the heart of a personal philosophy or ethos that often guides your actions. You can roll on the following table to determine this hardship or choose one that best fits your character.
 
@@ -17,16 +17,13 @@ Hardship in your past has forged you into an unstoppable living weapon. This har
 |5|**Stowaway:** For days, you hid in the bilge of an enemy ship, surviving on brackish water and foolhardy rats. At the right moment, you crept up to the deck and took over the ship on your own.|
 |6|**Leave None Behind:** You carried an injured marine for miles to avoid capture and death.|
 
-### Feature: Steady[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FMarine%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit")
-
+### Feature: Steady
 You can move twice the normal amount of time (up to 16 hours) each day before being subject to the effect of a forced march (see "Travel Pace" in chapter 8 of the Player's Handbook). Additionally, you can automatically find a safe route to land a boat on shore, provided such a route exists.
 
-## Suggested Characteristics[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FMarine%3Fveaction%3Dedit%26section%3D4&uselang=en "Sign in to edit")
-
+## Suggested Characteristics
 Marines are looked up to by other soldiers and respected by their superiors. They are veteran warriors who rarely lose composure on the battlefield. Marines who leave the service tend to work as mercenaries, but their combat experience also makes them excellent adventurers. Though they are self-reliant, marines tend to operate best in groups, valuing camaraderie and the companionship of like-minded individuals.
 
-### Personality Traits[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FMarine%3Fveaction%3Dedit%26section%3D5&uselang=en "Sign in to edit")
-
+### Personality Traits
 - I speak rarely but mean every word I say.
 - I laugh loudly and see the humor in stressful situations.
 - I prefer to solve problems without violence, but I finish fights decisively.
@@ -36,8 +33,7 @@ Marines are looked up to by other soldiers and respected by their superiors. The
 - I become cantankerous and quiet in the rain.
 - When the sea is within my sight, my mood is jovial and optimistic.
 
-### Ideals[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FMarine%3Fveaction%3Dedit%26section%3D6&uselang=en "Sign in to edit")
-
+### Ideals
 - Teamwork: Success depends on cooperation and communication. (Good)
 - Code: The marines' code provides a solution for every problem, and following it is imperative. (Lawful)
 - Embracing: Life is messy. Throwing yourself into the worst of it is necessary to get the job done. (Chaotic)
@@ -45,8 +41,7 @@ Marines are looked up to by other soldiers and respected by their superiors. The
 - Bravery: To act when others quake in fear — this is the essence of the warrior. (Any)
 - Perseverance: No injury or obstacle can turn me from my goal. (Any)
 
-### Bonds[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FMarine%3Fveaction%3Dedit%26section%3D7&uselang=en "Sign in to edit")
-
+### Bonds
 - I face danger and evil to offset an unredeemable act in my past.
 - I. Will. Finish. The. Job.
 - I must set an example of hope for those who have given up.
@@ -54,8 +49,7 @@ Marines are looked up to by other soldiers and respected by their superiors. The
 - Fear leads to tyranny, and both must be eradicated.
 - My commander betrayed my unit, and I will have revenge.
 
-### Flaws[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FMarine%3Fveaction%3Dedit%26section%3D8&uselang=en "Sign in to edit")
-
+### Flaws
 - I grow combative and unpredictable when I drink.
 - I find civilian life difficult and struggle to say the right thing in social situations.
 - My intensity can drive others away.

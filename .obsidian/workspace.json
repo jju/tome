@@ -60,12 +60,26 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "places.md",
+                    "file": "world.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "places"
+                  "title": "world"
+                }
+              },
+              {
+                "id": "d06395d64e959482",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "conflict-files-obsidian-git.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "conflict-files-obsidian-git"
                 }
               },
               {
@@ -207,12 +221,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Avandra.md",
+                    "file": "Miergag.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Avandra"
+                  "title": "Miergag"
                 }
               }
             ],
@@ -301,12 +315,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secrets/npcs.md",
+                "file": "Saltmarsh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "npcs"
+              "title": "Saltmarsh"
             }
           },
           {
@@ -473,34 +487,34 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "b457c074468be4b2",
+  "active": "6fb0cdb20d2f3666",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Oakhurst.md",
+    "Miergag.md",
+    "Avandra.md",
+    "Hammerkeep.md",
+    "secrets/npcs.md",
+    "world.md",
+    "FarzaBay.md",
+    "places.md",
+    "rules/sailor.md",
+    "rules/artificer.md",
+    "Zakhara.md",
+    "Yldstead.md",
+    "Uradun.md",
+    "Stagcross.md",
+    "Sowhorn.md",
+    "Seaton.md",
+    "Padserae.md",
+    "Noricum.md",
+    "Mulhorand.md",
+    "Halruaa.md",
+    "Dompatria.md",
+    "Anor.md",
     "hateswords.md",
     "rules/reborn.md",
     "HangmansLibrary.md",
-    "Sivekkah.md",
-    "Khudurra.md",
-    "Oakhurst.md",
-    "towns.md",
-    "conflict-files-obsidian-git.md",
-    "world.md",
-    "rules/fishingboat.md",
-    "rules/cultist.md",
-    "Priests.md",
-    "Mages.md",
-    "Aurich.md",
-    "Dragons.md",
-    "ArcanePurge.md",
-    "Eladrin.md",
-    "secrets/npcs.md",
-    "rules/sage.md",
-    "secrets/history.md",
-    "rules/wererat.md",
-    "rules/warrior.md",
-    "rules/vampirefamiliar.md",
-    "rules/vampire.md",
-    "rules/tough.md",
-    "rules/reddragon.md",
     "images/map-nuoro.png",
     "images",
     "places",

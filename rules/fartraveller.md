@@ -80,31 +80,31 @@ Most of those who emigrate from Evermeet are either exiles, forced out for commi
 
 ### Halruaa
 
-Located on the southern edges of the Shining South, and hemmed in by mountains all around, the magocracy of Halruaa is a bizarre land to most in the [Dantag Empire](DantagEmpire.md) who know about it. Many folk have heard of the strange skyships the Halruaans sail, and a few know of the tales that even the least of their people can work magic.
+Located on the southern edges of [Noricum](Noricum.md), and hemmed in by mountains all around, the magocracy of [Halruaa](Halruaa.md) is a bizarre land to most in the [Dantag Empire](DantagEmpire.md) who know about it. Many folk have heard of the strange skyships the Halruaans sail, and a few know of the tales that even the least of their people can work magic.
 
 Halruaans usually make their journeys into Dantag (or Nuoro) for personal reasons, since their government has a strict stance against unauthorized involvement with other nations and organizations. You might have been exiled for breaking one of Halruaa's many byzantine laws, or you could be a pilgrim who seeks the shrines of the gods of magic.
 
-### Kara-Tur
+### Uradun
 
-The continent of Kara-Tur, far to the east of Nuoro, is home to people whose customs are unfamiliar to the folk of the Dantag Empire. If you come from Kara-Tur, the people of Faerûn likely refer to you as Shou, even if that isn't your true ethnicity, because that's the blanket term they use for everyone who shares your origin.
+The continent of [Uradun](Uradun.md), far to the east of Anor, is home to people whose customs are unfamiliar to the folk of the Dantag Empire. If you come from Uradun, the people of Anor likely refer to you as Zow, even if that isn't your true ethnicity, because that's the blanket term they use for everyone who shares your origin.
 
-The folk of Kara-Tur occasionally travel to Dantag as diplomats or to forge trade relations with prosperous merchant cartels. You might have come here as part of some such delegation, then decided to stay when the mission was over.
+The folk of Uradun occasionally travel to Dantag as diplomats or to forge trade relations with prosperous merchant cartels. You might have come here as part of some such delegation, then decided to stay when the mission was over.
 
 ### Mulhorand
 
-From the terrain to the architecture to the god-kings who rule over these lands, nearly everything about Mulhorand is alien to someone from Nuoro. You likely experienced the same sort of culture shock when you left your desert home and traveled to the unfamiliar climes of northern Nuoro. Recent events in your homeland have led to the abolition of slavery, and a corresponding increase in the traffic between Mulhorand and the distant parts of the world.
+From the terrain to the architecture to the god-kings who rule over these lands, nearly everything about [Mulhorand](Mulhorand.md) is alien to someone from Nuoro. You likely experienced the same sort of culture shock when you left your desert home and traveled to the unfamiliar climes of Nuoro. Recent events in your homeland have led to the abolition of slavery, and a corresponding increase in the traffic between Mulhorand and the distant parts of the world.
 
 Those who leave behind Mulhorand's sweltering deserts and ancient pyramids for a glimpse at a different life do so for many reasons. You might be in the North simply to see the strangeness this wet land has to offer, or because you have made too many enemies among the desert communities of your home.
 
-### Sossal
+### Yldstead
 
-Few have heard of your homeland, but many have questions about it upon seeing you. Humans from Sossal seem crafted from snow, with alabaster skin and white hair, and typically dressed in white.
+Few have heard of your homeland, but many have questions about it upon seeing you. Humans from Yldstead seem crafted from snow, with alabaster skin and white hair, and typically dressed in white.
 
-Sossal exists far to the northeast, hard up against the endless ice to the north and bounded on its other sides by hundreds of miles of the Great Glacier and the Great Ice Sea. No one from your nation makes the effort to cross such colossal barriers without a convincing reason. You must fear something truly terrible or seek something incredibly important.
+Yldstead exists far to the northeast, hard up against the endless ice to the north and bounded on its other sides by hundreds of miles of the Great Glacier and the Great Ice Sea. No one from your nation makes the effort to cross such colossal barriers without a convincing reason. You must fear something truly terrible or seek something incredibly important.
 
 ### Zakhara
 
-As the saying goes among those in Dantag who know of the place, "To get to Zakhara, go south. Then go south some more." Of course, you followed an equally long route when you came north from your place of birth. Though it isn't unusual for Zakharans to visit the southern extremes of Faerûn for trading purposes, few of them stray as far from home as you have.
+As the saying goes among those in Dantag who know of the place, "To get to Zakhara, go south. Then go south some more." Of course, you followed an equally long route when you came north from your place of birth. Though it isn't unusual for Zakharans to visit the southern extremes of Anor for trading purposes, few of them stray as far from home as you have.
 
 You might be traveling to discover what wonders are to be found outside the deserts and sword-like mountains of your homeland, or perhaps you are on a pilgrimage to understand the gods that others worship, so that you might better appreciate your own deities.
 

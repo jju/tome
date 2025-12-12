@@ -6,7 +6,7 @@ Sivekkah is a port city in [Ikizh](Ikizh.md). It's smaller than [Khudurra](Khudu
 
 There's currently a movement to create a Wizard's College (the Arcane Circle of Knowledge), but it hasn't made huge amounts of progress, at least in part because there's a lot of upset that [Khudurra](Khudurra.md) got their Bardic enterprise underway with the help of one of Sivekkah's leading magickal artists.
 
-~112 miles to [Khudurra](Khudurra.md) on a decent road (fast - 3.5 days, but a courier can do it in 14 hours by changing horses in [unassigned](unassigned.md))
+~112 miles to [Khudurra](Khudurra.md) on the decent Tozlu road (fast - 3.5 days, but a courier can do it in 14 hours by changing horses in [Stagcross](Stagcross.md))
 
 > [places](places.md)
 > [cities](cities.md)

@@ -22,17 +22,14 @@ To determine the nature of your scholarly training, roll a d8 or choose from the
 ### Feature: Researcher
 When you attempt to learn or recall a piece of lore, if you do not know that information, you often know where and from whom you can obtain it. Usually, this information comes from a library, scriptorium, university, or a sage or other learned person or creature, Your DM might rule that the knowledge you seek is secreted away in an almost inaccessible place, or that it simply cannot be found. Unearthing the deepest secrets of the multiverse can require an adventure or even a whole campaign.
 
-## Baldur's Gate
+## Sivekkah
+Sivekkah has a modest academic community centered around the libraries of the High Hall and the various temples dedicated to gods of learning and innovation. Lecturers, researchers, and historians all participate with passing scholars associated with the Arcane Circle in a lively exchange of ideas, debating and collaborating in book-filled halls across the Upper and Lower City. The city is also rife with opportunities for arcane study, although its masters are dispersed across individual wizards' abodes and lack concentrated communities.
 
-(Baldur's Gate: Descent into Avernus)
+### Sivekkah Feature: Rumor Monger
 
-Baldur's Gate has a modest academic community centered around the libraries of the High Hall and the various temples dedicated to gods of learning and innovation. Lecturers, researchers, and historians all participate with passing scholars from Candlekeep in a lively exchange of ideas, debating and collaborating in book-filled halls across the Upper and Lower City. The city is also rife with opportunities for arcane study, although its masters are dispersed across individual wizards' abodes and lack concentrated communities.
+The effects of a Sivekkah feature can be used only while the character is in Sivekkah — though, at the DM's discretion, they might have applicable effects in situations similar to those in Sivekkah.
 
-### Baldur's Gate Feature: Rumor Monger
-
-The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate — though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.
-
-Via your personal rumor mill and articles published in Baldur's Mouth, you can surmise a great deal about Baldurians' secrets — who's practicing necromancy, who's involved in spying or smuggling, who would purchase or craft dangerous magical wares without batting an eyelash. Whenever a noteworthy crime or mysterious happening occurs in the city, you immediately have a list of 1d4 suspects who, if they aren't involved, have a strong chance of knowing who is.
+Via your personal rumor mill and articles published in Baldur's Mouth, you can surmise a great deal about Sivekkans' secrets — who's practicing necromancy, who's involved in spying or smuggling, who would purchase or craft dangerous magical wares without batting an eyelash. Whenever a noteworthy crime or mysterious happening occurs in the city, you immediately have a list of 1d4 suspects who, if they aren't involved, have a strong chance of knowing who is.
 
 ## Suggested Characteristics
 

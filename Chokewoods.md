@@ -5,3 +5,4 @@ South of the [Grimteeth](Grimteeth.md), you'd find the Chokewoods. More likely, 
 That said, it's the main path between [Khudurra](Khudurra.md) and [Dracolathe](Dracolathe.md), so many people have to brave it. And honestly, even most slow-paced cargo caravans don't usually have to overnight in the woods (and oh man do the towns on either end, [Duvenstoll](Duvenstoll.md) and  [unassigned](unassigned.md), take advantage of that).
 
 > [places](places.md)
+> [forests](forests.md)

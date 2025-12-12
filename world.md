@@ -41,3 +41,15 @@ What we can say is that [Nuoro](Nuoro.md) is a fragmented land. The fertile king
 * [Witchpeak](Witchpeak.md)
 * [Xuedei](Xuedei.md)
 * [Zhaalum](Zhaalum.md)
+
+## Beyond the Island
+
+Many people still don't believe [Nuoro](Nuoro.md) is an island. I don't know what to tell them, but I usually don't have to tell them anything because they stay at home never going five miles from their front door. Regardless, Nuoro is actually an island and the world is bigger than here.
+
+Most of the [Dantag Empire](DantagEmpire.md) is about a hundred miles across the sea to the east on the [Anor](Anor.md) landmass[^2]. You can sail across in a day or two, but not a lot of people do.
+
+Sailing southwest of Nuoro is where you find a lot more stuff. According to Three Finger Farza, the Continent of [Noricum](Noricum.md) is about 900 miles that way and it's got lots of people and small countries like [Halruaa](Halruaa.md), [Mulhorand](Mulhorand.md) and [Zakhara](Zakhara.md). Before you get there you might end up at one of the small island nations, including [Chult](Chult.md).
+
+An even farther voyage across [Anor](Anor.md) and then sailing east might bring you to [Uradun](Uradun.md), and going north into the ice, could bring you to [Yldstead](Yldstead.md) if you don't die on the way.
+
+[^2]: Technically Anor might be an island too, but it's big enough I don't know any one person in history who's sailed around the whole thing.
