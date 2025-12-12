@@ -1,16 +1,11 @@
-territory - 50 miles across = 1 young dragon, 300 miles across = 2-3 dozen dragons if mostly young 3-4 adult/ancient, 3000 miles across = hundreds of young dozens of adults handful of ancient
+# Dragons of Nuoro
 
-1 adult ranges over territory of 6-8 young dragons (can be offspring) but adults don't share territory
+A dragon is a terrifying beast. I do not care if it is a "good" dragon or an "evil" dragon or ancient or just a wee baby, they've got teeth and claws and way more brains than one needs to use them. Oh and they can breathe fire or acid or poison gas or whatever.
 
-young make lair
+The most famous dragon in all of Nuoro these days is [Cyzzarun](Cyzzarun.md), the symbol of [Dracolathe](Dracolathe.md). She(?) is a gold dragon which means she's generally not super-murderous? The [Dragonborn](Dragonborn.md) seem to like her.
 
-adults have multiple lairs 50-75 miles apart, hunts around each for a month or so
 
-ancient have lairs that get magical and influence the world for hundreds of miles
 
-so [Nuoro](Nuoro.md) could have ~60 young dragons and 6-8 adult/ancient ones
-
-[Cyzzarun](Cyzzarun.md) would normally have pushed out
 
 > [creatures](creatures.md)
 > [npcs](npcs.md) 

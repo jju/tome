@@ -28,32 +28,32 @@ The Betrayer Gods are the deities who strayed from the ideals of the founding an
 | Deity                     | Alignment | Province                  | Suggested Domains               | Common Symbol                              |
 | ------------------------- | --------- | ------------------------- | ------------------------------- | ------------------------------------------ |
 | [Asmodeus](Asmodeus.md)   | LE        | God of the Nine Hells     | Trickery, War                   | Crown of spiked onyx and curved horns      |
-| Bane                      | LE        | Conquest, tyranny         | Forge, Order, War               | Flail of chains, each ending in shackles   |
+| [Bane](Bane.md)           | LE        | Conquest, tyranny         | Forge, Order, War               | Flail of chains, each ending in shackles   |
 | [Gruumsh](Gruumsh.md)     | CE        | Slaughter, warfare        | Death, Tempest, War             | Single, unblinking eye that bleeds         |
 | [Lolth](Lolth.md)         | CE        | Deceit, spiders           | Knowledge, Trickery             | Jeweled spider                             |
 | [Tharizdun](Tharizdun.md) | CE        | Darkness, Destruction     | Death, Grave, Trickery          | Crooked, seven-pointed star made of chains |
 | [Tiamat](Tiamat.md)       | LE        | Dragon god of evil        | Order, Trickery, War            | Taloned dragon claw                        |
-| Torog                     | NE        | Enslavement, torture      | Death, Trickery                 | Three pale arms clawing from a dark void   |
+| [Torog](Torog.md)         | NE        | Enslavement, torture      | Death, Trickery                 | Three pale arms clawing from a dark void   |
 | [Vecna](Vecna.md)         | NE        | Necromancy, secrets       | Arcana, Death, Grave, Knowledge | Desiccated hand with an eye in the palm    |
-| Zehir                     | CE        | Assassins, poison, snakes | Nature, Trickery                | Coiled serpent                             |
+| [Zehir](Zehir.md)         | CE        | Assassins, poison, snakes | Nature, Trickery                | Coiled serpent                             |
 
 ### Lesser Idols
 
 Beyond the trickle of divine assistance allowed by the Divine Gate, mortal creatures are now the keepers of the future of the world. This vacuum of influence has given rise to a number of powerful entities who may not rival the gods in their abilities or influence, but now unchallenged, can amass a modest following of their own. These idols present themselves in many different ways, some as honorable guardians of the helpless, and others as the tyrannical gods they aspire to be. Many of these beings have ambitions they wish to fulfill and can offer great power to mortals in exchange for their servitude.
 
-| Deity                 | Alignment | Warlock Patron                  | Suggested Domains   | Common Symbol                                              |
-| --------------------- | --------- | ------------------------------- | ------------------- | ---------------------------------------------------------- |
-| Arms of the Betrayers | NE        | The Fiend, The Hexblade         | Death, War          | Blade thrust downward through an eight-eyed skull          |
-| Ceratos               | CN        | The Great Old One               | Knowledge, Tempest  | Three mismatched eyes surrounded by teeth                  |
-| Desirat               | LE        | The Fiend, The Undying          | Light, Trickery     | Burning purple feather                                     |
-| Naviask               | NG        | The Archfey                     | Life, Nature        | Wreath of flowers shaped into demon horns                  |
-| Quajath               | CN        | The Fiend, The Great Old One    | Nature, War         | Ring of teeth                                              |
-| The Hag Mother        | NE        | The Fiend                       | Knowledge, Trickery | Single red horn                                            |
-| [The Luxon](Luxon.md) | N         | –                               | Arcana, Light       | Hollow dodecahedron                                        |
-| The Traveler          | CN        | The Archfey                     | Nature, Trickery    | Arched doorway over a road that vanishes into the distance |
-| Uk'otoa               | NE        | The Great Old One, The Hexblade | Knowledge, Tempest  | Yellow, slitted eye                                        |
-| Vesh                  | NE        | The Archfey, The Undying        | Death, Life         | Crimson ring hanging from a chain                          |
-| Xalicas               | LG        | The Archfey, The Celestial      | Life, Light         | Single blackened wing                                      |
+| Deity                          | Alignment | Warlock Patron                  | Suggested Domains   | Common Symbol                                              |
+| ------------------------------ | --------- | ------------------------------- | ------------------- | ---------------------------------------------------------- |
+| Arms of the Betrayers          | NE        | The Fiend, The Hexblade         | Death, War          | Blade thrust downward through an eight-eyed skull          |
+| [Ceratos](Ceratos.md)          | CN        | The Great Old One               | Knowledge, Tempest  | Three mismatched eyes surrounded by teeth                  |
+| [Desirat](Desirat.md)          | LE        | The Fiend, The Undying          | Light, Trickery     | Burning purple feather                                     |
+| [Naviask](Naviask.md)          | NG        | The Archfey                     | Life, Nature        | Wreath of flowers shaped into demon horns                  |
+| [Quajath](Quajath.md)          | CN        | The Fiend, The Great Old One    | Nature, War         | Ring of teeth                                              |
+| [The Hag Mother](HagMother.md) | NE        | The Fiend                       | Knowledge, Trickery | Single red horn                                            |
+| [The Luxon](Luxon.md)          | N         | –                               | Arcana, Light       | Hollow dodecahedron                                        |
+| [The Traveler](Traveler.md)    | CN        | The Archfey                     | Nature, Trickery    | Arched doorway over a road that vanishes into the distance |
+| [Uk'otoa](Ukotoa.md)           | NE        | The Great Old One, The Hexblade | Knowledge, Tempest  | Yellow, slitted eye                                        |
+| [Vesh](Vesh.md)                | NE        | The Archfey, The Undying        | Death, Life         | Crimson ring hanging from a chain                          |
+| [Xalicas](Xalicas.md)          | LG        | The Archfey, The Celestial      | Life, Light         | Single blackened wing                                      |
 
 ## Giant Gods
 Before the current age, giants walked the world. We find their remnants in the [Goliath](Goliath.md) peoples, ruins, and the occasional sighting of one of the people themselves.
