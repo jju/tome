@@ -315,12 +315,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Saltmarsh.md",
+                "file": "Perolmani.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Saltmarsh"
+              "title": "Perolmani"
             }
           },
           {
@@ -489,6 +489,10 @@
   },
   "active": "6fb0cdb20d2f3666",
   "lastOpenFiles": [
+    "Ratfolk.md",
+    "Priests.md",
+    "PiousCouncil.md",
+    "Saltmarsh.md",
     "conflict-files-obsidian-git.md",
     "rules/dragon.md",
     "Zehir.md",
@@ -511,10 +515,6 @@
     "Hammerkeep.md",
     "secrets/npcs.md",
     "world.md",
-    "FarzaBay.md",
-    "places.md",
-    "rules/sailor.md",
-    "rules/artificer.md",
     "images/map-nuoro.png",
     "images",
     "places",
