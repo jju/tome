@@ -7,3 +7,4 @@
 | 4   | Locality. The haven suffers a (roll d4): (1) natural disaster, (2) famine, (3) plague, (4) drought.                           |
 | 5   | Omen. Foreshadow a looming threat to the haven.                                                                               |
 | 6   | Advantage. Nothing happens.                                                                                                   |
+> [hazardsystem](hazardsystem.md)

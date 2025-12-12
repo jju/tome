@@ -7,3 +7,4 @@
 | 4   | Locality. The road is out, or the route is otherwise impassable.                                          |
 | 5   | Omen. Spoor or clue regarding the next encounter.                                                         |
 | 6   | Advantage. Discover a hidden feature of the hex.                                                          |
+> [hazardsystem](hazardsystem.md) [turns](turns.md)

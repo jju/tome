@@ -8,3 +8,4 @@
 | 4   | Lantern.                                                        |
 | 5   | Omen. Foreshadow a looming encounter (clue, spoor).             |
 | 6   | Torch.                                                          |
+> [hazardsystem](hazardsystem.md) [turns](turns.md)

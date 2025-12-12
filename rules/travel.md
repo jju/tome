@@ -1,3 +1,4 @@
+> this is the [downtime](downtime.md) table - update for travel, perhaps by modifying [wilderness](wilderness.md)
 
 | d6  | Travel Turn Hazard Die Results                                                                                                |
 | --- | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -7,3 +8,4 @@
 | 4   | Locality. The haven suffers a (roll d4): (1) natural disaster, (2) famine, (3) plague, (4) drought.                           |
 | 5   | Omen. Foreshadow a looming threat to the haven.                                                                               |
 | 6   | Advantage. Nothing happens.                                                                                                   |
+> [hazardsystem](hazardsystem.md) [turns](turns.md)
