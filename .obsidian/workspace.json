@@ -221,12 +221,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Miergag.md",
+                    "file": "Urdl.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Miergag"
+                  "title": "Urdl"
                 }
               }
             ],
@@ -441,12 +441,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mountains.md",
+                "file": "Phandalin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mountains"
+              "title": "Phandalin"
             }
           },
           {
@@ -613,8 +613,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "9db4e089f7b9ef7e",
+  "active": "3fc0b379712dfa4d",
   "lastOpenFiles": [
+    "Miergag.md",
+    "Phandalin.md",
+    "mountains.md",
     "NineHells.md",
     "NuoroRiver.md",
     "Seaton.md",
@@ -632,15 +635,12 @@
     "ThreeBoarTrail.md",
     "Thundertree.md",
     "WyvernTor.md",
-    "Phandalin.md",
     "Blasingdell.md",
     "Perolmani.md",
     "rules/balor.md",
     "roads.md",
     "TozluRoad.md",
     "BlackstoneRoad.md",
-    "Ratfolk.md",
-    "Priests.md",
     "images/map-nuoro.png",
     "images",
     "places",
