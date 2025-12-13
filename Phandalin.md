@@ -2,6 +2,34 @@
 
 A town in the eastern [Grimteeth](Grimteeth.md). It's about 30 hard miles from [Dracolathe](Dracolathe.md) along the [Tri Boar Trail](TriBoarTrail) and not too far from [Blasingdell](Blasingdell.md) on the other side of the [NuoroRiver](NuoroRiver.md).
 
+## Locations
+
+* Barthen's Provision
+* Lionshield Coster
+* Stonehill Inn
+* Edermath Orchard
+* Shrine of Luck
+* Sleeping Giant
+* Phandalin Miner's Exchange
+* Tresendar Manor
+
+## People
+
+* Qelline Alderleaf
+* Elmina Barthem
+* Daran Edermath
+* Sister Garaele
+* Linene Graywind
+* [SildarHallwinter](SildarHallwinter.md)
+* Toblen Stonehill
+* Halia Thornton
+* Harbin Wester
+* Elsa - dwarf bartender at Stonehill Inn, sister Gwyn
+* Freda - gnome weaver
+* Lanar - tabaxi hunter
+* Narth - human farmer
+* Pip - Toblen's son
+* Toblen - halfling innkeeper
 
 
 > [places](places.md)
