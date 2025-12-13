@@ -2,7 +2,7 @@ The connector between [Blackstone](Blackstone.md) and [Dracolathe](Dracolathe.md
 
 It isn't an amazingly constructed road but it's generally solid. You often feel like the mountains are closing in on you, and when there are rockslides that definitely can happen.
 
-Small trails branch off the road, sometimes leading to mining operations, sometimes to a bunch of bodies because someone thought it was a shortcut. Even on the road there are animal encounters. A lot of mountain goats but other, more dangerous, things too.
+Small trails branch off the road, sometimes leading to mining operations, sometimes to animals snacking on a bunch of bodies because someone thought it was a shortcut. Even on the road there are animal encounters. A lot of mountain goats but other, more dangerous, things too.
 
 > [[roads]]
 > [places](places.md)
