@@ -33,6 +33,9 @@ Speed 30 ft.
 ## Background
 
 Archers defend castles, hunt wild game on the fringes of civilization, serve as artillery in military units, and occasionally make good coin as brigands or caravan guards.
+
+> see also [warrior](warrior.md) [guard](guard.md) [scout](scout.md)
+
 Some renowned archers and groups of archers are known for the special fletching of their arrows.
 You may roll on the Archer Fletching table to determine the distinctive fletching used by an individual archer or a group of them.
 

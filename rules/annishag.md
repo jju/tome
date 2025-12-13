@@ -1,3 +1,5 @@
+# Annis Hag
+
 Large Fey, Typically Chaotic Evil
 Armor Class 17 (natural armor)
 Hit Points 90 (12d10 + 24)
@@ -41,7 +43,6 @@ Annis hags lair in mountains or hills. These hunchbacked and hump-shouldered hag
 Annis hags leave tokens of their cruelty at the edges of forests and other areas they claim to provoke fear and distrust in nearby villages and settlements. To an annis hag, nothing is sweeter than making a once-vibrant community paralyzed with terror, so folk never venture out at night, strangers are met with suspicion and anger, and parents warn their children: "Be good, or the annis will get you." When an annis feels especially cruel, the hag adopts the appearance of a kindly elder, approaches a child in a remote place, and gives them an iron token (described below), through which the child can magically confide in the hag. Over time, "Granny" or "Grampy" convinces the child that it's okay to do bad deeds-starting with breaking things or wandering without permission, then graduating to pushing someone down the stairs or setting a house on fire. Eventually, the child's terrified family and community face painful decisions of what to do about the seemingly remorseless child.
 
 Much as annis hags befriend children in order to corrupt them, they may adopt a group of ogres. trolls, or other creatures (ogres and trolls appear in the Monster Manual), ruling them through brute strength, insults, and superstition.
-
 ## Iron Token
 
 An annis hag can pull out one of their iron teeth or nails and spend 1 minute shaping and polishing it into the form of a coin, a ring, or a tiny mirror.

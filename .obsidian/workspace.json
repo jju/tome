@@ -93,82 +93,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Naviask.md",
+                "file": "rules/archer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Naviask"
+              "title": "archer"
             }
           },
           {
-            "id": "e22a3adde1009503",
+            "id": "39c3a16bd3c91442",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quajath.md",
+                "file": "rules/balor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quajath"
-            }
-          },
-          {
-            "id": "ce57f6cc9dbc5625",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HagMother.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HagMother"
-            }
-          },
-          {
-            "id": "c84217a48735f556",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Traveler.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Traveler"
-            }
-          },
-          {
-            "id": "d44bb581a5d24f35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ukotoa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ukotoa"
-            }
-          },
-          {
-            "id": "cf77fa962f515509",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vesh.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vesh"
+              "title": "balor"
             }
           },
           {
@@ -186,34 +130,6 @@
             }
           },
           {
-            "id": "ed52ced2f6fd08c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bane.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bane"
-            }
-          },
-          {
-            "id": "38d4d6c7efa39a84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Torog.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Torog"
-            }
-          },
-          {
             "id": "565a8ecc0d633187",
             "type": "leaf",
             "state": {
@@ -228,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 5
       },
       {
         "id": "ce196e2f9001aae7",
@@ -608,33 +524,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "565a8ecc0d633187",
+  "active": "2b6b613a16239c90",
   "lastOpenFiles": [
+    "rules/scout.md",
+    "rules/archer.md",
+    "rules/archdruid.md",
+    "rules/annishag.md",
+    "Naviask.md",
+    "rules/ballista.md",
+    "rules/balor.md",
+    "gods.md",
+    "Quajath.md",
+    "HagMother.md",
+    "Traveler.md",
+    "Ukotoa.md",
+    "Vesh.md",
+    "Urdl.md",
+    "Torog.md",
+    "Bane.md",
     "Green.md",
     "GoblinTransportGuilds.md",
     "rules/golddragon.md",
-    "gods.md",
     "Fillika.md",
     "Khudurra.md",
     "Hammerkeep.md",
     "Hammersford.md",
     "Hammerford.md",
     "heraldry.md",
-    "holidays.md",
-    "HangmansLibrary.md",
-    "BlackstoneRoad.md",
-    "roads.md",
-    "TozluRoad.md",
-    "ThreeBoarTrail.md",
-    "Ikizh.md",
-    "Urdl.md",
-    "MarvaBrokenchains.md",
-    "Anor.md",
-    "characters.md",
-    "Blasingdell.md",
-    "ArmsBetrayers.md",
-    "Phandalin.md",
-    "conflict-files-obsidian-git.md",
-    "BohaiLake.md"
+    "holidays.md"
   ]
 }
