@@ -4,14 +4,14 @@ A town in the eastern [Grimteeth](Grimteeth.md). It's about 30 hard miles from [
 
 ## Locations
 
-* Barthen's Provision
+* Barthen's Provision - shop where the wagon of goods is supposed to go
 * Lionshield Coster
-* Stonehill Inn
+* Stonehill Inn - decent inn
 * Edermath Orchard
 * Shrine of Luck
-* Sleeping Giant
+* Sleeping Giant - scuzzier tavern
 * Phandalin Miner's Exchange
-* Tresendar Manor
+* Tresendar Manor - rich folk's house
 
 ## People
 
