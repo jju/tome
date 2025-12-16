@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/archer.md",
+                "file": "distances.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "archer"
+              "title": "distances"
             }
           },
           {
@@ -526,6 +526,7 @@
   },
   "active": "2b6b613a16239c90",
   "lastOpenFiles": [
+    "rules/archer.md",
     "ZorzulasRest.md",
     "WyvernTor.md",
     "WaveEchoCave.md",
@@ -546,7 +547,6 @@
     "Conyberry.md",
     "CastleNaerytar.md",
     "rules/scout.md",
-    "rules/archer.md",
     "rules/archdruid.md",
     "rules/annishag.md",
     "Naviask.md",
