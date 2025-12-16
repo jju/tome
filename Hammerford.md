@@ -16,4 +16,4 @@ A tiny town in the [Grimteeth](Grimteeth.md), not to be confused with the [Runda
 * Temple of Chauntea
 
 > [places](places.md)
-> 
+> [towns](towns.md)

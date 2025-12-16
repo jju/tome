@@ -27,7 +27,7 @@ A town in the eastern [Grimteeth](Grimteeth.md). It's about 30 hard miles from [
 * Elsa - dwarf bartender at Stonehill Inn, sister Gwyn
 * Freda - gnome weaver
 * Lanar - tabaxi hunter
-* Narth - human farmer
+* Narth - tortle farmer
 * Pip - Toblen's son
 * Toblen - halfling innkeeper
 
