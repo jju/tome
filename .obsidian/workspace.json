@@ -85,12 +85,22 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "WardenofHammerkeep.md",
+                        "file": "secrets/npcs.md",
                         "mode": "source",
-                        "source": false
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
                       },
                       "icon": "lucide-file",
-                      "title": "WardenofHammerkeep"
+                      "title": "npcs"
                     }
                   }
                 ]
@@ -341,10 +351,12 @@
   },
   "active": "5b41118aff9a49db",
   "lastOpenFiles": [
-    "WardenofHammerkeep.md",
+    "secrets/npcs.md",
+    "ThePrisoner.md",
     "Hammerkeep.md",
-    "Oakhurst.md",
+    "WardenofHammerkeep.md",
     "TheQuality.md",
+    "Oakhurst.md",
     "Khudurra.md",
     "rules/index.md",
     "Hammerford.md",
@@ -365,8 +377,6 @@
     "gods.md",
     "GundrenRockseeker.md",
     "Urdl.md",
-    "ArcanePurge.md",
-    "world.md",
     "images/map-nuoro.png",
     "images",
     "places",
