@@ -32,12 +32,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Green.md",
+                    "file": "Frum.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Green"
+                  "title": "Frum"
                 }
               },
               {
@@ -69,7 +69,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "f1b3d03d33b8917d",
@@ -85,12 +85,12 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "SildarHallwinter.md",
+                        "file": "secrets/world.md",
                         "mode": "source",
                         "source": false
                       },
                       "icon": "lucide-file",
-                      "title": "SildarHallwinter"
+                      "title": "world"
                     }
                   }
                 ]
@@ -339,15 +339,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "a3be539d4376c1ed",
+  "active": "ce3514a9ac276fe2",
   "lastOpenFiles": [
+    "Hammerford.md",
+    "secrets/world.md",
+    "SildarHallwinter.md",
+    "Frum.md",
+    "Green.md",
+    "Wyrmshood.md",
     "Parnast.md",
     "CastleNaerytar.md",
-    "Wyrmshood.md",
-    "SildarHallwinter.md",
     "LordsAlliance.md",
-    "Green.md",
-    "Hammerford.md",
     "FrulamMondath.md",
     "Lennithon.md",
     "IarnoAlbrek.md",
@@ -365,8 +367,6 @@
     "Raei.md",
     "Luxon.md",
     "WyvernTor.md",
-    "Conyberry.md",
-    "OldOwlWell.md",
     "images/map-nuoro.png",
     "images",
     "places",

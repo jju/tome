@@ -3,10 +3,10 @@ A tiny town in the [Grimteeth](Grimteeth.md), not to be confused with the [Runda
 
 ## People
 
-* TarbawNighthill - dragonborn female 60yo mayor of the town
-* EscobertRed - dwarf castellan knotted red hair, huge batch of keys for the many locks
+* [Tarbaw Nighthill](TarbawNighthill) - dragonborn female 60yo mayor of the town
+* [Escobert the Red](EscobertRed) - dwarf castellan knotted red hair, huge batch of keys for the many locks
 * Linan and Cuth Swift - commoner family with three kids
-* EadyanFalconmoon - priest of Chauntea very calm
+* [Eadyan Falconmoon](EadyanFalconmoon) - priest of Chauntea very calm
 * SergeantMarkguth - defender of the keep, brother to 
 
 ## Places
