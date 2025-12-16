@@ -202,12 +202,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Hammerkeep.md",
+                    "file": "Sivekkah.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Hammerkeep"
+                  "title": "Sivekkah"
                 }
               }
             ],
@@ -526,6 +526,9 @@
   },
   "active": "2b6b613a16239c90",
   "lastOpenFiles": [
+    "Sivekkah.md",
+    "Hammerkeep.md",
+    "distances.md",
     "rules/archer.md",
     "ZorzulasRest.md",
     "WyvernTor.md",
@@ -548,9 +551,6 @@
     "CastleNaerytar.md",
     "rules/scout.md",
     "rules/archdruid.md",
-    "rules/annishag.md",
-    "Naviask.md",
-    "rules/ballista.md",
-    "rules/balor.md"
+    "rules/annishag.md"
   ]
 }
