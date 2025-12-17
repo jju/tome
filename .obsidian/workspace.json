@@ -95,7 +95,7 @@
               "state": {
                 "file": "distances.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "distances"
