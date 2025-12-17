@@ -202,12 +202,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Sivekkah.md",
+                    "file": "Dracolathe.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Sivekkah"
+                  "title": "Dracolathe"
                 }
               }
             ],
@@ -524,11 +524,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "2b6b613a16239c90",
+  "active": "0419607e3ae94a0d",
   "lastOpenFiles": [
+    "Khudurra.md",
     "Sivekkah.md",
-    "Hammerkeep.md",
     "distances.md",
+    "Hammerkeep.md",
     "rules/archer.md",
     "ZorzulasRest.md",
     "WyvernTor.md",
@@ -550,7 +551,6 @@
     "Conyberry.md",
     "CastleNaerytar.md",
     "rules/scout.md",
-    "rules/archdruid.md",
-    "rules/annishag.md"
+    "rules/archdruid.md"
   ]
 }
