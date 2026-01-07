@@ -16,7 +16,7 @@ Spellcasting of any sort is weird. Most people who serve in temples cannot do ma
 
 [^2]: The rules in 5E make healing up your hitpoints mostly dependent on getting rest. If you take a short rest (an hour) you can regain a rolled HD plus your Con modifier in HP. If you get an 8-hour sleep you regain all your HP and reduce your [Exhaustion](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#ExhaustionCondition) by 1, so it's already pretty generous.
 
-Monsters are weird, but are known to exist. Dragons are very real, and very dangerous but can be aligned with humanoid species[^3]. Undead are weird and scary. Reviving the dead is something talked about in legends, but the gods don't really go in for that kind of thing these days.
+Monsters are weird, but are known to exist. Dragons are very real, and very dangerous but can also be aligned with humanoid species[^3]. Undead are weird and scary. Reviving the dead is something talked about in legends, but the gods don't really go in for that kind of thing these days.
 
 
 [^3]: If you're an asshole you conflate Dragonborn people with Dragons and Half-Dragons (and maybe even Kobolds) but they're all distinct peoples and cultures.
