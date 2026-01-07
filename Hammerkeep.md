@@ -19,7 +19,7 @@ The [Circle of Healing Arts](CircleofHealingArts.md) is a low wooden building ne
 ## Taverns
 
 * Old Goat - scummy place in the Docks - [VorkaThousandFists](VorkaThousandFists.md) proprietress Super strong HalfOrc
-* Gibbet - weirdly gentrified with lots of old folk who still have their teeth
+* Gibbet - weirdly gentrified with lots of old folk who still have their teeth - [EkemonLust](EkemonLust.md) the middle-aged dashing Tiefling runs it
 * Lodestone - sunken damp Dwarf drinking hole, usually the first stop of Imperials
 * Minstrel and Cask - best for entertainment - [CecilyQuinton](CecilyQuinton.md) proprietress 84yo Human 
 * Mourning Forest - wardens rangers and others who brave the Woods
