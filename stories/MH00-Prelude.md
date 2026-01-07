@@ -1,0 +1,2 @@
+We're going to be starting our tale after the bunch of you have been forced to winter in the small city of Hammerkeep. You didn't necessarily know each other before the winter, but three months of frequenting the same divey bars having the same arguments (that have occasionally escalated) with the locals have brought you together enough that people refer to you as a group, and you've begun to see yourselves as friends.
+

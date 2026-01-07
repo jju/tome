@@ -173,16 +173,30 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/goblin.md",
+                    "file": "stories/index.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "goblin"
+                  "title": "index"
+                }
+              },
+              {
+                "id": "640cdc56a673fd59",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "stories/MH00-Prelude.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "MH00-Prelude"
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 6
           },
           {
             "id": "f95a241c1a1d9096",
@@ -348,12 +362,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "VorkaThousandFists.md",
+                    "file": "characters.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "VorkaThousandFists"
+                  "title": "characters"
                 }
               },
               {
@@ -537,9 +551,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "1e94059322fd0c8a",
+  "active": "640cdc56a673fd59",
   "lastOpenFiles": [
+    "characters.md",
     "VorkaThousandFists.md",
+    "stories/MH00-Prelude.md",
+    "stories/index.md",
+    "rules/goblin.md",
     "Hammerkeep.md",
     "CecilyQuinton.md",
     "Barfgeld.md",
@@ -555,16 +573,12 @@
     "Gnome.md",
     "QueenoftheWoods.md",
     "secrets/npcs.md",
-    "rules/goblin.md",
     "Rhig.md",
     "Aarakocra.md",
     "images/map-nuoro.png",
     "secrets/world.md",
     "secrets/Skulk.md",
     "secrets/Kruthik.md",
-    "secrets/history.md",
-    "stories/index.md",
-    "GrapplersCreek.md",
-    "GibbetCrossing.md"
+    "secrets/history.md"
   ]
 }
