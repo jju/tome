@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ArcanePurge.md",
+                "file": "rules/hobgoblin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ArcanePurge"
+              "title": "hobgoblin"
             }
           },
           {
@@ -46,59 +46,17 @@
             }
           },
           {
-            "id": "59a64d6ee264bee5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bahamut.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bahamut"
-            }
-          },
-          {
-            "id": "4b9787d202d0ac24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceratos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ceratos"
-            }
-          },
-          {
-            "id": "9e65fccada3c4cf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desirat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Desirat"
-            }
-          },
-          {
             "id": "2b6b613a16239c90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "distances.md",
+                "file": "WardenofHammerkeep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "distances"
+              "title": "WardenofHammerkeep"
             }
           },
           {
@@ -144,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "ce196e2f9001aae7",
@@ -197,17 +155,31 @@
                 }
               },
               {
+                "id": "01c8c3f1f2f01eef",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ofuzz.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Ofuzz"
+                }
+              },
+              {
                 "id": "0419607e3ae94a0d",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Dracolathe.md",
+                    "file": "rules/goblin.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Dracolathe"
+                  "title": "goblin"
                 }
               }
             ],
@@ -524,12 +496,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "0419607e3ae94a0d",
+  "active": "01c8c3f1f2f01eef",
   "lastOpenFiles": [
-    "Khudurra.md",
+    "Anor.md",
+    "Ofuzz.md",
+    "rules/goblin.md",
+    "WardenofHammerkeep.md",
+    "rules/hobgoblin.md",
+    "ArcanePurge.md",
+    "rules/orc.md",
+    "Dracolathe.md",
     "Sivekkah.md",
-    "distances.md",
+    "Bahamut.md",
+    "Ceratos.md",
+    "Desirat.md",
+    "rules/knight.md",
     "Hammerkeep.md",
+    "distances.md",
+    "Khudurra.md",
     "rules/archer.md",
     "ZorzulasRest.md",
     "WyvernTor.md",
@@ -539,18 +523,6 @@
     "Talhundereth.md",
     "SildarHallwinter.md",
     "Parnast.md",
-    "OldOwlWell.md",
-    "Lennithon.md",
-    "IarnoAlbrek.md",
-    "GundrenRockseeker.md",
-    "GibbetCrossing.md",
-    "Frum.md",
-    "FrulamMondath.md",
-    "CragmawHideout.md",
-    "CragmawCastle.md",
-    "Conyberry.md",
-    "CastleNaerytar.md",
-    "rules/scout.md",
-    "rules/archdruid.md"
+    "OldOwlWell.md"
   ]
 }

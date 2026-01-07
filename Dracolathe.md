@@ -7,7 +7,6 @@ The symbol of the modern city is the ancient Golden Dragon named [Cyzzarun](Cyzz
 A famine is currently hitting Dracolathe which is experimenting with a democratic form government. The council is attempting to improve condition for its citizens by turning to previously discounted forms of knowledge, but so far there haven't been huge breakthroughs. If the empire knew they would not be happy they gave away the City.
 
 ## Demographics
-Since
 
 The major population groups are Dragonborn, Orcs and Goliaths. In addition to those cultural languages, many people speak an Infernal language.
 
@@ -20,6 +19,7 @@ The major population groups are Dragonborn, Orcs and Goliaths. In addition to th
 | Poor        | 20      | Dragonborn & Goliath & Dwarf |
 | Squalid     | 20      | Goliath & Orc                |
 | Wretched    | 4       | Orc                          |
+
 Current taxes are a 10% land tax, and the city's treasury is empty.
 
 ## Factions
