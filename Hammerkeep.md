@@ -18,10 +18,10 @@ Along with [Lady Hammerkeep](BidrithCrecur.md) and her retinue, the [Imperial Wa
 The [Circle of Healing Arts](CircleofHealingArts.md) is a low wooden building near the Docks. It's a place where the sick come for herbs, or for boils to be lanced or for strange illnesses to be assessed.
 ## Taverns
 
-* Old Goat - scummy place in the Docks
+* Old Goat - scummy place in the Docks - [VorkaThousandFists](VorkaThousandFists.md) proprietress Super strong HalfOrc
 * Gibbet - weirdly gentrified with lots of old folk who still have their teeth
 * Lodestone - sunken damp Dwarf drinking hole, usually the first stop of Imperials
-* Minstrel and Cask - best for entertainment
+* Minstrel and Cask - best for entertainment - [CecilyQuinton](CecilyQuinton.md) proprietress 84yo Human 
 * Mourning Forest - wardens rangers and others who brave the Woods
 
 ## Inns
@@ -38,7 +38,7 @@ Not every god of the Empire has a full-on temple in Hammerkeep (this isn't [Bedw
 * Temple of [Pelor](Pelor.md) - Wooden roundhouse that's especially busy in harvest season. [Snerpi](Snerpi.md), the small round [Kobold](Kobold.md) who keeps things running, loves telling jokes and is legitimately kind (no spellcasting ability though).
 * Temple of [Erathis](Erathis.md) - Gray, stone and square, this temple is built up on the hill, closer to the Keep than any of the others. [Dalrig Gravelmantle](DalrigGravelmantle.md), the [Dwarf](Dwarf.md) in charge, has a [military background](guard.md#Guard%20Captain) and openly disdains the [Warden of Hammerkeep](WardenofHammerkeep.md). When Paladins come to town there is a lot of politicking between the Erathis and Bahamut temples.
 * Temple of [Gruumsh](Gruumsh.md) - Carved from huge timbers down by the docks, this is often where travellers stop for blessings on their way upstream. Usually that's because they've heard it's a good idea from the travellers coming downstream through the Woods. The main priest is a dour [Orc](Orc.md) named [Simple Rhela](SimpleRhela.md).
-* Temple of [Luxon](Luxon.md) - The Empty Dodecahedron has a modest storefront entrance to their shrine in an alley between a pair of bickering blacksmiths. It's rare to see a priest there. Mostly it seems to be used as a modest reading room.
+* Temple of [Luxon](Luxon.md) - The Empty Dodecahedron has a storefront entrance to their shrine in an alley between a pair of bickering blacksmiths (Thalane Truthhauler Kalukithino - Goliath & Xokx - Goblin). It's rare to see a priest there. Mostly it seems to be used as a modest reading room.
 
 
 > [[places]]

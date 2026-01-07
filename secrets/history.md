@@ -21,7 +21,7 @@ This Great Betrayal led to the [Arcane Purge](ArcanePurge.md). Now not only necr
 
 ## Before That
 
-The [Dantag Empire](DantagEmpire.md) was formed almost five thousand years ago across the sea from an alliance of the multitude of sapient species (including most of those found in [Nuoro](Nuoro.md)). They claim blessings from almost all the gods and believe those gods grant them their right to rule as much of the world as exists. The Empire has a lasting enmity towards the entire concept of [Undeath](Undead.md), making necromancy (even for benevolent purposes) one of the highest crimes.
+The [Dantag Empire](DantagEmpire.md) was formed almost five thousand years ago across the sea in the land of [Anor](Anor.md) from an alliance of the multitude of sapient species (including most of those found in [Nuoro](Nuoro.md)). They claim blessings from almost all the gods and believe those gods grant them their right to rule as much of the world as exists. The Empire has a lasting enmity towards the entire concept of [Undeath](Undead.md), making necromancy (even for benevolent purposes) one of the highest crimes.
 
 Around the [Nuoro River](NuoroRiver.md) there were Dragons and Fae, sapients of all sorts, with their own kingdoms and intrigues. [Dwarves](Dwarf.md) ruled in the [Grimteeth](Grimteeth.md) mountains, having once wrested a hoard there from an ancient purple dragon. The fickle [Eladrin](Eladrin.md) haunted the [Kanliwood](Kanliwood.md) and [Karanliwood](Karanliwood.md) while [Perolmani](Perolmani.md) was the [Gnome](Gnome.md) homeland. [Goliath](Goliath.md) clans ruled the far northwest.
 # A Sketch of Civilization

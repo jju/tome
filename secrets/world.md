@@ -1,4 +1,4 @@
-Magic is drawn from the collection of all the souls that have passed from mortal life and from thosethat have yet to be born.
+Magic is drawn from the collection of all the souls that have passed from mortal life and from those that have yet to be born.
 
 Ikizh’s aristocracy is more concerned with maintaining their current wealth by falsifying an attack by Rundan.
 
