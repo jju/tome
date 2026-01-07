@@ -362,12 +362,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "characters.md",
+                    "file": "Ikizh.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "characters"
+                  "title": "Ikizh"
                 }
               },
               {
@@ -553,9 +553,10 @@
   },
   "active": "640cdc56a673fd59",
   "lastOpenFiles": [
+    "Ikizh.md",
+    "stories/MH00-Prelude.md",
     "characters.md",
     "VorkaThousandFists.md",
-    "stories/MH00-Prelude.md",
     "stories/index.md",
     "rules/goblin.md",
     "Hammerkeep.md",
@@ -578,7 +579,6 @@
     "images/map-nuoro.png",
     "secrets/world.md",
     "secrets/Skulk.md",
-    "secrets/Kruthik.md",
-    "secrets/history.md"
+    "secrets/Kruthik.md"
   ]
 }
