@@ -141,7 +141,6 @@ You can attack four times instead of once whenever you take the [Attack](https:/
 A Fighter subclass is a specialization that grants you features at certain Fighter levels, as specified in the subclass.
 
 ## Champion
-
 _Pursue Physical Excellence in Combat_
 
 A Champion focuses on the development of martial prowess in a relentless pursuit of victory. Champions combine rigorous training with physical excellence to deal devastating blows, withstand peril, and garner glory. Whether in athletic contests or bloody battle, Champions strive for the crown of the victor.
@@ -176,15 +175,13 @@ _**Defy Death.**_ You have Advantage on [Death Saving Throws](https://www.dndbey
 
 _**Heroic Rally.**_ At the start of each of your turns, you regain Hit Points equal to 5 plus your Constitution modifier if you are [Bloodied](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Bloodied) and have at least 1 Hit Point.
 
-## Arcane Archer[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D16&uselang=en "Sign in to edit")
-
+## Arcane Archer
 (Xanathar's Guide to Everything, page 28)
 
-### Arcane Archer Lore[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D17&uselang=en "Sign in to edit")
-
+### Arcane Archer Lore
 At 3rd level, you learn magical theory or some of the secrets of nature — typical for practitioners of this elven martial tradition. You choose to gain proficiency in either the Arcana or the Nature skill, and you choose to learn either the [Prestidigitation](https://dnd-5e.fandom.com/wiki/Prestidigitation "Prestidigitation") or the [Druidcraft](https://dnd-5e.fandom.com/wiki/Druidcraft "Druidcraft") cantrip.
 
-### Arcane Shot[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D18&uselang=en "Sign in to edit")
+### Arcane Shot
 
 At 3rd level, you learn to unleash special magical effects with some of your shots. When you gain this feature, you learn two Arcane Shot options of your choice (see "Arcane Shot Options" below).
 
@@ -192,20 +189,18 @@ Once per turn when you fire an arrow from a shortbow or longbow as part of the A
 
 You gain an additional Arcane Shot option of your choice when you reach certain levels in this class: 7th, 10th, 15th, and 18th level. Each option also improves when you become an 18th-level fighter.
 
-### Magic Arrow[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D19&uselang=en "Sign in to edit")
+### Magic Arrow
 
 At 7th level, you gain the ability to infuse arrows with magic. Whenever you fire a nonmagical arrow from a shortbow or longbow, you can make it magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage. The magic fades from the arrow immediately after it hits or misses its target.
 
-### Curving Shot[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D20&uselang=en "Sign in to edit")
-
+### Curving Shot
 At 7th level, you learn how to direct an errant arrow toward a new target. When you make an attack roll with a magic arrow and miss, you can use a bonus action to reroll the attack roll against a different target within 60 feet of the original target.
 
-### Ever-Ready Shot[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D21&uselang=en "Sign in to edit")
+### Ever-Ready Shot
 
 Starting at 15th level, your magical archery is available whenever battle starts. If you roll initiative and have no uses of Arcane Shot remaining, you regain one use of it.
 
-### Arcane Shot Options[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D22&uselang=en "Sign in to edit")
-
+### Arcane Shot Options
 The Arcane Shot feature lets you choose options for it at certain levels. The options are presented here in alphabetical order. They are all magical effects, and each one is associated with one of the schools of magic.
 
 If an option requires a saving throw, your Arcane Shot save DC is calculated as follows:
@@ -244,11 +239,10 @@ The force damage increases to 2d6 when you reach 18th level in this class.
 
 The psychic damage increases to 4d6 when you reach 18th level in this class.
 
-## Battle Master[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D23&uselang=en "Sign in to edit")
-
+## Battle Master
 (Player's Handbook, page 73)
 
-### Combat Superiority[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D24&uselang=en "Sign in to edit")
+### Combat Superiority
 
 When you choose this archetype at 3rd level, you learn maneuvers that are fueled by special dice called superiority dice.
 
@@ -264,11 +258,11 @@ You gain another superiority die at 7th level and one more at 15th level.
 
 Maneuver save DC = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)
 
-### Student of War[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D25&uselang=en "Sign in to edit")
+### Student of War
 
 At 3rd level, you gain proficiency with one type of [artisan's tool](https://dnd-5e.fandom.com/wiki/Tools#Artisan's_Tools "Tools") of your choice.
 
-### Know Your Enemy[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D26&uselang=en "Sign in to edit")
+### Know Your Enemy
 
 At 7th level, if you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:
 
@@ -280,23 +274,20 @@ At 7th level, if you spend at least 1 minute observing or interacting with anoth
 - Total class levels (if any)
 - Fighter class levels (if any)
 
-### Improved Combat Superiority[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D27&uselang=en "Sign in to edit")
+### Improved Combat Superiority
 
 At 10th level, your superiority dice turn into d10s. At 18th level, they turn into d12s.
 
-### Relentless[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D28&uselang=en "Sign in to edit")
+### Relentless
 
 Starting at 15th level, when you roll initiative and have no superiority dice remaining, you regain 1 superiority die.
 
-### Maneuvers[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D29&uselang=en "Sign in to edit")
+### Maneuvers
 
 The maneuvers are presented in alphabetical order.
 
 - **Ambush (TCE 42):** When you make a Dexterity (Stealth) check or an initiative roll, you can expend one superiority die and add the die to the roll, provided you aren't incapacitated.
-- **Bait and Switch (TCE 42):** When you're within 5 feet of a creature on your turn, you can expend one superiority die and switch places with that creature, provided you spend at least 5 feet of movement and the creature is willing and isn't incapacitated. This movement doesn't provoke opportunity attacks.
-
-Roll the superiority die. Until the start of your next turn, you or the other creature (your choice) gains a bonus to AC equal to the number rolled.
-
+- **Bait and Switch (TCE 42):** When you're within 5 feet of a creature on your turn, you can expend one superiority die and switch places with that creature, provided you spend at least 5 feet of movement and the creature is willing and isn't incapacitated. This movement doesn't provoke opportunity attacks. Roll the superiority die. Until the start of your next turn, you or the other creature (your choice) gains a bonus to AC equal to the number rolled.
 - **Brace (TCE 42):** When a creature you can see moves into the reach you have with the melee weapon you're wielding, you can use your reaction to expend one superiority die and make one attack against the creature using that weapon. If the attack hits, add the superiority die to the weapon's damage roll.
 - **Commander's Strike:** When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct one of your companions to strike. When you do so, choose a friendly creature who can see or hear you and expend one superiority die. That creature can immediately use its reaction to make one weapon attack, adding the superiority die to the attack's damage roll.
 - **Commanding Presence (TCE 42):** When you make a Charisma (Intimidation), a Charisma (Performance), or a Charisma (Persuasion) check you can expend one superiority die and add the superiority die to the ability check.
@@ -319,7 +310,7 @@ Roll the superiority die. Until the start of your next turn, you or the other cr
 - **Tactical Assessment (TCE 42):** When you make an Intelligence (Investigation), an Intelligence (History), or a Wisdom (Insight) check, you can expend one superiority die and add the superiority die to the ability check.
 - **Trip Attack:** When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw or be knocked [prone](https://dnd-5e.fandom.com/wiki/Conditions#Prone "Conditions").
 
-### Battle Master Builds[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D30&uselang=en "Sign in to edit")
+### Battle Master Builds
 
 (Tasha's Cauldron of Everything, page 46)
 
@@ -327,7 +318,7 @@ A Martial Archetype option in the Player's Handbook, the Battle Master showcases
 
 Each of these builds contains suggested fighting styles, maneuvers, and feats. Those suggestions are from the Player's Handbook, except for the ones followed by an asterisk, which indicates an option introduced in this book.
 
-#### Archer[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D31&uselang=en "Sign in to edit")
+#### Archer
 
 - **Fighting Style:** Archery
 - **Maneuvers:** Disarming Attack, Distracting Strike, Precision Attack
@@ -335,7 +326,7 @@ Each of these builds contains suggested fighting styles, maneuvers, and feats. T
 
 You prefer to deal with your enemies from afar, trusting to a well placed arrow, javelin, or sling bullet to end a fight without a response. You rely on accuracy and probably subscribe to the axiom that "those who live by the sword die by the bow."
 
-#### Bodyguard[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D32&uselang=en "Sign in to edit")
+#### Bodyguard
 
 - **Fighting Style:** Interception*, Protection
 - **Maneuvers:** Bait and Switch*, Disarming Attack, Goading Attack, Grappling Strike*
@@ -343,7 +334,7 @@ You prefer to deal with your enemies from afar, trusting to a well placed arrow,
 
 Love, money, or some other obligation motivates you to place your own body between harm and the one you're sworn to protect. You have honed the ability to sniff out potential threats and see your charge through dangerous situations.
 
-#### Brawler[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D33&uselang=en "Sign in to edit")
+#### Brawler
 
 - **Fighting Style:** Blind Fighting*, Two-Weapon Fighting, Unarmed Fighting*
 - **Maneuvers:** Ambush,* Disarming Attack, Feinting Attack, Pushing Attack, Trip Attack
@@ -351,7 +342,7 @@ Love, money, or some other obligation motivates you to place your own body betwe
 
 When bottles start breaking and chairs start flying, you're in your element. You love a good scrap and you've likely seen your share of them. You may or may not have formal training, and while others might call you a dirty fighter, you're still alive.
 
-#### Duelist[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D34&uselang=en "Sign in to edit")
+#### Duelist
 
 - **Fighting Style:** Dueling, Two-Weapon Fighting
 - **Maneuvers:** Evasive Footwork, Feinting Attack, Lunging Attack, Parry, Precision Attack, Riposte
@@ -359,7 +350,7 @@ When bottles start breaking and chairs start flying, you're in your element. You
 
 You regard the duel as a proud tradition—a test of skill and wits that bring honor to those who can detest an enemy while respecting the art. Your search for improvement is a consuming passion, and you draw on the expertise of the masters who've come before you as you work to perfect your form.
 
-#### Gladiator[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D35&uselang=en "Sign in to edit")
+#### Gladiator
 
 - **Fighting Style:** Defense, Two-Weapon Fighting
 - **Maneuvers:** Goading Attack, Menacing Attack, Sweeping Attack, Trip Attack
@@ -367,7 +358,7 @@ You regard the duel as a proud tradition—a test of skill and wits that bring h
 
 You've fought to entertain crowds, whether for sport or as punishment. Along the way, you learned to use all manner of weapons to battle all kinds of adversaries. You're practical yet theatrical, and you know how to employ fear as an effective tool in a fight.
 
-#### Hoplite[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D36&uselang=en "Sign in to edit")
+#### Hoplite
 
 - **Fighting Style:** Defense, Thrown Weapon Fighting*
 - **Maneuvers:** Brace*, Lunging Attack, Parry, Precision Attack
@@ -375,7 +366,7 @@ You've fought to entertain crowds, whether for sport or as punishment. Along the
 
 With spear and shield you follow in the footsteps of the heroes of ages past. You rely on discipline and athleticism to overcome improbable odds. Whether fighting in ranks alongside your comrades or squaring off as a lone warrior, you're equal to the task.
 
-#### Lancer[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D37&uselang=en "Sign in to edit")
+#### Lancer
 
 - **Fighting Style:** Dueling
 - **Maneuvers:** Lunging Attack, Menacing Attack, Precision Attack, Pushing Attack
@@ -383,7 +374,7 @@ With spear and shield you follow in the footsteps of the heroes of ages past. Yo
 
 When the cavalry is called in, that means you. You ride out to greet your enemy with the point of your weapon. As you charge, the ground trembles, and only the heaviest blows can deter you.
 
-#### Outrider[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D38&uselang=en "Sign in to edit")
+#### Outrider
 
 - **Fighting Style:** Archer
 - **Maneuvers:** Ambush*, Distracting Strike, Goading Attack, Precision Attack, Quick Toss*
@@ -391,7 +382,7 @@ When the cavalry is called in, that means you. You ride out to greet your enemy 
 
 You find freedom in the saddle and a companion in your mount. A headlong charge into combat is a blunt instrument for oafs. You prefer mobility and range, opting for find advantageous positions that allow you to deal with foes at full gallop while evading the most dangerous threats.
 
-#### Pugilist[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D39&uselang=en "Sign in to edit")
+#### Pugilist
 
 - **Fighting Style:** Unarmed Fighting*
 - **Maneuvers:** Disarming Attack, Evasive Footwork, Grappling Strike*, Menacing Attack, Pushing Attack, Riposte, Trip Attack
@@ -399,7 +390,7 @@ You find freedom in the saddle and a companion in your mount. A headlong charge 
 
 Where others rely on steel, you've got your fists. Whether through training or experience, you've developed a superior technique that can help you overcome an enemy in an up-close fight.
 
-#### Shock Trooper[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D40&uselang=en "Sign in to edit")
+#### Shock Trooper
 
 - **Fighting Style:** Great Weapon Fighting
 - **Maneuvers:** Menacing Attack, Pushing Attack, Sweeping Attack
@@ -407,7 +398,7 @@ Where others rely on steel, you've got your fists. Whether through training or e
 
 Subtlety is not your style. You've trained to get straight into the fighting, busting through enemy lines and applying tremendous pressure quickly. Those who ignore you in combat do so at their peril.
 
-#### Skirmisher[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D41&uselang=en "Sign in to edit")
+#### Skirmisher
 
 - **Fighting Style:** Archery, Thrown Weapon Fighting*
 - **Maneuvers:** Ambush*, Bait and Switch*, Distracting Strike, Quick Toss*
@@ -415,7 +406,7 @@ Subtlety is not your style. You've trained to get straight into the fighting, bu
 
 You thrive amid the chaos of battle. You use your mobility and versatility in combat to soften your adversaries and disrupt their formations. An enemy's plan rarely survives contact with you.
 
-#### Strategist[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D42&uselang=en "Sign in to edit")
+#### Strategist
 
 - **Fighting Style:** Defense
 - **Maneuvers:** Commander's Strike, Commanding Presence*, Maneuvering Attack, Rally, Tactical Assessment*
@@ -423,22 +414,19 @@ You thrive amid the chaos of battle. You use your mobility and versatility in co
 
 To you, battles unfold like a game of chess. You understand that strength and speed are important to a fight, but it takes intellect and experience to know how to best apply them. That's where you come in.
 
-## Cavalier[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D43&uselang=en "Sign in to edit")
-
+## Cavalier
 (Xanathar's Guide To Everything, page 30)
 
-### Bonus Proficiencies[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D44&uselang=en "Sign in to edit")
-
+### Bonus Proficiencies
 When you choose this archetype at 3rd level, you gain proficiency in one of the following skills of your choice: Animal Handling, History, Insight, Performance, or Persuasion. Alternatively, you learn one language of your choice.
 
-### Born to the Saddle[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D45&uselang=en "Sign in to edit")
+### Born to the Saddle
 
 Starting at 3rd level, your mastery as a rider becomes apparent. You have advantage on saving throws made to avoid falling off your mount. If you fall off your mount and descend no more than 10 feet, you can land on your feet if you're not [incapacitated](https://dnd-5e.fandom.com/wiki/Conditions#Incapacitated "Conditions").
 
 Finally, mounting or dismounting a creature costs you only 5 feet of movement, rather than half your speed.
 
-### Unwavering Mark[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D46&uselang=en "Sign in to edit")
-
+### Unwavering Mark
 Starting at 3rd level, you can menace your foes, foiling their attacks and punishing them for harming others. When you hit a creature with a melee weapon attack, you can mark the creature until the end of your next turn. This effect ends early if you are incapacitated or you die, or if someone else marks the creature.
 
 While it is within 5 feet of you, a creature marked by you has disadvantage on any attack roll that doesn't target you.
@@ -447,30 +435,24 @@ In addition, if a creature marked by you deals damage to anyone other than you, 
 
 Regardless of the number of creatures you mark, you can make this special attack a number of times equal to your Strength modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.
 
-### Warding Maneuver[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D47&uselang=en "Sign in to edit")
-
+### Warding Maneuver
 At 7th level, you learn to fend off strikes directed at you, your mount, or other creatures nearby. If you or a creature you can see within 5 feet of you is hit by an attack, you can roll 1d8 as a reaction if you're wielding a melee weapon or a shield. Roll the die, and add the number rolled to the target's AC against that attack. If the attack still hits, the target has resistance against the attack's damage.
 
 You can use this feature a number of times equal to your Constitution modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.
 
-### Hold the Line[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D48&uselang=en "Sign in to edit")
-
+### Hold the Line
 At 10th level, you become a master of locking down your enemies. Creatures provoke an opportunity attack from you when they move 5 feet or more while within your reach, and if you hit a creature with an opportunity attack, the target's speed is reduced to 0 until the end of the current turn.
 
-### Ferocious Charger[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D49&uselang=en "Sign in to edit")
-
+### Ferocious Charger
 Starting at 15th level, you can run down your foes, whether you're mounted or not. If you move at least 10 feet in a straight line right before attacking a creature and you hit it with the attack, that target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + your Strength modifier) or be knocked [prone](https://dnd-5e.fandom.com/wiki/Conditions#Prone "Conditions"). You can use this feature only once on each of your turns.
 
-### Vigilant Defender[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D50&uselang=en "Sign in to edit")
-
+### Vigilant Defender
 Starting at 18th level, you respond to danger with extraordinary vigilance. In combat, you get a special reaction that you can take once on every creature's turn, except your turn. You can use this special reaction only to make an opportunity attack, and you can't use it on the same turn that you take your normal reaction.
 
-## Echo Knight[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D57&uselang=en "Sign in to edit")
-
+## Echo Knight
 (Explorer's Guide to Wildemount, pages 183-184)
 
-### Manifest Echo[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D58&uselang=en "Sign in to edit")
-
+### Manifest Echo
 At 3rd level, you can use a bonus action to magically manifest an echo of yourself in an unoccupied space you can see within 15 feet of you. This echo is a magical, translucent, gray image of you that lasts until it is destroyed, until you dismiss it as a bonus action, until you manifest another echo, or until you're [incapacitated](https://dnd-5e.fandom.com/wiki/Conditions#Incapacitated "Conditions").
 
 Your echo has AC 14 + your proficiency bonus, 1 hit point, and immunity to all conditions. If it has to make a saving throw, it uses your saving throw bonus for the roll. It is the same size as you, and it occupies its space. On your turn, you can mentally command the echo to move up to 30 feet in any direction (no action required). If your echo is ever more than 30 feet from you at the end of your turn, it is destroyed.
@@ -481,40 +463,33 @@ You can use the echo in the following ways:
 - When you take the Attack action on your turn, any attack you make with that action can originate from your space or the echo's space. You make this choice for each attack.
 - When a creature that you can see within 5 feet of your echo moves at least 5 feet away from it, you can use your reaction to make an opportunity attack against that creature as if you were in the echo's space.
 
-### Unleash Incarnation[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D59&uselang=en "Sign in to edit")
-
+### Unleash Incarnation
 At 3rd level, you can heighten your echo's fury. Whenever you take the Attack action, you can make one additional melee attack from the echo's position.
 
 You can use this feature a number of times equal to your Constitution modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
-### Echo Avatar[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D60&uselang=en "Sign in to edit")
-
+### Echo Avatar
 At 7th level, you can temporarily transfer your consciousness to your echo. As an action, you can see through your echo's eyes and hear through its ears. During this time, you are [deafened](https://dnd-5e.fandom.com/wiki/Conditions#Deafened "Conditions") and [blinded](https://dnd-5e.fandom.com/wiki/Conditions#Blinded "Conditions"). You can sustain this effect for up to 10 minutes, and you can end it at any time (requires no action). While your echo is being used in this way, it can be up to 1,000 feet away from you without being destroyed.
 
-### Shadow Martyr[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D61&uselang=en "Sign in to edit")
-
+### Shadow Martyr
 At 10th level, you can make your echo throw itself in front of an attack directed at another creature that you can see. Before the attack roll is made, you can use your reaction to teleport the echo to an unoccupied space within 5 feet of the targeted creature. The attack roll that triggered the reaction is instead made against your echo.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
-### Reclaim Potential[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D62&uselang=en "Sign in to edit")
-
+### Reclaim Potential
 At 15th level, you've learned to absorb the fleeting magic of your echo. When an echo of yours is destroyed by taking damage, you can gain a number of temporary hit points equal to 2d6 + your Constitution modifier, provided you don't already have temporary hit points.
 
 You can use this feature a number of times equal to your Constitution modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
-### Legion of One[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D63&uselang=en "Sign in to edit")
-
+### Legion of One
 At 18th level, you can use a bonus action to create two echoes with your Manifest Echo feature, and these echoes can coexist. If you try to create a third echo, the previous two echoes are destroyed. Anything you can do from one echo's position can be done from the other's instead.
 
 In addition, when you roll initiative and have no uses of your Unleash Incarnation feature left, you regain one use of that feature.
 
-## Eldritch Knight[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D64&uselang=en "Sign in to edit")
-
+## Eldritch Knight
 (Player's Handbook, page 74)
 
-### Spellcasting[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D65&uselang=en "Sign in to edit")
-
+### Spellcasting
 When you reach 3rd level, you augment your martial prowess with the ability to cast spells.
 
 |Fighter Level|Cantrips|Spells|1st|2nd|3rd|4th|
@@ -531,18 +506,15 @@ When you reach 3rd level, you augment your martial prowess with the ability to c
 |19th|3|12|4|3|3|1|
 |20th|3|13|4|3|3|1|
 
-#### Cantrips[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D66&uselang=en "Sign in to edit")
-
+#### Cantrips
 You learn two cantrips of your choice from the [wizard spell list](https://dnd-5e.fandom.com/wiki/Wizard_Spells "Wizard Spells"). You learn an additional wizard cantrip of your choice at 10th level.
 
-#### Spell Slots[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D67&uselang=en "Sign in to edit")
-
+#### Spell Slots
 The Eldritch Knight Spellcasting table shows how many spell slots you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
 For example, if you know the 1st-level spell [Shield](https://dnd-5e.fandom.com/wiki/Shield "Shield") and have a 1st-level and a 2nd-level spell slot available, you can cast Shield using either slot.
 
-#### Spells Known[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D68&uselang=en "Sign in to edit")
-
+#### Spells Known
 You know three 1st level [wizard spells](https://dnd-5e.fandom.com/wiki/Wizard_Spells "Wizard Spells") of your choice, two of which you must choose from the abjuration and evocation spells on the wizard spell list.
 
 The Spells Known column of the Eldritch Knight Spellcasting table shows when you learn more wizard spells of 1st level or higher. Each of these spells must be an abjuration or evocation spell of your choice, and must be of a level for which you have spell slots. For instance, when you reach 7th level in this class, you can learn one new spell of 1st or 2nd level.
@@ -551,44 +523,36 @@ The spells you learn at 8th, 14th, and 20th level can come from any school of ma
 
 Whenever you gain a level in this class, you can replace one of the wizard spells you know with another spell of your choice from the wizard spell list. The new spell must be of a level for which you have spell slots, and it must be an abjuration or evocation spell, unless you're replacing the spell you gained at 3rd, 8th, 14th, or 20th level from any school of magic.
 
-#### Spellcasting Ability[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D69&uselang=en "Sign in to edit")
-
+#### Spellcasting Ability
 Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
 
 **Spell save DC** = 8 + proficiency bonus + Intelligence mod
 
 **Spell attack mod** = proficiency bonus + Intelligence mod
 
-### Weapon Bond[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D70&uselang=en "Sign in to edit")
-
+### Weapon Bond
 At 3rd level, you learn a ritual that creates a magical bond between yourself and one weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. The weapon must be within your reach throughout the ritual, at the conclusion of which you touch the weapon and forge the bond.
 
 Once you have bonded a weapon to yourself, you can't be disarmed of that weapon unless you are [incapacitated](https://dnd-5e.fandom.com/wiki/Conditions#Incapacitated "Conditions"). If it is on the same plane of existence, you can summon that weapon as a bonus action on your turn, causing it to teleport instantly to your hand.
 
 You can have up to two bonded weapons, but can summon only one at a time with your bonus action. If you attempt to bond with a third weapon, you must break the bond with one of the other two.
 
-### War Magic[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D71&uselang=en "Sign in to edit")
-
+### War Magic
 Beginning at 7th level, when you use your action to cast a cantrip, you can make one weapon attack as a bonus action.
 
-### Eldritch Strike[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D72&uselang=en "Sign in to edit")
-
+### Eldritch Strike
 At 10th level, you learn how to make your weapon strikes undercut a creature's resistance to your spells. When you hit a creature with a weapon attack, that creature has disadvantage on the next saving throw it makes against a spell you cast before the end of your next turn.
 
-### Arcane Charge[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D73&uselang=en "Sign in to edit")
-
+### Arcane Charge
 At 15th level, you gain the ability to teleport up to 30 feet to an unoccupied space you can see when you use your Action Surge. You can teleport before or after the additional action.
 
-### Improved War Magic[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D74&uselang=en "Sign in to edit")
-
+### Improved War Magic
 Starting at 18th level, when you use your action to cast a spell, you can make one weapon attack as a bonus action.
 
-## Psi Warrior[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D75&uselang=en "Sign in to edit")
-
+## Psi Warrior
 (Tasha's Cauldron of Everything, page 42)
 
-### Psionic Power[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D76&uselang=en "Sign in to edit")
-
+### Psionic Power
 _3rd-level Psi Warrior feature_
 
 You harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a d6. You have a number of these dice equal to twice your proficiency bonus, and they fuel various psionic powers you have, which are detailed below.
@@ -605,7 +569,7 @@ _**Psionic Strike.**_ You can propel your weapons with psionic force. Once on ea
 
 _**Telekinetic Movement.**_ You can move an object or a creature with your mind. As an action, you target one loose object that is Large or smaller or one willing creature, other than yourself. If you can see the target and it is within 30 feet of you, you can move it up to 30 feet to an unoccupied space you can see. Alternatively, if it is a Tiny object, you can move it to or from your hand. Either way, you can move the target horizontally, vertically, or both. Once you take this action, you can't do so again until you finish a short or long rest, unless you expend a Psionic Energy die to take it again.
 
-### Telekinetic Adept[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D77&uselang=en "Sign in to edit")
+### Telekinetic Adept
 
 _7th-level Psi Warrior feature_
 
@@ -615,13 +579,12 @@ _**Psi-Powered Leap.**_ As a bonus action, you can propel your body with your mi
 
 _**Telekinetic Thrust.**_ When you deal damage to a target with your Psionic Strike, you can force the target to make a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Intelligence modifier. If the save fails, you can knock the target prone or move it up to 10 feet in any direction horizontally.
 
-### Guarded Mind[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D78&uselang=en "Sign in to edit")
-
+### Guarded Mind
 _10th-level Psi Warrior feature_
 
 The psionic energy flowing through you has bolstered your mind. You have resistance to psychic damage. Moreover, if you start your turn charmed or frightened, you can expend a Psionic Energy die and end every effect on yourself subjecting you to those conditions.
 
-### Bulwark of Force[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D79&uselang=en "Sign in to edit")
+### Bulwark of Force
 
 _15th-level Psi Warrior feature_
 
@@ -629,7 +592,7 @@ You can shield yourself and others with telekinetic force. As a bonus action, yo
 
 Once you take this bonus action, you can't do so again until you finish a long rest, unless you spend a Psionic Energy die to take it again.
 
-### Telekinetic Master[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D80&uselang=en "Sign in to edit")
+### Telekinetic Master
 
 _18th-level Psi Warrior feature_
 
@@ -637,23 +600,22 @@ Your ability to move creatures and objects with your mind is matched by few. You
 
 Once you cast the spell with this feature, you can't do so again until you finish a long rest, unless you expend a Psionic Energy die to cast it again.
 
-## Purple Dragon Knight[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D81&uselang=en "Sign in to edit")
+## Banneret (Purple Dragon Knight)
 
 (Sword Coast Adventurer's Guide, page 128)
 
-### Restriction: Knighthood[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D82&uselang=en "Sign in to edit")
+### Restriction: Knighthood
 
 Purple Dragon Knights are tied to a specific order of Cormyrean knighthood.
 
 Banneret serves as the generic name for this archetype if you use it in other campaign settings or to model warlords other than the Purple Dragon Knights.
 
-### Rallying Cry[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D83&uselang=en "Sign in to edit")
-
+### Rallying Cry
 When you choose this archetype at 3rd level, you learn how to inspire your allies to fight on past their injuries.
 
 When you use your Second Wind feature, you can choose up to three creatures within 60 feet of you that are allied with you. Each one regains hit points equal to your fighter level, provided that the creature can see or hear you.
 
-### Royal Envoy[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D84&uselang=en "Sign in to edit")
+### Royal Envoy
 
 A Purple Dragon Knight serves as an envoy of the Cormyrean crown. Knights of high standing are expected to conduct themselves with grace.
 
@@ -661,27 +623,25 @@ At 7th level, you gain proficiency in the Persuasion skill. If you are already p
 
 Your proficiency bonus is doubled for any ability check you make that uses Persuasion. You receive this benefit regardless of the skill proficiency you gain from this feature.
 
-### Inspiring Surge[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D85&uselang=en "Sign in to edit")
+### Inspiring Surge
 
 Starting at 10th level, when you use your Action Surge feature, you can choose one creature within 60 feet of you that is allied with you. That creature can make one melee or ranged weapon attack with its reaction, provided that it can see or hear you.
 
 Starting at 18th level, you can choose two allies within 60 feet of you, rather than one.
 
-### Bulwark[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D86&uselang=en "Sign in to edit")
-
+### Bulwark
 Beginning at 15th level, you can extend the benefit of your Indomitable feature to an ally. When you decide to use Indomitable to reroll an Intelligence, a Wisdom, or a Charisma saving throw and you aren't [incapacitated](https://dnd-5e.fandom.com/wiki/Conditions#Incapacitated "Conditions"), you can choose one ally within 60 feet of you that also failed its saving throw against the same effect. If that creature can see or hear you, it can reroll its saving throw and must use the new roll.
 
-## Rune Knight[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D87&uselang=en "Sign in to edit")
-
+## Rune Knight
 (Tasha's Cauldron of Everything, page 44)
 
-### Bonus Proficiencies[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D88&uselang=en "Sign in to edit")
+### Bonus Proficiencies
 
 _3rd-level Rune Knight feature_
 
 You gain proficiency with smith's tools, and you learn to speak, read, and write Giant.
 
-### Rune Carver[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D89&uselang=en "Sign in to edit")
+### Rune Carver
 
 _3rd-level Rune Knight feature_
 
@@ -722,7 +682,7 @@ _**Storm Rune (7th level or Higher).**_ Using this rune, you can glimpse the fut
 
 In addition, you can invoke the rune as a bonus action to enter a prophetic state for 1 minute or until you're incapacitated. Until the state ends, when you or another creature you can see within 60 feet of you makes an attack roll, a saving throw, or an ability check, you can use your reaction to cause the roll to have advantage or disadvantage. Once you invoke this rune, you can't do so again until you finish a short or long rest.
 
-### Giant's Might[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D90&uselang=en "Sign in to edit")
+### Giant's Might
 
 _3rd-level Rune Knight feature_
 
@@ -734,64 +694,54 @@ You have learned how to imbue yourself with the might of giants. As a bonus acti
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a long rest.
 
-### Runic Shield[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D91&uselang=en "Sign in to edit")
-
+### Runic Shield
 _7th-level Rune Knight feature_
 
 You learn to invoke your rune magic to protect your allies. When another creature you can see within 60 feet of you is hit by an attack roll, you can use your reaction to force the attacker to reroll the d20 and use the new roll.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
-### Great Stature[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D92&uselang=en "Sign in to edit")
-
+### Great Stature
 _10th-level Rune Knight feature_
 
 The magic of your runes permanently alters you. When you gain this feature, roll 3d4. You grow a number of inches in height equal to the roll.
 
 Moreover, the extra damage you deal with your Giant's Might feature increases to 1d8.
 
-### Master of Runes[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D93&uselang=en "Sign in to edit")
-
+### Master of Runes
 _15th-level Rune Knight feature_
 
 You can invoke each rune you know from your Rune Carver feature twice, rather than once, and you regain all expended uses when you finish a short or long rest.
 
-### Runic Juggernaut[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D94&uselang=en "Sign in to edit")
-
+### Runic Juggernaut
 _18th-level Rune Knight feature_
 
 You learn to amplify your rune-powered transformation. As a result, the extra damage you deal with the Giant's Might feature increases to 1d10. Moreover, when you use that feature, your size can increase to Huge, and while you are that size, your reach increases by 5 feet.
 
-## Samurai[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D95&uselang=en "Sign in to edit")
-
+## Samurai
 (Xanathar's Guide To Everything, page 31)
 
-### Bonus Proficiency[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D96&uselang=en "Sign in to edit")
-
+### Bonus Proficiency
 When you choose this archetype at 3rd level, you gain proficiency in one of the following skills of your choice: History, Insight, Performance, or Persuasion. Alternatively, you learn one language of your choice.
 
-### Fighting Spirit[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D97&uselang=en "Sign in to edit")
+### Fighting Spirit
 
 Starting at 3rd level, your intensity in battle can shield you and help you strike true. As a bonus action on your turn, you can give yourself advantage on weapon attack rolls until the end of the current turn. When you do so, you also gain 5 temporary hit points. The number of temporary hit points increases when you reach certain levels in this class, increasing to 10 at 10th level and 15 at 15th level.
 
 You can use this feature three times, and you regain all expended uses of it when you finish a long rest.
 
-### Elegant Courtier[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D98&uselang=en "Sign in to edit")
-
+### Elegant Courtier
 Starting at 7th level, your discipline and attention to detail allow you to excel in social situations. Whenever you make a Charisma (Persuasion) check, you gain a bonus to the check equal to your Wisdom modifier.
 
 Your self-control also causes you to gain proficiency in Wisdom saving throws. If you already have this proficiency, you instead gain proficiency in Intelligence or Charisma saving throws (your choice).
 
-### Tireless Spirit[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D99&uselang=en "Sign in to edit")
-
+### Tireless Spirit
 Starting at 10th level, when you roll initiative and have no uses of Fighting Spirit remaining, you regain one use.
 
-### Rapid Strike[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D100&uselang=en "Sign in to edit")
-
+### Rapid Strike
 Starting at 15th level, you learn to trade accuracy for swift strikes. If you take the Attack action on your turn and have advantage on an attack roll against one of the targets, you can forgo the advantage for that roll to make an additional weapon attack against that target, as part of the same action. You can do so no more than once per turn.
 
-### Strength Before Death[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FFighter%3Fveaction%3Dedit%26section%3D101&uselang=en "Sign in to edit")
-
+### Strength Before Death
 Starting at 18th level, your fighting spirit can delay the grasp of death. If you take damage that reduces you to 0 hit points and doesn't kill you outright, you can use your reaction to delay falling [unconscious](https://dnd-5e.fandom.com/wiki/Conditions#Unconscious "Conditions"), and you can immediately take an extra turn, interrupting the current turn. While you have 0 hit points during that extra turn, taking damage causes death saving throw failures as normal, and three death saving throw failures can still kill you. When the extra turn ends, you fall unconscious if you still have 0 hit points.
 
 Once you use this feature, you can't use it again until you finish a long rest.

@@ -6,6 +6,10 @@ Dragonborn look like wingless, bipedal dragons— scaly, bright-eyed, and thick-
 * Sharptooth - Paladin
 * [BidrithCrecur](BidrithCrecur.md) - Lady of Hammerkeep
 
+## Organizations
+
+* [GoldenDragons](GoldenDragons.md)
+
 ![dragonborn](rules/dragonborn.md)
 
 > source: https://www.dndbeyond.com/species/1751435-dragonborn
