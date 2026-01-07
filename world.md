@@ -1,6 +1,6 @@
 This rump of the world known as [Nuoro](Nuoro.md) has many places. Everywhere has many places, really. There's practically no reason to go looking through this list because each of these places has more places within. Same goes for history. I can't detail history for you, because there's more of it than there are moments to use recording it, right? So you get fragments. Be glad of it, because if we unspooled the entirety you'd run into a paradox sooner or later, and that's where the outsider arcanematics will get you.
 
-![map-nuoro](images/map-nuoro.png)
+![map-nuoro](images/Nuoro24mi.png)
 ## History
 
 What is history apart from a bunch of things that happened? At the time of this writing[^1] the things that are happening are different depending on where you are, obviously. 
@@ -48,11 +48,7 @@ Many people still don't believe [Nuoro](Nuoro.md) is an island. I don't know wha
 
 Most of the [Dantag Empire](DantagEmpire.md) is about a hundred miles across the sea to the east on the [Anor](Anor.md) landmass[^2]. You can sail across in a day or two, but not a lot of people do.
 
-<<<<<<< HEAD
 Sailing southwest of Nuoro is where you find a lot more stuff. According to Three Finger Farza, the Continent of [Noricum](Noricum.md) is about 900 miles that way and it's got lots of people and small countries like [Halruaa](Halruaa.md), [Mulhorand](Mulhorand.md) and [Zakhara](Zakhara.md). Before you get there you might end up at one of the small island nations, including [Chult](Chult.md).
-=======
-Sailing southwest of Nuoro is where you find a lot more stuff. According to Three Finger Farza, the Continent of [Noricum](Noricum.md) is about 900 miles that way and it's got lots of people and small countries like [Halruaa](Halruaa.md), [Mulhorand](Mulhorand.md) and [Zakhara](Zakhara.md). Before you get there you might end up at one of the small archipelago/island nations, including [Chult](Chult.md).
->>>>>>> origin/main
 
 An even farther voyage across [Anor](Anor.md) and then sailing east might bring you to [Uradun](Uradun.md), and going north into the ice, could bring you to [Yldstead](Yldstead.md) if you don't die on the way.
 
