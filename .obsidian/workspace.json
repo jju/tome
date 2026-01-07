@@ -197,7 +197,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 5
           },
           {
             "id": "f95a241c1a1d9096",
@@ -510,10 +510,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "2b6b613a16239c90",
+  "active": "0419607e3ae94a0d",
   "lastOpenFiles": [
-    "rules/fighter.md",
     "Fighter.md",
+    "rules/fighter.md",
     "OldZhaalumi.md",
     "factions.md",
     "Bloodaxes.md",

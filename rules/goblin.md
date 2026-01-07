@@ -60,5 +60,9 @@ Speed 30 ft.
 
 **_Nimble Escape._** The goblin takes the [Disengage](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#DisengageAction) or [Hide](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#HideAction) action.
 
+# Goblin Boss
+
+
+
 > source: _Mordenkainen Presents: Monsters of the Multiverse_ (2021)
 > [species](species.md) [npcs](npcs.md) [srd](srd.md) 
