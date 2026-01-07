@@ -2,7 +2,7 @@
 ## Characters
 
 * [Sunny](Sunny.md)
-* Dave's Dwarf
+* [Garriff Barfgeld Battlehammer](Barfgeld.md)
 
 > source: https://www.dndbeyond.com/classes/2190879-fighter
 > [srd](srd.md)

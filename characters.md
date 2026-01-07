@@ -6,15 +6,18 @@
 * [Fillika](Fillika.md) 
 * [Rurik Stoneblood](RurikStoneblood.md)
 * [Riles Greyfox](RilesGreyfox.md)
-* [Gwargl Kel Huun](GwarglKelHuun.md)
+* [Garriff "Barfgeld" Battlehammer](Barfgeld.md)
+* 
 
 ## NPCs
 
 * [Urdl](Urdl.md) - Dwarf merchant
 * [Green](Green.md) - Halfling merchant
 * Kobold mob - chased off by [Rexer III](RexerIII.md)
+* [Gwargl Kel Huun](GwarglKelHuun.md)
 * [Sunny](Sunny.md)
 * [Marva Brokenchains](MarvaBrokenchains.md)
+* [Mek Stoneseeker](MekStoneseeker)
 
 ## Creatures
 

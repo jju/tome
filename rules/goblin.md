@@ -61,7 +61,46 @@ Speed 30 ft.
 **_Nimble Escape._** The goblin takes the [Disengage](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#DisengageAction) or [Hide](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#HideAction) action.
 
 # Goblin Boss
+[Goblin Boss](https://www.dndbeyond.com/monsters/5195047-goblin-boss)
 
+Small Fey (Goblinoid), Chaotic Neutral
+AC 17    Initiative +2 (12)
+HP 21 (6d6)
+Speed 30 ft.
+
+|     |     | Mod | Save |
+| --- | --- | --- | ---- |
+| STR | 10  | +0  | +0   |
+| DEX | 15  | +2  | +2   |
+| CON | 10  | +0  | +0   |
+
+|     |     | Mod | Save |
+| --- | --- | --- | ---- |
+| INT | 10  | +0  | +0   |
+| WIS | 8   | -1  | -1   |
+| CHA | 10  | +0  | +0   |
+
+**Skills** [Stealth](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +6
+**Gear** [Chain Shirt](https://www.dndbeyond.com/equipment/12-chain-shirt), [Scimitar](https://www.dndbeyond.com/equipment/29-scimitar), [Shield](https://www.dndbeyond.com/equipment/8-shield), [Shortbow](https://www.dndbeyond.com/equipment/17-shortbow)
+**Senses** [Darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft., Passive Perception 9
+**Languages** Common, Goblin
+**CR** 1 (XP 200; PB +2)
+
+## Actions
+
+**_Multiattack._** The goblin makes two attacks, using Scimitar or Shortbow in any combination.
+
+**_Scimitar._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 5 (1d6 + 2) Slashing damage, plus 2 (1d4) Slashing damage if the attack roll had [Advantage](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Advantage).
+
+**_Shortbow._** _Ranged Attack Roll:_ +4, range 80/320 ft. _Hit:_ 5 (1d6 + 2) Piercing damage, plus 2 (1d4) Piercing damage if the attack roll had [Advantage](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Advantage).
+
+## Bonus Actions
+
+**_Nimble Escape._** The goblin takes the [Disengage](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#DisengageAction) or [Hide](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#HideAction) action.
+
+## Reactions
+
+**_Redirect Attack._** _Trigger:_ A creature the goblin can see makes an attack roll against it. _Response:_ The goblin chooses a Small or Medium ally within 5 feet of itself. The goblin and that ally swap places, and the ally becomes the target of the attack instead.
 
 
 > source: _Mordenkainen Presents: Monsters of the Multiverse_ (2021)
