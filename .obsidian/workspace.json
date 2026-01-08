@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stories/MH00-Prelude.md",
+                "file": "Hammerkeep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MH00-Prelude"
+              "title": "Hammerkeep"
             }
           },
           {
@@ -357,6 +357,62 @@
                 }
               },
               {
+                "id": "3b7721ad9d69c1e8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "HarolGarrick.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "HarolGarrick"
+                }
+              },
+              {
+                "id": "e18b495f0e510c5c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "ZeparMurder.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "ZeparMurder"
+                }
+              },
+              {
+                "id": "c6c21d7bda44ae48",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "LaviniaDaergel.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "LaviniaDaergel"
+                }
+              },
+              {
+                "id": "dbb61bb5914daff4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "LagaziProudfist.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "LagaziProudfist"
+                }
+              },
+              {
                 "id": "69837545dcb1ca38",
                 "type": "leaf",
                 "state": {
@@ -399,7 +455,7 @@
                 }
               }
             ],
-            "currentTab": 11
+            "currentTab": 15
           }
         ],
         "direction": "horizontal"
@@ -553,14 +609,20 @@
   },
   "active": "1e94059322fd0c8a",
   "lastOpenFiles": [
+    "LagaziProudfist.md",
+    "Hammerkeep.md",
+    "LaviniaDaergel.md",
+    "ZeparMurder.md",
+    "HarolGarrick.md",
+    "CecilyQuinton.md",
+    "CircleofHealingArts.md",
+    "stories/MH00-Prelude.md",
     "distances.md",
     "OldZhaalumi.md",
-    "stories/MH00-Prelude.md",
     "factions.md",
     "Bloodaxes.md",
     "EagerWave.md",
     "EkemonLust.md",
-    "Hammerkeep.md",
     "Gnome.md",
     "RilesGreyfox.md",
     "Paladin.md",
@@ -574,12 +636,6 @@
     "Ikizh.md",
     "images/Nuoro24mi.png",
     "VorkaThousandFists.md",
-    "stories/index.md",
-    "rules/goblin.md",
-    "CecilyQuinton.md",
-    "Corellon.md",
-    "CragmawCastle.md",
-    "CragmawHideout.md",
-    "CircleofHealingArts.md"
+    "stories/index.md"
   ]
 }

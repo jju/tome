@@ -20,15 +20,15 @@ The [Circle of Healing Arts](CircleofHealingArts.md) is a low wooden building ne
 
 * Old Goat - scummy place in the Docks - [VorkaThousandFists](VorkaThousandFists.md) proprietress Super strong HalfOrc
 * Gibbet - weirdly gentrified with lots of old folk who still have their teeth - [EkemonLust](EkemonLust.md) the middle-aged dashing Tiefling runs it
-* Lodestone - sunken damp Dwarf drinking hole, usually the first stop of Imperials
+* Lodestone - sunken damp Dwarf drinking hole, usually the first stop of Imperials - barkeep [HarolGarrick](HarolGarrick.md) youngish halfling 
 * Minstrel and Cask - best for entertainment - [CecilyQuinton](CecilyQuinton.md) proprietress 84yo Human 
-* Mourning Forest - wardens rangers and others who brave the Woods
+* Mourning Forest - wardens rangers and others who brave the Woods - [ZeparMurder](ZeparMurder.md) youngish tiefling
 
 ## Inns
 
-* Razorback - the roughest place (in the Docks)
+* Razorback - the roughest place (in the Docks) - run by [LaviniaDaergel](LaviniaDaergel.md) halfling woman
 * Three Candles - the biggest place (near the [Hammersford](Hammersford.md) Road)
-* Clafton Inn - the classiest place (near the Keep)
+* Clafton Inn - the classiest place (near the Keep) - managed by [LagaziProudfist](LagaziProudfist.md) owned by 
 
 ## Temples
 
