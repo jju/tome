@@ -1,13 +1,19 @@
 # Hammerkeep
 
-Hammerkeep is the third city of [Rundan](Rundan.md) (population ~7500), and these days it's a gloomy and dour place. People here tend to be more suspicious and withdrawn than even the most out of the way villages a day's travel eastward. Don't expect hospitality, though it's usually possible for merchants to find some sort of trade and a boat heading downriver.
+Hammerkeep is a dour and gloomy city of about eight thousand souls. It's nowhere you want to spend a long time. People here tend to be more suspicious and withdrawn than even the most out of the way villages elsewhere in [Rundan](Rundan.md). Don't expect hospitality, and if you're travelling through [Nuoro](Nuoro.md) feel free to bypass the place. It won't miss you and you won't miss it.
+
 ## Geography
 
-Hammerkeep is a few miles east of where the [Nuoro River](NuoroRiver.md) emerges from the [Twin Woods](TwinWoods.md). It's mostly on the south bank in a slight depression almost perfectly situated to capture fog. Small market villages are easy walking distance away, though it is usually easier rolling down to town than leaving.
+Hammerkeep sits a few miles east of where the [Nuoro River](NuoroRiver.md) emerges from the [Twin Woods](TwinWoods.md). It's mostly on the south bank in a slight depression almost perfectly situated to capture fog. Small market villages are an easy walking distance away, though it is usually easier rolling down to town than leaving.
 
-Hammerkeep has no walls.
+Hammerkeep has no walls. Is that because it's supposed to be open to all? Most visitors would say no. There's just never (as far as local knowledge goes) been the threat of a big enough assault on the place to justify a defensive investment.
 
-At the city's docks along with bigger transports for heading to greater [Rundan](Rundan.md) you'll find a surfeit of ferries for crossing the river. There is an ancient stone bridge, but it's upstream from the city proper (within a bowshot of the Woods) and locals rarely use it. Because of its low-lying nature, there are often spring floods around the docks, which can disrupt business on the river.
+![Hammerkeep](Hammerkeep.png)
+
+The docks are the busiest part of the city. There you'll find, along with bigger transports for heading to greater [Rundan](Rundan.md), a surfeit of ferries for crossing the river. There is an ancient stone bridge, but it's upstream from the city proper (within a bowshot of the Woods) and locals rarely use it. 
+
+The NuoroBecause of its low-lying nature, there are often spring floods around the docks, which can disrupt business on the river.
+
 ## The Keep
 
 The Keep itself is on higher ground on the south edge of the city. It's made of dark stone and the wind howls through it. You can see it from practically everywhere in town.
