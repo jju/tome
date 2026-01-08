@@ -10,7 +10,7 @@ When you generated your character there would have been a moment where you picke
 
 ![map-nuoro](images/Nuoro24mi.png)
 
-Some things about the world: The land we're adventuring in is called Nuoro, named for the big river that flows down from the Grimtooth Mountains to the eastern coast. For a sense of scale on that map, crossing from Bedwistre to Khudurra would be a 2-3 week overland journey. Nominally this whole land is under the control of the Dantag Empire (whose capital is on a nearby continent).
+Some things about the world: The land we're adventuring in is called Nuoro, named for the big river that flows down from the Grimtooth Mountains to the eastern coast. For a sense of scale on that map, crossing from Bedwistre to Khudurra would be a 2-3 week overland journey, or around a week sailing around the south. Nominally this whole land is under the control of the Dantag Empire (whose capital is on a nearby continent).
 
 The most "Imperial" part of Nuoro is the eastern kingdom of Rundan (capital: Bedwistre) but out west the Queendom of Ikizh declared independence after the Grim War in the mountains (which ended a few decades ago). It's also hard to say the empire really "controls" the vast forests between Rundan and Dracolathe (the gnomes of Perolmani have been resisting Rundan's lumber operations quite violently recently), and the Goliaths and Orcs of the far northwest (pretty much off the above map) have gone generations without having to deal with empire at all.
 

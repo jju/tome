@@ -182,7 +182,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 5
           },
           {
             "id": "f95a241c1a1d9096",
@@ -341,149 +341,9 @@
                   "icon": "lucide-file",
                   "title": "distances"
                 }
-              },
-              {
-                "id": "a8fbe36280248106",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "CecilyQuinton.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "CecilyQuinton"
-                }
-              },
-              {
-                "id": "3b7721ad9d69c1e8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "HarolGarrick.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "HarolGarrick"
-                }
-              },
-              {
-                "id": "e18b495f0e510c5c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ZeparMurder.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "ZeparMurder"
-                }
-              },
-              {
-                "id": "c6c21d7bda44ae48",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "LaviniaDaergel.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "LaviniaDaergel"
-                }
-              },
-              {
-                "id": "dbb61bb5914daff4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "LagaziProudfist.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "LagaziProudfist"
-                }
-              },
-              {
-                "id": "5082c3324c580847",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "FrugMiggledy.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "FrugMiggledy"
-                }
-              },
-              {
-                "id": "47081b633abb6297",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ThialaOstoroth.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "ThialaOstoroth"
-                }
-              },
-              {
-                "id": "69837545dcb1ca38",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "world.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "world"
-                }
-              },
-              {
-                "id": "205a3fba89b1dab9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Uradun.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Uradun"
-                }
-              },
-              {
-                "id": "abaafa82cbcf2877",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Yldstead.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Yldstead"
-                }
               }
             ],
-            "currentTab": 17
+            "currentTab": 10
           }
         ],
         "direction": "horizontal"
@@ -635,9 +495,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "f823b7e56044b749",
+  "active": "0419607e3ae94a0d",
   "lastOpenFiles": [
+    "distances.md",
+    "CecilyQuinton.md",
+    "ZeparMurder.md",
+    "HarolGarrick.md",
+    "FrugMiggledy.md",
+    "LagaziProudfist.md",
+    "LaviniaDaergel.md",
     "stories/MH00-Prelude.md",
+    "rules/sailingship.md",
+    "ThialaOstoroth.md",
     "gods.md",
     "UnkindQueen.md",
     "RavenQueen.md",
@@ -645,16 +514,8 @@
     "Traveler.md",
     "Hammerkeep.md",
     "stories/index.md",
-    "distances.md",
-    "ThialaOstoroth.md",
-    "FrugMiggledy.md",
-    "LagaziProudfist.md",
     "SimpleRhela.md",
     "Snerpi.md",
-    "LaviniaDaergel.md",
-    "ZeparMurder.md",
-    "HarolGarrick.md",
-    "CecilyQuinton.md",
     "CircleofHealingArts.md",
     "OldZhaalumi.md",
     "factions.md",
@@ -662,7 +523,6 @@
     "EagerWave.md",
     "EkemonLust.md",
     "Gnome.md",
-    "RilesGreyfox.md",
     "images/map-nuoro.png",
     "images/Nuoro24mi.png"
   ]
