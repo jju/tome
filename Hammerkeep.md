@@ -13,6 +13,8 @@ At the city's docks along with bigger transports for heading to greater [Rundan]
 The Keep itself is on higher ground on the south edge of the city. It's made of dark stone and the wind howls through it. You can see it from practically everywhere in town.
 
 Along with [Lady Hammerkeep](BidrithCrecur.md) and her retinue, the [Imperial Warden](WardenofHammerkeep.md) is stationed here, making sure the king's trees and wildlife aren't taken by poachers, and keeping paths safe for Empire. Officially at least. The truth is that the warden's patrols follow very well-worn and predictable paths through the Woods, since leaving them makes for dead rangers.
+
+The city has about 70 fulltime guards who are stationed in the Keep when on duty. Their leader is [ThialaOstoroth](ThialaOstoroth.md) an [Aarakocra](Aarakocra.md).
 ## Circle of Healing
 
 The [Circle of Healing Arts](CircleofHealingArts.md) is a low wooden building near the Docks. It's a place where the sick come for herbs, or for boils to be lanced or for strange illnesses to be assessed.
@@ -20,15 +22,15 @@ The [Circle of Healing Arts](CircleofHealingArts.md) is a low wooden building ne
 
 * Old Goat - scummy place in the Docks - [VorkaThousandFists](VorkaThousandFists.md) proprietress Super strong HalfOrc
 * Gibbet - weirdly gentrified with lots of old folk who still have their teeth - [EkemonLust](EkemonLust.md) the middle-aged dashing Tiefling runs it
-* Lodestone - sunken damp Dwarf drinking hole, usually the first stop of Imperials - barkeep [HarolGarrick](HarolGarrick.md) youngish halfling 
+* Lodestone - sunken damp Dwarf drinking hole, usually the first stop of Imperials - barkeep [HarolGarrick](HarolGarrick.md) youngish halfling - 
 * Minstrel and Cask - best for entertainment - [CecilyQuinton](CecilyQuinton.md) proprietress 84yo Human 
 * Mourning Forest - wardens rangers and others who brave the Woods - [ZeparMurder](ZeparMurder.md) youngish tiefling
 
 ## Inns
 
 * Razorback - the roughest place (in the Docks) - run by [LaviniaDaergel](LaviniaDaergel.md) halfling woman
-* Three Candles - the biggest place (near the [Hammersford](Hammersford.md) Road)
-* Clafton Inn - the classiest place (near the Keep) - managed by [LagaziProudfist](LagaziProudfist.md) owned by 
+* Three Candles - the biggest place (near the [Hammersford](Hammersford.md) Road) - there is a lot of staff turnover
+* Clafton Inn - the classiest place (near the Keep) - managed by [LagaziProudfist](LagaziProudfist.md) owned by [FrugMiggledy](FrugMiggledy.md)
 
 ## Temples
 

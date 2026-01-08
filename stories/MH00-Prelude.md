@@ -10,7 +10,7 @@ When you generated your character there would have been a moment where you picke
 
 ![map-nuoro](images/Nuoro24mi.png)
 
-Some things about the world: The land we're adventuring in is called Nuoro, named for the big river that flows down from the Grimtooth Mountains to the eastern coast. For scale purposes, crossing from Bedwistre to Khudurra would be a 2-3 week overland journey. Nominally this whole land is under the control of the Dantag Empire (whose capital is on a nearby continent).
+Some things about the world: The land we're adventuring in is called Nuoro, named for the big river that flows down from the Grimtooth Mountains to the eastern coast. For a sense of scale on that map, crossing from Bedwistre to Khudurra would be a 2-3 week overland journey. Nominally this whole land is under the control of the Dantag Empire (whose capital is on a nearby continent).
 
 The most "Imperial" part of Nuoro is the eastern kingdom of Rundan (capital: Bedwistre) but out west the Queendom of Ikizh declared independence after the Grim War in the mountains (which ended a few decades ago). It's also hard to say the empire really "controls" the vast forests between Rundan and Dracolathe (the gnomes of Perolmani have been resisting Rundan's lumber operations quite violently recently), and the Goliaths and Orcs of the far northwest (pretty much off the above map) have gone generations without having to deal with empire at all.
 
@@ -31,3 +31,7 @@ Nuoro is a very diverse land as far as sentient species go, and humans are not a
 Monsters are weird, but are known to exist. Dragons are very real, and very dangerous but can also be aligned with humanoid species[^3] (the gold dragon Cyzzarun is credited with turning the Grim War in favour of the Empire against the rebels). Undead are weird and scary. Reviving the dead is something talked about in legends, but the gods don't really go in for that kind of thing these days.
 
 [^3]: If you're an asshole you might conflate Dragonborn people with Dragons and Half-Dragons (and maybe even Kobolds) but they're all distinct peoples and cultures with a common Draconic language.
+
+## Religion
+
+In the Dantag Empire people tend to be pretty religious, but in a politically expedient way. Families have their shrines and do their temple visits, but most faiths tend to coexist well. Like, there are evil gods in the myths that some people probably worship, but it's not super common. Your character probably grew up with some sort of religion, but they may or may not care about it now. (If they do, check out [gods](gods.md) for a list to choose from, or make up your own!)

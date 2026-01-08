@@ -1,5 +1,5 @@
 # The Unkind Queen, Matron of Death
-Master of the skein of fate and mistress of winter, the Unkind Queen (sometimes known as the [Raven Queen](RavenQueen.md) is the god of death. Some say that she was once a mortal being herself who ascended to godhood.
+Master of the skein of fate and mistress of winter, the Unkind Queen (sometimes known as the [Raven Queen](RavenQueen.md)) is the god of death. Some say that she was once a mortal being herself who ascended to godhood.
 
 Most temples merely use ravens as the symbol of the Queen, though some depictions of a pale woman with a porcelain mask and unending black hair are supposed to be more direct representations.
 
