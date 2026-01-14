@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hammerkeep.md",
+                "file": "DantagEmpire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hammerkeep"
+              "title": "DantagEmpire"
             }
           },
           {
@@ -334,12 +334,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "distances.md",
+                    "file": "species.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "distances"
+                  "title": "species"
                 }
               }
             ],
@@ -495,13 +495,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "0419607e3ae94a0d",
+  "active": "1e94059322fd0c8a",
   "lastOpenFiles": [
+    "species.md",
+    "secrets/history.md",
+    "DantagEmpire.md",
+    "distances.md",
     "Hammerkeep.md",
+    "stories/MH00-Prelude.md",
     "BidrithCrecur.md",
     "images/Hammerkeep.png",
-    "stories/MH00-Prelude.md",
-    "distances.md",
     "CecilyQuinton.md",
     "ZeparMurder.md",
     "HarolGarrick.md",
@@ -521,9 +524,6 @@
     "CircleofHealingArts.md",
     "OldZhaalumi.md",
     "factions.md",
-    "Bloodaxes.md",
-    "EagerWave.md",
-    "EkemonLust.md",
     "images/map-nuoro.png",
     "images/Nuoro24mi.png"
   ]
