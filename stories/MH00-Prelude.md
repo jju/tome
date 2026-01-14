@@ -23,7 +23,8 @@ Out west the Queendom of Ikizh declared independence from Dantag after the Grim 
 The "Hitchhiker's Guide to Nuoro" equivalent has this to say about Hammerkeep:
 
 > Hammerkeep is a dour and gloomy city of about eight thousand souls. It's nowhere you want to spend a long time. People here tend to be more suspicious and withdrawn than even the most out of the way villages elsewhere in Rundan. Don't expect hospitality, and if you're travelling through feel free to bypass the place. It won't miss you and you won't miss it.
-## Magic
+
+Your characters probably wouldn't know a huge amount about the larger scale nature of things but the largest city Bedwistre is about 20,000 people. Mining in the Grimteeth (for gems minerals whatever) and getting that out through Bedwistre on ships to "Dantag proper" has been the main economic impetus for claiming this land (and the breadbaskets of Rundan and Ikizh help keep the local populace going). Independent Ikizh has more connections to overseas nations that aren't Dantag and even those tend more to the small city-state kinds of things.## Magic
 
 The biggest impact of the Empire has been a suppression of arcane magic. Dogma goes that magic in its proper state flows from the gods through the Emperor and their divine representatives. Bypassing that is heresy. So Clerics and Paladins are well-known and officially supported by their temples. Wizards, Warlocks and Sorcerors tend to be secretive/rare because they're officially persecuted (though in the long ago past they were more common, so adventurers finding ancient ruins is a common trope in stories). Bards druids and rangers are kind of a gray area, but there aren't a lot of them around doing magic so it usually doesn't come up outside of a theological academy.
 

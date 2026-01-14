@@ -390,12 +390,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Bedwistre.md",
+                    "file": "RurikStoneblood.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Bedwistre"
+                  "title": "RurikStoneblood"
                 }
               }
             ],
@@ -554,13 +554,14 @@
   "active": "7ea549f4649b655c",
   "lastOpenFiles": [
     "Khudurra.md",
+    "Bedwistre.md",
+    "stories/MH00-Prelude.md",
     "Ikizh.md",
     "Sivekkah.md",
     "Dracolathe.md",
     "Zhaalum.md",
     "secrets/history.md",
     "Hammerkeep.md",
-    "stories/MH00-Prelude.md",
     "RilesGreyfox.md",
     "Anor.md",
     "GibbetTavern.md",
@@ -579,7 +580,6 @@
     "ZeparMurder.md",
     "HarolGarrick.md",
     "FrugMiggledy.md",
-    "LagaziProudfist.md",
     "images/map-nuoro.png",
     "images/Nuoro24mi.png"
   ]
