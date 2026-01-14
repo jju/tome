@@ -12,18 +12,17 @@ When you generated your character there would have been a moment where you picke
 
 Some things about the world: The land we're adventuring in is called Nuoro, named for the big river that flows down from the Grimtooth Mountains to the eastern coast. For a sense of scale on that map, crossing from Bedwistre to Khudurra would be a 2-3 week overland journey, or around a week sailing around the south. Nominally this whole land is under the control of the Dantag Empire (whose capital is on another continent) and has been for hundreds of years.
 
-So the names on the map are Imperial names. Out in the east was where the most fighting happened when the empire came (again, hundreds of years ago) and the names tend to reflect that time. The city of Dracolathe in the Grimteeth had its name changed from Zhaalum about a hundred years ago, which started the Grim War[^4].
+So the names on the map are Imperial names. Out in the east was where the most fighting happened when the empire came (again, hundreds of years ago) and the names tend to reflect that time, projecting strength or animosity towards a land the empire was trying to conquer (and build atop the ruins of). Loads of places have more localized names. The biggest name fiasco everyone would know about even if you aren't astute in politics is that the city of Dracolathe in the Grimteeth had its name changed from Zhaalum about a hundred years ago, which started the Grim War[^4].
 
 [^4]: That war ended about 50 years ago, but repercussions still linger. If you want to know more, make sure your character is either a historian or pretty old.
 
-The most "Imperial" part of Nuoro is the eastern kingdom of Rundan (capital: Bedwistre) but there are other small (unlabeled on the map) monarchies across the continent that generally do their own thing while bending the knee when the Imperial Pious Guardians come to town.
+The most "Imperial" part of Nuoro is the eastern kingdom of Rundan (capital: Bedwistre) but there are other small (unlabeled on the map) monarchies across the continent that generally do their own thing while bending the knee when the Imperial Pious Guardians come to town. 
 
-The Hitchhiker's Guide to Nuoro equivalent has this to say about Hammerkeep:
+Out west the Queendom of Ikizh declared independence from Dantag after the Grim War in the mountains (which ended a few decades ago). It's also hard to say the Empire really "controls" the vast forests between Rundan and Dracolathe (the gnomes of Perolmani have been resisting Rundan's lumber operations quite violently recently, and the Fey of Kanliwood are very hard to predict). The Goliaths and Orcs out in the far northwest (pretty much off the above map) have gone generations without having to deal with the empire at all (as long as they stay up there).
+
+The "Hitchhiker's Guide to Nuoro" equivalent has this to say about Hammerkeep:
 
 > Hammerkeep is a dour and gloomy city of about eight thousand souls. It's nowhere you want to spend a long time. People here tend to be more suspicious and withdrawn than even the most out of the way villages elsewhere in Rundan. Don't expect hospitality, and if you're travelling through feel free to bypass the place. It won't miss you and you won't miss it.
-
-Out west the Queendom of Ikizh declared independence after the Grim War in the mountains (which ended a few decades ago). It's also hard to say the empire really "controls" the vast forests between Rundan and Dracolathe (the gnomes of Perolmani have been resisting Rundan's lumber operations quite violently recently, and the Fey of Kanliwood are very hard to predict). The Goliaths and Orcs out in the far northwest (pretty much off the above map) have gone generations without having to deal with the empire at all if they stay up there.
-
 ## Magic
 
 The biggest impact of the Empire has been a suppression of arcane magic. Dogma goes that magic in its proper state flows from the gods through the Emperor and their divine representatives. Bypassing that is heresy. So Clerics and Paladins are well-known and officially supported by their temples. Wizards, Warlocks and Sorcerors tend to be secretive/rare because they're officially persecuted (though in the long ago past they were more common, so adventurers finding ancient ruins is a common trope in stories). Bards druids and rangers are kind of a gray area, but there aren't a lot of them around doing magic so it usually doesn't come up outside of a theological academy.
