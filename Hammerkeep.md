@@ -26,9 +26,9 @@ The city has about 70 fulltime guards, some of whom are stationed in the castle 
 The [Circle of Healing Arts](CircleofHealingArts.md) is a low wooden building near the Docks. It's a place where the sick come for herbs, or for boils to be lanced or for strange illnesses to be assessed.
 ## Taverns
 
-* Old Goat - scummy place in the Docks - [VorkaThousandFists](VorkaThousandFists.md) proprietress Super strong HalfOrc
-* Gibbet - weirdly gentrified with lots of old folk who still have their teeth - [EkemonLust](EkemonLust.md) the middle-aged dashing Tiefling runs it
-* Lodestone - sunken damp Dwarf drinking hole, usually the first stop of Imperials - barkeep [HarolGarrick](HarolGarrick.md) youngish halfling - 
+* [Old Goat](OldGoatTavern.md) - scummy place in the Docks - [VorkaThousandFists](VorkaThousandFists.md) proprietress Super strong HalfOrc
+* [Gibbet](GibbetTavern.md) - weirdly gentrified with lots of old folk who still have their teeth - [EkemonLust](EkemonLust.md) the middle-aged dashing Tiefling runs it
+* [Lodestone](LodestoneTavern.md) - sunken damp Dwarf drinking hole, usually the first stop of Imperials - barkeep [HarolGarrick](HarolGarrick.md) youngish halfling - 
 * Minstrel and Cask - best for entertainment - [CecilyQuinton](CecilyQuinton.md) proprietress 84yo Human 
 * Mourning Forest - wardens rangers and others who brave the Woods - [ZeparMurder](ZeparMurder.md) youngish tiefling
 
