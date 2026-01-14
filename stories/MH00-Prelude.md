@@ -18,9 +18,9 @@ So the names on the map are Imperial names. Out in the east was where the most f
 
 The most "Imperial" part of Nuoro is the eastern kingdom of Rundan (capital: Bedwistre) but there are other small (unlabeled on the map) monarchies across the continent that generally do their own thing while bending the knee when the Imperial Pious Guardians come to town.
 
-The Hitchhiker's Guide to Nuoro on Hammerkeep says:
+The Hitchhiker's Guide to Nuoro equivalent has this to say about Hammerkeep:
 
-> Hammerkeep is a dour and gloomy city of about eight thousand souls. It's nowhere you want to spend a long time. People here tend to be more suspicious and withdrawn than even the most out of the way villages elsewhere in [Rundan](Rundan.md). Don't expect hospitality, and if you're travelling through [Nuoro](Nuoro.md) feel free to bypass the place. It won't miss you and you won't miss it.
+> Hammerkeep is a dour and gloomy city of about eight thousand souls. It's nowhere you want to spend a long time. People here tend to be more suspicious and withdrawn than even the most out of the way villages elsewhere in Rundan. Don't expect hospitality, and if you're travelling through feel free to bypass the place. It won't miss you and you won't miss it.
 
 Out west the Queendom of Ikizh declared independence after the Grim War in the mountains (which ended a few decades ago). It's also hard to say the empire really "controls" the vast forests between Rundan and Dracolathe (the gnomes of Perolmani have been resisting Rundan's lumber operations quite violently recently, and the Fey of Kanliwood are very hard to predict). The Goliaths and Orcs out in the far northwest (pretty much off the above map) have gone generations without having to deal with the empire at all if they stay up there.
 
