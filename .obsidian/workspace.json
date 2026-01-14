@@ -390,12 +390,22 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "RurikStoneblood.md",
+                    "file": "Rhig.md",
                     "mode": "source",
-                    "source": false
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
                   },
                   "icon": "lucide-file",
-                  "title": "RurikStoneblood"
+                  "title": "Rhig"
                 }
               }
             ],
@@ -553,6 +563,10 @@
   },
   "active": "7ea549f4649b655c",
   "lastOpenFiles": [
+    "secrets/npcs.md",
+    "UndergroundThree.md",
+    "secrets/world.md",
+    "RurikStoneblood.md",
     "Khudurra.md",
     "Bedwistre.md",
     "stories/MH00-Prelude.md",
@@ -569,7 +583,6 @@
     "LodestoneTavern.md",
     "OdineManysister.md",
     "DantagEmpire.md",
-    "RurikStoneblood.md",
     "JPRatquiat.md",
     "Hammersford.md",
     "species.md",
@@ -577,9 +590,6 @@
     "BidrithCrecur.md",
     "images/Hammerkeep.png",
     "CecilyQuinton.md",
-    "ZeparMurder.md",
-    "HarolGarrick.md",
-    "FrugMiggledy.md",
     "images/map-nuoro.png",
     "images/Nuoro24mi.png"
   ]

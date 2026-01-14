@@ -12,6 +12,7 @@ The Keep in [Hammerford](Hammerford.md) has a secret tunnel out to the stream.
 
 [CastleNaerytar](CastleNaerytar.md) has a functioning portal gate going out to a weird old manor house near [Parnast](Parnast.md)far off in the northwest.
 
+[Hammerkeep](Hammerkeep.md) totally has a coven of gnarled meat-slinging witches.
 
 
 
