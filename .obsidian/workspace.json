@@ -390,12 +390,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Anor.md",
+                    "file": "secrets/history.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Anor"
+                  "title": "history"
                 }
               }
             ],
@@ -553,10 +553,11 @@
   },
   "active": "0419607e3ae94a0d",
   "lastOpenFiles": [
-    "Anor.md",
-    "secrets/history.md",
-    "GibbetTavern.md",
     "Hammerkeep.md",
+    "stories/MH00-Prelude.md",
+    "secrets/history.md",
+    "Anor.md",
+    "GibbetTavern.md",
     "OldGoatTavern.md",
     "LodestoneTavern.md",
     "OdineManysister.md",
@@ -566,7 +567,6 @@
     "Hammersford.md",
     "species.md",
     "distances.md",
-    "stories/MH00-Prelude.md",
     "BidrithCrecur.md",
     "images/Hammerkeep.png",
     "CecilyQuinton.md",

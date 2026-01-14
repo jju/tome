@@ -18,7 +18,7 @@ The Nuoro doesn't usually freeze over entirely, and people have been known to dr
 
 The Keep the city draws its name from is home to [Bidrith Crecur](BidrithCrecur.md), the lady of Hammerkeep. It's on higher ground on the south edge of the city. The entire castle has walls made of dark stone and the wind howls through it. You can see it from practically everywhere in town.
 
-Along with [Lady Hammerkeep](BidrithCrecur.md) and her retinue, the [Imperial Warden](WardenofHammerkeep.md) is stationed at the castle in a cottage, making sure the king's trees and wildlife aren't taken by poachers, and keeping paths safe for Empire. Officially at least. The truth is that the warden's patrols follow very well-worn and predictable paths through the Woods, since leaving them makes for dead rangers.
+Along with [Lady Hammerkeep](BidrithCrecur.md) and her retinue, the [Imperial Warden](WardenofHammerkeep.md) is stationed at the castle in a cottage eating at the Lady's table, making sure the king's trees and wildlife aren't taken by poachers, and keeping paths safe for Empire. Officially at least. The truth is that the warden's patrols follow very well-worn and predictable paths through the Woods, since leaving them makes for dead rangers.
 
 The city has about 70 fulltime guards, some of whom are stationed in the castle when on duty. Their leader is [Thiala Ostoroth](ThialaOstoroth.md) an imperious [Aarakocra](Aarakocra.md).
 ## Circle of Healing

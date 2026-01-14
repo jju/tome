@@ -10,9 +10,19 @@ When you generated your character there would have been a moment where you picke
 
 ![map-nuoro](images/Nuoro24mi.png)
 
-Some things about the world: The land we're adventuring in is called Nuoro, named for the big river that flows down from the Grimtooth Mountains to the eastern coast. For a sense of scale on that map, crossing from Bedwistre to Khudurra would be a 2-3 week overland journey, or around a week sailing around the south. Nominally this whole land is under the control of the Dantag Empire (whose capital is on a nearby continent).
+Some things about the world: The land we're adventuring in is called Nuoro, named for the big river that flows down from the Grimtooth Mountains to the eastern coast. For a sense of scale on that map, crossing from Bedwistre to Khudurra would be a 2-3 week overland journey, or around a week sailing around the south. Nominally this whole land is under the control of the Dantag Empire (whose capital is on another continent) and has been for hundreds of years.
 
-The most "Imperial" part of Nuoro is the eastern kingdom of Rundan (capital: Bedwistre) but out west the Queendom of Ikizh declared independence after the Grim War in the mountains (which ended a few decades ago). It's also hard to say the empire really "controls" the vast forests between Rundan and Dracolathe (the gnomes of Perolmani have been resisting Rundan's lumber operations quite violently recently, and the Fey of Kanliwood are very hard to predict). The Goliaths and Orcs of the far northwest (pretty much off the above map) have gone generations without having to deal with empire at all.
+So the names on the map are Imperial names. Out in the east was where the most fighting happened when the empire came (again, hundreds of years ago) and the names tend to reflect that time. The city of Dracolathe in the Grimteeth had its name changed from Zhaalum about a hundred years ago, which started the Grim War[^4].
+
+[^4]: That war ended about 50 years ago, but repercussions still linger. If you want to know more, make sure your character is either a historian or pretty old.
+
+The most "Imperial" part of Nuoro is the eastern kingdom of Rundan (capital: Bedwistre) but there are other small (unlabeled on the map) monarchies across the continent that generally do their own thing while bending the knee when the Imperial Pious Guardians come to town.
+
+The Hitchhiker's Guide to Nuoro on Hammerkeep says:
+
+> Hammerkeep is a dour and gloomy city of about eight thousand souls. It's nowhere you want to spend a long time. People here tend to be more suspicious and withdrawn than even the most out of the way villages elsewhere in [Rundan](Rundan.md). Don't expect hospitality, and if you're travelling through [Nuoro](Nuoro.md) feel free to bypass the place. It won't miss you and you won't miss it.
+
+Out west the Queendom of Ikizh declared independence after the Grim War in the mountains (which ended a few decades ago). It's also hard to say the empire really "controls" the vast forests between Rundan and Dracolathe (the gnomes of Perolmani have been resisting Rundan's lumber operations quite violently recently, and the Fey of Kanliwood are very hard to predict). The Goliaths and Orcs out in the far northwest (pretty much off the above map) have gone generations without having to deal with the empire at all if they stay up there.
 
 ## Magic
 
@@ -26,7 +36,7 @@ Spellcasting of any sort is commonly known about, but weird on the day to day le
 
 ## People & Monsters
 
-Nuoro is a very diverse land as far as sentient species go, and humans are not at all a majority. Bird-people (Kenku), cat-people (Tabaxi), turtle-people (Tortles) are all as common as Dwarves, Goliaths, Tieflings, Gnomes and Halflings. Legends say the whole land used to be ruled by Giants, but they're not seen very often in the past few centuries. 
+Nuoro is a very diverse land as far as sentient species go, and humans are not at all a majority. Bird-people (Kenku and Aarakocra), cat-people (Tabaxi and Leonin), various lizardy reptile-people (Tortles, Lizardfolk and Yuan-Ti) are all as common as Dwarves, Goliaths, Tieflings, Gnomes and Halflings. Legends say the whole land used to be ruled by Giants, but they're not seen very often in the past few centuries. 
 
 Monsters are weird, but are known to exist. Dragons are very real, and very dangerous but can also be aligned with humanoid species[^3] (the gold dragon Cyzzarun is credited with turning the Grim War in favour of the Empire against the rebels). Undead are weird and scary. Reviving the dead is something talked about in legends, but the gods don't really go in for that kind of thing these days.
 
