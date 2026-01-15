@@ -390,7 +390,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Rhig.md",
+                    "file": "secrets/Skulk.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -405,7 +405,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Rhig"
+                  "title": "Skulk"
                 }
               }
             ],
@@ -563,6 +563,7 @@
   },
   "active": "7ea549f4649b655c",
   "lastOpenFiles": [
+    "Rhig.md",
     "secrets/npcs.md",
     "UndergroundThree.md",
     "secrets/world.md",
@@ -589,7 +590,6 @@
     "distances.md",
     "BidrithCrecur.md",
     "images/Hammerkeep.png",
-    "CecilyQuinton.md",
     "images/map-nuoro.png",
     "images/Nuoro24mi.png"
   ]
