@@ -414,12 +414,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "WenserWaterskin.md",
+                    "file": "rules/commoner.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "WenserWaterskin"
+                  "title": "commoner"
                 }
               },
               {
@@ -437,7 +437,7 @@
                 }
               }
             ],
-            "currentTab": 15
+            "currentTab": 16
           }
         ],
         "direction": "horizontal"
@@ -589,14 +589,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "ee432ce084c6493e",
+  "active": "1e94059322fd0c8a",
   "lastOpenFiles": [
-    "ThalaneTruthhaulerKalukithino.md",
+    "FrugMiggledy.md",
+    "Hammerkeep.md",
     "WenserWaterskin.md",
+    "rules/commoner.md",
+    "rules/guildartisan.md",
+    "rules/backgrounds.md",
+    "rules/artificer.md",
+    "ThalaneTruthhaulerKalukithino.md",
     "RilesGreyfox.md",
     "stories/MH00-Prelude.md",
     "Xokx.md",
-    "Hammerkeep.md",
     "ArcanePurge.md",
     "secrets/Skulk.md",
     "Rhig.md",
@@ -612,11 +617,6 @@
     "Zhaalum.md",
     "secrets/history.md",
     "Anor.md",
-    "GibbetTavern.md",
-    "OldGoatTavern.md",
-    "LodestoneTavern.md",
-    "OdineManysister.md",
-    "DantagEmpire.md",
     "images/Hammerkeep.png",
     "images/map-nuoro.png",
     "images/Nuoro24mi.png"
