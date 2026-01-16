@@ -8,7 +8,9 @@ It sounds nice doesn't it? Only a little patronizing.
 
 Halflings are far more common in [Nuoro](Nuoro.md) than back on [Anor](Anor.md). In fact, when the [Dantag Empire](DantagEmpire.md) first landed on Nuoro's shores most of what is now [Rundan](Rundan.md) was occupied predominantly by halflings (and humans). And there are still many many halflings all over Nuoro.
 
-You just won't find a lot of them holding any Imperial power.
+You just won't find a lot of them holding any Imperial power[^1].
+
+[^1]: This is a feature of the empire's casually essentialist speciesism around distinct lineages. Many of the species indigenous to Nuoro are seen as mongrels who don't trace the kind of distinction the empire values.
 ## Characters
 
 * [Green](Green.md) - merchant heading to [Dracolathe](Dracolathe.md) 
