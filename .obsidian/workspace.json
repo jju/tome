@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "7a2cc39b2ff7dd8f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
+          },
+          {
             "id": "5f1879a99431e142",
             "type": "leaf",
             "state": {
@@ -87,7 +99,8 @@
               "title": "Urdl"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ce196e2f9001aae7",
@@ -589,7 +602,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "1e94059322fd0c8a",
+  "active": "7a2cc39b2ff7dd8f",
   "lastOpenFiles": [
     "Hammerkeep.md",
     "WenserWaterskin.md",
