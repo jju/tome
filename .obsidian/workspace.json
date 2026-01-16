@@ -69,12 +69,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hammerkeep.md",
+                "file": "Halfling.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Hammerkeep"
+              "title": "Halfling"
             }
           },
           {
@@ -260,255 +261,20 @@
             "type": "tabs",
             "children": [
               {
-                "id": "9e0065d6ce223b91",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Abyss.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Abyss"
-                }
-              },
-              {
-                "id": "09269706127143b4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "gods.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "gods"
-                }
-              },
-              {
-                "id": "c08fd12cddcb4b19",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/acolyte.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "acolyte"
-                }
-              },
-              {
-                "id": "1cda387c3da62ea1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/pirate.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "pirate"
-                }
-              },
-              {
-                "id": "eee4ad4e62ee0731",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Battlemoor.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Battlemoor"
-                }
-              },
-              {
-                "id": "7688988edfbafff3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Xuedei.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Xuedei"
-                }
-              },
-              {
                 "id": "bb0c3c82008f0933",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MarvaBrokenchains.md",
+                    "file": "Hammerkeep.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "MarvaBrokenchains"
-                }
-              },
-              {
-                "id": "dfabbe556ba7f406",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ThreeBoarTrail.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "ThreeBoarTrail"
-                }
-              },
-              {
-                "id": "da75c5a0e90d11a8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "roads.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "roads"
-                }
-              },
-              {
-                "id": "f068c4d5580a393a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "characters.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "characters"
-                }
-              },
-              {
-                "id": "a3dc8826d1630b6f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Hammersford.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Hammersford"
-                }
-              },
-              {
-                "id": "4a311df83c6ff857",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "RurikStoneblood.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "RurikStoneblood"
-                }
-              },
-              {
-                "id": "5d02305a8394730c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "OdineManysister.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "OdineManysister"
-                }
-              },
-              {
-                "id": "aea7a9f3a783b549",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "OldGoatTavern.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "OldGoatTavern"
-                }
-              },
-              {
-                "id": "7ea549f4649b655c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ArcanePurge.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "ArcanePurge"
-                }
-              },
-              {
-                "id": "ee432ce084c6493e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/commoner.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "commoner"
-                }
-              },
-              {
-                "id": "c3e1295fcf6d7d02",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/raider.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "raider"
+                  "title": "Hammerkeep"
                 }
               }
-            ],
-            "currentTab": 16
+            ]
           }
         ],
         "direction": "horizontal"
@@ -662,6 +428,25 @@
   },
   "active": "50fd34d7a7f3363b",
   "lastOpenFiles": [
+    "Hammerkeep.md",
+    "LaviniaDaergel.md",
+    "Halfling.md",
+    "Oakhurst.md",
+    "MarvaBrokenchains.md",
+    "Abyss.md",
+    "gods.md",
+    "Xuedei.md",
+    "rules/acolyte.md",
+    "rules/pirate.md",
+    "Battlemoor.md",
+    "HarolGarrick.md",
+    "OdineManysister.md",
+    "OldGoatTavern.md",
+    "ArcanePurge.md",
+    "rules/commoner.md",
+    "rules/raider.md",
+    "Green.md",
+    "Xokx.md",
     "GibbetTavern.md",
     "GibbetCrossing.md",
     "Avandra.md",
@@ -669,25 +454,6 @@
     "Atagua.md",
     "Anor.md",
     "AkharinSangar.md",
-    "secrets/npcs.md",
-    "secrets/history.md",
-    "secrets/Skulk.md",
-    "secrets/Kruthik.md",
-    "secrets/Rundan.md",
-    "rules/yggdrasti.md",
-    "rules/raider.md",
-    "rules/woodwoad.md",
-    "rules/treant.md",
-    "rules/awakenedtree.md",
-    "WenserWaterskin.md",
-    "rules/shamblingmound.md",
-    "rules/spawnofkyuss.md",
-    "rules/allip.md",
-    "Hammerkeep.md",
-    "ThalaneTruthhaulerKalukithino.md",
-    "LagaziProudfist.md",
-    "Luxon.md",
-    "Oakhurst.md",
     "images/Hammerkeep.png",
     "images/map-nuoro.png",
     "images/Nuoro24mi.png"

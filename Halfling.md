@@ -6,6 +6,12 @@ Halfling communities come in all varieties. That said, many halflings possess a 
 
 * [Green](Green.md) - merchant heading to [Dracolathe](Dracolathe.md) 
 * [RioraRunninggoat](RioraRunninggoat.md) - entertainer in [Hammerkeep](Hammerkeep.md) 
+* [WenserWaterskin](WenserWaterskin.md) - blacksmith apprentice in [Hammerkeep](Hammerkeep.md)
+* [OdineManysister](OdineManysister.md) - tough in [Hammerkeep](Hammerkeep.md)
+* [HarolGarrick](HarolGarrick.md) - barkeep in [Hammerkeep](Hammerkeep.md)
+* [LaviniaDaergel](LaviniaDaergel.md) - tough barkeep in [Hammerkeep](Hammerkeep.md)
+* KerowynHucrele - runs General store in [Oakhurst](Oakhurst.md)
+* FelosialWaterskin - guard in [Oakhurst](Oakhurst.md)
 
 ![halfling](rules/halfling.md)
 
