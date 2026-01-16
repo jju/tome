@@ -24,7 +24,9 @@ The "Hitchhiker's Guide to Nuoro" equivalent has this to say about Hammerkeep:
 
 > Hammerkeep is a dour and gloomy city of about eight thousand souls. It's nowhere you want to spend a long time. People here tend to be more suspicious and withdrawn than even the most out of the way villages elsewhere in Rundan. Don't expect hospitality, and if you're travelling through feel free to bypass the place. It won't miss you and you won't miss it.
 
-Your characters probably wouldn't know a huge amount about the larger scale nature of things but the largest city Bedwistre is about 20,000 people. Mining in the Grimteeth (for gems minerals whatever) and getting that out through Bedwistre on ships to "Dantag proper" has been the main economic impetus for claiming this land (and the breadbaskets of Rundan and Ikizh help keep the local populace going). Independent Ikizh has more connections to overseas nations that aren't Dantag and even those tend more to the small city-state kinds of things.## Magic
+Your characters probably wouldn't know a huge amount about the larger scale nature of things but the largest city Bedwistre is about 20,000 people. Mining in the Grimteeth (for gems minerals whatever) and getting that out through Bedwistre on ships to "Dantag proper" has been the main economic impetus for claiming this land (and the breadbaskets of Rundan and Ikizh help keep the local populace going). Independent Ikizh has more connections to overseas nations that aren't Dantag and even those tend more to the small city-state kinds of things.
+
+## Magic
 
 The biggest impact of the Empire has been a suppression of arcane magic. Dogma goes that magic in its proper state flows from the gods through the Emperor and their divine representatives. Bypassing that is heresy. So Clerics and Paladins are well-known and officially supported by their temples. Wizards, Warlocks and Sorcerors tend to be secretive/rare because they're officially persecuted (though in the long ago past they were more common, so adventurers finding ancient ruins is a common trope in stories). Bards druids and rangers are kind of a gray area, but there aren't a lot of them around doing magic so it usually doesn't come up outside of a theological academy.
 
@@ -36,7 +38,7 @@ Spellcasting of any sort is commonly known about, but weird on the day to day le
 
 ## People & Monsters
 
-Nuoro is a very diverse land as far as sentient species go, and humans are not at all a majority. Bird-people (Kenku and Aarakocra), cat-people (Tabaxi and Leonin), various lizardy reptile-people (Tortles, Lizardfolk and Yuan-Ti) are all as common as Dwarves, Goliaths, Tieflings, Gnomes and Halflings. Legends say the whole land used to be ruled by Giants, but they're not seen very often in the past few centuries. 
+Nuoro is a very diverse land as far as sentient species go, and humans are a minority. Tieflings, Dragonborn, Bird-people (Kenku and Aarakocra), cat-people (Tabaxi and Leonin), various lizardy reptile-people (Tortles, Lizardfolk and Yuan-Ti) came to Nuoro as part of the Dantag Empire and have lived here for hundreds of years. Those "Imperial" species are all at least as common as Dwarves, Goliaths, Gnomes and Halflings. Legends say the whole land used to be ruled by Giants, but they're not seen very often in the past few centuries.
 
 Monsters are weird, but are known to exist. Dragons are very real, and very dangerous but can also be aligned with humanoid species[^3] (the gold dragon Cyzzarun is credited with turning the Grim War in favour of the Empire against the rebels). Undead are weird and scary. Reviving the dead is something talked about in legends, but the gods don't really go in for that kind of thing these days.
 

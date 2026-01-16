@@ -561,8 +561,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "7ea549f4649b655c",
+  "active": "0419607e3ae94a0d",
   "lastOpenFiles": [
+    "secrets/Skulk.md",
     "Rhig.md",
     "secrets/npcs.md",
     "UndergroundThree.md",
@@ -588,7 +589,6 @@
     "Hammersford.md",
     "species.md",
     "distances.md",
-    "BidrithCrecur.md",
     "images/Hammerkeep.png",
     "images/map-nuoro.png",
     "images/Nuoro24mi.png"
