@@ -7,3 +7,4 @@ Wenser is not very good at blacksmithing. You really need some upper body streng
 He has taken in [Riles Greyfox](RilesGreyfox.md) as a free lodger, at least in part because he misses his huge family over in [Oakhurst](Oakhurst.md). He's kind of aware he's being taken advantage of, but also truly believes in hospitality and being kind to wandering strangers, as that's what his family has always done. He's been taking advantage of getting some good deals for "supplies" Greyfox says the [Faceless Stranger](FacelessStranger.md) needs.
 
 > [npcs](npcs.md)
+> [blacksmith](blacksmith.md)
