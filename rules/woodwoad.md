@@ -1,3 +1,6 @@
+
+> see also [awakenedtree](awakenedtree.md) and [treant](treant.md)
+
 Medium Plant, Typically Lawful Neutral
 AC 18 (natural armor, shield)    Initiative +4
 HP 75 (10d8 + 30)
@@ -43,11 +46,11 @@ In the ritual, a living person's chest is pierced and the heart removed. A seed 
 
 This new body, armored in tough bark and bearing a gnarled club and shield, is at once ready to perform its duty. The one who performed the ritual sets the wood woad to its task, and the creature follows those orders unceasingly.
 
-A wood woad has a hole where its heart would be, just as does the body of its former self, buried in the earth. Those who become wood woads trade their free will and all sense of sentiment for supernatural strength and a deathless duty. They exist only to protect woodlands and the people who tend them. A wood woad's face is void and expressionless, except for the motes of light that swim about in its eye sock-ets. Wood woads speak little, and when not called on to take action, they root themselves in the earth and silently take sustenance from it.
+A wood woad has a hole where its heart would be, just as does the body of its former self, buried in the earth. Those who become wood woads trade their free will and all sense of sentiment for supernatural strength and a deathless duty. They exist only to protect woodlands and the people who tend them. A wood woad's face is void and expressionless, except for the motes of light that swim about in its eye sockets. Wood woads speak little, and when not called on to take action, they root themselves in the earth and silently take sustenance from it.
 
 Like trees, wood woads need only sunlight, air, and nutrients from the earth to go on living. Because they are undying, some wood woads outlive their original purpose. The site a wood woad guards might lose its power or significance over time, or those whom it was assigned to guard might die. If it is freed from its specific duties, a wood woad might roam to find another place of natural beauty or fey influence to watch over.
 
-Wood woads are drawn to creatures that have close ties to nature and that protect and respect the land, such as druids and treants (both appear in the Monster Manual). Some treants have wood woad servants by virtue of age-old pacts with druids or Fey that performed the rituals, while others acquire the services of freed wood woads that find renewed purpose in serving a kindred guardian.
+Wood woads are drawn to creatures that have close ties to nature and that protect and respect the land, such as [Druids](naturepriest.md#Druid) and [treants](treant.md). Some treants have wood woad servants by virtue of age-old pacts with druids or Fey that performed the rituals, while others acquire the services of freed wood woads that find renewed purpose in serving a kindred guardian.
 
 > source: _Mordenkainen Presents: Monsters of the Multiverse_ (2021)
 > [creatures](creatures.md)
