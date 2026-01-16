@@ -1,6 +1,8 @@
 Frug Miggledy, Majordomo
 
-Male Gnome, age 368 Aristocrat 3 owns the classy Clafton Inn in [Hammerkeep](Hammerkeep.md)
+Female Gnome, age 368 Aristocrat 3 owns the classy Clafton Inn in [Hammerkeep](Hammerkeep.md)
+
+She was taken in by [RilesGreyfox](RilesGreyfox.md) and his [FacelessStranger](FacelessStranger.md) routine, but is super embarrassed about it.
 
 |STR|DEX|CON|INT|WIS|CHA|
 |---|---|---|---|---|---|

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hammerkeep.md",
+                "file": "FrugMiggledy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hammerkeep"
+              "title": "FrugMiggledy"
             }
           },
           {
@@ -428,12 +428,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ThalaneTruthhaulerKalukithino.md",
+                    "file": "WenserWaterskin.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "ThalaneTruthhaulerKalukithino"
+                  "title": "WenserWaterskin"
                 }
               }
             ],
@@ -589,17 +589,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "c3e1295fcf6d7d02",
+  "active": "1e94059322fd0c8a",
   "lastOpenFiles": [
-    "WenserWaterskin.md",
-    "Oakhurst.md",
     "Hammerkeep.md",
+    "WenserWaterskin.md",
+    "ThalaneTruthhaulerKalukithino.md",
+    "LagaziProudfist.md",
+    "Luxon.md",
+    "Oakhurst.md",
     "FrugMiggledy.md",
     "rules/commoner.md",
     "rules/guildartisan.md",
     "rules/backgrounds.md",
     "rules/artificer.md",
-    "ThalaneTruthhaulerKalukithino.md",
     "RilesGreyfox.md",
     "stories/MH00-Prelude.md",
     "Xokx.md",
@@ -615,8 +617,6 @@
     "Ikizh.md",
     "Sivekkah.md",
     "Dracolathe.md",
-    "Zhaalum.md",
-    "secrets/history.md",
     "images/Hammerkeep.png",
     "images/map-nuoro.png",
     "images/Nuoro24mi.png"
