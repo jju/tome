@@ -589,11 +589,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "1e94059322fd0c8a",
+  "active": "c3e1295fcf6d7d02",
   "lastOpenFiles": [
-    "FrugMiggledy.md",
-    "Hammerkeep.md",
+    "Oakhurst.md",
     "WenserWaterskin.md",
+    "Hammerkeep.md",
+    "FrugMiggledy.md",
     "rules/commoner.md",
     "rules/guildartisan.md",
     "rules/backgrounds.md",
@@ -616,7 +617,6 @@
     "Dracolathe.md",
     "Zhaalum.md",
     "secrets/history.md",
-    "Anor.md",
     "images/Hammerkeep.png",
     "images/map-nuoro.png",
     "images/Nuoro24mi.png"
