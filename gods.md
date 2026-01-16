@@ -34,6 +34,14 @@ Long before the current age, giants walked the world. We find their remnants in 
 | Stronmaus  | NG        | Life, Tempest         | Forked lightning bolt descending from a cloud partly obscuring the sun |
 | Surtur     | LE        | Forge, Knowledge, War | Flaming sword                                                          |
 | Thrym      | CE        | War                   | White double-bladed axe                                                |
+
+### Halfling Gods
+
+| God         | Alignment | Suggested Domains | Symbol                 |
+| ----------- | --------- | ----------------- | ---------------------- |
+| Yondalla    | LG        | Life, Twilight    | Cornucopia on a shield |
+| Brandobaris | N         | Trickery          | Halfling footprint     |
+
 ### Lesser Idols
 
 Beyond the trickle of divine assistance allowed by the Divine Gate, mortal creatures are now the keepers of the future of the world. This vacuum of influence has given rise to a number of powerful entities who may not rival the gods in their abilities or influence, but now unchallenged, can amass a modest following of their own. These idols present themselves in many different ways, some as honorable guardians of the helpless, and others as the tyrannical gods they aspire to be. Many of these beings have ambitions they wish to fulfill and can offer great power to mortals in exchange for their servitude.
