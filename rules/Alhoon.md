@@ -57,7 +57,7 @@ Confronting this reality, a group of nine mind flayer arcanists used their arcan
 
 ## Collaborative Undeath
 
-To become alhoons, mind flayer arcanists must cooperate in the creation of a periapt of mind trapping. a fist-sized container made of silver, emerald, and amethyst. The process requires at least three mind flayer arcanists and the sacrifice of an equal number of souls from living victims in a three-day-long ritual of spellcasting and psionic communion. Upon its completion, free-willed undeath is conferred on the mind flayers, turning them into alhoons.
+To become alhoons, mind flayer arcanists must cooperate in the creation of a periapt of mind trapping - a fist-sized container made of silver, emerald, and amethyst. The process requires at least three mind flayer arcanists and the sacrifice of an equal number of souls from living victims in a three-day-long ritual of spellcasting and psionic communion. Upon its completion, free-willed undeath is conferred on the mind flayers, turning them into alhoons.
 
 Initially, an alhoon can be difficult to distinguish from a normal mind flayer. The most obvious difference is the lack of a mind flayer's ever-present mucus coating. Without that protection, an alhoon's skin becomes dry and cracked, and its eyes might appear shriveled and sunken. Both of these clues are easily missed by someone who hasn't seen a mind flayer. However, in short order, an alhoon's flesh withers away and its empty eye sockets gleam with cold pinpricks of light like those of other liches.
 
