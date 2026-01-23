@@ -294,12 +294,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "secrets/Alhoon.md",
+                    "file": "secrets/world.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Alhoon"
+                  "title": "world"
                 }
               }
             ],
@@ -457,6 +457,7 @@
   },
   "active": "69d0c68cf4687cd1",
   "lastOpenFiles": [
+    "secrets/Alhoon.md",
     "rules/alhoon.md",
     "secrets/Skulk.md",
     "FelosialWaterskin.md",
@@ -482,7 +483,6 @@
     "rules/commoner.md",
     "rules/raider.md",
     "Green.md",
-    "Xokx.md",
     "images/Hammerkeep.png",
     "images/map-nuoro.png",
     "images/Nuoro24mi.png"
