@@ -12,6 +12,9 @@ The Keep in [Hammerford](Hammerford.md) has a secret tunnel out to the stream.
 
 [CastleNaerytar](CastleNaerytar.md) has a functioning portal gate going out to a weird old manor house near [Parnast](Parnast.md)far off in the northwest.
 
+[Hammerkeep](Hammerkeep.md) totally has a coven of gnarled meat-slinging witches.
+
+Theme of maintenance. Even the DantagEmpire has been set up to maintain lives. The problem in Nuoro came when instead of maintaining things they disrupted the lives of the people of Zhaaluum. This was a change about a hundred years ago, a move fast and break things kind of mode taking over. It was still slow, and maintaining the way things had been isn't an unalloyed good (the empire had slowly taken over from the indigenous peoples who lived in Nuoro but that was over a thousand years ago). And now the King in Rundan doesn't have any communication with Anor. Something is sinking ships in the seas between and magical communications are going dead. Maintaining a world is becoming more difficult and the barriers are eroding. Maybe this was due to something that happened beneath Dracolathe - the Duergar and Dwarves had been stewards of this thing that needed protection but the dragonborn didn't know and have delved too deep.
 
 
 

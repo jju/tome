@@ -2,7 +2,7 @@
 
 We're going to be starting our tale after the bunch of you have been forced to winter in the small city of Hammerkeep. You ([Barfgeld](Barfgeld.md), [Rurik](RurikStoneblood.md), [Riles](RilesGreyfox.md) and [QueensOwnCockFinder - Name TBD](QueensOwnCockFinder.md)) didn't necessarily know each other before the winter, but three months of being stuck in town, frequenting the same divey taverns, having the same arguments (that have occasionally escalated) with the locals have brought you together enough that people refer to you collectively, and you've begun to see yourselves as friends/a party.
 
-When you generated your character there would have been a moment where you picked equipment and had any money left over. That money was what you had when you landed in Hammerkeep three months ago. There haven't been a lot of jobs for weirdo out-of-towners over the winter so expect any funds you have to go down by 20-200 GP depending on how fancily you've been living and how much credit you've been extended[^1].
+When you generated your character there would have been a moment where you picked equipment and had any money left over. That money was what you had when you landed in Hammerkeep three months ago. There haven't been a lot of jobs for weirdo out-of-towners over the (brutally cold) winter so expect any funds you have to go down by 20-200 GP depending on how fancily you've been living and how much credit you've been extended[^1].
 
 [^1]: If you have a non-adventurey way you've been keeping yourself financially afloat while stuck in town, share it and we'll see how much you can keep.
 
@@ -10,9 +10,21 @@ When you generated your character there would have been a moment where you picke
 
 ![map-nuoro](images/Nuoro24mi.png)
 
-Some things about the world: The land we're adventuring in is called Nuoro, named for the big river that flows down from the Grimtooth Mountains to the eastern coast. For a sense of scale on that map, crossing from Bedwistre to Khudurra would be a 2-3 week overland journey, or around a week sailing around the south. Nominally this whole land is under the control of the Dantag Empire (whose capital is on a nearby continent).
+Some things about the world: The land we're adventuring in is called Nuoro, named for the big river that flows down from the Grimtooth Mountains to the eastern coast. For a sense of scale on that map, crossing from Bedwistre to Khudurra would be a 2-3 week overland journey, or around a week sailing around the south. Nominally this whole land is under the control of the Dantag Empire (whose capital is on another continent) and has been for hundreds of years.
 
-The most "Imperial" part of Nuoro is the eastern kingdom of Rundan (capital: Bedwistre) but out west the Queendom of Ikizh declared independence after the Grim War in the mountains (which ended a few decades ago). It's also hard to say the empire really "controls" the vast forests between Rundan and Dracolathe (the gnomes of Perolmani have been resisting Rundan's lumber operations quite violently recently), and the Goliaths and Orcs of the far northwest (pretty much off the above map) have gone generations without having to deal with empire at all.
+So the names on the map are Imperial names. Out in the east was where the most fighting happened when the empire came (again, hundreds of years ago) and the names tend to reflect that time, projecting strength or animosity towards a land the empire was trying to conquer (and build atop the ruins of). Loads of places have more localized names. The biggest name fiasco everyone would know about even if you aren't astute in politics is that the city of Dracolathe in the Grimteeth had its name changed from Zhaalum about a hundred years ago, which started the Grim War[^4].
+
+[^4]: That war ended about 50 years ago, but repercussions still linger. If you want to know more, make sure your character is either a historian or pretty old.
+
+The most "Imperial" part of Nuoro is the eastern kingdom of Rundan (capital: Bedwistre) but there are other small (unlabeled on the map) monarchies across the continent that generally do their own thing while bending the knee when the Imperial Pious Guardians come to town. 
+
+Out west the Queendom of Ikizh declared independence from Dantag after the Grim War in the mountains (which ended a few decades ago). It's also hard to say the Empire really "controls" the vast forests between Rundan and Dracolathe (the gnomes of Perolmani have been resisting Rundan's lumber operations quite violently recently, and the Fey of Kanliwood are very hard to predict). The Goliaths and Orcs out in the far northwest (pretty much off the above map) have gone generations without having to deal with the empire at all (as long as they stay up there).
+
+The "Hitchhiker's Guide to Nuoro" equivalent has this to say about Hammerkeep:
+
+> Hammerkeep is a dour and gloomy city of about eight thousand souls. It's nowhere you want to spend a long time. People here tend to be more suspicious and withdrawn than even the most out of the way villages elsewhere in Rundan. Don't expect hospitality, and if you're travelling through feel free to bypass the place. It won't miss you and you won't miss it.
+
+Your characters probably wouldn't know a huge amount about the larger scale nature of things but the largest city Bedwistre is about 20,000 people. Mining in the Grimteeth (for gems minerals whatever) and getting that out through Bedwistre on ships to "Dantag proper" has been the main economic impetus for claiming this land (and the breadbaskets of Rundan and Ikizh help keep the local populace going). Independent Ikizh has more connections to overseas nations that aren't Dantag and even those tend more to the small city-state kinds of things.
 
 ## Magic
 
@@ -26,7 +38,7 @@ Spellcasting of any sort is commonly known about, but weird on the day to day le
 
 ## People & Monsters
 
-Nuoro is a very diverse land as far as sentient species go, and humans are not at all a majority. Bird-people (Kenku), cat-people (Tabaxi), turtle-people (Tortles) are all as common as Dwarves, Goliaths, Tieflings, Gnomes and Halflings. Legends say the whole land used to be ruled by Giants, but they're not seen very often in the past few centuries. 
+Nuoro is a very diverse land as far as sentient species go, and humans are a minority. Tieflings, Dragonborn, Bird-people (Kenku and Aarakocra), cat-people (Tabaxi and Leonin), various lizardy reptile-people (Tortles, Lizardfolk and Yuan-Ti) came to Nuoro as part of the Dantag Empire and have lived here for hundreds of years. Those "Imperial" species are all at least as common as Dwarves, Goliaths, Gnomes and Halflings. Legends say the whole land used to be ruled by Giants, but they're not seen very often in the past few centuries.
 
 Monsters are weird, but are known to exist. Dragons are very real, and very dangerous but can also be aligned with humanoid species[^3] (the gold dragon Cyzzarun is credited with turning the Grim War in favour of the Empire against the rebels). Undead are weird and scary. Reviving the dead is something talked about in legends, but the gods don't really go in for that kind of thing these days.
 

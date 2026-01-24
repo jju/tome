@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "distances.md",
+                "file": "stories/StoopSmith.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "distances"
+              "title": "StoopSmith"
             }
           },
           {
@@ -188,26 +188,26 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Anor.md",
+                    "file": "Goliath.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Anor"
+                  "title": "Goliath"
                 }
               },
               {
-                "id": "0419607e3ae94a0d",
+                "id": "7a21d9144df004b9",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ArmsBetrayers.md",
+                    "file": "conflict-files-obsidian-git.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "ArmsBetrayers"
+                  "title": "conflict-files-obsidian-git"
                 }
               }
             ],
@@ -524,8 +524,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "0419607e3ae94a0d",
+  "active": "7a21d9144df004b9",
   "lastOpenFiles": [
+    "Goliath.md",
+    "conflict-files-obsidian-git.md",
+    "Anor.md",
+    "stories/StoopSmith.md",
+    "distances.md",
+    "ArmsBetrayers.md",
+    "rules/yggdrasti.md",
+    "rules/treant.md",
+    "rules/shamblingmound.md",
+    "rules/awakenedtree.md",
+    "Xokx.md",
+    "WenserWaterskin.md",
+    "ThalaneTruthhaulerKalukithino.md",
+    "OldGoatTavern.md",
+    "OdineManysister.md",
+    "LodestoneTavern.md",
+    "JPRatquiat.md",
+    "GibbetTavern.md",
+    "FelosialWaterskin.md",
     "Dracolathe.md",
     "stories/MH00-Prelude.md",
     "images/Nuoro24mi.png",
@@ -534,25 +553,6 @@
     "VorkaThousandFists.md",
     "ThialaOstoroth.md",
     "QueensOwnCockFinder.md",
-    "Ofuzz.md",
-    "LaviniaDaergel.md",
-    "LagaziProudfist.md",
-    "HarolGarrick.md",
-    "FrugMiggledy.md",
-    "EkemonLust.md",
-    "CecilyQuinton.md",
-    "Bloodaxes.md",
-    "Barfgeld.md",
-    "Khudurra.md",
-    "Sivekkah.md",
-    "distances.md",
-    "Hammerkeep.md",
-    "rules/archer.md",
-    "ZorzulasRest.md",
-    "WyvernTor.md",
-    "WaveEchoCave.md",
-    "Thundertree.md",
-    "TheQuality.md",
-    "Talhundereth.md"
+    "Ofuzz.md"
   ]
 }

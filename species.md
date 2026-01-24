@@ -8,4 +8,7 @@
 * [Gnome](Gnome.md) 
 * [Tortle](Tortle.md)
 * [Halfling](Halfling.md)
-* 
+* [Aarakocra](Aarakocra.md)
+* [Orc](Orc.md)
+* [Tabaxi](Tabaxi.md)
+* [Ratfolk](Ratfolk.md)

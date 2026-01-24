@@ -18,7 +18,7 @@ The Nuoro doesn't usually freeze over entirely, and people have been known to dr
 
 The Keep the city draws its name from is home to [Bidrith Crecur](BidrithCrecur.md), the lady of Hammerkeep. It's on higher ground on the south edge of the city. The entire castle has walls made of dark stone and the wind howls through it. You can see it from practically everywhere in town.
 
-Along with [Lady Hammerkeep](BidrithCrecur.md) and her retinue, the [Imperial Warden](WardenofHammerkeep.md) is stationed at the castle in a cottage, making sure the king's trees and wildlife aren't taken by poachers, and keeping paths safe for Empire. Officially at least. The truth is that the warden's patrols follow very well-worn and predictable paths through the Woods, since leaving them makes for dead rangers.
+Along with [Lady Hammerkeep](BidrithCrecur.md) and her retinue, the [Imperial Warden](WardenofHammerkeep.md) is stationed at the castle in a cottage eating at the Lady's table, making sure the king's trees and wildlife aren't taken by poachers, and keeping paths safe for Empire. Officially at least. The truth is that the warden's patrols follow very well-worn and predictable paths through the Woods, since leaving them makes for dead rangers.
 
 The city has about 70 fulltime guards, some of whom are stationed in the castle when on duty. Their leader is [Thiala Ostoroth](ThialaOstoroth.md) an imperious [Aarakocra](Aarakocra.md).
 ## Circle of Healing
@@ -26,9 +26,9 @@ The city has about 70 fulltime guards, some of whom are stationed in the castle 
 The [Circle of Healing Arts](CircleofHealingArts.md) is a low wooden building near the Docks. It's a place where the sick come for herbs, or for boils to be lanced or for strange illnesses to be assessed.
 ## Taverns
 
-* Old Goat - scummy place in the Docks - [VorkaThousandFists](VorkaThousandFists.md) proprietress Super strong HalfOrc
-* Gibbet - weirdly gentrified with lots of old folk who still have their teeth - [EkemonLust](EkemonLust.md) the middle-aged dashing Tiefling runs it
-* Lodestone - sunken damp Dwarf drinking hole, usually the first stop of Imperials - barkeep [HarolGarrick](HarolGarrick.md) youngish halfling - 
+* [Old Goat](OldGoatTavern.md) - scummy place in the Docks - [VorkaThousandFists](VorkaThousandFists.md) proprietress Super strong HalfOrc
+* [Gibbet](GibbetTavern.md) - weirdly gentrified with lots of old folk who still have their teeth - [EkemonLust](EkemonLust.md) the middle-aged dashing Tiefling runs it
+* [Lodestone](LodestoneTavern.md) - sunken damp Dwarf drinking hole, usually the first stop of Imperials - barkeep [HarolGarrick](HarolGarrick.md) youngish halfling - 
 * Minstrel and Cask - best for entertainment - [CecilyQuinton](CecilyQuinton.md) proprietress 84yo Human 
 * Mourning Forest - wardens rangers and others who brave the Woods - [ZeparMurder](ZeparMurder.md) youngish tiefling
 
@@ -46,7 +46,7 @@ Not every god of the Empire has a full-on temple in Hammerkeep (this isn't [Bedw
 * Temple of [Pelor](Pelor.md) - Wooden roundhouse that's especially busy in harvest season. [Snerpi](Snerpi.md), the small round [Kobold](Kobold.md) who keeps things running, loves telling jokes and is legitimately kind (no spellcasting ability though).
 * Temple of [Erathis](Erathis.md) - Gray, stone and square, this temple is built up on the hill, closer to the Keep than any of the others. [Dalrig Gravelmantle](DalrigGravelmantle.md), the [Dwarf](Dwarf.md) in charge, has a [military background](guard.md#Guard%20Captain) and openly disdains the [Warden of Hammerkeep](WardenofHammerkeep.md). When Paladins come to town there is a lot of politicking between the Erathis and Bahamut temples.
 * Temple of [Gruumsh](Gruumsh.md) - Carved from huge timbers down by the docks, this is often where travellers stop for blessings on their way upstream. Usually that's because they've heard it's a good idea from the travellers coming downstream through the Woods. The main priest is a dour [Orc](Orc.md) named [Simple Rhela](SimpleRhela.md).
-* Temple of [Luxon](Luxon.md) - The Empty Dodecahedron has a storefront entrance to their shrine in an alley between a pair of bickering blacksmiths (Thalane Truthhauler Kalukithino - Goliath & Xokx - Goblin). It's rare to see a priest there. Mostly it seems to be used as a modest reading room.
+* Temple of [Luxon](Luxon.md) - The Empty Dodecahedron has a storefront entrance to their shrine in an alley between a pair of bickering blacksmiths ([ThalaneTruthhaulerKalukithino](ThalaneTruthhaulerKalukithino.md) - Goliath & [Xokx](Xokx.md)  - Harengon). It's rare to see a priest there. Mostly it seems to be used as a modest reading room.
 
 
 > [[places]]
