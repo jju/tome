@@ -469,8 +469,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "69d0c68cf4687cd1",
+  "active": "ee79e388833fd58f",
   "lastOpenFiles": [
+    "stories/StoopSmith.md",
     "names.md",
     "Pasted image 20260128095202.png",
     "Pasted image 20260128095145.png",
@@ -484,7 +485,6 @@
     "rules/alhoon.md",
     "secrets/Alhoon.md",
     "secrets/Skulk.md",
-    "stories/StoopSmith.md",
     "secrets/world.md",
     "FelosialWaterskin.md",
     "stories/index.md",
