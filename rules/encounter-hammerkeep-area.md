@@ -1,4 +1,4 @@
-
+> see also [hazardsystem](hazardsystem.md)
 ## Encounter Table
 
 Roll 2d6
