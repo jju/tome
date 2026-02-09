@@ -185,9 +185,21 @@
               "icon": "lucide-file",
               "title": "names"
             }
+          },
+          {
+            "id": "fdd73aa5db3bb4a1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       },
       {
         "id": "ce196e2f9001aae7",
@@ -469,7 +481,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "ee79e388833fd58f",
+  "active": "fdd73aa5db3bb4a1",
   "lastOpenFiles": [
     "stories/StoopSmith.md",
     "names.md",
