@@ -178,28 +178,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "names.md",
+                "file": "rules/hammerkeep-area-encounter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "names"
-            }
-          },
-          {
-            "id": "fdd73aa5db3bb4a1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "title": "hammerkeep-area-encounter"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 11
       },
       {
         "id": "ce196e2f9001aae7",
@@ -285,12 +273,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "RilesGreyfox.md",
+                    "file": "rules/hazardsystem.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "RilesGreyfox"
+                  "title": "hazardsystem"
                 }
               }
             ],
@@ -481,10 +469,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "fdd73aa5db3bb4a1",
+  "active": "ee79e388833fd58f",
   "lastOpenFiles": [
-    "stories/StoopSmith.md",
+    "encounter.md",
+    "rules/hammerkeep-area-encounter.md",
+    "rules/hazardsystem.md",
+    "RilesGreyfox.md",
     "names.md",
+    "stories/StoopSmith.md",
     "Pasted image 20260128095202.png",
     "Pasted image 20260128095145.png",
     "Pasted image 20260128095122.png",
@@ -512,9 +504,6 @@
     "Xuedei.md",
     "rules/acolyte.md",
     "rules/pirate.md",
-    "Battlemoor.md",
-    "HarolGarrick.md",
-    "OdineManysister.md",
     "images/Hammerkeep.png",
     "images/map-nuoro.png",
     "images/Nuoro24mi.png"
