@@ -178,12 +178,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/encounter-hammerkeep-area.md",
+                "file": "rules/encounter-hammerkeep-town.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "encounter-hammerkeep-area"
+              "title": "encounter-hammerkeep-town"
             }
           }
         ],
@@ -471,9 +471,9 @@
   },
   "active": "ee79e388833fd58f",
   "lastOpenFiles": [
-    "rules/encounter.md",
     "rules/encounter-hammerkeep-area.md",
     "rules/encounter-hammerkeep-town.md",
+    "rules/encounter.md",
     "rules/hazardsystem.md",
     "RilesGreyfox.md",
     "names.md",
