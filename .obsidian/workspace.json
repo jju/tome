@@ -178,12 +178,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/encounter-hammerkeep-town.md",
+                "file": "startrek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "encounter-hammerkeep-town"
+              "title": "startrek"
             }
           }
         ],
@@ -471,20 +471,21 @@
   },
   "active": "ee79e388833fd58f",
   "lastOpenFiles": [
-    "rules/encounter-hammerkeep-area.md",
+    "images/Pasted image 20260128095202.png",
+    "images/Pasted image 20260128095145.png",
+    "images/Pasted image 20260128095122.png",
+    "images/Pasted image 20260128095059.png",
+    "images/Pasted image 20260128095037.png",
+    "images/Pasted image 20260128095016.png",
+    "images/Pasted image 20260128094356.png",
+    "index.md",
     "rules/encounter-hammerkeep-town.md",
+    "rules/encounter-hammerkeep-area.md",
     "rules/encounter.md",
     "rules/hazardsystem.md",
     "RilesGreyfox.md",
     "names.md",
     "stories/StoopSmith.md",
-    "Pasted image 20260128095202.png",
-    "Pasted image 20260128095145.png",
-    "Pasted image 20260128095122.png",
-    "Pasted image 20260128095059.png",
-    "Pasted image 20260128095037.png",
-    "Pasted image 20260128095016.png",
-    "Pasted image 20260128094356.png",
     "Urdl.md",
     "conflict-files-obsidian-git.md",
     "rules/alhoon.md",
@@ -502,8 +503,6 @@
     "LaviniaDaergel.md",
     "MarvaBrokenchains.md",
     "Abyss.md",
-    "Xuedei.md",
-    "rules/acolyte.md",
     "images/Hammerkeep.png",
     "images/map-nuoro.png",
     "images/Nuoro24mi.png"
