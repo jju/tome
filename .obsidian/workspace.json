@@ -273,12 +273,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/hazardsystem.md",
+                    "file": "Karanliwood.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "hazardsystem"
+                  "title": "Karanliwood"
                 }
               }
             ],
@@ -308,12 +308,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "stories/StoopSmith.md",
+                    "file": "secrets/world.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "StoopSmith"
+                  "title": "world"
                 }
               }
             ],
@@ -469,8 +469,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "ee79e388833fd58f",
+  "active": "69d0c68cf4687cd1",
   "lastOpenFiles": [
+    "stories/StoopSmith.md",
+    "Karanliwood.md",
+    "Kanliwood.md",
+    "secrets/world.md",
+    "rules/hazardsystem.md",
+    "world.md",
     "names.md",
     "images/names-ho2-t.png",
     "images/names-h-ho1.png",
@@ -484,15 +490,12 @@
     "rules/encounter-hammerkeep-town.md",
     "rules/encounter-hammerkeep-area.md",
     "rules/encounter.md",
-    "rules/hazardsystem.md",
     "RilesGreyfox.md",
-    "stories/StoopSmith.md",
     "Urdl.md",
     "conflict-files-obsidian-git.md",
     "rules/alhoon.md",
     "secrets/Alhoon.md",
     "secrets/Skulk.md",
-    "secrets/world.md",
     "FelosialWaterskin.md",
     "stories/index.md",
     "Oakhurst.md",
@@ -501,8 +504,6 @@
     "Hammerkeep.md",
     "Illithid.md",
     "Kenku.md",
-    "LaviniaDaergel.md",
-    "MarvaBrokenchains.md",
     "images/Hammerkeep.png",
     "images/map-nuoro.png",
     "images/Nuoro24mi.png"
