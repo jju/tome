@@ -1,21 +1,21 @@
-
+> see also [hazardsystem](hazardsystem.md)
 ## Encounter Table
 
 Roll 2d6
 
-| Roll | Result           |
-| ---- | ---------------- |
-| 2    | Dragon           |
-| 3    | Territory Weird  |
-| 4    | Territory        |
-| 5    | Territory        |
-| 6    | Territory Normal |
-| 7    | Recurring NPC    |
-| 8    | Threat Normal    |
-| 9    | Threat           |
-| 10   | Threat           |
-| 11   | Threat Weird     |
-| 12   | Wizard           |
+| Roll | Result                                                     |
+| ---- | ---------------------------------------------------------- |
+| 2    | Dragon (Trapped)                                           |
+| 3    | 1 Cyclops (Artistic pursuit)                               |
+| 4    | 1d6+3 Goblins (non-guild) Riding Wolves (holding captives) |
+| 5    | Goblin Transport Guild (Returning Home)                    |
+| 6    | Golden Dragon Guard (Fleeing)                              |
+| 7    | Recurring NPC                                              |
+| 8    | 1d3 Giant Vultures (Mating Behaviour)                      |
+| 9    | 2d4+2 Axe Beaks (Starving)                                 |
+| 10   | 1d8 Worgs (Sick)                                           |
+| 11   | 1 Wereboar (Sleeping)                                      |
+| 12   | Wizard (Sick)                                              |
 When encountering either Wizards or Dragons the party should be in great personal danger, but clever play could also bring them great advantage. If a wizard or dragon is slain, there are consequences. Allegiances shift, power vacuums appear and are filled, and valuable treasure hoards are left without their most powerful guardians.
 
 ## Wrinkle 1

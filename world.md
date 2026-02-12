@@ -13,7 +13,7 @@ What I'm trying to get at here is that "history" isn't a good way of getting to 
 
 [^1]: In the Imperial Calendar the year is [IC4996](IC4996.md).
 ## A Sketch of Civilization
-What we can say is that [Nuoro](Nuoro.md) is a fragmented land. The fertile kingdom of [Rundan](Rundan.md) in the east is part of the continental [Dantag Empire](DantagEmpire.md). [Ikizh](Ikizh.md) is the slightly less religious queendom in the southwest, with the nominally Imperial [Dracolathe](Dracolathe.md) in the [Grimteeth](Grimteeth.md) and the vast uncivilized forests in between. Nobody who lives outside the northwest (mostly [Orc](Orc.md) and [Goliath](Goliath.md) groups) cares about anywhere past [Tayama](Tayama.md). 
+What we can say is that [Nuoro](Nuoro.md) is a fragmented land. The fertile kingdoms of [Rundan](Rundan.md) in the east are part of the continental [Dantag Empire](DantagEmpire.md). [Ikizh](Ikizh.md) is the slightly less religious queendom in the southwest, with the nominally Imperial [Dracolathe](Dracolathe.md) in the [Grimteeth](Grimteeth.md) and the vast uncivilized forests in between. Nobody who lives outside the northwest (mostly [Orc](Orc.md) and [Goliath](Goliath.md) groups) cares about anywhere past [Tayama](Tayama.md). 
 
 * [Bedwistre](Bedwistre.md)
 * [Blackstone](Blackstone.md)
@@ -46,10 +46,12 @@ What we can say is that [Nuoro](Nuoro.md) is a fragmented land. The fertile king
 
 Many people still don't believe [Nuoro](Nuoro.md) is an island. I don't know what to tell them, but I usually don't have to tell them anything because they stay at home never going five miles from their front door. Regardless, Nuoro is actually an island and the world is bigger than here.
 
-Most of the [Dantag Empire](DantagEmpire.md) is about a hundred miles across the sea to the east on the [Anor](Anor.md) landmass[^2]. You can sail across in a day or two, but not a lot of people do.
+Most of the [Dantag Empire](DantagEmpire.md) is about a hundred miles across the sea to the east on the [Anor](Anor.md) landmass[^2]. You can sail across in a day or two, but not a lot of people do[^3].
 
 Sailing southwest of Nuoro is where you find a lot more stuff. According to Three Finger Farza, the Continent of [Noricum](Noricum.md) is about 900 miles that way and it's got lots of people and small countries like [Halruaa](Halruaa.md), [Mulhorand](Mulhorand.md) and [Zakhara](Zakhara.md). Before you get there you might end up at one of the small island nations, including [Chult](Chult.md).
 
 An even farther voyage across [Anor](Anor.md) and then sailing east might bring you to [Uradun](Uradun.md), and going north into the ice, could bring you to [Yldstead](Yldstead.md) if you don't die on the way.
 
 [^2]: Technically Anor might be an island too, but it's big enough I don't know any one person in history who's sailed around the whole thing.
+
+[^3]: Most likely due to the terrifying sea monsters, whirlpools, storms and whatnot.
