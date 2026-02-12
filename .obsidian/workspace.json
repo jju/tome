@@ -102,6 +102,18 @@
             }
           },
           {
+            "id": "46eccc6e25d86f12",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
+          },
+          {
             "id": "39c3a16bd3c91442",
             "type": "leaf",
             "state": {
@@ -144,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "ce196e2f9001aae7",
@@ -510,7 +522,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "2b6b613a16239c90",
+  "active": "46eccc6e25d86f12",
   "lastOpenFiles": [
     "Mages.md",
     "stories/StoopSmith.md",
