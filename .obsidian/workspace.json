@@ -178,12 +178,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "names.md",
+                "file": "world.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "names"
+              "title": "world"
             }
           }
         ],
@@ -471,6 +471,7 @@
   },
   "active": "ee79e388833fd58f",
   "lastOpenFiles": [
+    "names.md",
     "images/names-ho2-t.png",
     "images/names-h-ho1.png",
     "images/names-e3-g.png",
@@ -478,7 +479,6 @@
     "images/names-db2-dw-e1.png",
     "images/names-db2.png",
     "images/names-db1.png",
-    "names.md",
     "index.md",
     "startrek.md",
     "rules/encounter-hammerkeep-town.md",
