@@ -315,9 +315,21 @@
                   "icon": "lucide-file",
                   "title": "world"
                 }
+              },
+              {
+                "id": "cf7ad1de21747bb4",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.11.7"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.11.7"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -469,7 +481,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "69d0c68cf4687cd1",
+  "active": "cf7ad1de21747bb4",
   "lastOpenFiles": [
     "stories/StoopSmith.md",
     "Karanliwood.md",
