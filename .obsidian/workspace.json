@@ -355,9 +355,21 @@
                   "icon": "lucide-file",
                   "title": "fiendhollowmine"
                 }
+              },
+              {
+                "id": "bb674e762cf98316",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.12.4"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.12.4"
+                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 5
           }
         ],
         "direction": "horizontal"
@@ -509,7 +521,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "dcca39904e83de7b",
+  "active": "bb674e762cf98316",
   "lastOpenFiles": [
     "stories/index.md",
     "stories/fiendhollowmine.md",
