@@ -1,14 +1,10 @@
 NIGHT OF THE REMEMBERED
 
-The end of this adventure takes place during a city-wide celebration called the Night of the Remembered, when the deceased visit their loved ones. Establish the festival in advance if the characters don't already know about it. The adventure assumes that the characters take only a day or so to get from Milpazul to
-San Citlán. If you add more time, or if the characters need to take a long rest after the events in Milpazul or
-Hollow Mine, adjust the calendar accordingly. No matter what happens, the characters arrive in San Citlán
-while the festival is in full swing—it lasts as long as you require.
+The end of this adventure takes place during a city-wide celebration called the Night of the Remembered, when the deceased visit their loved ones. Establish the festival in advance if the characters don't already know about it. The adventure assumes that the characters take only a day or so to get from Milpazul to San Citlán. If you add more time, or if the characters need to take a long rest after the events in Milpazul or Hollow Mine, adjust the calendar accordingly. No matter what happens, the characters arrive in San Citlán while the festival is in full swing—it lasts as long as you require.
 
 AMBUSH AT THE ARCHWAY
 
-As the characters reach the archway entrance to the village, the character who has the highest passive
-Wisdom (Perception) score is the first to notice something is wrong: Within the waist-high village wall, a dozen or so wood-and-adobe houses surround a well. A worn-out sign hangs crookedly from the arch, proclaiming in fading blue paint, "Welcome to Milpazul," but that welcome is contradicted by angry voices and cries of pain coming from behind a building.
+As the characters reach the archway entrance to the village, the character who has the highest passive Wisdom (Perception) score is the first to notice something is wrong: Within the waist-high village wall, a dozen or so wood-and-adobe houses surround a well. A worn-out sign hangs crookedly from the arch, proclaiming in fading blue paint, "Welcome to Milpazul," but that welcome is contradicted by angry voices and cries of pain coming from behind a building.
 
 The bounty hunters have attacked several villagers who questioned their intentions. The other locals have retreated to their homes while several bounty hunter guards have set an ambush for anyone coming down the road, crouching low and hiding behind the wall near the archway.
 
@@ -24,18 +20,13 @@ Characters can learn about Paloma and the crimes of which she is accused from an
 
 WELCOME TO MILPAZUL
 
-Once the characters deal with the bounty hunters, a handful of locals thank the characters for their assistance and welcome them to Milpazul. Not everyone is enthused, though. Some villagers regard
-adventurers with distrust, fearing they'll bring more trouble.
+Once the characters deal with the bounty hunters, a handful of locals thank the characters for their assistance and welcome them to Milpazul. Not everyone is enthused, though. Some villagers regard adventurers with distrust, fearing they'll bring more trouble.
 
 ENTERING THE VILLAGE
 
 As the characters progress into the village, read the following:
 
-> In the distance, a slender figure tends to the wounded villagers, who respond with heartfelt gratitude. As
-the individual approaches, you realize they are more than simply thin-the figure is a skeleton clothed in
-a yellow-and-magenta dress, with many colorful bead necklaces hanging from the exposed vertebrae of
-their neck.
-
+> In the distance, a slender figure tends to the wounded villagers, who respond with heartfelt gratitude. As the individual approaches, you realize they are more than simply thin-the figure is a skeleton clothed in a yellow-and-magenta dress, with many colorful bead necklaces hanging from the exposed vertebrae of their neck.
 > "You must be parched after that fight," they say.
 > "How about some drinks, friends? On the house!"
 
@@ -43,11 +34,12 @@ The name of the friendly skeleton is Rufina, and they own the village tavern. As
 
 RUFINA
 
-Formerly a human, Rufina is now an olvidado-a deceased person who remained behind after the Night of the Remembered. Rufina doesn't know how or why they don't pass on to the afterlife. Although beings like Rufina are uncommon in the region, they're not unheard of, and the skeleton is a well-liked member of the community. Rufina is neutral good and uses the commoner stat block, but is Undead and doesn't require air, food, drink, or sleep.
+Formerly a human, Rufina is now an olvidado-a deceased person who remained behind after the Night of the Remembered. Rufina doesn't know how or why they don't pass on to the afterlife. Although beings like Rufina are uncommon in the region, they're not unheard of, and the skeleton is a well-liked member of the community. Rufina is neutral good and uses the [commoner](commoner.md) stat block, but is Undead and doesn't require air, food, drink, or sleep.
 
 Rufina has been sheltering Paloma in the cellar of the tavern: after witnessing the characters' prowess the olvidado wonders if the adventurers might be able to help her.
 
 LEARNING ABOUT PALOMA
+
 While no one is willing to discuss Paloma's whereabouts, a character who succeeds on a DC 14 Charisma (Persuasion) check can gather the following information about the so-called outlaw from Rufina or the other villagers:
 
 • Paloma is seen as a hero by the poor. Her band raids the estates and caravans of corrupt land-owners and shares the captured wealth with folk who need it.
@@ -56,7 +48,7 @@ While no one is willing to discuss Paloma's whereabouts, a character who succeed
 
 CURSED VILLAGERS
 
-As they walk through the village, the characters notice many locals huddled in corners, bundled in blanket-like sarapes and trembling with cold despite it being a warm but cloudy day. If asked about them, Rufina replies that these unfortunates have caught sereno, an ailment seemingly spread by bitterly cold winds. Folk who have fallen ill speak of those winds blowing mostly at night, and Rufina warns the characters against staying out after dark. Although no one in Milpazul knows it, the sickness stems from the youth Serapio, who has transformed into a tlacatecolo (detailed at the end of this adventure and hunts at night.
+As they walk through the village, the characters notice many locals huddled in corners, bundled in blanket-like sarapes and trembling with cold despite it being a warm but cloudy day. If asked about them, Rufina replies that these unfortunates have caught sereno, an ailment seemingly spread by bitterly cold winds. Folk who have fallen ill speak of those winds blowing mostly at night, and Rufina warns the characters against staying out after dark. Although no one in Milpazul knows it, the sickness stems from the youth Serapio, who has transformed into a tlacatecolo (detailed at the end of this adventure) and hunts at night.
 
 A character who examines a villager with sereno and succeeds on a DC 14 Intelligence (Arcana) or Wisdom (Medicine) check determines that sereno is not a disease but a curse.
 
