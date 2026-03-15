@@ -207,9 +207,21 @@
                   "icon": "lucide-file",
                   "title": "Goliath"
                 }
+              },
+              {
+                "id": "84c9108be87681a6",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.11.7"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.11.7"
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           },
           {
             "id": "f95a241c1a1d9096",
@@ -522,7 +534,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "9e0f6278cb9f3a50",
+  "active": "84c9108be87681a6",
   "lastOpenFiles": [
     "secrets/world.md",
     "rules/balor.md",
