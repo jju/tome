@@ -119,12 +119,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secrets/world.md",
+                "file": "Ofuzz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "world"
+              "title": "Ofuzz"
             }
           },
           {
@@ -226,12 +226,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "SildarHallwinter.md",
+                    "file": "Snerpi.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "SildarHallwinter"
+                  "title": "Snerpi"
                 }
               }
             ],
@@ -548,40 +548,40 @@
       "bases:Create new base": false
     }
   },
-  "active": "dab5baac6faa28aa",
+  "active": "39c3a16bd3c91442",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "WardenofHammerkeep.md",
+    "Uradun.md",
+    "UnkindQueen.md",
+    "ThePrisoner.md",
+    "Tharizdun.md",
+    "Tortle.md",
+    "Torog.md",
+    "Tiamat.md",
+    "Thundertree.md",
+    "ThialaOstoroth.md",
+    "ThalaneTruthhaulerKalukithino.md",
+    "Talhundereth.md",
+    "Stagcross.md",
+    "Sowhorn.md",
+    "Xokx.md",
+    "Hammerkeep.md",
+    "secrets/world.md",
+    "Snerpi.md",
+    "Skytusk.md",
+    "SimpleRhela.md",
     "SildarHallwinter.md",
+    "conflict-files-obsidian-git.md",
     "IarnoAlbrek.md",
     "Phandalin.md",
     "Blasingdell.md",
     "TriBoarTrail.md",
-    "roads.md",
-    "ThreeBoarTrail.md",
-    "Conyberry.md",
-    "Urdl.md",
-    "secrets/npcs.md",
-    "stories/fiendhollowmine.md",
-    "secrets/world.md",
-    "rules/balor.md",
-    "rules/encounter.md",
-    "rules/encounter-hammerkeep-town.md",
-    "rules/encounter-hammerkeep-area.md",
-    "names.md",
     "images/names-ho2-t.png",
     "images/names-h-ho1.png",
     "images/names-e3-g.png",
     "images/names-e2.png",
     "images/names-db2-dw-e1.png",
     "images/names-db1.png",
-    "Mages.md",
-    "stories/StoopSmith.md",
-    "Goliath.md",
-    "Anor.md",
-    "distances.md",
-    "ArmsBetrayers.md",
-    "rules/yggdrasti.md",
-    "rules/treant.md",
     "images/Nuoro24mi.png",
     "images/Hammerkeep.png"
   ]
