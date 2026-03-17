@@ -54,7 +54,7 @@ A character who examines a villager with sereno and succeeds on a DC 14 Intellig
 
 SERENO
 
-Sereno is a deadly magical affliction that inflicts a supernatural chill on its victims and eventually kills them. A creature cursed with sereno is poisoned, can't regain hit points, and must make a DC 13 Constitution saving throw at the end of every hour, gaining 1 level of exhaustion on a failed save. The creature automatically succeeds on this saving throw if it is in sunlight. Sereno can be undone by magic that ends poison or disease, like lesser restoration, but only while the victim is in direct sunlight.
+[Sereno](Sereno.md) is a deadly magical affliction that inflicts a supernatural chill on its victims and eventually kills them. A creature cursed with sereno is poisoned, can't regain hit points, and must make a DC 13 Constitution saving throw at the end of every hour, gaining 1 level of exhaustion on a failed save. The creature automatically succeeds on this saving throw if it is in sunlight. Sereno can be undone by magic that ends poison or disease, like lesser restoration, but only while the victim is in direct sunlight.
 
 Sereno is inflicted by an insidious, shapeshifting fiend known as a tlacatecolo. If a tlacatecolo that afflicted one or more creatures with the curse dies, the curse ends for its victims. See the "Tlacatecolo" section at the end of this adventure for more details.
 
@@ -79,8 +79,7 @@ Characters who chat with Rufina learn the following:
 
 MEETING PALOMA
 
-As conversation dies down, Paloma emerges from a door leading to the cellar and approaches the characters. She is wrapped in a rebozo and suffers from sereno with 3 levels of exhaustion. If the characters
-threaten to take her for the bounty, the dwarf veterans rush to protect her, and Rufina warns the characters that not just the villagers, but the folk of the entire region, will turn against them if they proceed.
+As conversation dies down, Paloma emerges from a door leading to the cellar and approaches the characters. She is wrapped in a rebozo and suffers from [Sereno](Sereno.md) with 3 levels of exhaustion. If the characters threaten to take her for the bounty, the dwarf veterans rush to protect her, and Rufina warns the characters that not just the villagers, but the folk of the entire region, will turn against them if they proceed.
 
 PALOMA
 
@@ -130,28 +129,21 @@ A TOWN CALLED HOLLOW
 
 The mining town of Pontezuela once thrived at the southern extent of the mountains known as the
 Silver Veins. That changed when the silver ore for which the range was named ran dry. Folks started
-referring to the mine as "hollow" for its exhausted resources, and discovery of monstrous bones in its
-depths inspired talk of the site being cursed. Nowadays, "Hollow" is the only name most people call the
-settlement and its mine. Both were abandoned years ago, making the mine a perfect place for Itzmin and
-Pazuzu's faithful to hold their secret meetings.
+referring to the mine as "hollow" for its exhausted resources, and discovery of monstrous bones in its depths inspired talk of the site being cursed. Nowadays, "Hollow" is the only name most people call the settlement and its mine. Both were abandoned years ago, making the mine a perfect place for Itzmin and Pazuzu's faithful to hold their secret meetings.
 
 TRAVELING TO HOLLOW MINE
 
-The journey from Milpazul to Hollow takes just over half a day at a normal pace. If you want to highlight
-the dangers of the borderlands, add an encounter or two along the way. Perytons are common threats in
-the region, and ettins sometimes descend from the mountains to raid farmsteads.
+The journey from Milpazul to Hollow takes just over half a day at a normal pace. If you want to highlight the dangers of the borderlands, add an encounter or two along the way. Perytons are common threats in the region, and ettins sometimes descend from the mountains to raid farmsteads.
 
 NIGHT TRAVEL
 
-If the characters ignore Paloma's warning and travel at night, after a few hours of travel, Serapio sees them and flies overhead in his owl form. Though his mind is twisted by fiendish hunger, he is too wary to approach adventurers. A character who succeeds on a DC 14 Wisdom (Perception) check sees sudden
-movement in the darkness overhead as a spotted owl silently circles the party and then flies away.
+If the characters ignore Paloma's warning and travel at night, after a few hours of travel, Serapio sees them and flies overhead in his owl form. Though his mind is twisted by fiendish hunger, he is too wary to approach adventurers. A character who succeeds on a DC 14 Wisdom (Perception) check sees sudden movement in the darkness overhead as a spotted owl silently circles the party and then flies away.
 
 HOLLOW
 
 When characters approach Hollow, read the following description:
 
-> A decrepit town spreads out along the road ahead, its weathered shacks creaking in the wind. A dozen or
-so armed figures move in and out of the structures, which appear long abandoned. An opulent coach, looking distinctly out of place, is parked amid the buildings with its curtains drawn.
+> A decrepit town spreads out along the road ahead, its weathered shacks creaking in the wind. A dozen or so armed figures move in and out of the structures, which appear long abandoned. An opulent coach, looking distinctly out of place, is parked amid the buildings with its curtains drawn.
 
 The road leading to the buildings is littered with items abandoned by the former residents. The armed figures are twelve bandits working for Itzmin, who has been buying property in the area to control access to the mine. The bandits won't allow the characters to access the mine without their boss's permission. If any characters ask questions or make trouble, the bandits point them to the carriage.
 
