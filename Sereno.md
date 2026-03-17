@@ -6,7 +6,7 @@ A character who examines a villager with sereno and succeeds on a DC 14 Intellig
 
 A creature cursed with sereno is poisoned, can't regain hit points, and must make a DC 13 Constitution saving throw at the end of every hour, gaining 1 level of exhaustion on a failed save. The creature automatically succeeds on this saving throw if it is in sunlight. Sereno can be undone by magic that ends poison or disease, like lesser restoration, but only while the victim is in direct sunlight.
 
-Sereno is inflicted by an insidious, shapeshifting fiend known as a tlacatecolo. If a tlacatecolo that afflicted one or more creatures with the curse dies, the curse ends for its victims.
+Sereno is inflicted by an insidious, shapeshifting fiend known as a [Tlacatecolo](Tlacatecolo.md). If a tlacatecolo that afflicted one or more creatures with the curse dies, the curse ends for its victims.
 
 > [illnesses](illnesses)
 > [curses](curses)
