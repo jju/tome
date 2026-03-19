@@ -46,19 +46,19 @@ While no one is willing to discuss Paloma's whereabouts, a character who succeed
 • She initially ran afoul of the law years ago when she was falsely accused of a crime.
 • Paloma and her band were recently attacked by someone or something on the road. Most of the band were killed, but Paloma's body wasn't found.
 
-CURSED VILLAGERS
+## CURSED VILLAGERS
 
-As they walk through the village, the characters notice many locals huddled in corners, bundled in blanket-like sarapes and trembling with cold despite it being a warm but cloudy day. If asked about them, Rufina replies that these unfortunates have caught sereno, an ailment seemingly spread by bitterly cold winds. Folk who have fallen ill speak of those winds blowing mostly at night, and Rufina warns the characters against staying out after dark. Although no one in Milpazul knows it, the sickness stems from the youth Serapio, who has transformed into a tlacatecolo (detailed at the end of this adventure) and hunts at night.
+As they walk through the village, the characters notice many locals huddled in corners, bundled in blanket-like sarapes and trembling with cold despite it being a warm but cloudy day. If asked about them, Rufina replies that these unfortunates have caught sereno, an ailment seemingly spread by bitterly cold winds. Folk who have fallen ill speak of those winds blowing mostly at night, and Rufina warns the characters against staying out after dark. Although no one in Milpazul knows it, the sickness stems from the youth Serapio, who has transformed into a [Tlacatecolo](Tlacatecolo.md) (detailed at the end of this adventure) and hunts at night.
 
 A character who examines a villager with sereno and succeeds on a DC 14 Intelligence (Arcana) or Wisdom (Medicine) check determines that sereno is not a disease but a curse.
 
-SERENO
+## SERENO
 
-Sereno is a deadly magical affliction that inflicts a supernatural chill on its victims and eventually kills them. A creature cursed with sereno is poisoned, can't regain hit points, and must make a DC 13 Constitution saving throw at the end of every hour, gaining 1 level of exhaustion on a failed save. The creature automatically succeeds on this saving throw if it is in sunlight. Sereno can be undone by magic that ends poison or disease, like lesser restoration, but only while the victim is in direct sunlight.
+[Sereno](Sereno.md) is a deadly magical affliction that inflicts a supernatural chill on its victims and eventually kills them. A creature cursed with sereno is poisoned, can't regain hit points, and must make a DC 13 Constitution saving throw at the end of every hour, gaining 1 level of exhaustion on a failed save. The creature automatically succeeds on this saving throw if it is in sunlight. Sereno can be undone by magic that ends poison or disease, like lesser restoration, but only while the victim is in direct sunlight.
 
 Sereno is inflicted by an insidious, shapeshifting fiend known as a tlacatecolo. If a tlacatecolo that afflicted one or more creatures with the curse dies, the curse ends for its victims. See the "Tlacatecolo" section at the end of this adventure for more details.
 
-PULQUERÍA
+## PULQUERÍA
 
 The front wall of Rufina's tavern-called a pulquería, as it specializes in a local beverage called pulque is plastered with portraits of missing persons and requests for help.
 
@@ -79,8 +79,7 @@ Characters who chat with Rufina learn the following:
 
 MEETING PALOMA
 
-As conversation dies down, Paloma emerges from a door leading to the cellar and approaches the characters. She is wrapped in a rebozo and suffers from sereno with 3 levels of exhaustion. If the characters
-threaten to take her for the bounty, the dwarf veterans rush to protect her, and Rufina warns the characters that not just the villagers, but the folk of the entire region, will turn against them if they proceed.
+As conversation dies down, Paloma emerges from a door leading to the cellar and approaches the characters. She is wrapped in a rebozo and suffers from [Sereno](Sereno.md) with 3 levels of exhaustion. If the characters threaten to take her for the bounty, the dwarf veterans rush to protect her, and Rufina warns the characters that not just the villagers, but the folk of the entire region, will turn against them if they proceed.
 
 PALOMA
 
@@ -110,7 +109,7 @@ Paloma offers 100 gp per character for the party's assistance, and she gives the
 RUMORS OF HOLLOW
 
 If the characters ask around Milpazul about Hollow, they learn the information at the start of the *A
-Town Called Hollow" section. Additionally, a local overhears their inquiries and shares a chilling story.
+Town Called Hollow* section. Additionally, a local overhears their inquiries and shares a chilling story.
 
 > "I was riding by Hollow after dark, trying to get home, when I saw movement up by the old mine entrance. Two gaunt figures were dragging some poor soul into the mine —had it wrapped up tight. They looked like twin death, they did. I'll never forget their hissing and their slithering, horrid tongues. As a mercy, the body they were dragging looked like it was already dead. I rode on, I tell you. I didn't look back."
 
@@ -130,28 +129,21 @@ A TOWN CALLED HOLLOW
 
 The mining town of Pontezuela once thrived at the southern extent of the mountains known as the
 Silver Veins. That changed when the silver ore for which the range was named ran dry. Folks started
-referring to the mine as "hollow" for its exhausted resources, and discovery of monstrous bones in its
-depths inspired talk of the site being cursed. Nowadays, "Hollow" is the only name most people call the
-settlement and its mine. Both were abandoned years ago, making the mine a perfect place for Itzmin and
-Pazuzu's faithful to hold their secret meetings.
+referring to the mine as "hollow" for its exhausted resources, and discovery of monstrous bones in its depths inspired talk of the site being cursed. Nowadays, "Hollow" is the only name most people call the settlement and its mine. Both were abandoned years ago, making the mine a perfect place for Itzmin and Pazuzu's faithful to hold their secret meetings.
 
 TRAVELING TO HOLLOW MINE
 
-The journey from Milpazul to Hollow takes just over half a day at a normal pace. If you want to highlight
-the dangers of the borderlands, add an encounter or two along the way. Perytons are common threats in
-the region, and ettins sometimes descend from the mountains to raid farmsteads.
+The journey from Milpazul to Hollow takes just over half a day at a normal pace. If you want to highlight the dangers of the borderlands, add an encounter or two along the way. Perytons are common threats in the region, and ettins sometimes descend from the mountains to raid farmsteads.
 
 NIGHT TRAVEL
 
-If the characters ignore Paloma's warning and travel at night, after a few hours of travel, Serapio sees them and flies overhead in his owl form. Though his mind is twisted by fiendish hunger, he is too wary to approach adventurers. A character who succeeds on a DC 14 Wisdom (Perception) check sees sudden
-movement in the darkness overhead as a spotted owl silently circles the party and then flies away.
+If the characters ignore Paloma's warning and travel at night, after a few hours of travel, Serapio sees them and flies overhead in his owl form. Though his mind is twisted by fiendish hunger, he is too wary to approach adventurers. A character who succeeds on a DC 14 Wisdom (Perception) check sees sudden movement in the darkness overhead as a spotted owl silently circles the party and then flies away.
 
 HOLLOW
 
 When characters approach Hollow, read the following description:
 
-> A decrepit town spreads out along the road ahead, its weathered shacks creaking in the wind. A dozen or
-so armed figures move in and out of the structures, which appear long abandoned. An opulent coach, looking distinctly out of place, is parked amid the buildings with its curtains drawn.
+> A decrepit town spreads out along the road ahead, its weathered shacks creaking in the wind. A dozen or so armed figures move in and out of the structures, which appear long abandoned. An opulent coach, looking distinctly out of place, is parked amid the buildings with its curtains drawn.
 
 The road leading to the buildings is littered with items abandoned by the former residents. The armed figures are twelve bandits working for Itzmin, who has been buying property in the area to control access to the mine. The bandits won't allow the characters to access the mine without their boss's permission. If any characters ask questions or make trouble, the bandits point them to the carriage.
 
@@ -162,9 +154,7 @@ ITZMIN
 A spiteful tiefling in his late forties, Itzmin del Prado is a chaotic evil cult fanatic. He's also a politician and part of San Citlán's ruling council, the Trecena, where he serves as Councilor of Arms. The public gave him the moniker Astaverde (meaning "green horn") for his jadeite prosthetic horn.
 
 Following the death of his mother, a celebrated military general, Itzmin squandered his family's for-
-tune, and his family name became synonymous with disgrace. Desperate to regain his former glory, Itz-
-min sought the guidance of the cultist Orencio and forged his own pact with Pazuzu, offering his obedi-
-ence in exchange for secrets that could be leveraged against San Citlán's elite.
+tune, and his family name became synonymous with disgrace. Desperate to regain his former glory, Itzmin sought the guidance of the cultist Orencio and forged his own pact with Pazuzu, offering his obedience in exchange for secrets that could be leveraged against San Citlán's elite.
 
 Personality Trait. "I can't stand anyone treating me as their lesser."
 Ideal. "T'll do whatever it takes to gain the upper hand in any situation."
@@ -174,37 +164,34 @@ Flaw. "I value prestige over security"
 ITZMIN'S GOALS
 
 Itzmin wants to use Serapio's corruption to advance Pazuzu's wishes. And the more chaos reigns in the borderlands, the less organized the revolutionaries can be, which benefits Itzmin's political agenda.
-He's currently in Hollow to cover his tracks by razing the town, caving in the mine, and destroying any
-evidence of the rites that have taken place there.
+
+He's currently in Hollow to cover his tracks by razing the town, caving in the mine, and destroying any evidence of the rites that have taken place there.
 
 MEETING ITZMIN
 
-Itzmin introduces himself as the owner of the mine and the township. He talks of hearing reports of a
-disease festering in town and says he plans to burn the abandoned houses to prevent it from spreading.
-He is dismissive of any suggestion that sereno isn't a disease. If the characters talk about entering the
-mine, Itzmin advises against it but doesn't stop them. If he is threatened in any way, he orders his bandits to attack and flees in his coach.
+Itzmin introduces himself as the owner of the mine and the township. He talks of hearing reports of a disease festering in town and says he plans to burn the abandoned houses to prevent it from spreading.
+
+He is dismissive of any suggestion that sereno isn't a disease. If the characters talk about entering the mine, Itzmin advises against it but doesn't stop them. If he is threatened in any way, he orders his bandits to attack and flees in his coach.
 
 CAVE-IN!
 
-At some point after the characters enter the mine, Itzmin's bandits detonate alchemical charges to col-
-lapse the entrance. Wherever the characters are in the mine, they hear a thunderous blast from above.
-If they return to mine's entrance, they find the cavern has collapsed, sealed by tons of impassable rub-
-ble. A character who is proficient with alchemist's supplies or who succeeds on a DC 12 Intelligence (Nature) check confirms that the collapse was deliberate.
+At some point after the characters enter the mine, Itzmin's bandits detonate alchemical charges to collapse the entrance. Wherever the characters are in the mine, they hear a thunderous blast from above.
+
+If they return to mine's entrance, they find the cavern has collapsed, sealed by tons of impassable rubble. A character who is proficient with alchemist's supplies or who succeeds on a DC 12 Intelligence (Nature) check confirms that the collapse was deliberate.
 
 To escape, the characters must find the alternative exit in the depths of the mine.
 
-If the characters descend into the abandoned mine, they discover that it isn't empty and that the fiend
-they search for is at the center of a greater mystery.
+If the characters descend into the abandoned mine, they discover that it isn't empty and that the fiend they search for is at the center of a greater mystery.
 
 HOLLOW MINE FEATURES
 
 Hollow Mine has the following features:
 
-Ceilings. Most ceilings are about 10 feet high, except for the ceiling in area H5.
+**Ceilings.** Most ceilings are about 10 feet high, except for the ceiling in area H5.
 
-Light. None of the mine's locations are lit unless otherwise indicated.
+**Light.** None of the mine's locations are lit unless otherwise indicated.
 
-Wailing Wind. The structure of the mine and the elevation difference between its shafts funnels a strong wind through the tunnels. Gusts of air hiss and howl, imposing disadvantage on Wisdom (Perception) checks that rely on hearing.
+**Wailing Wind.** The structure of the mine and the elevation difference between its shafts funnels a strong wind through the tunnels. Gusts of air hiss and howl, imposing disadvantage on Wisdom (Perception) checks that rely on hearing.
 
 HOLLOW MINE LOCATIONS
 
@@ -216,19 +203,18 @@ Loose planks cover the entrance to the mine. Once characters enter the mine, rea
 
 > The mine's entrance leads into a large cavern supported by wooden beams. At the chamber's center, a derelict wooden elevator rattles in the wind that rushes from the depths of a crumbling mineshaft. 
 
-The stone of the mine entrance cavern is crumbling badly, but a character who has the Stonecunning
-trait or who succeeds on a DC 16 Intelligence (Nature check can tell the cavern is in no immediate danger of collapsing. See the "Cave-In!" section for details on how that might change.
+The stone of the mine entrance cavern is crumbling badly, but a character who has the Stonecunning trait or who succeeds on a DC 16 Intelligence (Nature check can tell the cavern is in no immediate danger of collapsing. See the "Cave-In!" section for details on how that might change.
 
-Elevator. The elevator is rusted in place, and the shaft it once traversed is depicted as shaded spaces on map 4.1. A character who examines it and succeeds on a DC 15 Intelligence (Investigation) check recognizes that the elevator will collapse under any significant weight. If 100 pounds or more is placed on the elevator platform, it collapses. Any creature standing on the platform at the time drops 100 feet into area H5, taking 35 (10d6) bludgeoning damage from the fall.
+**Elevator.** The elevator is rusted in place, and the shaft it once traversed is depicted as shaded spaces on map 4.1. A character who examines it and succeeds on a DC 15 Intelligence (Investigation) check recognizes that the elevator will collapse under any significant weight. If 100 pounds or more is placed on the elevator platform, it collapses. Any creature standing on the platform at the time drops 100 feet into area H5, taking 35 (10d6) bludgeoning damage from the fall.
 
-Hidden Entrance. The people of Hollow sealed a tunnel leading to the mine's lower levels on the northwest wall after a number of explorers got lost in the mine. With a successful DC 12 Wisdom (Perception) check, a character perceives a section of the wall rattling in the wind, discovering a wooden door that was hidden behind a pile of rocks.
+**Hidden Entrance.** The people of Hollow sealed a tunnel leading to the mine's lower levels on the northwest wall after a number of explorers got lost in the mine. With a successful DC 12 Wisdom (Perception) check, a character perceives a section of the wall rattling in the wind, discovering a wooden door that was hidden behind a pile of rocks.
 
 [MISSING]
 
 
 Numerous cityscapes show a distinctive vecindad, one of the manor houses converted into apartments that are common in Los Gavilanes. Many of these sketches bear the caption "Home" written in a shaky hand. This is the vecindad of Doña Rosa.
 
-Hidden Locket. A character searching the desk's otherwise empty drawers finds half of a hinged silver locket wrapped in paper. The locket contains a tiny pencil portrait of a warmly smiling woman. The characters likely have no way of knowing it yet, but this is Serapio's mother, Doña Rosa. The other half of the locket is in Serapio's room in San Citlán.
+**Hidden Locket.** A character searching the desk's otherwise empty drawers finds half of a hinged silver locket wrapped in paper. The locket contains a tiny pencil portrait of a warmly smiling woman. The characters likely have no way of knowing it yet, but this is Serapio's mother, Doña Rosa. The other half of the locket is in Serapio's room in San Citlán.
 
 H5: WAILING CAVERN
 
@@ -298,8 +284,7 @@ DOÑA ROSA'S VECINDAD
 
 The old manor house stands on a quiet street. Read the following to set the scene:
 
-> This large manor shows its age, but the building is well cared for and, like the rest of the city, cheerfully
-decorated for the impending festival.
+> This large manor shows its age, but the building is well cared for and, like the rest of the city, cheerfully decorated for the impending festival.
 
 ALTAR WITH OFRENDAS
 
@@ -371,9 +356,7 @@ Itzmin begins 120 feet ahead of the pursuers. Track the distance between Itzmin 
 
 DASHING
 
-During the chase, a participant can freely use the Dash action a number of times equal to 3 + its Constitution modifier. Each additional Dash action it takes requires the creature to succeed on a DC 10
-Constitution check at the end of its turn or gain 1 level of exhaustion. A participant drops out of the
-chase if its exhaustion reaches level 5, since its speed becomes 0. A creature can remove the levels of exhaustion it gained during the chase by finishing a short or long rest.
+During the chase, a participant can freely use the Dash action a number of times equal to 3 + its Constitution modifier. Each additional Dash action it takes requires the creature to succeed on a DC 10 Constitution check at the end of its turn or gain 1 level of exhaustion. A participant drops out of the chase if its exhaustion reaches level 5, since its speed becomes 0. A creature can remove the levels of exhaustion it gained during the chase by finishing a short or long rest.
 
 SPELLS AND ATTACKS
 
@@ -387,11 +370,11 @@ Each participant rolls on the Parade Chase Complications table at the end of its
 
 PARADE CHASE COMPLICATIONS
 
-| d6 | Complication |
-|---|---|
-| 1 | A 20-foot-tall, papier mâché skeleton puppet walks across the street. Make a DC 10 Dexterity saving throw to avoid being stepped on. On a failed check, you take 5(2d4) bludgeoning damage and fall prone. |
-| 2 | Fireworks go off nearby. Make a DC 10 Constitution saving throw. On a failed save, you are blinded by smoke until the end of your turn. While blinded your speed is halved. |
-| 3 | Centaur acrobats are performing in your path. Make a DC 15 Dexterity (Acrobatics) check. On a
+| d6  | Complication                                                                                                                                                                                               |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | A 20-foot-tall, papier mâché skeleton puppet walks across the street. Make a DC 10 Dexterity saving throw to avoid being stepped on. On a failed check, you take 5(2d4) bludgeoning damage and fall prone. |
+| 2   | Fireworks go off nearby. Make a DC 10 Constitution saving throw. On a failed save, you are blinded by smoke until the end of your turn. While blinded your speed is halved.                                |
+| 3   | Centaur acrobats are performing in your path. Make a DC 15 Dexterity (Acrobatics) check. On a                                                                                                              |
 success, they lift you from the waist and speed you forward 30 feet. On a failed check, you fall prone. |
 | 4 | Peaceful spectral dancers fill the street. Make a DC 15 Charisma (Performance) check to flow with their movements. On a failed check, they impede your sight and count as 10 feet of difficult terrain. |
 | 5 | A religious procession blocks your way. Make a DC 10 Intelligence (Religion) check to recognize their
@@ -410,8 +393,7 @@ If the characters catch Izmin, he tells them where Serapio is in exchange for hi
 
 METALWORKS CONFRONTATION
 
-The metalworks looks abandoned, and no employees are on site. Map 4.2 represents the structure. A double door is barred from inside, but Itzmin left a smaller door unlocked. When the characters enter,
-read the following:
+The metalworks looks abandoned, and no employees are on site. Map 4.2 represents the structure. A double door is barred from inside, but Itzmin left a smaller door unlocked. When the characters enter, read the following:
 
 > The warehouse measures about sixty feet by ninety feet and features a raised catwalk along two sides, accessible by ladders. Two fifteen-foot-diameter containers are suspended over the warehouse floor by chains, which run up and through a winch before descending to a mechanical control console atop the catwalk. Two doors near the console lead to other rooms.
 
@@ -421,9 +403,7 @@ These large piles of scrap metal await separating and sorting and are difficult 
 
 HANGING CONTAINERS
 
-The two huge suspended containers each contain more iron and silver scrap. A console on the catwalk controls both containers. A creature adjacent to the console can spend an action to throw a lever and tip
-either of the containers. If a container is tipped, the scrap metal within falls to the floor, dealing 14 (4d6)
-bludgeoning damage to any creature below it.
+The two huge suspended containers each contain more iron and silver scrap. A console on the catwalk controls both containers. A creature adjacent to the console can spend an action to throw a lever and tip either of the containers. If a container is tipped, the scrap metal within falls to the floor, dealing 14 (4d6) bludgeoning damage to any creature below it.
 
 OFFICES
 
@@ -438,8 +418,7 @@ ing and a DC 14 Charisma (Persuasion) check. If a character succeeds on this che
 
 If Serapio attacks the characters before they can speak with him, a character can use an action to try to calm Serapio by making a DC 14 Charisma (Persuasion) check. Succeeding on this check once causes Serapio to hesitate, but he keeps attacking.
 
-Succeeding twice causes Serapio to regain control and transform back into a human (as noted above).
-If Serapio throws off the demonic influence, and the characters attack or threaten him in any way, the fiend takes control of him again, causing him to transform back into a tlacatecolo and attack. Serapio can't be talked into transforming back into a human more than once.
+Succeeding twice causes Serapio to regain control and transform back into a human (as noted above). If Serapio throws off the demonic influence, and the characters attack or threaten him in any way, the fiend takes control of him again, causing him to transform back into a tlacatecolo and attack. Serapio can't be talked into transforming back into a human more than once.
 
 Advantage and Disadvantage. If a character shows Serapio part of his locket, the young man's determination to fight the fiendish influence is bolstered, giving the characters advantage on checks made to convince him to stand down. If Itzmin is there, he goads Serapio to attack, giving the characters disadvantage.
 
@@ -453,8 +432,7 @@ If the tlacatecolo is reduced to 0 hit points while separated from Serapio, it i
 
 CONCLUSION
 
-If the characters bring Serapio to Doña Rosa alive, she weeps with gratitude and thanks them profusely. If Serapio is still under fiendish control, Doña Rosa seeks aid from the archmages of the Argent Congregation-the local academy of magic-users—who are able to put an end to his affliction and so
-end the curse on all victims of sereno.
+If the characters bring Serapio to Doña Rosa alive, she weeps with gratitude and thanks them profusely. If Serapio is still under fiendish control, Doña Rosa seeks aid from the archmages of the Argent Congregation-the local academy of magic-users—who are able to put an end to his affliction and so end the curse on all victims of sereno.
 
 If Serapio is slain while under fiendish control, the characters hear a blood-curdling scream as his soul is dragged into the Abyss. All the victims of sereno are immediately freed from the curse, but Doña Rosa falls into despair and refuses to speak to the characters again.
 
