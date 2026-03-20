@@ -378,12 +378,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "secrets/npcs.md",
+                    "file": "rules/sage.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "npcs"
+                  "title": "sage"
                 }
               },
               {
@@ -609,6 +609,11 @@
   },
   "active": "0d4f3f7ee20e7ada",
   "lastOpenFiles": [
+    "Rhig.md",
+    "secrets/npcs.md",
+    "RioraRunninggoat.md",
+    "EagerWave.md",
+    "ThePrisoner.md",
     "UndergroundThree.md",
     "WenserWaterskin.md",
     "Hammerkeep.md",
@@ -629,12 +634,7 @@
     "gods.md",
     "hateswords.md",
     "HangmansLibrary.md",
-    "secrets/npcs.md",
     "Sereno.md",
-    "rules/turns.md",
-    "rules/travel.md",
-    "stories/index.md",
-    "rules/wilderness.md",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",
     "images/names-ho2-t.png",
