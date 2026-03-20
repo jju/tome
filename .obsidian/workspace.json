@@ -364,12 +364,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "gods.md",
+                    "file": "Traveler.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "gods"
+                  "title": "Traveler"
                 }
               },
               {
@@ -592,13 +592,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "2a229f1b620d45fa",
+  "active": "bb0c3c82008f0933",
   "lastOpenFiles": [
-    "HangmansLibrary.md",
+    "gods.md",
     "hateswords.md",
+    "HangmansLibrary.md",
     "secrets/npcs.md",
     "Sereno.md",
-    "gods.md",
     "rules/turns.md",
     "rules/travel.md",
     "stories/index.md",
