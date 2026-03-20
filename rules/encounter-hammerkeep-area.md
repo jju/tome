@@ -12,7 +12,7 @@ Roll 2d6
 | 6    | Golden Dragon Guard (Fleeing)                              |
 | 7    | Recurring NPC                                              |
 | 8    | 1d3 Giant Vultures (Mating Behaviour)                      |
-| 9    | 2d4+2 Axe Beaks (Starving)                                 |
+| 9    | 2d4+2 [axebeaks](axebeak.md) (Starving)                    |
 | 10   | 1d8 Worgs (Sick)                                           |
 | 11   | 1 Wereboar (Sleeping)                                      |
 | 12   | Wizard (Sick)                                              |
