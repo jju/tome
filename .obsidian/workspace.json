@@ -364,12 +364,26 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Traveler.md",
+                    "file": "ZorzulasRest.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Traveler"
+                  "title": "ZorzulasRest"
+                }
+              },
+              {
+                "id": "0d4f3f7ee20e7ada",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "secrets/npcs.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "npcs"
                 }
               },
               {
@@ -440,7 +454,8 @@
                   "title": "encounter-hammerkeep-area"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -592,8 +607,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "bb0c3c82008f0933",
+  "active": "0d4f3f7ee20e7ada",
   "lastOpenFiles": [
+    "UndergroundThree.md",
+    "WenserWaterskin.md",
+    "Hammerkeep.md",
+    "FrugMiggledy.md",
+    "RilesGreyfox.md",
+    "RurikStoneblood.md",
+    "IronWroughtFellowship.md",
+    "ZorzulasRest.md",
+    "VorkaThousandFists.md",
+    "ThialaOstoroth.md",
+    "Raftons.md",
+    "OdineManysister.md",
+    "LodestoneTavern.md",
+    "Torog.md",
+    "ThalaneTruthhaulerKalukithino.md",
+    "OldGoatTavern.md",
+    "Traveler.md",
     "gods.md",
     "hateswords.md",
     "HangmansLibrary.md",
@@ -603,25 +635,8 @@
     "rules/travel.md",
     "stories/index.md",
     "rules/wilderness.md",
-    "rules/encounter-hammerkeep-area.md",
-    "Tlacatecolo.md",
-    "rules/tlacatecolo.md",
-    "rules/axebeak.md",
-    "Hammerkeep.md",
-    "stories/fiendhollowmine.md",
-    "secrets/Skulk.md",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",
-    "rules/alhoon.md",
-    "rules/sahuagin.md",
-    "rules/treant.md",
-    "SanCitlan.md",
-    "Hollow.md",
-    "Milpazul.md",
-    "Abyss.md",
-    "rules/allip.md",
-    "world.md",
-    "Anor.md",
     "images/names-ho2-t.png",
     "images/names-h-ho1.png",
     "images/names-e3-g.png",
