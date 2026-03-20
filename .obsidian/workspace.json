@@ -220,12 +220,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/encounter-hammerkeep-area.md",
+                "file": "Hammerkeep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "encounter-hammerkeep-area"
+              "title": "Hammerkeep"
             }
           },
           {
@@ -343,12 +343,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Sereno.md",
+                    "file": "hateswords.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Sereno"
+                  "title": "hateswords"
                 }
               }
             ],
@@ -418,12 +418,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/wilderness.md",
+                    "file": "rules/turns.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "wilderness"
+                  "title": "turns"
                 }
               },
               {
@@ -432,16 +432,15 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/tlacatecolo.md",
+                    "file": "rules/encounter-hammerkeep-area.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "tlacatecolo"
+                  "title": "encounter-hammerkeep-area"
                 }
               }
-            ],
-            "currentTab": 5
+            ]
           }
         ],
         "direction": "horizontal"
@@ -593,13 +592,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "f26db9fe61bd9030",
+  "active": "2a229f1b620d45fa",
   "lastOpenFiles": [
+    "HangmansLibrary.md",
+    "hateswords.md",
+    "secrets/npcs.md",
+    "Sereno.md",
+    "gods.md",
+    "rules/turns.md",
+    "rules/travel.md",
+    "stories/index.md",
+    "rules/wilderness.md",
+    "rules/encounter-hammerkeep-area.md",
     "Tlacatecolo.md",
     "rules/tlacatecolo.md",
     "rules/axebeak.md",
-    "rules/encounter-hammerkeep-area.md",
-    "rules/wilderness.md",
+    "Hammerkeep.md",
     "stories/fiendhollowmine.md",
     "secrets/Skulk.md",
     "images/Hammerkeep.png",
@@ -607,7 +615,6 @@
     "rules/alhoon.md",
     "rules/sahuagin.md",
     "rules/treant.md",
-    "Sereno.md",
     "SanCitlan.md",
     "Hollow.md",
     "Milpazul.md",
@@ -615,14 +622,6 @@
     "rules/allip.md",
     "world.md",
     "Anor.md",
-    "Karanliwood.md",
-    "TriBoarTrail.md",
-    "stories/index.md",
-    "conflict-files-obsidian-git.md",
-    "stories/StoopSmith.md",
-    "Kanliwood.md",
-    "secrets/world.md",
-    "rules/hazardsystem.md",
     "images/names-ho2-t.png",
     "images/names-h-ho1.png",
     "images/names-e3-g.png",
