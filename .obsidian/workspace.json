@@ -8,214 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1e94059322fd0c8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FrugMiggledy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FrugMiggledy"
-            }
-          },
-          {
-            "id": "7a2cc39b2ff7dd8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/spawnofkyuss.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "spawnofkyuss"
-            }
-          },
-          {
-            "id": "3044ebd7d7c0a5d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/awakenedtree.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "awakenedtree"
-            }
-          },
-          {
-            "id": "6913666b30369226",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/woodwoad.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "woodwoad"
-            }
-          },
-          {
-            "id": "50fd34d7a7f3363b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "stories/index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "5889b9b91c5eb37e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/alhoon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "alhoon"
-            }
-          },
-          {
-            "id": "10b46864d0d3f4d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/shamblingmound.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "shamblingmound"
-            }
-          },
-          {
-            "id": "5f1879a99431e142",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sivekkah.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sivekkah"
-            }
-          },
-          {
-            "id": "2b6b613a16239c90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ofuzz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ofuzz"
-            }
-          },
-          {
-            "id": "4546e7bea0ba500f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gods.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "gods"
-            }
-          },
-          {
-            "id": "565a8ecc0d633187",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Urdl.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Urdl"
-            }
-          },
-          {
             "id": "ee79e388833fd58f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/allip.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "allip"
-            }
-          },
-          {
-            "id": "47b1c6d85a09bb31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Abyss.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Abyss"
-            }
-          },
-          {
-            "id": "69992a8b9af48c43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SanCitlan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SanCitlan"
-            }
-          },
-          {
-            "id": "b31c0ff57dde2fcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -227,238 +20,57 @@
               "icon": "lucide-file",
               "title": "Hammerkeep"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "6b20df96ac8835da",
+        "type": "tabs",
+        "children": [
           {
-            "id": "b7e4feb1c263069c",
+            "id": "2771a0702e231c15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Milpazul.md",
+                "file": "rules/weather.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Milpazul"
+              "title": "weather"
+            }
+          },
+          {
+            "id": "d10cf14a9f1ddcae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stories/MH00-Prelude.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MH00-Prelude"
+            }
+          },
+          {
+            "id": "449fbfa1e8388145",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stories/MH-01.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MH-01"
             }
           }
         ],
-        "currentTab": 14
-      },
-      {
-        "id": "ce196e2f9001aae7",
-        "type": "split",
-        "children": [
-          {
-            "id": "6b20df96ac8835da",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2771a0702e231c15",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Abyss.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Abyss"
-                }
-              },
-              {
-                "id": "5c1f25dd815cff62",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "BohaiLake.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "BohaiLake"
-                }
-              },
-              {
-                "id": "9e0f6278cb9f3a50",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Anor.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Anor"
-                }
-              },
-              {
-                "id": "01c8c3f1f2f01eef",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Dracolathe.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Dracolathe"
-                }
-              },
-              {
-                "id": "f823b7e56044b749",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "distances.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "distances"
-                }
-              },
-              {
-                "id": "0419607e3ae94a0d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Anor.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Anor"
-                }
-              },
-              {
-                "id": "2a229f1b620d45fa",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "hateswords.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "hateswords"
-                }
-              }
-            ],
-            "currentTab": 6
-          },
-          {
-            "id": "f95a241c1a1d9096",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bb0c3c82008f0933",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ZorzulasRest.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "ZorzulasRest"
-                }
-              },
-              {
-                "id": "0d4f3f7ee20e7ada",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/sage.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "sage"
-                }
-              },
-              {
-                "id": "69d0c68cf4687cd1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "secrets/world.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "world"
-                }
-              },
-              {
-                "id": "cf7ad1de21747bb4",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.11.7"
-                  },
-                  "icon": "lucide-book-up",
-                  "title": "Release Notes 1.11.7"
-                }
-              },
-              {
-                "id": "61fb4d0e3be64202",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "stories/index.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "index"
-                }
-              },
-              {
-                "id": "dcca39904e83de7b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/turns.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "turns"
-                }
-              },
-              {
-                "id": "f26db9fe61bd9030",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/encounter-hammerkeep-area.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "encounter-hammerkeep-area"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "horizontal"
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -515,7 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "16831b33c7fa36cc",
@@ -607,36 +219,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "0d4f3f7ee20e7ada",
+  "active": "449fbfa1e8388145",
   "lastOpenFiles": [
-    "Rhig.md",
-    "secrets/npcs.md",
-    "RioraRunninggoat.md",
-    "EagerWave.md",
-    "ThePrisoner.md",
-    "UndergroundThree.md",
-    "WenserWaterskin.md",
+    "rules/charlatan.md",
+    "stories/MH-01.md",
+    "stories/MH00-Prelude.md",
+    "rules/weather.md",
+    "Bandits.md",
     "Hammerkeep.md",
-    "FrugMiggledy.md",
-    "RilesGreyfox.md",
-    "RurikStoneblood.md",
-    "IronWroughtFellowship.md",
-    "ZorzulasRest.md",
-    "VorkaThousandFists.md",
-    "ThialaOstoroth.md",
-    "Raftons.md",
-    "OdineManysister.md",
-    "LodestoneTavern.md",
-    "Torog.md",
-    "ThalaneTruthhaulerKalukithino.md",
-    "OldGoatTavern.md",
-    "Traveler.md",
-    "gods.md",
-    "hateswords.md",
-    "HangmansLibrary.md",
+    "world.md",
+    "rules/tlacatecolo.md",
+    "rules/axebeak.md",
+    "TriBoarTrail.md",
+    "Tlacatecolo.md",
     "Sereno.md",
-    "images/Hammerkeep.png",
-    "images/Nuoro24mi.png",
+    "SanCitlan.md",
+    "Milpazul.md",
+    "IronWroughtFellowship.md",
+    "Hollow.md",
+    "Balfern.md",
+    "Abyss.md",
+    "Urdl.md",
+    "gods.md",
+    "Ofuzz.md",
+    "Sivekkah.md",
+    "rules/shamblingmound.md",
+    "stories/StoopSmith.md",
+    "stories/index.md",
+    "rules/woodwoad.md",
     "images/names-ho2-t.png",
     "images/names-h-ho1.png",
     "images/names-e3-g.png",
@@ -644,6 +254,8 @@
     "images/names-db2-dw-e1.png",
     "images/names-db2.png",
     "images/names-db1.png",
-    "images/map-nuoro.png"
+    "images/Hammerkeep.png",
+    "images/map-nuoro.png",
+    "images/Nuoro24mi.png"
   ]
 }
