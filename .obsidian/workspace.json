@@ -69,8 +69,7 @@
               "title": "MH-01"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,11 +218,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "449fbfa1e8388145",
+  "active": "2771a0702e231c15",
   "lastOpenFiles": [
-    "rules/charlatan.md",
-    "stories/MH-01.md",
     "stories/MH00-Prelude.md",
+    "stories/MH-01.md",
+    "rules/charlatan.md",
     "rules/weather.md",
     "Bandits.md",
     "Hammerkeep.md",
