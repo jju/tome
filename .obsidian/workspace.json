@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,13 +219,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "d10cf14a9f1ddcae",
+  "active": "449fbfa1e8388145",
   "lastOpenFiles": [
+    "stories/MH00-Prelude.md",
     "rules/wilderness.md",
     "rules/encounter.md",
     "rules/encounter-hammerkeep-area.md",
     "rules/weather.md",
-    "stories/MH00-Prelude.md",
     "stories/MH-01.md",
     "rules/charlatan.md",
     "Bandits.md",
