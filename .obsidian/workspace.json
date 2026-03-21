@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/weather.md",
+                "file": "rules/wilderness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "weather"
+              "title": "wilderness"
             }
           },
           {
@@ -69,7 +69,8 @@
               "title": "MH-01"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,12 +219,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "2771a0702e231c15",
+  "active": "d10cf14a9f1ddcae",
   "lastOpenFiles": [
+    "rules/wilderness.md",
+    "rules/encounter.md",
+    "rules/encounter-hammerkeep-area.md",
+    "rules/weather.md",
     "stories/MH00-Prelude.md",
     "stories/MH-01.md",
     "rules/charlatan.md",
-    "rules/weather.md",
     "Bandits.md",
     "Hammerkeep.md",
     "world.md",
@@ -243,9 +247,6 @@
     "Ofuzz.md",
     "Sivekkah.md",
     "rules/shamblingmound.md",
-    "stories/StoopSmith.md",
-    "stories/index.md",
-    "rules/woodwoad.md",
     "images/names-ho2-t.png",
     "images/names-h-ho1.png",
     "images/names-e3-g.png",
