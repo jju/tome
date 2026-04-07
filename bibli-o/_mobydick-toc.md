@@ -141,17 +141,11 @@
 
 A nameless usher and librarian provide a sprawling collection of whale-related quotes and definitions from world history. These fragments establish the whale as a creature of immense cultural, biological, and mythical significance before the story even begins.
 
-### 1. Loomings
 
-Ishmael explains his tendency to take to the sea whenever he feels a "damp, drizzly November" in his soul. He asserts that the ocean holds a mystic attraction for all humanity and decides to sign up for a whaling voyage.
-
-### 2. The Carpet-Bag
-
-Ishmael arrives in New Bedford on a freezing night and searches for an affordable inn. After passing several grim options, he settles on the Spouter-Inn, owned by Peter Coffin.
 
 ### 3. The Spouter-Inn
 
-Because the inn is crowded, Ishmael is forced to share a bed with a mysterious, tattooed harpooner named Queequeg. Though initially terrified by Queequeg’s appearance and "pagan" rituals, Ishmael realizes the man is harmless and even quite civil.
+
 
 ### 4. The Counterpane
 

@@ -2,6 +2,8 @@
 
 https://americanliterature.com/author/herman-melville/book/moby-dick-or-the-whale/chapter-3-the-spouter-inn
 
+> Because the inn is crowded, Ishmael is forced to share a bed with a mysterious, tattooed harpooner named Queequeg. Though initially terrified by Queequeg’s appearance and "pagan" rituals, Ishmael realizes the man is harmless and even quite civil.
+
     the weird shape of things and the need for theorizing
 
 > In fact, the artist's design seemed this: a final theory of my own, partly based upon the aggregated opinions of many aged persons with whom I conversed upon the subject. The picture represents a Cape-Horner in a great hurricane; the half-foundered ship weltering there with its three dismantled masts alone visible; and an exasperated whale, purposing to spring clean over the craft, is in the enormous act of impaling himself upon the three mast-heads.

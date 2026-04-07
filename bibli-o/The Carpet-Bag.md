@@ -2,6 +2,8 @@
 
 https://americanliterature.com/author/herman-melville/book/moby-dick-or-the-whale/chapter-2-the-carpet-bag
 
+> Ishmael arrives in New Bedford on a freezing night and searches for an affordable inn. After passing several grim options, he settles on the Spouter-Inn, owned by Peter Coffin.
+
     what to take and being stuck in delay
 
     the racist discomfort of being outside do we talk here about Winnipeg? the walk to MILL
