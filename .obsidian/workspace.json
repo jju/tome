@@ -378,12 +378,24 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "bibli-o/_mobydick-toc.md",
+                    "file": "stories/Rx01-PonyTears.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "_mobydick-toc"
+                  "title": "Rx01-PonyTears"
+                }
+              },
+              {
+                "id": "f32e8ccde93446f5",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.12.7"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.12.7"
                 }
               },
               {
@@ -455,7 +467,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -607,8 +619,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "0d4f3f7ee20e7ada",
+  "active": "f32e8ccde93446f5",
   "lastOpenFiles": [
+    "secrets/world.md",
+    "bibli-o/_mobydick-toc.md",
     "rules/sage.md",
     "stories/MH-01.md",
     "Pog.md",
@@ -633,8 +647,6 @@
     "Torog.md",
     "ThalaneTruthhaulerKalukithino.md",
     "OldGoatTavern.md",
-    "Traveler.md",
-    "gods.md",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",
     "images/names-ho2-t.png",
