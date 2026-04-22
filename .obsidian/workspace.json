@@ -234,12 +234,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secrets/world.md",
+                "file": "secrets/AbbeyReflectingMind.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "world"
+              "title": "AbbeyReflectingMind"
             }
           },
           {
@@ -406,12 +406,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "stories/index.md",
+                    "file": "stories/MH01.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "index"
+                  "title": "MH01"
                 }
               },
               {
@@ -597,8 +597,11 @@
   },
   "active": "dd251ef5b5d54de8",
   "lastOpenFiles": [
-    "secrets/AbbeyReflectingMind.md",
     "secrets/world.md",
+    "stories/MH01.md",
+    "stories/index.md",
+    "stories/MH00-Prelude.md",
+    "secrets/AbbeyReflectingMind.md",
     "bibli-o/The Street.md",
     "bibli-o/The Counterpane.md",
     "bibli-o/_mobydick-toc.md",
@@ -607,7 +610,6 @@
     "bibli-o/Loomings.md",
     "Hammerkeep.md",
     "rules/sage.md",
-    "stories/MH-01.md",
     "Pog.md",
     "Rhig.md",
     "secrets/npcs.md",
@@ -621,8 +623,6 @@
     "RurikStoneblood.md",
     "IronWroughtFellowship.md",
     "ZorzulasRest.md",
-    "VorkaThousandFists.md",
-    "ThialaOstoroth.md",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",
     "images/names-ho2-t.png",
