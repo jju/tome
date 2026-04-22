@@ -595,14 +595,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "dd251ef5b5d54de8",
+  "active": "61fb4d0e3be64202",
   "lastOpenFiles": [
+    "secrets/AbbeyReflectingMind.md",
     "rules/soldier.md",
     "rules/knight.md",
     "rules/knightorder.md",
     "rules/kobold.md",
     "rules/mercenaryveteran.md",
-    "secrets/AbbeyReflectingMind.md",
     "Dwarf.md",
     "Aarakocra.md",
     "rules/duergar.md",
