@@ -357,12 +357,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Dwarf.md",
+                    "file": "Hammerkeep.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Dwarf"
+                  "title": "Hammerkeep"
                 }
               }
             ],
@@ -595,8 +595,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "61fb4d0e3be64202",
+  "active": "2a229f1b620d45fa",
   "lastOpenFiles": [
+    "BidrithCrecur.md",
+    "LorStalk.md",
+    "Hammerkeep.md",
+    "Barfgeld.md",
+    "Dwarf.md",
+    "OckneysEye.md",
+    "Untitled.md",
+    "stories/fiendhollowmine.md",
     "stories/Hk00-Prelude.md",
     "stories/Hk01.md",
     "secrets/AbbeyReflectingMind.md",
@@ -605,7 +613,6 @@
     "rules/knightorder.md",
     "rules/kobold.md",
     "rules/mercenaryveteran.md",
-    "Dwarf.md",
     "Aarakocra.md",
     "rules/duergar.md",
     "hateswords.md",
@@ -616,13 +623,6 @@
     "bibli-o/_mobydick-toc.md",
     "bibli-o/The Spouter Inn.md",
     "bibli-o/The Carpet-Bag.md",
-    "bibli-o/Loomings.md",
-    "Hammerkeep.md",
-    "rules/sage.md",
-    "Pog.md",
-    "Rhig.md",
-    "secrets/npcs.md",
-    "RioraRunninggoat.md",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",
     "images/names-ho2-t.png",

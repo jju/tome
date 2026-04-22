@@ -31,10 +31,12 @@ The [Circle of Healing Arts](CircleofHealingArts.md) is a low wooden building ne
 * [Lodestone](LodestoneTavern.md) - sunken damp Dwarf drinking hole, usually the first stop of Imperials - barkeep [HarolGarrick](HarolGarrick.md) youngish halfling - 
 * Minstrel and Cask - best for entertainment - [CecilyQuinton](CecilyQuinton.md) proprietress 84yo Human 
 * Mourning Forest - wardens rangers and others who brave the Woods - [ZeparMurder](ZeparMurder.md) youngish tiefling
+* 
 
 ## Inns
 
 * Razorback - the roughest place (in the Docks) - run by [LaviniaDaergel](LaviniaDaergel.md) halfling woman
+* [Ockney's Eye](OckneysEye.md) - cheapest
 * Three Candles - the biggest place (near the [Hammersford](Hammersford.md) Road) - there is a lot of staff turnover
 * Clafton Inn - the classiest place (near the Keep) - managed by [LagaziProudfist](LagaziProudfist.md) owned by [FrugMiggledy](FrugMiggledy.md)
 
@@ -48,6 +50,10 @@ Not every god of the Empire has a full-on temple in Hammerkeep (this isn't [Bedw
 * Temple of [Gruumsh](Gruumsh.md) - Carved from huge timbers down by the docks, this is often where travellers stop for blessings on their way upstream. Usually that's because they've heard it's a good idea from the travellers coming downstream through the Woods. The main priest is a dour [Orc](Orc.md) named [Simple Rhela](SimpleRhela.md).
 * Temple of [Luxon](Luxon.md) - The Empty Dodecahedron has a storefront entrance to their shrine in an alley between a pair of bickering blacksmiths ([ThalaneTruthhaulerKalukithino](ThalaneTruthhaulerKalukithino.md) - Goliath & [Xokx](Xokx.md)  - Harengon). It's rare to see a priest there. Mostly it seems to be used as a modest reading room.
 
+# Other Businesses
+
+* Zan's Tradehouse - good place to find work as a caravan guard
+* 
 
 > [[places]]
 > [cities](cities.md)
