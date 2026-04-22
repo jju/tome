@@ -357,12 +357,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "hateswords.md",
+                    "file": "Dwarf.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "hateswords"
+                  "title": "Dwarf"
                 }
               }
             ],
@@ -597,11 +597,20 @@
   },
   "active": "dd251ef5b5d54de8",
   "lastOpenFiles": [
+    "rules/soldier.md",
+    "rules/knight.md",
+    "rules/knightorder.md",
+    "rules/kobold.md",
+    "rules/mercenaryveteran.md",
+    "secrets/AbbeyReflectingMind.md",
+    "Dwarf.md",
+    "Aarakocra.md",
+    "rules/duergar.md",
+    "hateswords.md",
     "secrets/world.md",
     "stories/MH01.md",
     "stories/index.md",
     "stories/MH00-Prelude.md",
-    "secrets/AbbeyReflectingMind.md",
     "bibli-o/The Street.md",
     "bibli-o/The Counterpane.md",
     "bibli-o/_mobydick-toc.md",
@@ -614,15 +623,6 @@
     "Rhig.md",
     "secrets/npcs.md",
     "RioraRunninggoat.md",
-    "EagerWave.md",
-    "ThePrisoner.md",
-    "UndergroundThree.md",
-    "WenserWaterskin.md",
-    "FrugMiggledy.md",
-    "RilesGreyfox.md",
-    "RurikStoneblood.md",
-    "IronWroughtFellowship.md",
-    "ZorzulasRest.md",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",
     "images/names-ho2-t.png",

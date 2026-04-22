@@ -3,7 +3,7 @@
 
 #### Background
 
-Long has the abbey of the Reflecting Mind sat beneath the world in darkness and solitude. Many lost souls of the Underdark reach the broken steps that lead to a quiet temple dedicated to personal reflection of self. The abbey’s acolytes welcome all to contemplate the nature of existence in halls filled with reflective surfaces that seemingly echo the viewer’s deepest desires. In actuality, the ruminations of these lost pilgrims grant control to an **allip** named Lysanthir, which in turn drives all within the abbey towards a grey, emotionless madness as they sink further into themselves. Few within the abbey recognize the danger, as the echoes seen deep within the mirrors calms bygone anguish. 
+Long has the abbey of the Reflecting Mind sat beneath the world in darkness and solitude. Many lost souls of the Underdark reach the broken steps that lead to a quiet temple dedicated to personal reflection of self. The abbey’s acolytes welcome all to contemplate the nature of existence in halls filled with reflective surfaces that seemingly echo the viewer’s deepest desires. In actuality, the ruminations of these lost pilgrims grant control to an [allip](allip.md) named Lysanthir, which in turn drives all within the abbey towards a grey, emotionless madness as they sink further into themselves. Few within the abbey recognize the danger, as the echoes seen deep within the mirrors calms bygone anguish. 
 
 #### Plot Hooks
 
@@ -27,7 +27,7 @@ The interior of the abbey is constructed entirely out of mortared stone, with tw
 
 ##### R1. Founder's statues
 
-Three life-sized statues of a drow with arms outstretched looking towards the sky stand across from each other in this circular room. A hallway leads to the east, revealing a narrow corridor choked with dust and fallen rocks to the north. Two closed doors reside within this corridor to the east and to the south. Three drow **acolytes** wait within this room and greet any who enter.  
+Three life-sized statues of an [Illithid](Illithid.md) with arms outstretched looking towards the sky stand across from each other in this circular room. A hallway leads to the east, revealing a narrow corridor choked with dust and fallen rocks to the north. Two closed doors reside within this corridor to the east and to the south. Three [Dwarf](Dwarf.md) **acolytes** wait within this room and greet any who enter.  
 
 **Statues.** The three statues are enchanted with an aura of _calm emotions_ that affect living creatures that enter the room. Creatures that attempt to resist this spell must succeed on a DC 14 Charisma saving throw. The spell’s effects last for an hour. Each creature that fails the save or accepts the enchantment increases Lysanthir’s HP max by 2 for as long as the spell holds. 
 
@@ -35,13 +35,13 @@ Three life-sized statues of a drow with arms outstretched looking towards the sk
 
 ##### R2. Reflecting pool
 
-The sound of soft water lapping fills the air of this roughly 25ft. by 25ft. chamber. Sections of the ceiling collapsed long ago and rubble sits in massive piles in the eastern and southern corners, nearly knocking down the nearby drow statues. In the center of the room is a rectangular reflecting pool with two **drow**, one duergar **veteran**, and two **deep gnome** pilgrims sitting in quiet meditation on soft pillows. Their faces appear sullen upon closer inspection. Beyond the dim light on the western wall is an engraving atop an exquisite depiction of Underdark scholars. 
+The sound of soft water lapping fills the air of this roughly 25ft. by 25ft. chamber. Sections of the ceiling collapsed long ago and rubble sits in massive piles in the eastern and southern corners, nearly knocking down the nearby drow statues. In the center of the room is a rectangular reflecting pool with two halflings, one duergar **veteran**, and two **deep gnome** pilgrims sitting in quiet meditation on soft pillows. Their faces appear sullen upon closer inspection. Beyond the dim light on the western wall is an engraving atop an exquisite depiction of Underdark scholars. 
 
 **Statues.** The statues in this room exude an aura of calmness and cast _calm emotions_ on living creatures within the room. Creatures that attempt to resist this spell must succeed on a DC 14 Charisma saving throw. The spell’s effects last for an hour. Each creature that fails the save or accepts the enchantment increases Lysanthir’s HP max by 2 for as long as the spell holds.
 
 **Pilgrims.** Getting the attention of the pilgrims is a tough endeavor, as each one is deep in thought. Any attempt to break the _calm emotions_ enchantment, breaking a statue, or attacking a pilgrim causes them all to fly into a rage and attack any interlopers. They have few possessions, though the duergar keeps a ruby-jeweled brooch worth 100 gold pieces. 
 
-**Engraving.** The wall carving shows a group of elven theologians in deep thought as identical depictions look back at themselves from mirrors. The following phrase is carved in elvish and undercommon: “Only when we reflect upon our darkest impulses does the way forward present itself”. This passage refers to the hall of mirrors (**R5**) to allow the adventurers to continue further into the abbey.
+**Engraving.** The wall carving shows a group of slender humanoid theologians in deep thought as identical depictions look back at themselves from mirrors. The following phrase is carved in elvish and undercommon: “Only when we reflect upon our darkest impulses does the way forward present itself”. This passage refers to the hall of mirrors (**R5**) to allow the adventurers to continue further into the abbey.
 
 ##### R3. Private quarters
 

@@ -18,7 +18,7 @@ Countless mercenary companies operate up and down the Wyrmscale Coast and throug
 
 You know the mercenary life as only someone who has experienced it can. You are able to identify mercenary companies by their emblems, and you know a little about any such company, including who has hired them recently. You can find the taverns and festhalls where mercenaries abide in any area, as long as you speak the language. You can find mercenary work between adventures sufficient to maintain a comfortable lifestyle (see "Practicing a Profession" under "Downtime Activities" in chapter 8 of the Player's Handbook).
 
-## Suggested Characteristics[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fdnd-5e.fandom.com%2Fwiki%2FMercenary_Veteran%3Fveaction%3Dedit%26section%3D4&uselang=en "Sign in to edit")
+## Suggested Characteristics
 
 Use the tables for the [soldier](soldier.md) background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a mercenary.
 
