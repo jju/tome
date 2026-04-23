@@ -234,12 +234,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secrets/AbbeyReflectingMind.md",
+                "file": "secrets/world.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AbbeyReflectingMind"
+              "title": "world"
             }
           },
           {
@@ -595,8 +595,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "61fb4d0e3be64202",
+  "active": "dd251ef5b5d54de8",
   "lastOpenFiles": [
+    "Karanliwood.md",
+    "Kanliwood.md",
+    "rules/allip.md",
+    "secrets/AbbeyReflectingMind.md",
+    "secrets/fiendhollowmine.md",
     "LodestoneTavern.md",
     "Hammerkeep.md",
     "stories/Hk01.md",
@@ -606,7 +611,6 @@
     "secrets/Skulk.md",
     "secrets/Rundan.md",
     "secrets/Kruthik.md",
-    "secrets/fiendhollowmine.md",
     "Rurik.md",
     "Pog.md",
     "ThialaOstoroth.md",
@@ -617,12 +621,8 @@
     "OckneysEye.md",
     "Untitled.md",
     "stories/Hk00-Prelude.md",
-    "secrets/AbbeyReflectingMind.md",
     "rules/soldier.md",
     "rules/knight.md",
-    "rules/knightorder.md",
-    "rules/kobold.md",
-    "rules/mercenaryveteran.md",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",
     "images/names-ho2-t.png",
