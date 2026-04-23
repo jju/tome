@@ -209,10 +209,76 @@ The stone of the mine entrance cavern is crumbling badly, but a character who ha
 
 **Hidden Entrance.** The people of Hollow sealed a tunnel leading to the mine's lower levels on the northwest wall after a number of explorers got lost in the mine. With a successful DC 12 Wisdom (Perception) check, a character perceives a section of the wall rattling in the wind, discovering a wooden door that was hidden behind a pile of rocks.
 
-[MISSING]
+H2: TEOCÍN's QUARTERS
+
+A makeshift wooden door blocks the entrance to this chamber. Candlelight shines through the cracks. A character who listens at the door and succeeds on a DC 13 Wisdom (Perception) check hears growling beyond it.
+
+**Passwall Trap.** A 5th-level glyph of warding holding a passwall spell is inscribed on the floor in front of the door. Characters can spot the glyph with a successful DC 15 Intelligence (Investigation) check. If someone opens the door while standing on the glyph, the glyph triggers and casts its spell on the floor around it, opening a pit into area H3.
+
+Each creature standing in the shaded spaces in front of the door on map 4.1 falls 30 feet into area H3 and takes 10 (3d6) bludgeoning damage. The glyph's effects can be avoided by opening the door from a distance, which prevents the spell from being
+triggered.
+
+Once the characters can see into this area, read the following:
+
+> The floor of this chamber is slick with blood. Two of three tables have growling corpses strapped to them.
+> A frenzied woman brandishes a knife as she undoes the straps.
 
 
-Numerous cityscapes show a distinctive vecindad, one of the manor houses converted into apartments that are common in Los Gavilanes. Many of these sketches bear the caption "Home" written in a shaky hand. This is the vecindad of Doña Rosa.
+This chamber is the workspace of Teocín, a cult fanatic dedicated to Pazuzu. As soon as the characters enter, Teocín releases the two ghouls on the tables and joins them as they attack.
+
+Teocín. The cultist Teocín uses this laboratory to research ways to corrupt the magic of the Night of the Remembered. Itzmin has convinced Serapio that Teocín is trying to find a cure for him, so the young man leaves her alone. For months, Teocín's ghouls have killed animals, hunters, prospectors, and others wandering the borderlands so Teocin can study and raise the dead using profane knowledge she gleans from unholy rites.
+
+If Teocín is captured, she says nothing to the characters, but they can learn of her goals, Orencio, and Pazuzu by looking through her notes-dozens of filthy, scrawl-covered pages strewn about the room.
+
+**Treasure.** Teocín keeps the belongings of her victims in a chest: 2,500 cp, 950 sp, and jewelry and other trinkets worth 90 gp. She also wears a periapt of health to avoid the threat of disease that comes from working with the dead.
+
+H3: CORPSE DISPOSAL
+
+The stench here is horrendous. Hundreds of humanoid and animal bones fill the chamber in charnel heaps.
+
+Teocín uses this chamber to dispose of her failed
+experiments. Two ochre jellies feed on the remains
+and are dissolving meals deep under piles of bones.
+They emerge, oozing up through the bones, as soon
+as they sense movement.
+
+If the mine entrance has not yet collapsed and all
+the characters are in or near this room, Itzmin detonates his charges (see the "Cave-In!" section earlier in the adventure.
+
+H4: SERAPIO'S QUARTERS
+
+Damaged furniture has been dragged into this area
+to create a study. Two bookshelves stand alongside
+chairs and a desk covered with papers. The rough cave walls feature gouges, as if some powerful creature dragged its claws across the stone.
+
+Itzmin set up these living quarters for Serapio, hoping to entice him away from his mother and make
+the mine feel homier. Serapio is not present when
+the characters arrive but often isolates himself here
+to hide his monstrous shape. Silence and isolation
+calm him, as does his hobby of sketching. When the
+corruption becomes too much, Serapio scratches
+the walls with his fiendish talons.
+
+Makeshift Library. The bookshelves hold a mix of
+fiction, histories, and more. A character who scans
+the shelves and succeeds on a DC 14 Intelligence
+(Investigation) check finds a spell scroll of lesser
+restoration and a book containing rituals for the
+alarm, find familiar, and illusory script spells.
+
+Drawing Desk. Nubs of charcoal and drawings
+are scattered across the desk. The sketches range
+from mundane portraits and cityscapes to ghastly
+renditions of demonic faces with saucer-sized eyes.
+Any character who knows Hammerkeep recognizes the
+cityscape drawings as depicting features from San
+Citlán's Los Gavilanes district, the city's old town. If
+the characters don't know the city, a number of the
+drawings have the legend "Los Gavilanes" on them.
+Characters looking through the drawings spot two
+things of note:
+* One sketch depicts an elegantly dressed tiefling, whom the characters recognize as Itzmin if they met him outside.
+* Numerous cityscapes show a distinctive vecindad, one of the manor houses converted into apartments that are common in Los Gavilanes. Many of these sketches bear the caption "Home" written in a shaky hand. This is the vecindad of Doña Rosa.
 
 **Hidden Locket.** A character searching the desk's otherwise empty drawers finds half of a hinged silver locket wrapped in paper. The locket contains a tiny pencil portrait of a warmly smiling woman. The characters likely have no way of knowing it yet, but this is Serapio's mother, Doña Rosa. The other half of the locket is in Serapio's room in Hammerkeep.
 
