@@ -26,19 +26,19 @@ The city has about 70 fulltime guards, some of whom are stationed in the castle 
 The [Circle of Healing Arts](CircleofHealingArts.md) is a low wooden building near the Docks. It's a place where the sick come for herbs, or for boils to be lanced or for strange illnesses to be assessed.
 ## Taverns
 
-* [Old Goat](OldGoatTavern.md) - scummy place in the Docks - [VorkaThousandFists](VorkaThousandFists.md) proprietress Super strong HalfOrc
-* [Gibbet](GibbetTavern.md) - weirdly gentrified with lots of old folk who still have their teeth - [EkemonLust](EkemonLust.md) the middle-aged dashing Tiefling runs it
-* [Lodestone](LodestoneTavern.md) - sunken damp Dwarf drinking hole, usually the first stop of Imperials - barkeep [HarolGarrick](HarolGarrick.md) youngish halfling - 
-* Minstrel and Cask - best for entertainment - [CecilyQuinton](CecilyQuinton.md) proprietress 84yo Human 
-* Mourning Forest - wardens rangers and others who brave the Woods - [ZeparMurder](ZeparMurder.md) youngish tiefling
+* [Old Goat](OldGoatTavern.md) - scummy place in the Docks - [Vorka Thousand Fists](VorkaThousandFists.md) proprietress Super strong HalfOrc
+* [Gibbet](GibbetTavern.md) - weirdly gentrified with lots of old folk who still have their teeth - [Ekemon Lust](EkemonLust.md) the middle-aged dashing Tiefling runs it
+* [Lodestone](LodestoneTavern.md) - sunken damp Dwarf drinking hole, usually the first stop of Imperials - barkeep [Harol Garrick](HarolGarrick.md) youngish halfling - 
+* Minstrel and Cask - best for entertainment - [Cecily Quinton](CecilyQuinton.md) proprietress 84yo Human 
+* Mourning Forest - wardens rangers and others who brave the Woods - [Zepar Murder](ZeparMurder.md) youngish tiefling
 * 
 
 ## Inns
 
-* Razorback - the roughest place (in the Docks) - run by [LaviniaDaergel](LaviniaDaergel.md) halfling woman
-* [Ockney's Eye](OckneysEye.md) - cheapest
+* Razorback - the roughest place (in the Docks) - run by [Lavinia Daergel](LaviniaDaergel.md) halfling woman
+* [Ockney's Eye](OckneysEye.md) - cheapest, near the 
 * Three Candles - the biggest place (near the [Hammersford](Hammersford.md) Road) - there is a lot of staff turnover
-* Clafton Inn - the classiest place (near the Keep) - managed by [LagaziProudfist](LagaziProudfist.md) owned by [FrugMiggledy](FrugMiggledy.md)
+* Clafton Inn - the classiest place (near the Keep) - managed by [Lagazi Proudfist](LagaziProudfist.md) owned by [FrugMiggledy](Frug Miggledy.md)
 
 ## Temples
 

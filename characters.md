@@ -5,7 +5,7 @@
 * Sharptooth
 * [Fillika](Fillika.md) 
 * [Rurik Stoneblood](Rurik.md)
-* [Riles Greyfox](RilesGreyfox.md)
+* [Riles Greyfox](Riles.md)
 * [Garriff "Barfgeld" Battlehammer](Barfgeld.md)
 * 
 

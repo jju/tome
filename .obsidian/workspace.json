@@ -406,12 +406,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "RilesGreyfox.md",
+                    "file": "secrets/fiendhollowmine.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "RilesGreyfox"
+                  "title": "fiendhollowmine"
                 }
               },
               {
@@ -597,9 +597,11 @@
   },
   "active": "61fb4d0e3be64202",
   "lastOpenFiles": [
-    "Human.md",
-    "RilesGreyfox.md",
+    "LodestoneTavern.md",
+    "Hammerkeep.md",
     "stories/Hk01.md",
+    "Riles.md",
+    "Human.md",
     "WardenofHammerkeep.md",
     "secrets/Skulk.md",
     "secrets/Rundan.md",
@@ -607,7 +609,6 @@
     "secrets/fiendhollowmine.md",
     "Rurik.md",
     "Pog.md",
-    "Hammerkeep.md",
     "ThialaOstoroth.md",
     "BidrithCrecur.md",
     "LorStalk.md",
@@ -622,7 +623,6 @@
     "rules/knightorder.md",
     "rules/kobold.md",
     "rules/mercenaryveteran.md",
-    "Aarakocra.md",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",
     "images/names-ho2-t.png",
