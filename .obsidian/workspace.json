@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1e94059322fd0c8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FrugMiggledy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FrugMiggledy"
-            }
-          },
-          {
-            "id": "7a2cc39b2ff7dd8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/spawnofkyuss.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "spawnofkyuss"
-            }
-          },
-          {
             "id": "3044ebd7d7c0a5d1",
             "type": "leaf",
             "state": {
@@ -299,7 +271,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 1
       },
       {
         "id": "ce196e2f9001aae7",
@@ -399,12 +371,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "CircleofHealingArts.md",
+                    "file": "stories/Hk01.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "CircleofHealingArts"
+                  "title": "Hk01"
                 }
               }
             ],
@@ -476,16 +448,16 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/encounter-hammerkeep-area.md",
+                    "file": "secrets/Alhoon.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "encounter-hammerkeep-area"
+                  "title": "Alhoon"
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 4
           }
         ],
         "direction": "horizontal"
@@ -639,7 +611,21 @@
   },
   "active": "2a229f1b620d45fa",
   "lastOpenFiles": [
+    "secrets/Alhoon.md",
+    "secrets/Skulk.md",
+    "rules/encounter-hammerkeep-area.md",
+    "rules/woodwoad.md",
+    "rules/awakenedtree.md",
+    "rules/spawnofkyuss.md",
+    "FrugMiggledy.md",
+    "stories/Hk01.md",
+    "stories/Orfuzz.md",
+    "Orfuzz.md",
+    "rules/turns.md",
     "secrets/fiendhollowmine.md",
+    "stories/Rx01-PonyTears.md",
+    "secrets/npcs.md",
+    "WardenofHammerkeep.md",
     "CircleofHealingArts.md",
     "Hammerkeep.md",
     "secrets/underdarkitems.md",
@@ -652,20 +638,6 @@
     "secrets/world.md",
     "Karanliwood.md",
     "Kanliwood.md",
-    "rules/allip.md",
-    "secrets/AbbeyReflectingMind.md",
-    "LodestoneTavern.md",
-    "stories/Hk01.md",
-    "Riles.md",
-    "Human.md",
-    "WardenofHammerkeep.md",
-    "secrets/Skulk.md",
-    "secrets/Rundan.md",
-    "secrets/Kruthik.md",
-    "Rurik.md",
-    "Pog.md",
-    "ThialaOstoroth.md",
-    "BidrithCrecur.md",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",
     "images/names-h-ho1.png",

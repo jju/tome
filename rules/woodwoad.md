@@ -19,7 +19,8 @@ Speed 30 ft., climb 30 ft.
 | CHA | 8   | -1  | -1   |
 **Skills** Athletics +7, Perception +4, Stealth +4
 **Damage Vulnerabilities** fire
-**Damage Resistances** bludgeoning, piercing Condition Immunities charmed, frightened
+**Damage Resistances** bludgeoning, piercing 
+**Condition Immunities** charmed, frightened
 **Senses** darkvision 60 ft., Passive Perception 14
 **Languages** Sylvan
 **CR** 5 (1,800 XP; PB +3)
