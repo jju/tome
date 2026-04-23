@@ -20,6 +20,8 @@ The Keep the city draws its name from is home to [Bidrith Crecur](BidrithCrecur.
 
 Along with [Lady Hammerkeep](BidrithCrecur.md) and her retinue, the [Imperial Warden](WardenofHammerkeep.md) is stationed at the castle in a cottage eating at the Lady's table, making sure the king's trees and wildlife aren't taken by poachers, and keeping paths safe for Empire. Officially at least. The truth is that the warden's patrols follow very well-worn and predictable paths through the Woods, since leaving them makes for dead rangers.
 
+There's also a council of advisors for the city. This includes [Lor Stalk](LorStalk.md) as well as [Snerpi](Snerpi.md), [Brecken Dirtbone](BreckenDirtbone.md), [DalrigGravelmantle](DalrigGravelmantle.md) and [Creed Itzmin](Itzmin.md).
+
 The city has about 70 fulltime guards, some of whom are stationed in the castle when on duty. Their leader is [Thiala Ostoroth](ThialaOstoroth.md) an imperious [Aarakocra](Aarakocra.md).
 
 

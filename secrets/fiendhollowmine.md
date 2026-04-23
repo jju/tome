@@ -214,56 +214,45 @@ The stone of the mine entrance cavern is crumbling badly, but a character who ha
 
 Numerous cityscapes show a distinctive vecindad, one of the manor houses converted into apartments that are common in Los Gavilanes. Many of these sketches bear the caption "Home" written in a shaky hand. This is the vecindad of Doña Rosa.
 
-**Hidden Locket.** A character searching the desk's otherwise empty drawers finds half of a hinged silver locket wrapped in paper. The locket contains a tiny pencil portrait of a warmly smiling woman. The characters likely have no way of knowing it yet, but this is Serapio's mother, Doña Rosa. The other half of the locket is in Serapio's room in San Citlán.
+**Hidden Locket.** A character searching the desk's otherwise empty drawers finds half of a hinged silver locket wrapped in paper. The locket contains a tiny pencil portrait of a warmly smiling woman. The characters likely have no way of knowing it yet, but this is Serapio's mother, Doña Rosa. The other half of the locket is in Serapio's room in Hammerkeep.
 
 H5: WAILING CAVERN
 
 The wailing wind that gusts intermittently through the mine rises to a continuous howl in this cavern.
-The elevator shaft in area H1 ends in this cavern's ceiling, and the elevator cage might have crashed to
-the floor below if the characters tried to use it. This sizable cavern's ceiling is thirty feet high, and strange symbols are scrawled across its walls. The skeletons of two huge creatures are here, one embedded in the east wall and the other coiled around an altar covered in filthy feathers.
+The elevator shaft in area H1 ends in this cavern's ceiling, and the elevator cage might have crashed to the floor below if the characters tried to use it. This sizable cavern's ceiling is thirty feet high, and strange symbols are scrawled across its walls. The skeletons of two huge creatures are here, one embedded in the east wall and the other coiled around an altar covered in filthy feathers.
 
-Itzmin uses this cavern as a secret space to worship Pazuzu, performing rites that would draw attention
-in San Citlán. 
+Itzmin uses this cavern as a secret space to worship Pazuzu, performing rites that would draw attention in Hammerkeep. 
 
 Demonic Scrawls. The symbols scrawled across the walls are in Abyssal and represent omens and prophecies sent by Pazuzu to Itzmin. A character who understands Abyssal or succeeds on a DC 13
-Intelligence (Arcana or Religion) check gleans that an innocent creature is being twisted into an envoy
-of Pazuzu and is spreading corruption through the region.
+Intelligence (Arcana or Religion) check gleans that an innocent creature is being twisted into an envoy of Pazuzu and is spreading corruption through the region.
 
 Dinosaur Skeletons. These giant skeletons were unearthed shortly before the silver in the mine ran out, inspiring talk that the mine was cursed. When Teocín first joined Itzmin here, she drew on the power of Pazuzu to turn these skeletons into guardians.
 
-If a character approaches within 10 feet of the altar, the two skeletons animate and attack. They both
-use the allosaurus stat block, with these changes:
+If a character approaches within 10 feet of the altar, the two skeletons animate and attack. They both use the allosaurus stat block, with these changes:
 
 • They are Undead.
-• They are vulnerable to bludgeoning damage, immune to poison damage, and immune to exhaus-
-tion and the poisoned condition.
+• They are vulnerable to bludgeoning damage, immune to poison damage, and immune to exhaustion and the poisoned condition.
 • They have darkvision out to a range of 60 feet.
 
 H6: TUNNEL TO SAN CITLÁN
 
-Eerie scrawls cover the walls of this long, straight tunnel. A breeze flows from that darkness, carrying a faint
-scent of smoke. Foul-looking feathers litter the floor, and claw marks gouge the stone walls. This ancient tunnel runs south toward San Citlán.
+Eerie scrawls cover the walls of this long, straight tunnel. A breeze flows from that darkness, carrying a faint scent of smoke. Foul-looking feathers litter the floor, and claw marks gouge the stone walls. This ancient tunnel runs northwest toward Hammerkeep.
 
 Itzmin, Teocín, and Serapio travel this passage from the city to the mine without attracting attention. After the demolition of area H1, this tunnel is the characters' only escape route from the mine.
 
-The feathers here are unnatural, and any character who has proficiency in the Religion skill can tell they are from a fiendish creature. The claw marks match the marks in area H4. A character who can automatically sense direction or who succeeds on a DC 12 Wisdom (Survival) check knows the tunnel leads south toward San Citlán.
+The feathers here are unnatural, and any character who has proficiency in the Religion skill can tell they are from a fiendish creature. The claw marks match the marks in area H4. A character who can automatically sense direction or who succeeds on a DC 12 Wisdom (Survival) check knows the tunnel leads northwest toward Hammerkeep.
 
 DRY CENOTE
 
 The tunnel leads the characters to a dry cenote in the district of Los Gavilanes within San Citlán. The cenote was mined when the city was first established, but these mines were abandoned centuries ago, leaving old scaffolding that can be used to climb approximately 100 feet to the surface.
 
-Impoverished citizens dwell amid the scaffolding. They're surprised to see strangers emerge from the
-depths but don't bother the characters. If questioned about anything strange they might have seen, these
-locals prove tight-lipped. Should a character succeed on a DC 12 Charisma (Persuasion) check or offer at least 1 sp in exchange for information, someone admits having seen a strange spotted owl flying in and out of the cenote at night.
+Impoverished citizens dwell amid the scaffolding. They're surprised to see strangers emerge from the depths but don't bother the characters. If questioned about anything strange they might have seen, these locals prove tight-lipped. Should a character succeed on a DC 12 Charisma (Persuasion) check or offer at least 1 sp in exchange for information, someone admits having seen a strange spotted owl flying in and out of the cenote at night.
 
 NIGHT OF THE REMEMBERED
 
-Emerging from the cenote, the characters find themselves in San Citlán in the midst of the Night of the Remembered celebrations. The characters can make their way through the city without incident,
-but the festivities are unignorable.
+Emerging from the cenote, the characters find themselves in Hammerkeep in the midst of the Night of the Remembered celebrations. The characters can make their way through the city without incident, but the festivities are unignorable.
 
-Colorful flowers and paper decorations hang between buildings, and delicious scents waft from the food
-stalls at every street corner. Locals wearing elaborate masks and costumes celebrate in the streets. Well-dressed skeletons walk alongside pompous-looking business barons, and mischievous children in devil
-costumes poke at onlookers with toy tridents.
+Colorful flowers and paper decorations hang between buildings, and delicious scents waft from the food stalls at every street corner. Locals wearing elaborate masks and costumes celebrate in the streets. Well-dressed skeletons walk alongside pompous-looking business barons, and mischievous children in devil costumes poke at onlookers with toy tridents.
 
 A character who succeeds on a DC 14 Intelligence (History or Religion) check knows the costumes represent La Catrina, patron spirit of the city; Don Roque, a long-dead politician who became the satirical face of the government; and Los Diablitos, comical renditions of fiends from local fables.
 
@@ -274,8 +263,7 @@ While the characters explored Hollow Mine, a desperate Serapio watched the prepa
 The characters can learn about his plight at Dona Rosa's vecindad, which they might find in multiple ways:
 
 • A character who has a passive Wisdom (Perception) score of 12 or higher notices folk on the street pointing at the sky. If asked, the people say an owl has been flying over the district during daylight-a strange portent on the Night of the Remembered. The characters can determine the owl's course by succeeding on a DC 14 Wisdom (Perception or Survival) check, which leads them to Doña Rosa's feather-littered vecindad.
-• A character can show the locket containing Dota Rosa's portrait to passersby. If they do so and suc-
-ceed on a DC 14 Charisma (Persuasion) check, a character finds a local or recognizes the picture and provides directions to Doña Rosa's home.
+• A character can show the locket containing Dota Rosa's portrait to passersby. If they do so and succeed on a DC 14 Charisma (Persuasion) check, a character finds a local or recognizes the picture and provides directions to Doña Rosa's home.
 • If the characters kept Serapio's cityscape drawings, they can use it to find the vecindad with a successful DC 14 Wisdom (Survival) check.
 
 As the characters near the vecindad, folk on the street can direct the party toward the old manor house if the characters show them Serapio's sketches. If the characters found the half-locket in area H4 of Hollow Mine, they can use a locate object spell to find the other half of the locket once they are within 1,000 feet of the vecindad.
@@ -330,8 +318,7 @@ Setting an Ofrenda. The shared altar has enough space for each character to set 
 • While it is customary to have a portrait of the deceased on the ofrenda, it's not a requirement.
 • Offerings might include any kind of food and drink that the deceased enjoyed in life or small curios.
 
-A character who sets an ofrenda communes with the soul they're honoring and receives the Guidance
-of the Remembered charm.
+A character who sets an ofrenda communes with the soul they're honoring and receives the Guidance of the Remembered charm.
 
 Guidance of the Remembered. A deceased ancestor or loved one provides you with guidance, granting you insight via a charm (a type of supernatural gift detailed in the Dungeon Master's Guide).
 
@@ -347,8 +334,7 @@ As the characters leave the vecindad, they spot Itzmin or his replacement approa
 
 PARADE CHASE
 
-Itzmin tries to lose the characters by running into a crowd celebrating the Night of the Remembered-
-ultimately headed for the metalworks where Serapio hides. However, the characters can give chase.
+Itzmin tries to lose the characters by running into a crowd celebrating the Night of the Remembered-ultimately headed for the metalworks where Serapio hides. However, the characters can give chase.
 
 After rolling initiative, each participant in the chase can take one action and move on its turn. 
 
@@ -374,11 +360,9 @@ PARADE CHASE COMPLICATIONS
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | A 20-foot-tall, papier mâché skeleton puppet walks across the street. Make a DC 10 Dexterity saving throw to avoid being stepped on. On a failed check, you take 5(2d4) bludgeoning damage and fall prone. |
 | 2   | Fireworks go off nearby. Make a DC 10 Constitution saving throw. On a failed save, you are blinded by smoke until the end of your turn. While blinded your speed is halved.                                |
-| 3   | Centaur acrobats are performing in your path. Make a DC 15 Dexterity (Acrobatics) check. On a                                                                                                              |
-success, they lift you from the waist and speed you forward 30 feet. On a failed check, you fall prone. |
+| 3   | Centaur acrobats are performing in your path. Make a DC 15 Dexterity (Acrobatics) check. On a                                                                                                              |success, they lift you from the waist and speed you forward 30 feet. On a failed check, you fall prone. |
 | 4 | Peaceful spectral dancers fill the street. Make a DC 15 Charisma (Performance) check to flow with their movements. On a failed check, they impede your sight and count as 10 feet of difficult terrain. |
-| 5 | A religious procession blocks your way. Make a DC 10 Intelligence (Religion) check to recognize their
-customs and move respectfully among them. On a success, a thankful cleric casts bless on you. On a failed check, they cast bane instead (save DC 14). |
+| 5 | A religious procession blocks your way. Make a DC 10 Intelligence (Religion) check to recognize their customs and move respectfully among them. On a success, a thankful cleric casts bless on you. On a failed check, they cast bane instead (save DC 14). |
 | 6-10 | No complication |
 
 ENDING THE CHASE
@@ -387,9 +371,9 @@ The chase ends when either side gives up the chase, when Itzmin escapes, or when
 
 If the lead pursuer has proficiency in Survival, Itzmin loses advantage. The check's result is compared to the passive Wisdom (Perception) scores of the pursuers.
 
-If lumin is never out of the lead pursuer's sight, the check fails automatically. Otherwise, if the result of lizmin's check is greater than the highest passive Wisdom (Perception) score, he escapes. If not, the chase continues for another round.
+If ltzmin is never out of the lead pursuer's sight, the check fails automatically. Otherwise, if the result of lizmin's check is greater than the highest passive Wisdom (Perception) score, he escapes. If not, the chase continues for another round.
 
-If the characters catch Izmin, he tells them where Serapio is in exchange for his release. Should Itzmin escape, the character who has the highest passive Wisdom (Perception) score sees a spotted owl (Serapio in his owl form) overhead, watching Itzmin. They can follow the owl to the metalworks.
+If the characters catch Itzmin, he tells them where Serapio is in exchange for his release. Should Itzmin escape, the character who has the highest passive Wisdom (Perception) score sees a spotted owl (Serapio in his owl form) overhead, watching Itzmin. They can follow the owl to the metalworks.
 
 METALWORKS CONFRONTATION
 
@@ -413,14 +397,13 @@ FACING SERAPIO
 
 When the characters arrive, Serapio the tlacatecolo (see the end of this adventure) is lurking on the catwalk. If Itzmin has been dealt with, the young man is struggling with his fiendish form, overcome by fear and rocking back and forth. If Itzmin reached the warehouse before the characters, Serapio is expecting danger and is ready to attack.
 
-Talking Things Through. Trying to calm Serapio enough to talk to him requires convincing roleplay-
-ing and a DC 14 Charisma (Persuasion) check. If a character succeeds on this check before battle begins, Serapio temporarily overcomes the demonic influence afflicting him and reverts to his natural form, that of a human. He maintains this form for 1 minute, during which he begs the characters to find a way to end the curse afflicting him. After doing so, he transforms back into a tlacatecolo and attacks.
+**Talking Things Through.** Trying to calm Serapio enough to talk to him requires convincing roleplaying and a DC 14 Charisma (Persuasion) check. If a character succeeds on this check before battle begins, Serapio temporarily overcomes the demonic influence afflicting him and reverts to his natural form, that of a human. He maintains this form for 1 minute, during which he begs the characters to find a way to end the curse afflicting him. After doing so, he transforms back into a tlacatecolo and attacks.
 
 If Serapio attacks the characters before they can speak with him, a character can use an action to try to calm Serapio by making a DC 14 Charisma (Persuasion) check. Succeeding on this check once causes Serapio to hesitate, but he keeps attacking.
 
 Succeeding twice causes Serapio to regain control and transform back into a human (as noted above). If Serapio throws off the demonic influence, and the characters attack or threaten him in any way, the fiend takes control of him again, causing him to transform back into a tlacatecolo and attack. Serapio can't be talked into transforming back into a human more than once.
 
-Advantage and Disadvantage. If a character shows Serapio part of his locket, the young man's determination to fight the fiendish influence is bolstered, giving the characters advantage on checks made to convince him to stand down. If Itzmin is there, he goads Serapio to attack, giving the characters disadvantage.
+**Advantage and Disadvantage.** If a character shows Serapio part of his locket, the young man's determination to fight the fiendish influence is bolstered, giving the characters advantage on checks made to convince him to stand down. If Itzmin is there, he goads Serapio to attack, giving the characters disadvantage.
 
 FIGHTING THE FIEND
 
