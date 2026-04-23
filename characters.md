@@ -4,7 +4,7 @@
 * [Rexer the Third](RexerIII.md)
 * Sharptooth
 * [Fillika](Fillika.md) 
-* [Rurik Stoneblood](RurikStoneblood.md)
+* [Rurik Stoneblood](Rurik.md)
 * [Riles Greyfox](RilesGreyfox.md)
 * [Garriff "Barfgeld" Battlehammer](Barfgeld.md)
 * 

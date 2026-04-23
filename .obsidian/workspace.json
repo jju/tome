@@ -406,12 +406,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "stories/fiendhollowmine.md",
+                    "file": "RilesGreyfox.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "fiendhollowmine"
+                  "title": "RilesGreyfox"
                 }
               },
               {
@@ -595,18 +595,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "2a229f1b620d45fa",
+  "active": "61fb4d0e3be64202",
   "lastOpenFiles": [
+    "Human.md",
+    "RilesGreyfox.md",
+    "stories/Hk01.md",
+    "WardenofHammerkeep.md",
+    "secrets/Skulk.md",
+    "secrets/Rundan.md",
+    "secrets/Kruthik.md",
+    "secrets/fiendhollowmine.md",
+    "Rurik.md",
+    "Pog.md",
+    "Hammerkeep.md",
+    "ThialaOstoroth.md",
     "BidrithCrecur.md",
     "LorStalk.md",
-    "Hammerkeep.md",
     "Barfgeld.md",
     "Dwarf.md",
     "OckneysEye.md",
     "Untitled.md",
-    "stories/fiendhollowmine.md",
     "stories/Hk00-Prelude.md",
-    "stories/Hk01.md",
     "secrets/AbbeyReflectingMind.md",
     "rules/soldier.md",
     "rules/knight.md",
@@ -614,15 +623,6 @@
     "rules/kobold.md",
     "rules/mercenaryveteran.md",
     "Aarakocra.md",
-    "rules/duergar.md",
-    "hateswords.md",
-    "secrets/world.md",
-    "stories/index.md",
-    "bibli-o/The Street.md",
-    "bibli-o/The Counterpane.md",
-    "bibli-o/_mobydick-toc.md",
-    "bibli-o/The Spouter Inn.md",
-    "bibli-o/The Carpet-Bag.md",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",
     "images/names-ho2-t.png",

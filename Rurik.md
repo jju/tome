@@ -1,4 +1,4 @@
-A [Goliath](Goliath.md) with an inferiority complex… 
+Rurik Stoneblood is a [Goliath](Goliath.md) with an inferiority complex… 
 
 Rurik’s a glue guy who can lead with a morale-boosting, oft-crude joke or by being first in the fight and last out. He’s as skilled with his tongue as he is with his blade, but he knows, in his heart of hearts, that he’ll never live up to his Goliath ancestry… those mythical heroes of old cast long shadows over his measly existence. 
 
@@ -16,7 +16,7 @@ He believes that he’ll never see home or family again. He only has his party, 
 
 ## Rurik and the Rat
 
-It started shortly after arriving in [Hammerkeep](Hammerkeep.md), when [RurikStoneblood](RurikStoneblood.md) ran into an artist acquaintance on the street (they met at a creatives-only retreat... meh, but the stew was good). Rurik and [J.P. Ratquiat](JPRatquiat.md) went for a catch-up stroll, within a block, multiple passers-by exclaimed things like: "Jesus, I bet you make the girls go _up_ on you", "I've got a chandelier needs a dustin'", and "Look, an Ent!", Rurik and Rat decided to cash in. They barked for these boardwalk caricatures, and had a steady stream of young'uns tugging at their mom's sleeves "Can I? Can I?" Business was good. For an extra fee, Rat would paint it as a WANTED poster, complete with fake cash reward.  
+It started shortly after arriving in [Hammerkeep](Hammerkeep.md), when [Rurik](Rurik.md) ran into an artist acquaintance on the street (they met at a creatives-only retreat... meh, but the stew was good). Rurik and [J.P. Ratquiat](JPRatquiat.md) went for a catch-up stroll, within a block, multiple passers-by exclaimed things like: "Jesus, I bet you make the girls go _up_ on you", "I've got a chandelier needs a dustin'", and "Look, an Ent!", Rurik and Rat decided to cash in. They barked for these boardwalk caricatures, and had a steady stream of young'uns tugging at their mom's sleeves "Can I? Can I?" Business was good. For an extra fee, Rat would paint it as a WANTED poster, complete with fake cash reward.  
   
 Well - the WANTED posters backfired when a local tough looked on as a kid was showing his painting to a playmate - the tough recognized Rurik and tracked him down for the bounty. Rurik tried to reason with him, but there's no taming money-crazy, so the tough had to be tenderized.  
   
