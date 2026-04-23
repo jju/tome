@@ -371,12 +371,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "stories/Hk01.md",
+                    "file": "Illithid.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Hk01"
+                  "title": "Illithid"
                 }
               }
             ],
@@ -611,6 +611,7 @@
   },
   "active": "2a229f1b620d45fa",
   "lastOpenFiles": [
+    "stories/Hk01.md",
     "secrets/Alhoon.md",
     "secrets/Skulk.md",
     "rules/encounter-hammerkeep-area.md",
@@ -618,7 +619,6 @@
     "rules/awakenedtree.md",
     "rules/spawnofkyuss.md",
     "FrugMiggledy.md",
-    "stories/Hk01.md",
     "stories/Orfuzz.md",
     "Orfuzz.md",
     "rules/turns.md",
