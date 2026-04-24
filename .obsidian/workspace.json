@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hammerkeep.md",
+                "file": "secrets/AbbeyReflectingMind.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hammerkeep"
+              "title": "AbbeyReflectingMind"
             }
           }
         ]
@@ -37,12 +37,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/wilderness.md",
+                    "file": "rules/allip.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "wilderness"
+                  "title": "allip"
                 }
               }
             ]
@@ -217,24 +217,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "aeae2295485df782",
+  "active": "2771a0702e231c15",
   "lastOpenFiles": [
+    "rules/wilderness.md",
+    "secrets/AbbeyReflectingMind.md",
+    "Hammerkeep.md",
+    "secrets/fiendhollowmine.md",
     "rules/sorcerer.md",
     "rules/wizard.md",
     "rules/acolyte.md",
     "rules/cultist.md",
-    "secrets/fiendhollowmine.md",
     "Sereno.md",
     "Tlacatecolo.md",
     "rules/tlacatecolo.md",
-    "rules/wilderness.md",
     "stories/MH00-Prelude.md",
     "stories/MH-01.md",
     "stories/Orfuzz.md",
     "stories/Hk01.md",
     "stories/Hk00-Prelude.md",
     "secrets/underdarkitems.md",
-    "secrets/AbbeyReflectingMind.md",
     "Rurik.md",
     "Riles.md",
     "Orfuzz.md",
@@ -244,7 +245,6 @@
     "rules/encounter.md",
     "rules/encounter-hammerkeep-area.md",
     "rules/weather.md",
-    "rules/charlatan.md",
     "images/names-ho2-t.png",
     "images/names-h-ho1.png",
     "images/names-e3-g.png",
