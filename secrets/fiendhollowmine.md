@@ -224,7 +224,7 @@ Once the characters can see into this area, read the following:
 > A frenzied woman brandishes a knife as she undoes the straps.
 
 
-This chamber is the workspace of Teocín, a cult fanatic dedicated to Pazuzu. As soon as the characters enter, Teocín releases the two ghouls on the tables and joins them as they attack.
+This chamber is the workspace of Teocín, a [cultist](cultist.md) dedicated to Pazuzu. As soon as the characters enter, Teocín releases the two ghouls on the tables and joins them as they attack.
 
 Teocín. The cultist Teocín uses this laboratory to research ways to corrupt the magic of the Night of the Remembered. Itzmin has convinced Serapio that Teocín is trying to find a cure for him, so the young man leaves her alone. For months, Teocín's ghouls have killed animals, hunters, prospectors, and others wandering the borderlands so Teocin can study and raise the dead using profane knowledge she gleans from unholy rites.
 
