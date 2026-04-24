@@ -37,12 +37,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/allip.md",
+                    "file": "rules/wilderness.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "allip"
+                  "title": "wilderness"
                 }
               }
             ]
@@ -219,6 +219,7 @@
   },
   "active": "2771a0702e231c15",
   "lastOpenFiles": [
+    "rules/allip.md",
     "rules/wilderness.md",
     "secrets/AbbeyReflectingMind.md",
     "Hammerkeep.md",
@@ -244,7 +245,6 @@
     "Pog.md",
     "rules/encounter.md",
     "rules/encounter-hammerkeep-area.md",
-    "rules/weather.md",
     "images/names-ho2-t.png",
     "images/names-h-ho1.png",
     "images/names-e3-g.png",
