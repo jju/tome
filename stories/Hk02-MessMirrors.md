@@ -1,10 +1,12 @@
+# A Mess of Mirrors
+
 > previously: [Hk01-InvestigationInvisible](Hk01-InvestigationInvisible.md)
 
 After dropping off the wagon with the invisible corpses and the surviving Tieflings, [Orfuzz](../Orfuzz.md) told them she'd meet them in the morning and the party made their ways off to their regular lodgings.
 
 In the morning [Pog](../Pog.md) slept in, but Orfuzz paid the group 20sp each (in various coins) and tried to take a report, but [Riles](../Riles.md) convinced her to set up a meeting with the [WardenofHammerkeep](WardenofHammerkeep.md) later in the day.
 
-They spent some time in town gathering supplies for heading out to the standing stones and the underground. [Rurik](../Rurik.md) heard from friends of friends of people who had seen the really big owl, so he got pretty worked up about the mystical connection this thing is an omen of. Maybe it's a god? Riles found out that he needed to talk to someone down in the Docks that handles wine shipping to learn a bit more about [GrapplersCreek](GrapplersCreek.md). [Barfgeld](../Barfgeld.md) had everything he needed and was basically good to get on the road.
+They spent some time in town gathering supplies (rope, shovel, bag of chalk) for heading out to the standing stones and the underground. [Rurik](../Rurik.md) heard from friends of friends of people who had seen the really big owl, so he got pretty worked up about the mystical connection this thing is an omen of. Maybe it's a god? Riles found out that he needed to talk to someone down in the Docks that handles wine shipping to learn a bit more about [GrapplersCreek](GrapplersCreek.md). [Barfgeld](../Barfgeld.md) had everything he needed and was basically good to get on the road.
 
 When they met with [Suffering Yilmaz](WardenofHammerkeep.md) in the Warden's cottage at the Keep they received his thanks and a commission to go investigate these standing stones and bring back a full report on what killed his sister-in-law and traumatized his nephew. Part of his stated reason for getting the party to do this was because they'd been out there already and that half his rangers were out sick. He agreed to pay them quintuple their fee for the report (half now and half on return[^1]). Riles noted that Yilmaz seemed preoccupied, and not about his dead sister-in-law. He seemed worried about something else.
 
@@ -16,4 +18,10 @@ Riles headed to the docks and eventually found a gnome who dealt in wine to shar
 
 [^2]: 6.2 on a 10-point bustle scale
 
-The next day
+The next day Riles, Rurik and Barfgeld hiked out to Grapplers' Creek. Even from the bridge outside town it was obvious that there was no bustle. No chimney-smoke, no people. The orchards were leafless, but in a basically wintry way. They checked a couple of houses and the small temple of [Pelor](../Pelor.md) and found a bunch of bloodily dead bodies. The blood was dried and the bodies were decomposing so Rurik declared the deaths were probably "a week to ten days ago."[^3]
+
+[^3]: Rurik's expertise on these matters is debatable.
+
+The three adventurers headed into the forest (Rurik tossed Barfgeld over the creek for a bit of fun and muddy mess). Luckily, since Pog wasn't with them,[^4] the trail of the body (and their expediton) from a couple of days before made
+
+[^4]: They left him a note (and his share of the fee) so he'd know where they were headed.

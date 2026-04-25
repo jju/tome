@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IC4996.md",
+                "file": "Pelor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IC4996"
+              "title": "Pelor"
             }
           },
           {
@@ -385,12 +385,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "stories/Hk02.md",
+                    "file": "stories/Hk02-MessMirrors.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Hk02"
+                  "title": "Hk02-MessMirrors"
                 }
               }
             ],
@@ -623,14 +623,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "6913666b30369226",
+  "active": "0bde4014683a316c",
   "lastOpenFiles": [
+    "stories/Hk01-InvestigationInvisible.md",
+    "stories/Hk02-MessMirrors.md",
+    "Pelor.md",
+    "IC4996.md",
     "secrets/world.md",
     "secrets/history.md",
     "rules/woodwoad.md",
     "secrets/Alhoon.md",
-    "stories/Hk02.md",
-    "stories/Hk01-InvestigationInvisible.md",
     "Orfuzz.md",
     "stories/index.md",
     "secrets/Illithid.md",
@@ -650,8 +652,6 @@
     "secrets/underdarkitems.md",
     "images/names-ho2-t.png",
     "Untitled.md",
-    "Untitled 1.md",
-    "Hollow.md",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",
     "images/names-h-ho1.png",
