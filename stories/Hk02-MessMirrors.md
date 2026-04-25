@@ -1,12 +1,12 @@
-# A Mess of Mirrors
+# A Mess and Mirrors
 
 > previously: [Hk01-InvestigationInvisible](Hk01-InvestigationInvisible.md)
 
 After dropping off the wagon with the invisible corpses and the surviving Tieflings, [Orfuzz](../Orfuzz.md) told them she'd meet them in the morning and the party made their ways off to their regular lodgings.
 
-In the morning [Pog](../Pog.md) slept in, but Orfuzz paid the group 20sp each (in various coins) and tried to take a report, but [Riles](../Riles.md) convinced her to set up a meeting with the [WardenofHammerkeep](WardenofHammerkeep.md) later in the day.
+In the morning [Pog](../Pog.md) slept in, but Orfuzz paid the group 20sp each (in various coins) and tried to take a report, but [Riles](../Riles.md) convinced her to set up a meeting with the [Warden of Hammerkeep](WardenofHammerkeep.md) later in the day.
 
-They spent some time in town gathering supplies (rope, shovel, bag of chalk) for heading out to the standing stones and the underground. [Rurik](../Rurik.md) heard from friends of friends of people who had seen the really big owl, so he got pretty worked up about the mystical connection this thing is an omen of. Maybe it's a god? Riles found out that he needed to talk to someone down in the Docks that handles wine shipping to learn a bit more about [GrapplersCreek](GrapplersCreek.md). [Barfgeld](../Barfgeld.md) had everything he needed and was basically good to get on the road.
+They spent some time in town gathering supplies (rope, shovel, bag of chalk) for heading out to the standing stones and the underground. [Rurik](../Rurik.md) heard from friends of friends of people who had seen the really big owl, so he got pretty worked up about the mystical connection this thing is an omen of. Maybe it's a god? Riles found out that he needed to talk to someone down in the Docks that handles wine shipping to learn a bit more about [Grapplers' Creek](../GrapplersCreek.md). [Barfgeld](../Barfgeld.md) had everything he needed and was basically good to get on the road.
 
 When they met with [Suffering Yilmaz](WardenofHammerkeep.md) in the Warden's cottage at the Keep they received his thanks and a commission to go investigate these standing stones and bring back a full report on what killed his sister-in-law and traumatized his nephew. Part of his stated reason for getting the party to do this was because they'd been out there already and that half his rangers were out sick. He agreed to pay them quintuple their fee for the report (half now and half on return[^1]). Riles noted that Yilmaz seemed preoccupied, and not about his dead sister-in-law. He seemed worried about something else.
 
@@ -22,6 +22,14 @@ The next day Riles, Rurik and Barfgeld hiked out to Grapplers' Creek. Even from 
 
 [^3]: Rurik's expertise on these matters is debatable.
 
-The three adventurers headed into the forest (Rurik tossed Barfgeld over the creek for a bit of fun and muddy mess). Luckily, since Pog wasn't with them,[^4] the trail of the body (and their expediton) from a couple of days before made
+The three adventurers headed past the Suffering farm and into the forest. (Rurik tossed Barfgeld over the creek for a bit of fun and muddy mess.) Luckily, since Pog wasn't with them,[^4] the trail of the body (and their expedition) from a couple of days before made a very obvious and easy to follow path. For safety's sake, Rurik also made chalk marks on trees as they passed. They made it to the standing stones without being attacked by any invisible creatures.
 
-[^4]: They left him a note (and his share of the fee) so he'd know where they were headed.
+[^4]: They left Pog a note (and his share of the fee) so he'd know where they were headed.
+
+On arrival at the standing stones the party worked on exposing the staircase under the toppled stone they discovered previously. Barfgeld was less effective in this than expected (due to the slippery mud on his boots) and when he was searching for a tree to chop down for leverage he was totally spooked by a weird bunch of wood suspended from the branches of a tree. This looked "just like" the warding bundles his grandmother used to hang up to keep evil spirits away, so he decided against chopping anything down.
+
+Loud booming noises came from the flat central stone when the party was trying to move the toppled standing stone. Barfgeld and Riles did some experimenting and discovered that sometimes the stone boomed twice, sometimes thrice and when they actually rolled the stone over[^5] exposing the stairs, it boomed 5 times.
+
+[^5]: Rurik was trying to reform his tin owl-god into a wedge they could use as a fulcrum until they remembered their shovel and crowbars for doing this sort of work.
+
+The party made their way down the carved stairs, spotting no traps. About ten minutes down the passageway they discovered another passageway branching off to the right. They followed this another twenty minutes until they came to a stone archway. Rurik had been marking their path with chalk this entire time, and now rigged a bell on a string to ring if something hit it going through the archway.

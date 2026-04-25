@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pelor.md",
+                "file": "Barfgeld.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pelor"
+              "title": "Barfgeld"
             }
           },
           {
@@ -462,12 +462,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "secrets/Alhoon.md",
+                    "file": "gods.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Alhoon"
+                  "title": "gods"
                 }
               }
             ],
@@ -625,14 +625,20 @@
   },
   "active": "0bde4014683a316c",
   "lastOpenFiles": [
-    "stories/Hk01-InvestigationInvisible.md",
+    "Barfgeld.md",
+    "GrapplersCreek.md",
     "stories/Hk02-MessMirrors.md",
+    "FelosialWaterskin.md",
+    "gods.md",
+    "stories/Rx01-PonyTears.md",
+    "ZorzulasRest.md",
+    "secrets/Alhoon.md",
     "Pelor.md",
+    "stories/Hk01-InvestigationInvisible.md",
     "IC4996.md",
     "secrets/world.md",
     "secrets/history.md",
     "rules/woodwoad.md",
-    "secrets/Alhoon.md",
     "Orfuzz.md",
     "stories/index.md",
     "secrets/Illithid.md",
@@ -644,14 +650,8 @@
     "FrugMiggledy.md",
     "rules/turns.md",
     "secrets/fiendhollowmine.md",
-    "stories/Rx01-PonyTears.md",
     "secrets/npcs.md",
-    "WardenofHammerkeep.md",
-    "CircleofHealingArts.md",
-    "Hammerkeep.md",
-    "secrets/underdarkitems.md",
     "images/names-ho2-t.png",
-    "Untitled.md",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",
     "images/names-h-ho1.png",
