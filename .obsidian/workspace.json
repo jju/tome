@@ -450,7 +450,7 @@
                 }
               }
             ],
-            "currentTab": 6
+            "currentTab": 7
           },
           {
             "id": "f95a241c1a1d9096",
@@ -679,12 +679,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "2a229f1b620d45fa",
+  "active": "0bde4014683a316c",
   "lastOpenFiles": [
+    "stories/Hk01-InvestigationInvisible.md",
     "Goblin.md",
     "GoblinTransportGuilds.md",
     "IC4996.md",
-    "stories/Hk01-InvestigationInvisible.md",
     "SkulkStones.md",
     "ThisisFineShrine.md",
     "stories/Hk02-MessMirrors.md",
