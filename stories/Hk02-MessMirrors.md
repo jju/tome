@@ -32,4 +32,16 @@ Loud booming noises came from the flat central stone when the party was trying t
 
 [^5]: Rurik was trying to reform his tin owl-god into a wedge they could use as a fulcrum until they remembered their shovel and crowbars for doing this sort of work.
 
-The party made their way down the carved stairs, spotting no traps. About ten minutes down the passageway they discovered another passageway branching off to the right. They followed this another twenty minutes until they came to a stone archway. Rurik had been marking their path with chalk this entire time, and now rigged a bell on a string to ring if something hit it going through the archway.
+The party made their way down the carved stairs, spotting no traps. About ten minutes down the passageway they discovered another passageway branching off to the right. They followed this another twenty minutes until they came to a stone archway. They tossed stones through and detected nothing weird. Rurik had been marking their path with chalk this entire time, and now rigged a bell on a string to ring if something hit it going through the archway.
+
+Inside the archway was an obviously constructed place. The walls are mortared stone with 12-foot high ceilings. They entered a circular room with statues of three tentacle-faced humanoids lifting their arms upward. This room immediately creeped Riles out, but Barfgeld and Rurik thought he was overreacting. There were also mirrors on the walls in weirdly random places. Riles tried to see if shining light from his lantern would illuminate anything weird, but it didn't. The statues were also very clean.
+
+On leaving this room they were faced with a choice of strange green doors reinforced with metal. They took the first choice (Rurik marking their choices with chalk), travelled along a short curved passageway to find another door and further passage. The door opened into a small room with a bunk, a desk and some dead animals with holes in their skulls. The passage was crumbled closed to the right, but the leftward way opened into another room with two doors, a pair of flickeringly lit stones and more random mirrors.
+
+In this room Riles was getting more and more squicked out by the way the reflections in the mirrors lagged what was happening to the thing they reflected. And also by the way Rurik and Barfgeld didn't see anything wrong with them. When he broke a piece of mirror off the wall it behaved normally, and he tried to convince the others something weird was going on. Once Rurik could see the freaky mirrors they tested his regular mirror against the wall and it started reflecting weirdness after a little while. Rurik tried yelling at the wall, getting frustrated.
+
+"What do you want?" came the response from behind them.
+
+Someone opened the door and found a full doorway-sized mirror with swirling shadows that resolved themselves into a vaguely humanoid shape. They tried to bargain with it, intimidate it and have a reasonable conversation, but it would only ask what they wanted, until finally it said, "You may come in," before disappearing in a swirl.
+
+They argued over safety precautions and noted that the mirror still appeared to be solid
