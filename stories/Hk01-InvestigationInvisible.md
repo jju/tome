@@ -6,7 +6,7 @@
 
 On the hike (with walking song) they spotted a couple of [Kobold](../Kobold.md) kids with sacks full of mushrooms. They also learned about a gigantic owl flying around, which Rurik was quickly paranoid about. 
 
-Getting to the farm they were supposed to check on, there was no one around but a middle-aged Tiefling in the fireplace. The party was attacked by [invisible creatures](../Skulks) jumping on them, which were fairly easily dispatched (though Pog had to do a little healing) just as [Riles Greyfox](../Riles.md) showed up on someone else's horse.
+Getting to the farm they were supposed to check on, there was no one around but a middle-aged Tiefling in the fireplace. The party was attacked by [invisible creatures](Skulk.md) jumping on them, which were fairly easily dispatched (though Pog had to do a little healing) just as [Riles Greyfox](../Riles.md) showed up on someone else's horse.
 
 They tracked a dragged body through the snowy woods for hours (and were attacked by another invisible skulker) until finding some standing stones (four around a central flat round one set in the earth) in a clearing. An elderly Tiefling was lying propped up against one of the stones and they fought another invisible thing. There was a booming sound from beneath the earth and one of the standing stones that was leaning was possible to lift a small ways (with Barfgeld and Rurik working together), revealing a passageway beneath.
 
@@ -14,4 +14,4 @@ They brought the elderly Tiefling and the invisible bodies back to the farm to l
 
 A huge owl flew between them and the moon.
 
-> followed by [Hk02-MessMirrors](Hk02-MessMirrors.md)
+> continued: [Hk02-MessMirrors](Hk02-MessMirrors.md)

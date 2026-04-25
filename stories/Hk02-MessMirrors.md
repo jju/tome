@@ -2,7 +2,7 @@
 
 > previously: [Hk01-InvestigationInvisible](Hk01-InvestigationInvisible.md)
 
-After dropping off the wagon with the invisible corpses and the surviving Tieflings, [Orfuzz](../Orfuzz.md) told them she'd meet them in the morning and the party made their ways off to their regular lodgings.
+After dropping off the wagon with the invisible corpses and the surviving Tieflings, [Orfuzz](../Orfuzz.md) told them she'd meet them in the morning and the party made their ways off to their regular lodgings. She also confiscated the horse.
 
 In the morning [Pog](../Pog.md) slept in, but Orfuzz paid the group 20sp each (in various coins) and tried to take a report, but [Riles](../Riles.md) convinced her to set up a meeting with the [Warden of Hammerkeep](WardenofHammerkeep.md) later in the day.
 
@@ -26,7 +26,7 @@ The three adventurers headed past the Suffering farm and into the forest. (Rurik
 
 [^4]: They left Pog a note (and his share of the fee) so he'd know where they were headed.
 
-On arrival at the standing stones the party worked on exposing the staircase under the toppled stone they discovered previously. Barfgeld was less effective in this than expected (due to the slippery mud on his boots) and when he was searching for a tree to chop down for leverage he was totally spooked by a weird bunch of wood suspended from the branches of a tree. This looked "just like" the warding bundles his grandmother used to hang up to keep evil spirits away, so he decided against chopping anything down.
+On arrival at the [standing stones](../SkulkStones.md) the party worked on exposing the staircase under the toppled stone they discovered previously. Barfgeld was less effective in this than expected (due to the slippery mud on his boots) and when he was searching for a tree to chop down for leverage he was totally spooked by a weird bunch of wood suspended from the branches of a tree. This looked "just like" the warding bundles his grandmother used to hang up to keep evil spirits away, so he decided against chopping anything down.
 
 Loud booming noises came from the flat central stone when the party was trying to move the toppled standing stone. Barfgeld and Riles did some experimenting and discovered that sometimes the stone boomed twice, sometimes thrice and when they actually rolled the stone over[^5] exposing the stairs, it boomed 5 times.
 
@@ -49,3 +49,6 @@ They argued over safety precautions (and noted that the mirror still appeared to
 They opened the other door in the room and discovered a blindingly mirrored room. The light was dazzling regardless of the source, so they left all the torches lanterns and little glowing rocks in the previous room. Inside, there were no further doors, but was a large double-sided mirror in the centre of the room they could walk around. Riles and Rurik saw malevolent reflections of themselves in the shadowy mirrors and attempted to manipulate them into opening some kind of door but were merely mocked by their reflections.
 
 They sat and thought and ruminated on how helpful a map might have been.
+
+> continued: [Hk03](Hk03.md)
+> 

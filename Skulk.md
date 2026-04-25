@@ -4,4 +4,11 @@ In [IC4996](IC4996.md) invisible clawed beasts attacked [Pog](Pog.md), [Barfgeld
 
 The beasts leave no tracks but can be made visible-ish by covering them in other material (snow, mud and flour have all been successful).
 
-The party brought two bodies back to [Hammerkeep](Hammerkeep.md) as proof of their 
+The party brought two bodies back to [Hammerkeep](Hammerkeep.md) as proof of their tale and were tasked with getting a full report on what happened out there.
+
+Further investigation in [Grapplers' Creek](GrapplersCreek.md) discovered at least three households slaughtered by what looked like very similar clawed attacks.
+
+![Skulk](../secrets/Skulk.md)]
+
+> [creatures](creatures.md)
+> 
