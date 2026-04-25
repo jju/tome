@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThisisFineShrine.md",
+                "file": "Goblin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ThisisFineShrine"
+              "title": "Goblin"
             }
           },
           {
@@ -450,7 +450,7 @@
                 }
               }
             ],
-            "currentTab": 7
+            "currentTab": 6
           },
           {
             "id": "f95a241c1a1d9096",
@@ -679,18 +679,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "e689f43e28ba56d3",
+  "active": "2a229f1b620d45fa",
   "lastOpenFiles": [
-    "stories/Hk02-MessMirrors.md",
-    "secrets/AbbeyReflectingMind.md",
-    "ThisisFineShrine.md",
-    "Diswoff.md",
+    "Goblin.md",
+    "GoblinTransportGuilds.md",
+    "IC4996.md",
+    "stories/Hk01-InvestigationInvisible.md",
     "SkulkStones.md",
+    "ThisisFineShrine.md",
+    "stories/Hk02-MessMirrors.md",
+    "stories/Hk03.md",
     "WardenofHammerkeep.md",
+    "secrets/AbbeyReflectingMind.md",
+    "Diswoff.md",
     "Orfuzz.md",
     "TheParty.md",
     "Skulk.md",
-    "stories/Hk01-InvestigationInvisible.md",
     "Kanliwood.md",
     "Karanliwood.md",
     "Kobold.md",
@@ -702,11 +706,7 @@
     "ZorzulasRest.md",
     "secrets/Alhoon.md",
     "Pelor.md",
-    "IC4996.md",
     "secrets/world.md",
-    "secrets/history.md",
-    "rules/woodwoad.md",
-    "stories/index.md",
     "images/names-ho2-t.png",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",

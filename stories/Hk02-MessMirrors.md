@@ -4,15 +4,15 @@
 
 After dropping off the wagon with the invisible corpses and the surviving Tieflings, [Orfuzz](../Orfuzz.md) told them she'd meet them in the morning and the party made their ways off to their regular lodgings. She also confiscated the horse.
 
-In the morning [Pog](../Pog.md) slept in, but Orfuzz paid the group 20sp each (in various coins) and tried to take a report, but [Riles](../Riles.md) convinced her with a creepy handshake to set up a meeting with the [Warden of Hammerkeep](WardenofHammerkeep.md) later in the day.
+In the morning [Pog](../Pog.md) slept in, but Orfuzz paid the group 20sp each (in various coins) and tried to take a report, but [Riles](../Riles.md) convinced her with a creepy handshake to set up a meeting with the [Warden of Hammerkeep](../WardenofHammerkeep.md) later in the day.
 
 They spent some time in town gathering supplies (rope, shovel, bag of chalk) for heading out to the standing stones and the underground. [Rurik](../Rurik.md) heard from friends of friends of people who had seen the really big owl, so he got pretty worked up about the mystical connection this thing is an omen of. Maybe it's a god? Riles found out that he needed to talk to someone down in the Docks that handles wine shipping to learn a bit more about [Grapplers' Creek](../GrapplersCreek.md). [Barfgeld](../Barfgeld.md) had everything he needed and was basically good to get on the road.
 
-When they met with [Suffering Yilmaz](WardenofHammerkeep.md) in the Warden's cottage at the Keep they received his thanks and a commission to go investigate these standing stones and bring back a full report on what killed his sister-in-law and traumatized his nephew. Part of his stated reason for getting the party to do this was because they'd been out there already and that half his rangers were out sick. He agreed to pay them quintuple their fee for the report (half now and half on return[^1]). Riles noted that Yilmaz seemed preoccupied, and not about his dead sister-in-law. He seemed worried about something else.
+When they met with [Suffering Yilmaz](../WardenofHammerkeep.md) in the Warden's cottage at the Keep they received his thanks and a commission to go investigate these standing stones and bring back a full report on what killed his sister-in-law and traumatized his nephew. Part of his stated reason for getting the party to do this was because they'd been out there already and that half his rangers were out sick. He agreed to pay them quintuple their fee for the report (half now and half on return[^1]). Riles noted that Yilmaz seemed preoccupied, and not about his dead sister-in-law. He seemed worried about something else.
 
 [^1]: Orfuzz tried to short them 20% when handing over the deposit, but Rurik straightened her out.
 
-Rurik was very clear that leaving on this expedition had to be done in daylight (due to owl machinations) so they spent the rest of the day in town. Rurik worked on representing the god-owl in metal, Barfgeld lost some silver gambling at the [Lodestone Tavern](../LodestoneTavern.md) and giving the "cheating" [Diswoff](Diswoff.md) a good facepunch. 
+Rurik was very clear that leaving on this expedition had to be done in daylight (due to owl machinations) so they spent the rest of the day in town. Rurik worked on representing the god-owl in metal, Barfgeld lost some silver gambling at the [Lodestone Tavern](../LodestoneTavern.md) and giving the "cheating" [Diswoff](../Diswoff.md) a good facepunch. 
 
 Riles headed to the docks and eventually found a gnome who dealt in wine to share some details on Grapplers' Creek. The town has purple apples that make a decent wine, and is usually a pretty bustling[^2] little place (for a bunch of farmers). The gnome hadn't heard anything from town over the winter, but that's pretty normal.
 
@@ -34,7 +34,7 @@ Loud booming noises came from the flat central stone when the party was trying t
 
 The party made their way down the carved stairs, spotting no traps. About ten minutes down the passageway they discovered another passageway branching off to the right. They followed this another twenty minutes until they came to a stone archway. They tossed stones through and detected nothing weird. Rurik had been marking their path with chalk this entire time, and now rigged a bell on a string to ring if something hit it going through the archway.
 
-Inside the archway was an obviously constructed place. The walls are mortared stone with 12-foot high ceilings. They entered a circular room with statues of three tentacle-faced humanoids lifting their arms upward. This room immediately creeped Riles out, but Barfgeld and Rurik thought he was overreacting. There were also mirrors on the walls in weirdly random places. Riles tried to see if shining light from his lantern would illuminate anything weird, but it didn't. The statues were also very clean.
+Inside the archway was [an obviously constructed place](../ThisisFineShrine.md). The walls are mortared stone with 12-foot high ceilings. They entered a circular room with statues of three tentacle-faced humanoids lifting their arms upward. This room immediately creeped Riles out, but Barfgeld and Rurik thought he was overreacting. There were also mirrors on the walls in weirdly random places. Riles tried to see if shining light from his lantern would illuminate anything weird, but it didn't. The statues were also very clean.
 
 On leaving this room they were faced with a choice of strange green doors reinforced with metal. They took the first choice (Rurik marking their choices with chalk), travelled along a short curved passageway to find another door and further passage. The door opened into a small room with a bunk, a desk and some dead animals with holes in their skulls. The passage was crumbled closed to the right, but the leftward way opened into another room with two doors, a pair of flickeringly lit stones and more random mirrors.
 
@@ -48,7 +48,6 @@ They argued over safety precautions (and noted that the mirror still appeared to
 
 They opened the other door in the room and discovered a blindingly mirrored room. The light was dazzling regardless of the source, so they left all the torches lanterns and little glowing rocks in the previous room. Inside, there were no further doors, but was a large double-sided mirror in the centre of the room they could walk around. Riles and Rurik saw malevolent reflections of themselves in the shadowy mirrors and attempted to manipulate them into opening some kind of door but were merely mocked by their reflections.
 
-They sat and thought and ruminated on how helpful a map might have been.
+They thought and pondered and ruminated on how helpful a map might have been.
 
 > continued: [Hk03](Hk03.md)
-> 
