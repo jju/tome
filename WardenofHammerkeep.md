@@ -4,6 +4,6 @@ Yilmaz is a large curly-horned [Tiefling](Tiefling.md) [knight](knight.md) based
 
 His lieutenant is named [Orfuzz](Orfuzz.md) and she is the one who's seen more around town (and leading whatever patrols do go out).
 
-He lives in a cottage on the grounds of the Keep, but his elderly brother [Suffering Amnon](SufferingAmnon.md) lives
+He lives in a cottage on the grounds of the Keep, but his elderly brother [Suffering Amnon](SufferingAmnon.md) lives in [Grapplers' Creek](GrapplersCreek.md) looking after his grandson [Suffering Cairn](SufferingCairn.md).
 
-> [characters](characters.md)
+> [npcs](npcs.md)

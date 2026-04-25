@@ -4,7 +4,7 @@
 
 After dropping off the wagon with the invisible corpses and the surviving Tieflings, [Orfuzz](../Orfuzz.md) told them she'd meet them in the morning and the party made their ways off to their regular lodgings. She also confiscated the horse.
 
-In the morning [Pog](../Pog.md) slept in, but Orfuzz paid the group 20sp each (in various coins) and tried to take a report, but [Riles](../Riles.md) convinced her to set up a meeting with the [Warden of Hammerkeep](WardenofHammerkeep.md) later in the day.
+In the morning [Pog](../Pog.md) slept in, but Orfuzz paid the group 20sp each (in various coins) and tried to take a report, but [Riles](../Riles.md) convinced her with a creepy handshake to set up a meeting with the [Warden of Hammerkeep](WardenofHammerkeep.md) later in the day.
 
 They spent some time in town gathering supplies (rope, shovel, bag of chalk) for heading out to the standing stones and the underground. [Rurik](../Rurik.md) heard from friends of friends of people who had seen the really big owl, so he got pretty worked up about the mystical connection this thing is an omen of. Maybe it's a god? Riles found out that he needed to talk to someone down in the Docks that handles wine shipping to learn a bit more about [Grapplers' Creek](../GrapplersCreek.md). [Barfgeld](../Barfgeld.md) had everything he needed and was basically good to get on the road.
 
@@ -12,7 +12,7 @@ When they met with [Suffering Yilmaz](WardenofHammerkeep.md) in the Warden's cot
 
 [^1]: Orfuzz tried to short them 20% when handing over the deposit, but Rurik straightened her out.
 
-Rurik was very clear that leaving on this expedition had to be done in daylight (due to owl machinations) so they spent the rest of the day in town. Rurik worked on representing the god-owl in metal, Barfgeld lost some silver gambling at the [LodestoneTavern](LodestoneTavern.md) and giving the "cheating" Diswoff a good facepunch. 
+Rurik was very clear that leaving on this expedition had to be done in daylight (due to owl machinations) so they spent the rest of the day in town. Rurik worked on representing the god-owl in metal, Barfgeld lost some silver gambling at the [Lodestone Tavern](../LodestoneTavern.md) and giving the "cheating" [Diswoff](Diswoff.md) a good facepunch. 
 
 Riles headed to the docks and eventually found a gnome who dealt in wine to share some details on Grapplers' Creek. The town has purple apples that make a decent wine, and is usually a pretty bustling[^2] little place (for a bunch of farmers). The gnome hadn't heard anything from town over the winter, but that's pretty normal.
 
