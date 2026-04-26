@@ -24,23 +24,8 @@
                   "icon": "lucide-file",
                   "title": "Goliath"
                 }
-              },
-              {
-                "id": "8d2aa4e80cc0aab7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "conflict-files-obsidian-git.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "conflict-files-obsidian-git"
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "456adc6c28b770da",
@@ -212,10 +197,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "8d2aa4e80cc0aab7",
+  "active": "9e0f6278cb9f3a50",
   "lastOpenFiles": [
-    "Goliath.md",
     "conflict-files-obsidian-git.md",
+    "Goliath.md",
     "stories/Hk03.md",
     "stories/Hk02-MessMirrors.md",
     "stories/Hk01-InvestigationInvisible.md",
