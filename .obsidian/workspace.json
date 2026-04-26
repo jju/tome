@@ -4,210 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "6951d5cab2888335",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1e94059322fd0c8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ArcanePurge.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ArcanePurge"
-            }
-          },
-          {
-            "id": "5f1879a99431e142",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sivekkah.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sivekkah"
-            }
-          },
-          {
-            "id": "59a64d6ee264bee5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bahamut.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bahamut"
-            }
-          },
-          {
-            "id": "4b9787d202d0ac24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ceratos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ceratos"
-            }
-          },
-          {
-            "id": "9e65fccada3c4cf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desirat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Desirat"
-            }
-          },
-          {
-            "id": "2b6b613a16239c90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "stories/StoopSmith.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "StoopSmith"
-            }
-          },
-          {
-            "id": "46eccc6e25d86f12",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
-            }
-          },
-          {
-            "id": "39c3a16bd3c91442",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThalaneTruthhaulerKalukithino.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ThalaneTruthhaulerKalukithino"
-            }
-          },
-          {
-            "id": "4546e7bea0ba500f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gods.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "gods"
-            }
-          },
-          {
-            "id": "565a8ecc0d633187",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Urdl.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Urdl"
-            }
-          },
-          {
-            "id": "84a4b097169e8310",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "distances.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "distances"
-            }
-          }
-        ],
-        "currentTab": 10
-      },
-      {
-        "id": "ce196e2f9001aae7",
+        "id": "8dd02978f0ec3b3f",
         "type": "split",
         "children": [
           {
             "id": "6b20df96ac8835da",
             "type": "tabs",
             "children": [
-              {
-                "id": "2771a0702e231c15",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Abyss.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Abyss"
-                }
-              },
-              {
-                "id": "5c1f25dd815cff62",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "BohaiLake.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "BohaiLake"
-                }
-              },
               {
                 "id": "9e0f6278cb9f3a50",
                 "type": "leaf",
@@ -221,21 +24,15 @@
                   "icon": "lucide-file",
                   "title": "Goliath"
                 }
-              },
+              }
+            ]
+          },
+          {
+            "id": "456adc6c28b770da",
+            "type": "tabs",
+            "children": [
               {
-                "id": "84c9108be87681a6",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.11.7"
-                  },
-                  "icon": "lucide-book-up",
-                  "title": "Release Notes 1.11.7"
-                }
-              },
-              {
-                "id": "dab5baac6faa28aa",
+                "id": "a708660808f63abf",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -248,184 +45,10 @@
                   "title": "Snerpi"
                 }
               }
-            ],
-            "currentTab": 4
-          },
-          {
-            "id": "f95a241c1a1d9096",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9e0065d6ce223b91",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Abyss.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Abyss"
-                }
-              },
-              {
-                "id": "09269706127143b4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "gods.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "gods"
-                }
-              },
-              {
-                "id": "c08fd12cddcb4b19",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/acolyte.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "acolyte"
-                }
-              },
-              {
-                "id": "1cda387c3da62ea1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/pirate.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "pirate"
-                }
-              },
-              {
-                "id": "eee4ad4e62ee0731",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Battlemoor.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Battlemoor"
-                }
-              },
-              {
-                "id": "7688988edfbafff3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Xuedei.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Xuedei"
-                }
-              },
-              {
-                "id": "bb0c3c82008f0933",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MarvaBrokenchains.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "MarvaBrokenchains"
-                }
-              },
-              {
-                "id": "dfabbe556ba7f406",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ThreeBoarTrail.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "ThreeBoarTrail"
-                }
-              },
-              {
-                "id": "da75c5a0e90d11a8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "RilesGreyfox.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "RilesGreyfox"
-                }
-              },
-              {
-                "id": "f42f70f2e2f087b5",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.12.4"
-                  },
-                  "icon": "lucide-book-up",
-                  "title": "Release Notes 1.12.4"
-                }
-              },
-              {
-                "id": "205a3fba89b1dab9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Uradun.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Uradun"
-                }
-              },
-              {
-                "id": "abaafa82cbcf2877",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Yldstead.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Yldstead"
-                }
-              }
-            ],
-            "currentTab": 9
+            ]
           }
         ],
-        "direction": "horizontal"
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -574,34 +197,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "f42f70f2e2f087b5",
+  "active": "9e0f6278cb9f3a50",
   "lastOpenFiles": [
+    "Snerpi.md",
+    "Uradun.md",
+    "RilesGreyfox.md",
+    "ThreeBoarTrail.md",
+    "MarvaBrokenchains.md",
+    "Xuedei.md",
+    "Battlemoor.md",
+    "rules/pirate.md",
+    "rules/acolyte.md",
+    "gods.md",
     "distances.md",
-    "conflict-files-obsidian-git.md",
+    "Urdl.md",
     "ThalaneTruthhaulerKalukithino.md",
+    "stories/StoopSmith.md",
+    "Desirat.md",
+    "Ceratos.md",
+    "Bahamut.md",
+    "Sivekkah.md",
+    "ArcanePurge.md",
+    "conflict-files-obsidian-git.md",
     "rules/tlacatecolo.md",
     "Tlacatecolo.md",
     "Sereno.md",
     "SanCitlan.md",
     "Milpazul.md",
     "Hollow.md",
-    "npcs.md",
-    "Ofuzz.md",
-    "RilesGreyfox.md",
-    "characters.md",
-    "roads.md",
-    "WardenofHammerkeep.md",
-    "Uradun.md",
-    "UnkindQueen.md",
-    "ThePrisoner.md",
-    "Tharizdun.md",
-    "Tortle.md",
-    "Torog.md",
-    "Tiamat.md",
-    "Thundertree.md",
-    "ThialaOstoroth.md",
-    "Talhundereth.md",
-    "Stagcross.md",
     "images/names-ho2-t.png",
     "images/names-h-ho1.png",
     "images/names-e3-g.png",
