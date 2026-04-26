@@ -5,4 +5,5 @@ A [Dwarf](Dwarf.md) ex-soldier (current [Fighter](Fighter.md)) who fought agains
 Barfgeld got his nickname because someone bet him that he couldn't eat 50 gold pieces and he ended up barfing them up.
 
 
+
 > [characters](characters.md)

@@ -2,7 +2,7 @@
 ## Characters
 
 * Sharptooth
-* [Riles Greyfox](RilesGreyfox.md)
+* [Riles Greyfox](Riles.md)
 
 ![paladin](rules/paladin.md)
 

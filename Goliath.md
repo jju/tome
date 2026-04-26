@@ -6,7 +6,7 @@ Goliaths have physical characteristics that are reminiscent of the giants in the
 
 ## Characters
 
-* [Rurik Stoneblood](RurikStoneblood.md)
+* [Rurik Stoneblood](Rurik.md)
 * [Thalane Truthhauler Kalukithino](ThalaneTruthhaulerKalukithino.md)
 
 ## Mountain Nomads[^1]

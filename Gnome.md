@@ -6,7 +6,7 @@ Most Gnomes in Nuoro dwell in the [Perolmani](Perolmani.md) or [FarUzak](FarUzak
 
 ## Characters
 
-* [QueensOwnCockFinder](QueensOwnCockFinder.md) - Gnome Ranger
+* [Pog](Pog.md) - Gnome Ranger
 * [BreckenDirtbone](BreckenDirtbone.md) - priest of [Bahamut](Bahamut.md) in [Hammerkeep](Hammerkeep.md)
 * 
 

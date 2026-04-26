@@ -1,3 +1,0 @@
-# Illithids
-
-> [species](species.md)

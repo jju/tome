@@ -1,4 +1,5 @@
 # Pelor, the Dawn Father
+
 Pelor rules over sun and summer, and is the lord of agriculture and harbinger of the harvest. He is often worshipped by farmers and other commonfolk who appreciate his simple defiance of evil and support of the needy.
 
 Pelor is often depicted in shining armour with his face a beacon of light. Often the head of statues are a brazier lit with each dawn.

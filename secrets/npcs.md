@@ -8,6 +8,7 @@
 * [DalrigGravelmantle](DalrigGravelmantle.md) - member of the [OldZhaalumi](OldZhaalumi.md) and is helping smugglers ([scout](scout.md)) get food up to the resistance around [Dracolathe](Dracolathe.md)
 * [ThePrisoner](ThePrisoner.md) - [Eladrin](Eladrin.md) [Barbarian](Barbarian.md) in [Hammerkeep](Hammerkeep.md)
 * [QueenoftheWoods](QueenoftheWoods.md) - doesn't exist
+* [hateswords](hateswords.md) - 
 * [Cyzzarun](Cyzzarun.md) - really doesn't like the [Grimteeth](Grimteeth.md) or [Dracolathe](Dracolathe.md) and much prefers being in humanoid form politicking in [Bedwistre](Bedwistre.md) and then taking to the air in greater [Rundan](Rundan.md) (Cyzzarun is kind of weird)
 * Protanther - Gold Dragon Doesn't really care about humanoids (who do a lot of bad shit) and dislikes anyone Fey
 * Ileuthra - Ancient Brass Dragon amenable to persuasion

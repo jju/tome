@@ -1,6 +1,6 @@
 # Human
 
-Humans are as diverse in appearance as the people of Earth, and they have many gods. 
+Humans are as diverse in appearance as the people of Earth, and they have many gods. In [Nuoro](Nuoro.md) they are about as rare as [Kenku](Kenku.md), so don't assume they are a default.
 ## Characters
 
 * 

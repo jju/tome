@@ -20,23 +20,29 @@ The Keep the city draws its name from is home to [Bidrith Crecur](BidrithCrecur.
 
 Along with [Lady Hammerkeep](BidrithCrecur.md) and her retinue, the [Imperial Warden](WardenofHammerkeep.md) is stationed at the castle in a cottage eating at the Lady's table, making sure the king's trees and wildlife aren't taken by poachers, and keeping paths safe for Empire. Officially at least. The truth is that the warden's patrols follow very well-worn and predictable paths through the Woods, since leaving them makes for dead rangers.
 
+There's also a council of advisors for the city. This includes [Lor Stalk](LorStalk.md) as well as [Snerpi](Snerpi.md), [Brecken Dirtbone](BreckenDirtbone.md), [DalrigGravelmantle](DalrigGravelmantle.md) and [Creed Itzmin](Itzmin.md).
+
 The city has about 70 fulltime guards, some of whom are stationed in the castle when on duty. Their leader is [Thiala Ostoroth](ThialaOstoroth.md) an imperious [Aarakocra](Aarakocra.md).
+
+
 ## Circle of Healing
 
 The [Circle of Healing Arts](CircleofHealingArts.md) is a low wooden building near the Docks. It's a place where the sick come for herbs, or for boils to be lanced or for strange illnesses to be assessed.
 ## Taverns
 
-* [Old Goat](OldGoatTavern.md) - scummy place in the Docks - [VorkaThousandFists](VorkaThousandFists.md) proprietress Super strong HalfOrc
-* [Gibbet](GibbetTavern.md) - weirdly gentrified with lots of old folk who still have their teeth - [EkemonLust](EkemonLust.md) the middle-aged dashing Tiefling runs it
-* [Lodestone](LodestoneTavern.md) - sunken damp Dwarf drinking hole, usually the first stop of Imperials - barkeep [HarolGarrick](HarolGarrick.md) youngish halfling - 
-* Minstrel and Cask - best for entertainment - [CecilyQuinton](CecilyQuinton.md) proprietress 84yo Human 
-* Mourning Forest - wardens rangers and others who brave the Woods - [ZeparMurder](ZeparMurder.md) youngish tiefling
+* [Old Goat](OldGoatTavern.md) - scummy place in the Docks - [Vorka Thousand Fists](VorkaThousandFists.md) proprietress Super strong HalfOrc
+* [Gibbet](GibbetTavern.md) - weirdly gentrified with lots of old folk who still have their teeth - [Ekemon Lust](EkemonLust.md) the middle-aged dashing Tiefling runs it
+* [Lodestone](LodestoneTavern.md) - sunken damp Dwarf drinking hole, usually the first stop of Imperials - barkeep [Harol Garrick](HarolGarrick.md) youngish halfling - 
+* Minstrel and Cask - best for entertainment - [Cecily Quinton](CecilyQuinton.md) proprietress 84yo Human 
+* Mourning Forest - wardens rangers and others who brave the Woods - [Zepar Murder](ZeparMurder.md) youngish tiefling
+* 
 
 ## Inns
 
-* Razorback - the roughest place (in the Docks) - run by [LaviniaDaergel](LaviniaDaergel.md) halfling woman
+* Razorback - the roughest place (in the Docks) - run by [Lavinia Daergel](LaviniaDaergel.md) halfling woman
+* [Ockney's Eye](OckneysEye.md) - cheapest, near the 
 * Three Candles - the biggest place (near the [Hammersford](Hammersford.md) Road) - there is a lot of staff turnover
-* Clafton Inn - the classiest place (near the Keep) - managed by [LagaziProudfist](LagaziProudfist.md) owned by [FrugMiggledy](FrugMiggledy.md)
+* Clafton Inn - the classiest place (near the Keep) - managed by [Lagazi Proudfist](LagaziProudfist.md) owned by [FrugMiggledy](Frug Miggledy.md)
 
 ## Temples
 
@@ -48,6 +54,10 @@ Not every god of the Empire has a full-on temple in Hammerkeep (this isn't [Bedw
 * Temple of [Gruumsh](Gruumsh.md) - Carved from huge timbers down by the docks, this is often where travellers stop for blessings on their way upstream. Usually that's because they've heard it's a good idea from the travellers coming downstream through the Woods. The main priest is a dour [Orc](Orc.md) named [Simple Rhela](SimpleRhela.md).
 * Temple of [Luxon](Luxon.md) - The Empty Dodecahedron has a storefront entrance to their shrine in an alley between a pair of bickering blacksmiths ([ThalaneTruthhaulerKalukithino](ThalaneTruthhaulerKalukithino.md) - Goliath & [Xokx](Xokx.md)  - Harengon). It's rare to see a priest there. Mostly it seems to be used as a modest reading room.
 
+# Other Businesses
+
+* Zan's Tradehouse - good place to find work as a caravan guard
+* 
 
 > [[places]]
 > [cities](cities.md)
