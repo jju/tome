@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Goliath.md",
+                    "file": "secrets/AbbeyReflectingMind.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Goliath"
+                  "title": "AbbeyReflectingMind"
                 }
               }
             ]
@@ -199,8 +199,8 @@
   },
   "active": "9e0f6278cb9f3a50",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Goliath.md",
+    "conflict-files-obsidian-git.md",
     "stories/Hk03.md",
     "stories/Hk02-MessMirrors.md",
     "stories/Hk01-InvestigationInvisible.md",
