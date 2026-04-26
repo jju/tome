@@ -382,6 +382,18 @@
                 }
               },
               {
+                "id": "f42f70f2e2f087b5",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.12.4"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.12.4"
+                }
+              },
+              {
                 "id": "205a3fba89b1dab9",
                 "type": "leaf",
                 "state": {
@@ -410,7 +422,7 @@
                 }
               }
             ],
-            "currentTab": 8
+            "currentTab": 9
           }
         ],
         "direction": "horizontal"
@@ -562,7 +574,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "da75c5a0e90d11a8",
+  "active": "f42f70f2e2f087b5",
   "lastOpenFiles": [
     "distances.md",
     "conflict-files-obsidian-git.md",
