@@ -2,8 +2,8 @@ In Nuoro we have 4 seasons.
 
 * Spring - Iallanis, Stronmaus, Hiatea
 * Summer - Diancastra, Grolantor, Thrym
-* Fall - Surtur, Skoraeus, Annam
-* Winter - Karontor, Skoraeus, Brandobaris
+* Fall - Surtur, Annam, Skoraeus
+* Winter - Memnor, Brandobaris, Karontor,
 
 ## Months
 
@@ -13,4 +13,11 @@ In Nuoro we have 4 seasons.
 * Sicastra - tricky journeying time
 * Wugro - war
 * Liothrym - war
-* Qisurtur
+* Qisur - flaming sword of Knowledge
+* Banam - knowledge stalactite
+* Jiosko - Knowledge
+* Memnor - Knowledge obleisk
+* Shibar - trickery
+* Sharkar - Death knowledge broken shackles
+
+The names of the months are for the most part associated with the old [Giant Gods](gods.md#Giant%20Gods) of Nuoro but adapted by the [DantagEmpire](DantagEmpire.md)
