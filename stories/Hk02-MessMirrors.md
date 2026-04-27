@@ -2,7 +2,7 @@
 
 > previously: [Hk01-InvestigationInvisible](Hk01-InvestigationInvisible.md)
 
-After dropping off the wagon with the invisible corpses and the surviving Tieflings, [Orfuzz](../Orfuzz.md) told them she'd meet them in the morning and the party made their ways off to their regular lodgings. She also confiscated the horse.
+After dropping off the wagon with the invisible corpses and the surviving Tieflings, [Orfuzz](../Orfuzz.md) told [the party](../TheParty.md) she'd meet them in the morning and the party made their ways off to their regular lodgings. She also confiscated the horse.
 
 In the morning [Pog](../Pog.md) slept in, but Orfuzz paid the group 20sp each (in various coins) and tried to take a report, but [Riles](../Riles.md) convinced her with a creepy handshake to set up a meeting with the [Warden of Hammerkeep](../WardenofHammerkeep.md) later in the day.
 
@@ -51,3 +51,4 @@ They opened the other door in the room and discovered a blindingly mirrored room
 They thought and pondered and ruminated on how helpful a map might have been.
 
 > continued: [Hk03](Hk03.md)
+> [IC4996](../IC4996.md)
