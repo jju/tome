@@ -66,7 +66,13 @@ Hammerkeep is the main overland point of connection between [Dracolathe](Dracola
 
 Cargo coming down from Dracolathe is usually carried on river barges down the [Nuoro](NuoroRiver.md), which is usually a three day(ish) voyage. Heading up the river to Dracolathe is much slower, more like 12-20 days, as the barges need to be pulled up the river by draft animals (and doing that requires a contract with the [Goblin Transport Guilds](GoblinTransportGuilds.md)). For those who aren't bringing cargo, Dracolathe is usually seen as 8-12 days away through the [Kanliwood](Kanliwood.md) if you have a guide (again from the [GTG](GoblinTransportGuilds.md)) or a death sentence if you don't.
 
-## C
+## Croaklands
+
+## Rundan
+
+The rest of [Rundan](Rundan.md) is easily accessible from Hammerkeep. Large amounts of cargo can go via the [Nuoro River](NuoroRiver.md) (2 days to [Hammersford](Hammersford.md) and 3 days to [Bedwistre](Bedwistre.md)) or you can use the network of roads through the fertile lands and get to either city in a couple of days of riding.
+
+Rundan has a post-horse system set up between the three major cities wherein there are fresh riding mounts every 5-6 miles on the main roads. This means a determined messenger (usually a light [Halfling](Halfling.md) or [Gnome](Gnome.md)) can change horses every hour and get from Hammerkeep to [Hammersford](Hammersford.md) or [Bedwistre](Bedwistre.md) in 12 hours.
 
 > [[places]]
 > [cities](cities.md)
