@@ -491,12 +491,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ZorzulasRest.md",
+                    "file": "Hammerkeep.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "ZorzulasRest"
+                  "title": "Hammerkeep"
                 }
               },
               {
@@ -519,12 +519,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "secrets/history.md",
+                    "file": "GrimWar.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "history"
+                  "title": "GrimWar"
                 }
               },
               {
@@ -555,8 +555,7 @@
                   "title": "distances"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "horizontal"
@@ -708,11 +707,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "ebce4bc1e41e6643",
+  "active": "bb0c3c82008f0933",
   "lastOpenFiles": [
-    "IC4995.md",
-    "timeline.md",
+    "LodestoneTavern.md",
+    "HarolGarrick.md",
+    "Mulhorand.md",
+    "ZorzulasRest.md",
+    "distances.md",
+    "GrimWar.md",
     "secrets/history.md",
+    "timeline.md",
+    "IC4995.md",
     "world.md",
     "calendar.md",
     "IC4989.md",
@@ -730,12 +735,6 @@
     "stories/Rx01-PonyTears.md",
     "rules/turns.md",
     "secrets/fiendhollowmine.md",
-    "distances.md",
-    "conflict-files-obsidian-git.md",
-    "stories/Hk01-InvestigationInvisible.md",
-    "GoblinTransportGuilds.md",
-    "SkulkStones.md",
-    "ThisisFineShrine.md",
     "images/names-ho2-t.png",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",

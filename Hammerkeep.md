@@ -57,7 +57,16 @@ Not every god of the Empire has a full-on temple in Hammerkeep (this isn't [Bedw
 # Other Businesses
 
 * Zan's Tradehouse - good place to find work as a caravan guard
-* 
+
+# Getting Elsewhere
+
+Hammerkeep is the main overland point of connection between [Dracolathe](Dracolathe.md), the [Croaklands](Croaklands.md) and greater [Rundan](Rundan.md). 
+
+## Dracolathe
+
+Cargo coming down from Dracolathe is usually carried on river barges down the [Nuoro](NuoroRiver.md), which is usually a three day(ish) voyage. Heading up the river to Dracolathe is much slower, more like 12-20 days, as the barges need to be pulled up the river by draft animals (and doing that requires a contract with the [Goblin Transport Guilds](GoblinTransportGuilds.md)). For those who aren't bringing cargo, Dracolathe is usually seen as 8-12 days away through the [Kanliwood](Kanliwood.md) if you have a guide (again from the [GTG](GoblinTransportGuilds.md)) or a death sentence if you don't.
+
+## C
 
 > [[places]]
 > [cities](cities.md)

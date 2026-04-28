@@ -13,9 +13,10 @@ The year is [IC4996](IC4996.md)
 # The Last Fifty Years
 
 * The [Grim War](GrimWar.md) ended in [IC4943](IC4943.md)
-* [Rurik](Rurik.md) and [Riles](Riles.md) were born.
+* [Rurik](Rurik.md) and [Riles](Riles.md) were born
 
 # The Last Hundred Years
 
-* The [Grim War](GrimWar.md) began.
-* [Barfgeld](Barfgeld.md) and [Pog](Pog.md) were born.
+* [Barfgeld](Barfgeld.md) and [Pog](Pog.md) were born
+* The [Grim War](GrimWar.md) began in [IC4890](IC4890.md)
+* 
