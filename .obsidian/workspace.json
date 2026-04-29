@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3044ebd7d7c0a5d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/awakenedtree.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "awakenedtree"
-            }
-          },
-          {
             "id": "6913666b30369226",
             "type": "leaf",
             "state": {
@@ -62,287 +48,9 @@
               "icon": "lucide-file",
               "title": "SkulkStones"
             }
-          },
-          {
-            "id": "e689f43e28ba56d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gods.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "gods"
-            }
-          },
-          {
-            "id": "eb0b4d44d91bde87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IC4995.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IC4995"
-            }
-          },
-          {
-            "id": "ebce4bc1e41e6643",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "timeline.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "timeline"
-            }
-          },
-          {
-            "id": "50fd34d7a7f3363b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "stories/index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "5889b9b91c5eb37e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/alhoon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "alhoon"
-            }
-          },
-          {
-            "id": "10b46864d0d3f4d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/shamblingmound.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "shamblingmound"
-            }
-          },
-          {
-            "id": "5f1879a99431e142",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sivekkah.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sivekkah"
-            }
-          },
-          {
-            "id": "2b6b613a16239c90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ofuzz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ofuzz"
-            }
-          },
-          {
-            "id": "4546e7bea0ba500f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gods.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "gods"
-            }
-          },
-          {
-            "id": "565a8ecc0d633187",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Urdl.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Urdl"
-            }
-          },
-          {
-            "id": "ee79e388833fd58f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/allip.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "allip"
-            }
-          },
-          {
-            "id": "47b1c6d85a09bb31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Abyss.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Abyss"
-            }
-          },
-          {
-            "id": "69992a8b9af48c43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SanCitlan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SanCitlan"
-            }
-          },
-          {
-            "id": "b31c0ff57dde2fcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secrets/world.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "world"
-            }
-          },
-          {
-            "id": "dd251ef5b5d54de8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Asmodeus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Asmodeus"
-            }
-          },
-          {
-            "id": "f0d37294af1a0f0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Itzmin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Itzmin"
-            }
-          },
-          {
-            "id": "3ba7b8278fa725d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hollow.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hollow"
-            }
-          },
-          {
-            "id": "65e5fb628433743c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secrets/underdarkitems.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "underdarkitems"
-            }
-          },
-          {
-            "id": "b7e4feb1c263069c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Milpazul.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Milpazul"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       },
       {
         "id": "ce196e2f9001aae7",
@@ -367,34 +75,6 @@
                 }
               },
               {
-                "id": "5c1f25dd815cff62",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "BohaiLake.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "BohaiLake"
-                }
-              },
-              {
-                "id": "9e0f6278cb9f3a50",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Anor.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Anor"
-                }
-              },
-              {
                 "id": "01c8c3f1f2f01eef",
                 "type": "leaf",
                 "state": {
@@ -406,34 +86,6 @@
                   },
                   "icon": "lucide-file",
                   "title": "Dracolathe"
-                }
-              },
-              {
-                "id": "f823b7e56044b749",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "distances.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "distances"
-                }
-              },
-              {
-                "id": "0419607e3ae94a0d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Anor.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Anor"
                 }
               },
               {
@@ -451,20 +103,6 @@
                 }
               },
               {
-                "id": "0bde4014683a316c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "IC4996.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "IC4996"
-                }
-              },
-              {
                 "id": "a6f9fb22bcf9fa1d",
                 "type": "leaf",
                 "state": {
@@ -479,7 +117,7 @@
                 }
               }
             ],
-            "currentTab": 7
+            "currentTab": 3
           },
           {
             "id": "f95a241c1a1d9096",
@@ -540,22 +178,9 @@
                   "icon": "lucide-file",
                   "title": "turns"
                 }
-              },
-              {
-                "id": "f26db9fe61bd9030",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "distances.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "distances"
-                }
               }
-            ]
+            ],
+            "currentTab": 3
           }
         ],
         "direction": "horizontal"
@@ -707,34 +332,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "bb0c3c82008f0933",
+  "active": "dcca39904e83de7b",
   "lastOpenFiles": [
+    "GrimWar.md",
+    "ThisisFineShrine.md",
+    "calendar.md",
+    "stories/Hk01-InvestigationInvisible.md",
+    "Anor.md",
+    "distances.md",
+    "Dracolathe.md",
+    "BohaiLake.md",
+    "SkulkStones.md",
+    "IC4995.md",
+    "gods.md",
+    "Skulk.md",
+    "IC4996.md",
+    "timeline.md",
+    "Hammerkeep.md",
     "LodestoneTavern.md",
     "HarolGarrick.md",
     "Mulhorand.md",
     "ZorzulasRest.md",
-    "distances.md",
-    "GrimWar.md",
     "secrets/history.md",
-    "timeline.md",
-    "IC4995.md",
     "world.md",
-    "calendar.md",
     "IC4989.md",
-    "IC4996.md",
     "Rurik.md",
     "CragmawCastle.md",
     "CragmawHideout.md",
     "OldOwlWell.md",
-    "Blasingdell.md",
-    "Phandalin.md",
-    "gods.md",
-    "Goblin.md",
-    "stories/index.md",
-    "stories/Hk02-MessMirrors.md",
-    "stories/Rx01-PonyTears.md",
-    "rules/turns.md",
-    "secrets/fiendhollowmine.md",
     "images/names-ho2-t.png",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",
