@@ -122,12 +122,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ThisisFineShrine.md",
+                    "file": "rules/allip.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "ThisisFineShrine"
+                  "title": "allip"
                 }
               }
             ],
@@ -348,16 +348,18 @@
   },
   "active": "01025f25a69deb06",
   "lastOpenFiles": [
+    "rules/allip.md",
+    "ThisisFineShrine.md",
+    "secrets/dwarfpriest.md",
     "timeline.md",
+    "Barfgeld.md",
     "secrets/history.md",
     "GrimWar.md",
-    "secrets/dwarfpriest.md",
     "rules/dungeon.md",
     "rules/priest.md",
     "secrets/AbbeyReflectingMind.md",
     "rules/turns.md",
     "SkulkStones.md",
-    "ThisisFineShrine.md",
     "calendar.md",
     "stories/Hk01-InvestigationInvisible.md",
     "Anor.md",
@@ -372,8 +374,6 @@
     "LodestoneTavern.md",
     "HarolGarrick.md",
     "Mulhorand.md",
-    "ZorzulasRest.md",
-    "world.md",
     "images/names-ho2-t.png",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",
