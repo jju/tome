@@ -1,6 +1,6 @@
 ## Abbey of the Reflecting Mind
 
-
+> created at least a thousand years ago by [duergar](duergar.md) as a place of calm reflection and a connecting point to the [Abyss](Abyss.md) and the [Shadowfell](Shadowfell.md)
 #### Background
 
 Long has the abbey of the Reflecting Mind sat beneath the world in darkness and solitude. Many lost souls of the Underdark reach the broken steps that lead to a quiet temple dedicated to personal reflection of self. The abbey’s acolytes welcome all to contemplate the nature of existence in halls filled with reflective surfaces that seemingly echo the viewer’s deepest desires. In actuality, the ruminations of these lost pilgrims grant control to an [allip](allip.md) named Lysanthir, which in turn drives all within the abbey towards a grey, emotionless madness as they sink further into themselves. Few within the abbey recognize the danger, as the echoes seen deep within the mirrors calms bygone anguish. 

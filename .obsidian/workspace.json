@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secrets/dwarfpriest.md",
+                "file": "secrets/JennarSnowcoat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dwarfpriest"
+              "title": "JennarSnowcoat"
             }
           }
         ],
@@ -108,12 +108,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "stories/Hk01-InvestigationInvisible.md",
+                    "file": "secrets/history.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Hk01-InvestigationInvisible"
+                  "title": "history"
                 }
               },
               {
@@ -122,16 +122,16 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/allip.md",
+                    "file": "Xalicas.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "allip"
+                  "title": "Xalicas"
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 2
           },
           {
             "id": "f95a241c1a1d9096",
@@ -171,12 +171,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Shadowfell.md",
+                    "file": "GrimWar.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Shadowfell"
+                  "title": "GrimWar"
                 }
               },
               {
@@ -346,34 +346,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "01025f25a69deb06",
+  "active": "2a229f1b620d45fa",
   "lastOpenFiles": [
-    "Shadowfell.md",
     "secrets/AbbeyReflectingMind.md",
-    "secrets/dwarfpriest.md",
-    "Abyss.md",
+    "GrimWar.md",
     "timeline.md",
+    "secrets/JennarSnowcoat.md",
+    "Shadowfell.md",
+    "secrets/Skulk.md",
+    "SkulkStones.md",
+    "stories/Hk02-MessMirrors.md",
+    "ShadowMirrorShrine.md",
+    "stories/Hk01-InvestigationInvisible.md",
+    "Xalicas.md",
+    "Yeonido.md",
+    "Xuedei.md",
+    "Xokx.md",
+    "WyvernTor.md",
     "rules/allip.md",
-    "ThisisFineShrine.md",
+    "Abyss.md",
     "Barfgeld.md",
     "secrets/history.md",
-    "GrimWar.md",
     "rules/dungeon.md",
     "rules/priest.md",
     "rules/turns.md",
-    "SkulkStones.md",
     "calendar.md",
-    "stories/Hk01-InvestigationInvisible.md",
     "Anor.md",
     "distances.md",
     "Dracolathe.md",
-    "BohaiLake.md",
-    "IC4995.md",
-    "gods.md",
-    "Skulk.md",
-    "IC4996.md",
-    "Hammerkeep.md",
-    "LodestoneTavern.md",
     "images/names-ho2-t.png",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",
