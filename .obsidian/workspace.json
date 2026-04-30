@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secrets/JennarSnowcoat.md",
+                "file": "places.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JennarSnowcoat"
+              "title": "places"
             }
           }
         ],
@@ -346,12 +346,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "2a229f1b620d45fa",
+  "active": "01025f25a69deb06",
   "lastOpenFiles": [
-    "secrets/AbbeyReflectingMind.md",
-    "GrimWar.md",
-    "timeline.md",
+    "Aurich.md",
+    "places.md",
     "secrets/JennarSnowcoat.md",
+    "GrimWar.md",
+    "secrets/history.md",
+    "secrets/AbbeyReflectingMind.md",
+    "timeline.md",
     "Shadowfell.md",
     "secrets/Skulk.md",
     "SkulkStones.md",
@@ -366,14 +369,11 @@
     "rules/allip.md",
     "Abyss.md",
     "Barfgeld.md",
-    "secrets/history.md",
     "rules/dungeon.md",
     "rules/priest.md",
     "rules/turns.md",
     "calendar.md",
     "Anor.md",
-    "distances.md",
-    "Dracolathe.md",
     "images/names-ho2-t.png",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",
