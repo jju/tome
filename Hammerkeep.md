@@ -54,14 +54,32 @@ Not every god of the Empire has a full-on temple in Hammerkeep (this isn't [Bedw
 * Temple of [Gruumsh](Gruumsh.md) - Carved from huge timbers down by the docks, this is often where travellers stop for blessings on their way upstream. Usually that's because they've heard it's a good idea from the travellers coming downstream through the Woods. The main priest is a dour [Orc](Orc.md) named [Simple Rhela](SimpleRhela.md).
 * Temple of [Luxon](Luxon.md) - The Empty Dodecahedron has a storefront entrance to their shrine in an alley between a pair of bickering blacksmiths ([Thalane Truthhauler Kalukithino](ThalaneTruthhaulerKalukithino.md) - Goliath & [Xokx](Xokx.md)  - Harengon). It's rare to see a priest there. Mostly it seems to be used as a modest reading room.
 
-# Other Businesses
+## Other Businesses
 
 * Zan's Tradehouse - good place to find work as a caravan guard
 
-# Getting Elsewhere
+## Demographics
+
+| Class       | Pop (%) | Species                      |
+| ----------- | ------- | ---------------------------- |
+| Aristocrats | 1       | Dragonborn                   |
+| Wealthy     | 5       | Dragonborn                   |
+| Comfortable | 25      | Dragonborn & Goliath         |
+| Modest      | 25      | Dragonborn & Goliath         |
+| Poor        | 20      | Dragonborn & Goliath & Dwarf |
+| Squalid     | 20      | Goliath & Orc                |
+| Wretched    | 4       | Orc                          |
+
+## Factions
+
+* [The Quality](TheQuality.md) - Aristocrats banding across national lines to makes sure life is good for rich folk
+* [Golden Dragons](GoldenDragons.md) - Military group who show up on occasional patrols for the glory of [Empire](DantagEmpire.md) 
+* [Goblin Transport Guilds](GoblinTransportGuilds.md) - have an office for escorting folks through the [Twin Woods](TwinWoods.md).
+
+## Getting Elsewhere
 
 Hammerkeep is the main overland point of connection between [Dracolathe](Dracolathe.md), the [Croaklands](Croaklands.md) and greater [Rundan](Rundan.md). 
-## Rundan
+### Rundan
 
 The rest of [Rundan](Rundan.md) is easily accessible from Hammerkeep. Large amounts of cargo can go via the [Nuoro River](NuoroRiver.md) (2 days to [Hammersford](Hammersford.md) and 3 days to [Bedwistre](Bedwistre.md)) or you can use the network of roads through the fertile lands and get to either city in a couple of days of riding. Usually you'd be looking at a couple of weeks to get cargo up the river from Bedwistre, so most goods come into town by caravan (4-5 days).
 

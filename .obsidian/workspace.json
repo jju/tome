@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Duvenstoll.md",
+                "file": "Dracolathe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Duvenstoll"
+              "title": "Dracolathe"
             }
           }
         ],
@@ -171,12 +171,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GrimWar.md",
+                    "file": "secrets/history.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "GrimWar"
+                  "title": "history"
                 }
               },
               {
@@ -193,8 +193,7 @@
                   "title": "dungeon"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "horizontal"
@@ -346,34 +345,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "01025f25a69deb06",
+  "active": "bb0c3c82008f0933",
   "lastOpenFiles": [
+    "Dracolathe.md",
+    "Hammerkeep.md",
+    "secrets/history.md",
+    "GrimWar.md",
+    "Miergag.md",
+    "rules/reddragon.md",
+    "Zhaalum.md",
+    "calendar.md",
+    "timeline.md",
+    "Duvenstoll.md",
+    "rules/dungeon.md",
+    "rules/turns.md",
+    "rules/wilderness.md",
+    "rules/travel.md",
     "places.md",
     "HuskenHills.md",
     "Sowhorn.md",
     "Padserae.md",
     "Aurich.md",
     "secrets/JennarSnowcoat.md",
-    "GrimWar.md",
-    "secrets/history.md",
     "secrets/AbbeyReflectingMind.md",
-    "timeline.md",
     "Shadowfell.md",
     "secrets/Skulk.md",
     "SkulkStones.md",
     "stories/Hk02-MessMirrors.md",
     "ShadowMirrorShrine.md",
-    "stories/Hk01-InvestigationInvisible.md",
-    "Xalicas.md",
-    "Yeonido.md",
-    "Xuedei.md",
-    "Xokx.md",
-    "WyvernTor.md",
-    "rules/allip.md",
-    "Abyss.md",
-    "Barfgeld.md",
-    "rules/dungeon.md",
-    "rules/priest.md",
     "images/names-ho2-t.png",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",
