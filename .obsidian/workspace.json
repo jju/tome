@@ -171,12 +171,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "secrets/AbbeyReflectingMind.md",
+                    "file": "Shadowfell.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "AbbeyReflectingMind"
+                  "title": "Shadowfell"
                 }
               },
               {
@@ -346,10 +346,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "bb1088710004a4c9",
+  "active": "01025f25a69deb06",
   "lastOpenFiles": [
-    "secrets/dwarfpriest.md",
+    "Shadowfell.md",
     "secrets/AbbeyReflectingMind.md",
+    "secrets/dwarfpriest.md",
     "Abyss.md",
     "timeline.md",
     "rules/allip.md",
@@ -373,7 +374,6 @@
     "IC4996.md",
     "Hammerkeep.md",
     "LodestoneTavern.md",
-    "HarolGarrick.md",
     "images/names-ho2-t.png",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",
