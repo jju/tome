@@ -1,6 +1,6 @@
 # Allip
 
-Medium Undead, Typically Neutral Evil
+Medium [Undead](Undead.md), Typically Neutral Evil
 Armor Class 13
 Hit Points 40 (9d8)
 Speed 0 ft., fly 40 ft. (hover)

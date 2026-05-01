@@ -125,7 +125,7 @@ Dragons typically establish new caches as their hoard reaches multiples of 15,00
 
 | d6  | Goal                                                                                                                                                                                                    |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Avoid decline by becoming Undead or seeking magical alternatives to aging                                                                                                                               |
+| 1   | Avoid decline by becoming [Undead](Undead.md) or seeking magical alternatives to aging                                                                                                                  |
 | 2   | Acquire a particular artifact, perhaps to complete a set (all three parts of the Regalia of Evil, the Eye of Vecna and Hand of Vecna, and so forth)                                                     |
 | 3   | Collect a complete set of artistic treasures, such as all the paintings of a great master, manuscripts for a famed author's entire body of writings, or every piece of jewelry made by a master artisan |
 | 4   | Transform an entire world into an extreme environment suitable as a lair—a volcanic hellscape, a frozen wonderland, an arid wasteland, or the like                                                      |

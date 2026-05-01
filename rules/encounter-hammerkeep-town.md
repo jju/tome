@@ -11,11 +11,11 @@ Roll 2d6
 | 5    | [Peddler](commoner.md) weighed down with pots and pans and other basic supplies (Returning Home) |
 | 6    | Apple-laden wagon with broken wheel holding up traffic (Holding small fey captives)              |
 | 7    | Recurring NPC - [Diswoff](Diswoff.md)                                                            |
-| 8    | 1d6 cats (Lying in Ambush)                                                                       |
+| 8    | 1d6 [cats](cat.md) (Lying in Ambush)                                                             |
 | 9    | 1 raven perched on a signpost (Hurt)                                                             |
-| 10   | 1 wererat (Eating)                                                                               |
+| 10   | 1 [wererat](wererat.md) (Eating)                                                                 |
 | 11   | 1 ghost (Mating behaviour)                                                                       |
-| 12   | Wizard (Lying in Ambush)                                                                         |
+| 12   | [Riora Runninggoat](RioraRunninggoat.md) (Lying in Ambush)                                       |
 When encountering either Wizards or Dragons the party should be in great personal danger, but clever play could also bring them great advantage. If a wizard or dragon is slain, there are consequences. Allegiances shift, power vacuums appear and are filled, and valuable treasure hoards are left without their most powerful guardians.
 
 ## Wrinkle 1
