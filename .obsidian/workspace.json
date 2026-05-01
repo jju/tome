@@ -146,9 +146,93 @@
               "icon": "lucide-file",
               "title": "greendragon"
             }
+          },
+          {
+            "id": "4a7fb63ca65f336e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/pirate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pirate"
+            }
+          },
+          {
+            "id": "234efa03878a1f35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/giantboar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "giantboar"
+            }
+          },
+          {
+            "id": "1844d7c892b090e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/giantwasp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "giantwasp"
+            }
+          },
+          {
+            "id": "a3320f44dc5d76b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/twigblight.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "twigblight"
+            }
+          },
+          {
+            "id": "c8b2e26f7af327d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/giantbadger.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "giantbadger"
+            }
+          },
+          {
+            "id": "8b79290db17f3191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/giantowl.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "giantowl"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 15
       },
       {
         "id": "ce196e2f9001aae7",
@@ -429,12 +513,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "bb0c3c82008f0933",
+  "active": "8b79290db17f3191",
   "lastOpenFiles": [
+    "rules/giantbadger.md",
+    "rules/giantowl.md",
+    "rules/encounter-kanliwood-hammerkeep.md",
+    "rules/twigblight.md",
+    "rules/owlbear.md",
+    "rules/giantwasp.md",
+    "rules/giantboar.md",
+    "rules/pirate.md",
+    "rules/greendragon.md",
     "rules/reddragon.md",
     "rules/encounter-hammerkeep-area.md",
-    "rules/encounter-kanliwood-hammerkeep.md",
-    "rules/greendragon.md",
     "EagerWave.md",
     "rules/golddragon.md",
     "Hammerkeep.md",
@@ -450,13 +541,6 @@
     "rules/shamblingmound.md",
     "rules/warrior.md",
     "rules/warpriest.md",
-    "rules/guard.md",
-    "rules/shadow.md",
-    "rules/encounter-hammerkeep-town.md",
-    "rules/hobgoblin.md",
-    "secrets/AbbeyReflectingMind.md",
-    "secrets/history.md",
-    "rules/soldier.md",
     "images/names-ho2-t.png",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",
