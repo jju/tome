@@ -230,9 +230,65 @@
               "icon": "lucide-file",
               "title": "giantowl"
             }
+          },
+          {
+            "id": "35ebc1ec3adb7c09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/rat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "rat"
+            }
+          },
+          {
+            "id": "0e58ad44c6f96880",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/rat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "rat"
+            }
+          },
+          {
+            "id": "db123b86a5740872",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/cat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cat"
+            }
+          },
+          {
+            "id": "0289ce38c5b5570f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/panther.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "panther"
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 19
       },
       {
         "id": "ce196e2f9001aae7",
@@ -276,12 +332,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/encounter-hammerkeep-area.md",
+                    "file": "rules/naturepriest.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "encounter-hammerkeep-area"
+                  "title": "naturepriest"
                 }
               },
               {
@@ -311,12 +367,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/encounter-kanliwood-hammerkeep.md",
+                    "file": "rules/encounter-hammerkeep-town.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "encounter-kanliwood-hammerkeep"
+                  "title": "encounter-hammerkeep-town"
                 }
               },
               {
@@ -513,11 +569,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "8b79290db17f3191",
+  "active": "0289ce38c5b5570f",
   "lastOpenFiles": [
-    "rules/giantbadger.md",
+    "rules/cat.md",
+    "rules/panther.md",
+    "rules/rat.md",
+    "rules/encounter-hammerkeep-town.md",
+    "rules/giantrat.md",
+    "rules/naturepriest.md",
+    "rules/archdruid.md",
+    "rules/encounter-hammerkeep-area.md",
     "rules/giantowl.md",
     "rules/encounter-kanliwood-hammerkeep.md",
+    "rules/giantbadger.md",
     "rules/twigblight.md",
     "rules/owlbear.md",
     "rules/giantwasp.md",
@@ -525,7 +589,6 @@
     "rules/pirate.md",
     "rules/greendragon.md",
     "rules/reddragon.md",
-    "rules/encounter-hammerkeep-area.md",
     "EagerWave.md",
     "rules/golddragon.md",
     "Hammerkeep.md",
@@ -534,13 +597,6 @@
     "rules/axebeak.md",
     "rules/wolf.md",
     "rules/goblin.md",
-    "rules/giantvulture.md",
-    "OdineManysister.md",
-    "rules/worg.md",
-    "rules/wereboar.md",
-    "rules/shamblingmound.md",
-    "rules/warrior.md",
-    "rules/warpriest.md",
     "images/names-ho2-t.png",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",

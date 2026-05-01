@@ -14,7 +14,7 @@ Roll 2d6
 | 8    | 2d4 [giant wasps](giantwasp.md) (eating)                             |
 | 9    | 2d4 [twigblights](twigblight.md) and 1 vine blight (Hurt)            |
 | 10   | 1d6 [giant badgers](giantbadger.md) (Tracking Prey)                  |
-| 11   | 2d4 giant owls (Starving)                                            |
+| 11   | 2d4 [giant owl](giantowl.md) (Starving)                              |
 | 12   | [hateswords](hateswords.md) (Artistic Pursuit)                       |
 When encountering either Wizards or Dragons the party should be in great personal danger, but clever play could also bring them great advantage. If a wizard or dragon is slain, there are consequences. Allegiances shift, power vacuums appear and are filled, and valuable treasure hoards are left without their most powerful guardians.
 
