@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dracolathe.md",
+                "file": "factions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dracolathe"
+              "title": "factions"
             }
           }
         ],
@@ -347,8 +347,8 @@
   },
   "active": "01025f25a69deb06",
   "lastOpenFiles": [
-    "Hammerkeep.md",
     "Dracolathe.md",
+    "Hammerkeep.md",
     "secrets/history.md",
     "GrimWar.md",
     "Miergag.md",
