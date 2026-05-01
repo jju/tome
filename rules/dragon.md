@@ -1,5 +1,6 @@
 * [reddragon](reddragon.md)
 * [golddragon](golddragon.md)
+* [greendragon](greendragon.md)
 
 territory - 50 miles across = 1 young dragon, 300 miles across = 2-3 dozen dragons if mostly young 3-4 adult/ancient, 3000 miles across = hundreds of young dozens of adults handful of ancient
 

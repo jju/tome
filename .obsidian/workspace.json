@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/cyclops.md",
+                "file": "rules/greendragon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cyclops"
+              "title": "greendragon"
             }
           }
         ],
@@ -227,12 +227,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Hammerkeep.md",
+                    "file": "rules/encounter-kanliwood-hammerkeep.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Hammerkeep"
+                  "title": "encounter-kanliwood-hammerkeep"
                 }
               },
               {
@@ -429,11 +429,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "2a229f1b620d45fa",
+  "active": "bb0c3c82008f0933",
   "lastOpenFiles": [
-    "rules/axebeak.md",
-    "rules/cyclops.md",
+    "rules/reddragon.md",
     "rules/encounter-hammerkeep-area.md",
+    "rules/encounter-kanliwood-hammerkeep.md",
+    "rules/greendragon.md",
+    "EagerWave.md",
+    "rules/golddragon.md",
+    "Hammerkeep.md",
+    "rules/dragon.md",
+    "rules/cyclops.md",
+    "rules/axebeak.md",
     "rules/wolf.md",
     "rules/goblin.md",
     "rules/giantvulture.md",
@@ -441,22 +448,15 @@
     "rules/worg.md",
     "rules/wereboar.md",
     "rules/shamblingmound.md",
-    "Hammerkeep.md",
     "rules/warrior.md",
     "rules/warpriest.md",
     "rules/guard.md",
     "rules/shadow.md",
     "rules/encounter-hammerkeep-town.md",
-    "rules/encounter-kanliwood-hammerkeep.md",
     "rules/hobgoblin.md",
     "secrets/AbbeyReflectingMind.md",
     "secrets/history.md",
     "rules/soldier.md",
-    "rules/smuggler.md",
-    "rules/naturepriest.md",
-    "rules/orc.md",
-    "rules/allip.md",
-    "secrets/Alhoon.md",
     "images/names-ho2-t.png",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",

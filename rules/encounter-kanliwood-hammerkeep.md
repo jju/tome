@@ -3,19 +3,19 @@
 
 Roll 2d6
 
-| Roll | Result                                                                            |
-| ---- | --------------------------------------------------------------------------------- |
-| 2    | Dragon (Building a Lair)                                                          |
-| 3    | 1d4 ghouls (Eating)                                                               |
-| 4    | 2d10 rats (Lying in Ambush)                                                       |
-| 5    | Peddler weighed down with pots and pans and other basic supplies (Returning Home) |
-| 6    | Apple-laden wagon with broken wheel holding up traffic (Holding captives)         |
-| 7    | Recurring NPC                                                                     |
-| 8    | 1d6 cats (Lying in Ambush)                                                        |
-| 9    | 1 raven perched on a signpost (Hurt)                                              |
-| 10   | 1 wererat (Eating)                                                                |
-| 11   | 1 ghost (Mating behaviour)                                                        |
-| 12   | Wizard (Lying in Ambush)                                                          |
+| Roll | Result                                                               |
+| ---- | -------------------------------------------------------------------- |
+| 2    | Dragon (Gloating)                                                    |
+| 3    | 1d2 owlbears (Lying in Ambush)                                       |
+| 4    | 1d2 redcaps (Demolishing)                                            |
+| 5    | 2d3 giant boars (Fleeing)                                            |
+| 6    | 2d4 [hobgoblins](hobgoblin.md) (Searching)                           |
+| 7    | Recurring NPC - Havilar and Tyrinnicus with bags of mushrooms (Sick) |
+| 8    | 2d4 giant wasps (eating)                                             |
+| 9    | 2d4 twig blights and 1 vine blight (Hurt)                            |
+| 10   | 1d6 giant badgers (Tracking Prey)                                    |
+| 11   | 2d4 giant owls (Starving)                                            |
+| 12   | [hateswords](hateswords.md) (Artistic Pursuit)                       |
 When encountering either Wizards or Dragons the party should be in great personal danger, but clever play could also bring them great advantage. If a wizard or dragon is slain, there are consequences. Allegiances shift, power vacuums appear and are filled, and valuable treasure hoards are left without their most powerful guardians.
 
 ## Wrinkle 1

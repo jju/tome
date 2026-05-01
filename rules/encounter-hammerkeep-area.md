@@ -5,7 +5,7 @@ Roll 2d6
 
 | Roll | Result                                                                                                            |
 | ---- | ----------------------------------------------------------------------------------------------------------------- |
-| 2    | Dragon (Trapped)                                                                                                  |
+| 2    | [greendragon](greendragon.md) (Trapped)                                                                           |
 | 3    | 1 [cyclops](cyclops.md) (Artistic pursuit)                                                                        |
 | 4    | 1d6+3 [Goblin Warriors](rules/goblin.md#Goblin%20Warrior) (non-guild) Riding [wolves](wolf.md) (holding captives) |
 | 5    | 2d4 Goblin Transport Guild [scouts](scout.md) (Returning Home)                                                    |
