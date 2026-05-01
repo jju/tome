@@ -122,12 +122,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "secrets/AbbeyReflectingMind.md",
+                    "file": "rules/encounter-hammerkeep-area.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "AbbeyReflectingMind"
+                  "title": "encounter-hammerkeep-area"
                 }
               },
               {
@@ -359,15 +359,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "36d8cc95f0ef269d",
+  "active": "2a229f1b620d45fa",
   "lastOpenFiles": [
+    "rules/encounter-hammerkeep-town.md",
+    "rules/encounter-kanliwood-hammerkeep.md",
+    "rules/hobgoblin.md",
     "secrets/AbbeyReflectingMind.md",
+    "rules/shadow.md",
     "secrets/history.md",
     "rules/soldier.md",
     "rules/smuggler.md",
     "rules/shamblingmound.md",
     "rules/naturepriest.md",
-    "rules/shadow.md",
     "rules/orc.md",
     "rules/allip.md",
     "secrets/Alhoon.md",
@@ -384,9 +387,6 @@
     "Duvenstoll.md",
     "rules/dungeon.md",
     "rules/turns.md",
-    "rules/wilderness.md",
-    "rules/travel.md",
-    "places.md",
     "images/names-ho2-t.png",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",
