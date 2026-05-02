@@ -237,17 +237,45 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GodOwls.md",
+                "file": "rules/alhoon.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "GodOwls"
+              "title": "alhoon"
+            }
+          },
+          {
+            "id": "1ade5724bff2502d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/ghoul.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ghoul"
+            }
+          },
+          {
+            "id": "d6a8a26e9c340897",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/ghast.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ghast"
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 18
       },
       {
         "id": "ce196e2f9001aae7",
@@ -529,8 +557,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "33b9c9e19fa8b8e9",
+  "active": "d6a8a26e9c340897",
   "lastOpenFiles": [
+    "rules/ghoul.md",
+    "rules/ghast.md",
+    "rules/alhoon.md",
+    "GodOwls.md",
     "IC4995.md",
     "timeline.md",
     "stories/Hk01-InvestigationInvisible.md",
@@ -538,7 +570,6 @@
     "stories/Hk02-MessMirrors.md",
     "Tlacatecolo.md",
     "rules/naturepriest.md",
-    "GodOwls.md",
     "secrets/history.md",
     "creatures.md",
     "Dragons.md",
@@ -554,9 +585,6 @@
     "stories/index.md",
     "Shadowfell.md",
     "rules/shadow.md",
-    "SanCitlan.md",
-    "rules/reborn.md",
-    "rules/paladin.md",
     "images/names-ho2-t.png",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",
