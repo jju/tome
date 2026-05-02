@@ -1,6 +1,16 @@
 # Ghast
 
 [Ghast](https://www.dndbeyond.com/monsters/5195007-ghast)
+
+> This foul creature appears more or less humanoid; but has mottled, decaying flesh drawn tight across clearly visible bones. It is mostly hairless, has a carnivore’s sharp teeth and jagged claws. Its eyes burn like hot coals in their sunken sockets. - some poet
+
+In addition, you might want to allow an Intelligence - Religion check to know the following (accumulated - a roll of 25 or above would know all):
+ * DC5 (very easy): attacks with a bite or a claw
+ * DC10 (easy): its claw attack can cause paralyzation and being next to the creature's stench may cause one to be poisoned
+ * DC15 (medium): resistance to necrotic damage and may be difficult for a cleric to turn
+ * DC20 (hard): attacking the creature with poison has no effect
+ * DC25 (very hard): immune to being charmed, exhaustion, and poisoned - additionally that it has darkvision out to 60'
+
 Medium [Undead](Undead.md), Chaotic Evil
 AC 13    Initiative +3 (13)
 HP 36 (8d8)
