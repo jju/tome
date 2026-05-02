@@ -1,7 +1,7 @@
 # Ghost
 [Ghost](https://www.dndbeyond.com/monsters/5195008-ghost)
 
-Medium Undead, Neutral
+Medium [Undead](Undead.md), Neutral
 AC 11    Initiative +1 (11)
 HP 45 (10d8)
 Speed 5 ft., Fly 40 ft. (hover)

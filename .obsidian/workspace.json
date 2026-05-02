@@ -232,77 +232,22 @@
             }
           },
           {
-            "id": "35ebc1ec3adb7c09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/rat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "rat"
-            }
-          },
-          {
-            "id": "0e58ad44c6f96880",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/rat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "rat"
-            }
-          },
-          {
-            "id": "db123b86a5740872",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/cat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "cat"
-            }
-          },
-          {
-            "id": "0289ce38c5b5570f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/panther.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "panther"
-            }
-          },
-          {
             "id": "33b9c9e19fa8b8e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/dragon.md",
+                "file": "GodOwls.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "dragon"
+              "title": "GodOwls"
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 16
       },
       {
         "id": "ce196e2f9001aae7",
@@ -395,12 +340,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "stories/index.md",
+                    "file": "Dragons.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "index"
+                  "title": "Dragons"
                 }
               },
               {
@@ -409,12 +354,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "secrets/history.md",
+                    "file": "IC4995.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "history"
+                  "title": "IC4995"
                 }
               },
               {
@@ -431,7 +376,8 @@
                   "title": "dungeon"
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -487,8 +433,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -586,32 +531,32 @@
   },
   "active": "33b9c9e19fa8b8e9",
   "lastOpenFiles": [
-    "rules/blackguard.md",
-    "rules/allip.md",
-    "rules/alhoon.md",
-    "Undead.md",
-    "rules/ghost.md",
+    "IC4995.md",
+    "timeline.md",
+    "stories/Hk01-InvestigationInvisible.md",
+    "IC4996.md",
+    "stories/Hk02-MessMirrors.md",
+    "Tlacatecolo.md",
+    "rules/naturepriest.md",
+    "GodOwls.md",
+    "secrets/history.md",
+    "creatures.md",
+    "Dragons.md",
+    "Skulk.md",
+    "rules/vampire.md",
+    "rules/wizard.md",
     "rules/panther.md",
-    "rules/encounter-hammerkeep-town.md",
     "rules/cat.md",
     "rules/rat.md",
-    "rules/giantrat.md",
-    "rules/naturepriest.md",
-    "rules/archdruid.md",
-    "rules/encounter-hammerkeep-area.md",
-    "rules/giantowl.md",
-    "rules/encounter-kanliwood-hammerkeep.md",
-    "rules/giantbadger.md",
-    "rules/twigblight.md",
-    "rules/owlbear.md",
-    "rules/giantwasp.md",
-    "rules/giantboar.md",
-    "rules/pirate.md",
-    "rules/greendragon.md",
-    "rules/reddragon.md",
-    "EagerWave.md",
-    "rules/golddragon.md",
-    "Hammerkeep.md",
+    "Wizard.md",
+    "rules/warlock.md",
+    "rules/spawnofkyuss.md",
+    "stories/index.md",
+    "Shadowfell.md",
+    "rules/shadow.md",
+    "SanCitlan.md",
+    "rules/reborn.md",
+    "rules/paladin.md",
     "images/names-ho2-t.png",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",

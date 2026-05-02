@@ -1,4 +1,6 @@
-Medium Undead, Typically Chaotic Evil
+# Spawn of Kyuss
+
+Medium [Undead](Undead.md), Typically Chaotic Evil
 AC 10    Initiative +0 (10)
 Hit Points 76 (9d8 + 36)
 Speed 30 ft.

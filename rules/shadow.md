@@ -2,7 +2,7 @@
 
 [Shadow](https://www.dndbeyond.com/monsters/5174958-shadow)
 
-Medium Undead, Chaotic Evil
+Medium [Undead](Undead.md), Chaotic Evil
 AC 12    Initiative +2 (12)
 HP 27 (5d8 + 5)
 Speed 40 ft.
