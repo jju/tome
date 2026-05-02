@@ -1,6 +1,6 @@
 Harol Garrick, Elder
 
-Male Halfling, age 30 [commoner](commoner.md)runs the Lodestone Tavern in [Hammerkeep](Hammerkeep.md)
+Male Halfling, age 30 [commoner](commoner.md) runs the Lodestone Tavern in [Hammerkeep](Hammerkeep.md)
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
