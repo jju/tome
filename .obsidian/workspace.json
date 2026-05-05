@@ -336,12 +336,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aarakocra.md",
+                "file": "Halfling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aarakocra"
+              "title": "Halfling"
             }
           }
         ],
@@ -389,12 +389,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Hammerkeep.md",
+                    "file": "Aarakocra.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Hammerkeep"
+                  "title": "Aarakocra"
                 }
               },
               {
@@ -452,12 +452,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "IC4995.md",
+                    "file": "DantagEmpire.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "IC4995"
+                  "title": "DantagEmpire"
                 }
               },
               {
@@ -629,9 +629,12 @@
   },
   "active": "2c80e239e9de6b9e",
   "lastOpenFiles": [
-    "Goliath.md",
+    "Tiefling.md",
+    "DantagEmpire.md",
+    "IC4995.md",
     "Aarakocra.md",
     "Hammerkeep.md",
+    "Goliath.md",
     "rules/naturepriest.md",
     "species.md",
     "strongholds.md",
@@ -646,15 +649,12 @@
     "Ooze.md",
     "rules/ochrejelly.md",
     "rules/skeleton.md",
-    "IC4995.md",
     "rules/zombie.md",
     "rules/ghast.md",
     "rules/ghoul.md",
     "rules/alhoon.md",
     "GodOwls.md",
     "timeline.md",
-    "stories/Hk01-InvestigationInvisible.md",
-    "IC4996.md",
     "images/names-ho2-t.png",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",
