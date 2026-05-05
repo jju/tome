@@ -14,11 +14,11 @@ You just won't find a lot of them holding any Imperial power[^1].
 ## Characters
 
 * [Green](Green.md) - merchant heading to [Dracolathe](Dracolathe.md) 
-* [RioraRunninggoat](RioraRunninggoat.md) - entertainer in [Hammerkeep](Hammerkeep.md) 
-* [WenserWaterskin](WenserWaterskin.md) - blacksmith apprentice in [Hammerkeep](Hammerkeep.md)
-* [OdineManysister](OdineManysister.md) - tough in [Hammerkeep](Hammerkeep.md)
-* [HarolGarrick](HarolGarrick.md) - barkeep in [Hammerkeep](Hammerkeep.md)
-* [LaviniaDaergel](LaviniaDaergel.md) - tough barkeep in [Hammerkeep](Hammerkeep.md)
+* [Riora Runninggoat](RioraRunninggoat.md) - entertainer in [Hammerkeep](Hammerkeep.md) 
+* [Wenser Waterskin](WenserWaterskin.md) - blacksmith apprentice in [Hammerkeep](Hammerkeep.md)
+* [Odine Manysister](OdineManysister.md) - tough in [Hammerkeep](Hammerkeep.md)
+* [Harol Garrick](HarolGarrick.md) - barkeep in [Hammerkeep](Hammerkeep.md)
+* [Lavinia Daergel](LaviniaDaergel.md) - tough barkeep in [Hammerkeep](Hammerkeep.md)
 * KerowynHucrele - runs General store in [Oakhurst](Oakhurst.md)
 * FelosialWaterskin - guard in [Oakhurst](Oakhurst.md)
 

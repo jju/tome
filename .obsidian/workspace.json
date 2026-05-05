@@ -627,12 +627,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "2c80e239e9de6b9e",
+  "active": "2a229f1b620d45fa",
   "lastOpenFiles": [
+    "rules/aarakocra.md",
+    "Aarakocra.md",
+    "Halfling.md",
     "Tiefling.md",
     "DantagEmpire.md",
     "IC4995.md",
-    "Aarakocra.md",
     "Hammerkeep.md",
     "Goliath.md",
     "rules/naturepriest.md",
@@ -653,8 +655,6 @@
     "rules/ghast.md",
     "rules/ghoul.md",
     "rules/alhoon.md",
-    "GodOwls.md",
-    "timeline.md",
     "images/names-ho2-t.png",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",
