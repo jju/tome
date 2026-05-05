@@ -336,12 +336,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secrets/Illithid.md",
+                "file": "Tentacloids.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Illithid"
+              "title": "Tentacloids"
             }
           }
         ],
@@ -629,6 +629,9 @@
   },
   "active": "2c80e239e9de6b9e",
   "lastOpenFiles": [
+    "ShadowMirrorShrine.md",
+    "Tentacloids.md",
+    "secrets/Illithid.md",
     "rules/dragon.md",
     "rules/blackpudding.md",
     "rules/gelatinouscube.md",
@@ -652,9 +655,6 @@
     "creatures.md",
     "Dragons.md",
     "Skulk.md",
-    "rules/vampire.md",
-    "rules/wizard.md",
-    "rules/panther.md",
     "images/names-ho2-t.png",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",

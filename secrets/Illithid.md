@@ -73,40 +73,7 @@ See chapter 3 for more information on elder brains.
 Sometimes a mind flayer that's away from its colony breaks free from the elder brain. Perhaps it ran into a situation where its bonds of obedience were broken, or perhaps the colony was  destroyed while it was away. In such a case, the mind flayer becomes free-willed for as
 long as it avoids contact with an elder brain.
 
-A renegade illithid remains fearful of gith attacks, and likely sets about creating a sort of colony of its own the better to remain undetected. It gathers minions, establishes a lair, and makes defense of its territory a develop
-
-> They tre
-as equals
-them. A re
-advisor or
-Any allianc
-flayer falls t
-ENEMIES
-Elder brains s
-and a colony c
-decades if it ca
-Two kinds of
-colony: an invas
-THE GITH NE
-Githzerai and gith
-enslavement of the
-parties to the Mate
-illithids wherever th
-hunting, they have g
-flayer colony is const
-of gith, even if it has n
-Underdark predator:
-of formidable creatures
-colony: Although the ma
-are incredibly powerful.
-accomplished heroes, dre
-mons, and other hazards
-a colony even if they don't
-elder brain.
-top priority. Unlike colonial mind flayers, rogue illithids
-
-
-develop a healthy respect for those not of their kind. They treat especially powerful creatures and individuals as equals, not adversaries, and seek to cooperate with them. A renegade mind flayer might become a trusted advisor or a powerful ally, so long as it is kept well fed. Any alliance it makes, however, collapses if the mind flayer falls under the sway of an elder brain once more.
+A renegade illithid remains fearful of gith attacks, and likely sets about creating a sort of colony of its own the better to remain undetected. It gathers minions, establishes a lair, and makes defense of its territory a develop a healthy respect for those not of their kind. They treat especially powerful creatures and individuals as equals, not adversaries, and seek to cooperate with them. A renegade mind flayer might become a trusted advisor or a powerful ally, so long as it is kept well fed. Any alliance it makes, however, collapses if the mind flayer falls under the sway of an elder brain once more.
 
 ### ENEMIES EVERYWHERE
 
@@ -382,280 +349,98 @@ Most colonies that possess a nautiloid save it for use as an emergency escape ve
 
 #### MOBILE LAIRS
 
-A few nautiloids are large enough to hold an entire
-colony, serving as a mobile lair. A colony that uses a
-nautiloid in this way is much more aggressive than other
-colonies, since it can effectively carry out hit-and-run
-attacks and can vacate an area that has been depleted
-of victims.
-These immense vessels invariably have protections
-that enable them to survive in extreme environments. As
-such, the illithids typically locate their lair on a moun-
-taintop, beneath the surface of the ocean, or at the upper
-levels of the atmosphere-places where raids by their
-enemies are almost impossible.
-MIND FLAYER MAGIC
-From their perspective as masters of psionic energy,
-mind flayers view magic as a wild, unpredictable, and
-primitive source of power. After all, anything that simple
-humanoids can learn to use must be ineffectual com-
-pared to what illithids are capable of.
-ARCANE MAGIC
-Mind flayers consider arcane magic to be an abomi-
-nation, a twisted cousin of psionic power that will be
-erased from the multiverse when the illithids' empire
-rises again. Some sages speculate that this attitude
-arose among the mind flayers because magic played an
-important role in the rebellion of the gith.
-In any case, a few renegade mind flayers do pursue
-arcane magic. Using some of the items or spells they
-discover, they can shield their minds as they aspire to
-break free of the elder brain's control.
-Eventually, a mind flayer thus separated from the
-hive turns to the path of lichdom. Just as the elder brain
-offers immortality to its faithful illithids, so does becom-
-ing a lich ensure life everlasting. The feeling of freedom
-that comes from this change is liberating, but the spec-
-ter of death forever after colors the mind flayer's actions.
-An undead mind flayer is hated and hunted by other
-illithids, but many are powerful enough to stand on their
-own against attackers.
-See the alhoon entry in chapter 3 of this book for
-more information on undead mind flayers.
-MONSTER LORR
-FUNERARY BRAIN JARS
-When a mind flayer dies, other mind flayers try to salvage
-the dead illithid's brain and bring it to the colony's brine
-pool for the elder brain to consume. For this purpose,
-mind flayers craft funerary brain jars made of stone. Every
-jar is made for an individual, inscribed with Qualith and
-artwork that relate the mind flayer's accomplishments. Of.
-ten a mind flayer's funerary brain jar is created long before
-the illithid's death and updated as the years pass, with the
-jar serving as a diary of sorts for the one whose brain will
-eventually fill it. After it is filled with brine, a funerary brain
-jar can preserve a brain without spoiling for 1d4 + 10 days.
-DIVINE MAGIC
-Illithids acknowledge the existence of divine entities, but
-it is unusual for any but a deviant mind flayer to actively
-worship such a power. Since they are capable of planar
-travel, illithids don't view the afterlife and the Outer
-Planes in the mythic way that most other races do. II-
-lithids don't believe they possess souls whose eternal
-fate is governed by the gods. Instead, when a mind flay-
-er's brain is returned to the elder brain to be consumed,
-the creature's intelligence lives on. Only if an illithid's
-brain isn't retrieved after death would its consciousness
-be cast into oblivion.
-Two divine entities have long been associated with
-mind flayers by the scholars of other races. These aren't
-deities, but rather manifestations of ideal psionic and
-philosophical mental states that mind flayers revere.
-Illithids occasionally meditate on these ideals while
-performing physical movements meant to help them
-achieve the proper attitude-actions that have often
-been misinterpreted by observers as worship.
-Maanzecorian. The entity/concept called Maanzeco-
-rian embodies a complete comprehension of knowledge.
-It is a state wherein memories, thoughts, and aptitudes
-are dredged up from one's mind not one at a time as
-needed, but are all laid bare and brought to the fore at
-once. The perfect memories exhibited by aboleths have
-long fascinated mind flayers that emulate Maanzeco-
-rian, leading to frequent conflict between the two races.
-Ilsensine. Ilsensine is a broader philosophical ideal
-than Maanzecorian, leading many sages to assume it
-must be the more important or more powerful of the two
-"gods." Ilsensine represents not just mastery of one's
-own mind but a psionic union between oneself and the
-realm of universal knowledge. Different elder brains
-have different interpretations of what this state consists
-of and how to achieve it. Elder brains and illithids that
-devote themselves to Ilsensine sometimes pursue ways
-to dominate gods of knowledge or even aspire to sup-
-plant those gods on the way to attaining the state of full
-incorporation into the universal consciousness.
-MIND FLAYER MAGIC ITEMS
-Some mind flayer colonies have developed the ability
-to create or modify certain kinds of gear, imbuing them
-with psionic energy. Mind flayers craft magic items that
-only they or their thralls can use—a sensible security
-measure to keep enemies from turning the illithids' own
-creations against them.
-MIND BLADE
-Weapon (any sword), rare requires
-cific individual)
-Mind flayers can turn any nonmagic
-blade. Only one creature can attune
-cific mind flayer or one of its thralls.
-other creature, the mind blade funct
-sword of its kind. In the hands of its
-the mind blade is a magic weapon th
-2d6 psychic damage to any target it
-MIND CARAPACE ARMOR
-Armor (any heavy armor), uncommo
-ment by a specific individual)
-Any nonmagical suit of heavy armor
-by mind flayers into mind carapace
-creature can attune to it: either a spe
-or one of its thralls. While worn by a
-the mind carapace armor functions
-of its kind. To its intended wearer, th
-vantage on Intelligence, Wisdom, an
-throws and makes its wearer immur
-condition.
-MIND LASH
-Weapon (whip), rare (requires attune
-flayer)
-In the hands of a creature other than
-mind lash functions as a normal whi
-an illithid, this magic weapon strips
-will to survive as it also strips away
-extra 2d4 psychic damage to any tar
-ture that takes psychic damage from
-also succeed on a DC 15 Wisdom sa
-disadvantage on Intelligence, Wisdor
-saving throws for 1 minute. The crea
-saving throw at the end of each of its
-effect on itself on a success.
-SHIELD OF FAR SIGHT
-Armor (shield), rare
-A mind flayer skilled at crafting mag
-shield of far sight by harvesting an ey
-gent humanoid and magically implan
-surface of a nonmagical shield. The s
-magic item once the eye is implanted
-mind flayer can give the shield to a th
-a wall in its lair. As long as the shield
-plane of existence as its creator, the r
-through the shield's eye, which has di
-range of 60 feet. While peering throu
-eye, the mind flayer can use its Mind
-though it were standing behind the sl
-If a shield of far sight is destroyed,
-created it is blinded for 2d12 hours.
-MIND FLAYER AUGMENT
-Some mind flayer colonies augment t
-nonmagical gear to make them more
-guardians and bodyguards. Two exan
-augmentations are presented here.
+A few nautiloids are large enough to hold an entire colony, serving as a mobile lair. A colony that uses a nautiloid in this way is much more aggressive than other colonies, since it can effectively carry out hit-and-run attacks and can vacate an area that has been depleted of victims.
 
+These immense vessels invariably have protections that enable them to survive in extreme environments. As such, the illithids typically locate their lair on a mountaintop, beneath the surface of the ocean, or at the upper levels of the atmosphere-places where raids by their enemies are almost impossible.
 
-MIND BLADE
-Weapon (any sword), rare (requires attunement by a spe-
-cific individual)
-Mind flayers can turn any nonmagical sword into a mind
-blade. Only one creature can attune to it: either a spe-
-cific mind flayer or one of its thralls. In the hands of any
-other creature, the mind blade functions as a normal
-sword of its kind. In the hands of its intended wielder,
-the mind blade is a magic weapon that deals an extra
-2d6 psychic damage to any target it hits.
-MIND CARAPACE ARMOR
-Armor (any heavy armor), uncommon (requires attune-
-ment by a specific individual
-Any nonmagical suit of heavy armor can be turned
-by mind flayers into mind carapace armor. Only one
-creature can attune to it: either a specific mind flayer
-or one of its thralls. While worn by any other creature,
-the mind carapace armor functions as normal armor
-of its kind. To its intended wearer, the armor grants ad-
-vantage on Intelligence, Wisdom, and Charisma saving
-throws and makes its wearer immune to the frightened
-condition.
-MIND LASH
-Weapon (whip), rare (requires attunement by a mind
-flayer)
-In the hands of a creature other than a mind flayer, a
-mind lash functions as a normal whip. In the hands of
-an illithid, this magic weapon strips away a creature's
-will to survive as it also strips away flesh, dealing an
-extra 2d4 psychic damage to any target it hits. Any crea-
-ture that takes psychic damage from the mind lash must
-also succeed on a DC 15 Wisdom saving throw or have
-disadvantage on Intelligence, Wisdom, and Charisma
-saving throws for 1 minute. The creature can repeat the
-saving throw at the end of each of its turns, ending the
-effect on itself on a success.
-SHIELD OF FAR SIGHT
+### MIND FLAYER MAGIC
+
+From their perspective as masters of psionic energy, mind flayers view magic as a wild, unpredictable, and primitive source of power. After all, anything that simple humanoids can learn to use must be ineffectual compared to what illithids are capable of.
+
+#### ARCANE MAGIC
+
+Mind flayers consider arcane magic to be an abomination, a twisted cousin of psionic power that will be erased from the multiverse when the illithids' empire rises again. Some sages speculate that this attitude arose among the mind flayers because magic played an important role in the rebellion of the gith.
+
+In any case, a few renegade mind flayers do pursue arcane magic. Using some of the items or spells they discover, they can shield their minds as they aspire to break free of the elder brain's control.
+
+Eventually, a mind flayer thus separated from the hive turns to the path of lichdom. Just as the elder brain offers immortality to its faithful illithids, so does becoming a lich ensure life everlasting. The feeling of freedom that comes from this change is liberating, but the specter of death forever after colors the mind flayer's actions.
+
+An [undead mind flayer](Alhoon.md) is hated and hunted by other illithids, but many are powerful enough to stand on their own against attackers.
+
+##### FUNERARY BRAIN JARS
+
+When a mind flayer dies, other mind flayers try to salvage the dead illithid's brain and bring it to the colony's brine pool for the elder brain to consume. For this purpose, mind flayers craft funerary brain jars made of stone. Every jar is made for an individual, inscribed with Qualith and
+artwork that relate the mind flayer's accomplishments. Often a mind flayer's funerary brain jar is created long before the illithid's death and updated as the years pass, with the jar serving as a diary of sorts for the one whose brain will eventually fill it. After it is filled with brine, a funerary brain jar can preserve a brain without spoiling for 1d4 + 10 days.
+
+#### DIVINE MAGIC
+
+Illithids acknowledge the existence of divine entities, but it is unusual for any but a deviant mind flayer to actively worship such a power. Since they are capable of planar travel, illithids don't view the afterlife and the Outer Planes in the mythic way that most other races do. IIlithids don't believe they possess souls whose eternal fate is governed by the gods. Instead, when a mind flayer's brain is returned to the elder brain to be consumed, the creature's intelligence lives on. Only if an illithid's brain isn't retrieved after death would its consciousness be cast into oblivion.
+
+Two divine entities have long been associated with mind flayers by the scholars of other races. These aren't deities, but rather manifestations of ideal psionic and philosophical mental states that mind flayers revere. Illithids occasionally meditate on these ideals while performing physical movements meant to help them achieve the proper attitude-actions that have often been misinterpreted by observers as worship.
+
+**Maanzecorian.** The entity/concept called Maanzecorian embodies a complete comprehension of knowledge. It is a state wherein memories, thoughts, and aptitudes are dredged up from one's mind not one at a time as needed, but are all laid bare and brought to the fore at once. The perfect memories exhibited by [[aboleth]]s have long fascinated mind flayers that emulate Maanzecorian, leading to frequent conflict between the two races. 
+
+**Ilsensine.** Ilsensine is a broader philosophical ideal than Maanzecorian, leading many sages to assume it must be the more important or more powerful of the two "gods." Ilsensine represents not just mastery of one's own mind but a psionic union between oneself and the realm of universal knowledge. Different elder brains have different interpretations of what this state consists
+of and how to achieve it. Elder brains and illithids that devote themselves to Ilsensine sometimes pursue ways to dominate gods of knowledge or even aspire to supplant those gods on the way to attaining the state of full incorporation into the universal consciousness.
+
+#### MIND FLAYER MAGIC ITEMS
+
+Some mind flayer colonies have developed the ability to create or modify certain kinds of gear, imbuing them with psionic energy. Mind flayers craft magic items that only they or their thralls can use—a sensible security measure to keep enemies from turning the illithids' own creations against them.
+
+##### MIND BLADE
+
+Weapon (any sword), rare (requires attunement by a specific individual)
+
+Mind flayers can turn any nonmagical sword into a mind blade. Only one creature can attune to it: either a specific mind flayer or one of its thralls. In the hands of any other creature, the mind blade functions as a normal sword of its kind. In the hands of its intended wielder, the mind blade is a magic weapon that deals an extra 2d6 psychic damage to any target it hits.
+
+##### MIND CARAPACE ARMOR
+
+Armor (any heavy armor), uncommon (requires attunement by a specific individual)
+
+Any nonmagical suit of heavy armor can be turned by mind flayers into mind carapace armor. Only one creature can attune to it: either a specific mind flayer or one of its thralls. While worn by any other creature, the mind carapace armor functions as normal armor of its kind. To its intended wearer, the armor grants advantage on Intelligence, Wisdom, and Charisma saving throws and makes its wearer immune to the frightened condition.
+
+##### MIND LASH
+
+Weapon (whip), rare (requires attunement by a mind flayer)
+
+In the hands of a creature other than a mind flayer, a mind lash functions as a normal whip. In the hands of an illithid, this magic weapon strips away a creature's will to survive as it also strips away flesh, dealing an extra 2d4 psychic damage to any target it hits. Any creature that takes psychic damage from the mind lash must also succeed on a DC 15 Wisdom saving throw or have disadvantage on Intelligence, Wisdom, and Charisma saving throws for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+##### SHIELD OF FAR SIGHT
+
 Armor (shield), rare
-A mind flayer skilled at crafting magic items creates a
-shield of far sight by harvesting an eye from an intelli-
-gent humanoid and magically implanting it on the outer
-surface of a nonmagical shield. The shield becomes a
-magic item once the eye is implanted, whereupon the
-mind flayer can give the shield to a thrall or hang it on
-a wall in its lair. As long as the shield is on the same
-plane of existence as its creator, the mind flayer can see
-through the shield's eye, which has darkvision out to a
-range of 60 feet. While peering through this magical
-eye, the mind flayer can use its Mind Blast action as
-though it were standing behind the shield.
-If a shield of far sight is destroyed, the mind flayer that
-created it is blinded for 2d12 hours.
-MIND FLAYER AUGMENTATIONS
-Some mind flayer colonies augment their thralls with
-nonmagical gear to make them more effective as lair
-guardians and bodyguards. Two examples of mind flayer
-augmentations are presented here.
-FLENSING CLAWS
-Illithids don't always provide their thralls with normal
-weapons, such as swords and axes. Sometimes they
-improve the natural capabilities of thralls by giving
-them new anatomy. Flensing claws take the form of ar-
-ticulated digits that extend into long metal blades. The
-claws are knitted into the flesh and bones of a creature's
-arms and can't be removed without surgical amputation.
-Each set of flensing claws is designed for a specific
-creature and can't be used by anyone else. A creature
-equipped with flensing claws can use its action to make
-one melee weapon attack with the claws. The claws
-deal slashing damage based on the creature's size:
-Small, 1d8; Medium, 1d10; Large, 1d12; or Huge, 2d8.
-The creature adds its proficiency bonus and Strength
-modifier to any attack roll made with the claws, and its
-Strength modifier to its damage roll when it hits a target
-with the claws. Tiny and Gargantuan creatures can't be
-fitted with flensing claws.
-SURVIVAL MANTLE
-This carapace-like augmentation encases portions of
-the wearer's shoulders, neck, and chest. A survival man-
-tle is equivalent to a suit of nonmagical half plate armor
-and takes just as long to don or doff. It can't be worn
-with other kinds of armor.
-A creature wearing a survival mantle can breathe
-normally in any environment (including a vacuum) and
-has advantage on saving throws against harmful gases
-(such as those created by a cloudkill spell, a stinking
-cloud spell, inhaled poisons, and the breath weapons of
-some dragons).
-TREASURE
-Mind flayers don't hoard coins, gemstones, jewelry, and
-other sorts of treasure. However, a colony obsessed
-with the study of biology would consider a new, alien
-specimen a great prize, especially a living creature. One
-concerned with improving its war machinery might seek
-out new gear, weapons, and armor it can use. A colony
-that collects gold coins or gemstones might do so not to
-become rich but to contaminate them with a psychic ef-
-fect it wants to spread through the surface world.
-Adventurers who are motivated by the prospect of
-vast wealth are best off avoiding mind flayer colonies.
-Although illithids are evil, and defeating them makes
-the world a safer place, they don't accumulate material
-wealth the way many other powerful creatures do. Be-
-cause of their disdain for arcane and divine power, they
-discount most magic items as trivial baubles, unless
-they are useful to the colony for a particular reason. A
-mind fayer might ignore a bag of diamonds it is offered
-as a bribe, but might listen to a proposal if a bargaining
-creature offers it news of a new construction technique
-developed by the dwarves of a faraway kingdom.
-Mind flayers know that humans, orcs, and other prim-
-itive creatures love shiny baubles and mysterious de-
-vices. They might use such objects they come across the
-way a rat catcher uses a lump of cheese-a lure to draw
-quarry into a trap.
+
+A mind flayer skilled at crafting magic items creates a shield of far sight by harvesting an eye from an intelligent humanoid and magically implanting it on the outer surface of a nonmagical shield. The shield becomes a magic item once the eye is implanted, whereupon the mind flayer can give the shield to a thrall or hang it on a wall in its lair. As long as the shield is on the same plane of existence as its creator, the mind flayer can see through the shield's eye, which has darkvision out to a range of 60 feet. While peering through this magical eye, the mind flayer can use its Mind Blast action as though it were standing behind the shield. 
+
+If a shield of far sight is destroyed, the mind flayer that created it is blinded for 2d12 hours.
+
+#### MIND FLAYER AUGMENTATIONS
+
+Some mind flayer colonies augment their thralls with nonmagical gear to make them more effective as lair guardians and bodyguards. Two examples of mind flayer augmentations are presented here.
+
+##### FLENSING CLAWS
+
+Illithids don't always provide their thralls with normal weapons, such as swords and axes. Sometimes they improve the natural capabilities of thralls by giving them new anatomy. Flensing claws take the form of articulated digits that extend into long metal blades. The claws are knitted into the flesh and bones of a creature's arms and can't be removed without surgical amputation.
+
+Each set of flensing claws is designed for a specific creature and can't be used by anyone else. A creature equipped with flensing claws can use its action to make one melee weapon attack with the claws. The claws deal slashing damage based on the creature's size: Small, 1d8; Medium, 1d10; Large, 1d12; or Huge, 2d8.
+
+The creature adds its proficiency bonus and Strength modifier to any attack roll made with the claws, and its Strength modifier to its damage roll when it hits a target with the claws. Tiny and Gargantuan creatures can't be fitted with flensing claws.
+
+##### SURVIVAL MANTLE
+
+This carapace-like augmentation encases portions of the wearer's shoulders, neck, and chest. A survival mantle is equivalent to a suit of nonmagical half plate armor and takes just as long to don or doff. It can't be worn with other kinds of armor.
+
+A creature wearing a survival mantle can breathe normally in any environment (including a vacuum) and has advantage on saving throws against harmful gases (such as those created by a cloudkill spell, a stinking cloud spell, inhaled poisons, and the breath weapons of some dragons).
+
+### TREASURE
+
+Mind flayers don't hoard coins, gemstones, jewelry, and other sorts of treasure. However, a colony obsessed with the study of biology would consider a new, alien specimen a great prize, especially a living creature. One concerned with improving its war machinery might seek out new gear, weapons, and armor it can use. A colony that collects gold coins or gemstones might do so not to
+become rich but to contaminate them with a psychic effect it wants to spread through the surface world.
+
+Adventurers who are motivated by the prospect of vast wealth are best off avoiding mind flayer colonies. Although illithids are evil, and defeating them makes the world a safer place, they don't accumulate material wealth the way many other powerful creatures do. Because of their disdain for arcane and divine power, they discount most magic items as trivial baubles, unless they are useful to the colony for a particular reason. A mind flayer might ignore a bag of diamonds it is offered as a bribe, but might listen to a proposal if a bargaining creature offers it news of a new construction technique developed by the dwarves of a faraway kingdom.
+
+Mind flayers know that humans, orcs, and other primitive creatures love shiny baubles and mysterious devices. They might use such objects they come across the way a rat catcher uses a lump of cheese-a lure to draw quarry into a trap.
+
+## On what an Illithid might eat
 
 > Because of the mind flayer’s all-encompassing nervous system, food does not pass through a simple gastrointestinal tract but through a cognitive, self-aware digestive system. That system absorbs more than just nourishment from food. It scavenges enzymes, hormones, and most important, psychic energy. Illithids are known for consuming brains, but they eat other food as well, most of which contains various amounts of these needed enzymes and hormones. Internal organs are good sources, and they rank high on illithid menus. Brains are ripe with all three and are the only external source of psychic energy.
 
@@ -668,6 +453,8 @@ quarry into a trap.
 
 > *The mind flayer swallows the bone fragment whole, and will later regurgitate it like a cat with a hairball. This is somewhat comical to watch. Unfortunately, very few people are ever in a position to appreciate it.  
 > **If the corpse falls with the hole pointed upward, the digestive acids soon eat through the membranes of mouth, nose, and ears, and the fluid drains out that way. This takes a little longer, but not much.
+
+## Another source
 
 **Mind flayers**, also known as **illithids** (sing: **illithid**; pronounced: /[ɪ](https://forgottenrealms.fandom.com/wiki/I_as_in_%22cleric%22 "I as in \"cleric\"")[l](https://forgottenrealms.fandom.com/wiki/L_as_in_%22law%22 "L as in \"law\"")ˈ[l](https://forgottenrealms.fandom.com/wiki/L_as_in_%22law%22 "L as in \"law\"")[ɪ](https://forgottenrealms.fandom.com/wiki/I_as_in_%22cleric%22 "I as in \"cleric\"")[θ](https://forgottenrealms.fandom.com/wiki/Th_as_in_%22strength%22 "Th as in \"strength\"")[ɪ](https://forgottenrealms.fandom.com/wiki/I_as_in_%22cleric%22 "I as in \"cleric\"")[d](https://forgottenrealms.fandom.com/wiki/D_as_in_%22druid%22 "D as in \"druid\"")/ _il-LITH-id_[[11]](https://forgottenrealms.fandom.com/wiki/Mind_flayer#cite_note-D#93-APG-p26-11) [![about this audio file](https://static.wikia.nocookie.net/forgottenrealms/images/f/f7/Loudspeaker.png/revision/latest/scale-to-width-down/10?cb=20210902234558)](https://forgottenrealms.fandom.com/wiki/File:Illithid.ogg "about this audio file") [listen](https://static.wikia.nocookie.net/forgottenrealms/images/4/43/Illithid.ogg/revision/latest?cb=20180516230133 "Illithid.ogg"), meaning "mind flayer" or "mind ruler" in [Undercommon](https://forgottenrealms.fandom.com/wiki/Undercommon "Undercommon")[[12]](https://forgottenrealms.fandom.com/wiki/Mind_flayer#cite_note-Dr281-p48-49-12)), and sometimes referred to as **ghaik** by the [githyanki](https://forgottenrealms.fandom.com/wiki/Githyanki "Githyanki"),[[13]](https://forgottenrealms.fandom.com/wiki/Mind_flayer#cite_note-bg3-13) were sadistic [aberrations](https://forgottenrealms.fandom.com/wiki/Aberration "Aberration") feared by sentient creatures on many worlds across the [multiverse](https://forgottenrealms.fandom.com/wiki/Multiverse "Multiverse") due to their powerful [psionic](https://forgottenrealms.fandom.com/wiki/Psionic "Psionic") abilities.[[1]](https://forgottenrealms.fandom.com/wiki/Mind_flayer#cite_note-MM5e-p221-222-1) From their twisted lairs deep in the [Underdark](https://forgottenrealms.fandom.com/wiki/Underdark "Underdark"), these alien entities sought to expand their dominion over all other lifeforms, controlling their minds to use them as obedient thralls.[[2]](https://forgottenrealms.fandom.com/wiki/Mind_flayer#cite_note-VGM5e-p71-81-2) They consumed their victims' very personality by extracting and devouring their brains while they were still alive.[[14]](https://forgottenrealms.fandom.com/wiki/Mind_flayer#cite_note-LM3e-p61-14)
 
