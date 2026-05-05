@@ -2,7 +2,7 @@
 
 A half hour descent into the darkness from a set of [standing stones](SkulkStones.md) near [Grapplers' Creek](GrapplersCreek.md) there is a strange little shrine down a passage beyond an archway.
 
-Inside the archway is an obviously constructed place. The walls are mortared stone with 12-foot high ceilings. The first room from this direction is circular with statues of three [tentacle-faced humanoids](Tentacloids.md) lifting their arms upward. There are also mirrors on the walls in oddly asymmetric places.
+Inside the archway is an obviously constructed place. The walls are mortared stone with 12-foot high ceilings. The first room from this direction is circular with statues of three [tentacle-faced humanoids](Cephalopoids.md) lifting their arms upward. There are also mirrors on the walls in oddly asymmetric places.
 
 Some people find the mirrors in this shrine unsettling, saying "the shadows move before the figure" or "there's a weird lag" or "something distorted follows me." Some people don't experience these effects.
 
