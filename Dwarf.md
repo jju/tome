@@ -6,7 +6,7 @@ From the imperial sages[^1]:
 
 [Nuoro](Nuoro.md) has known dwarfkind as long as it has existed, according to the dwarves. They tell the story of how after the dragon gave its life to create the gods and the land itself, the first beings to develop thought and skill were the dwarves; the gods followed their example. Again, according to them.
 
-Dwarves live everywhere in [Nuoro](Nuoro.md), including underground. Not just the digging loads of mines kind of underground, but being born downbelow and living for centuries without seeing the sun. Or so it's said. Apparently there are whole hidden communities in the underdark, all of which are suffused with weird magics.
+Dwarves live everywhere in [Nuoro](Nuoro.md), including underground. Not just the digging loads of mines kind of underground, but being born downbelow and living for centuries without seeing the sun. Or so it's said. Apparently there are whole hidden communities, all of which are suffused with weird magics.
 ## Characters
 
 * [Garriff Barfgeld Battlehammer](Barfgeld.md) - former resistance fighter in the [Grim War](GrimWar.md)

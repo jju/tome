@@ -50,293 +50,12 @@
             }
           },
           {
-            "id": "01025f25a69deb06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/allip.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "allip"
-            }
-          },
-          {
-            "id": "36d8cc95f0ef269d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/warrior.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "warrior"
-            }
-          },
-          {
-            "id": "b11276b6a484ffcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/wereboar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "wereboar"
-            }
-          },
-          {
-            "id": "1358d7a6422760ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/worg.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "worg"
-            }
-          },
-          {
-            "id": "83ed9e1d010352c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/goblin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "goblin"
-            }
-          },
-          {
-            "id": "28401cb14e22b603",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/wolf.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "wolf"
-            }
-          },
-          {
-            "id": "1858783495ce6678",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/greendragon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "greendragon"
-            }
-          },
-          {
-            "id": "4a7fb63ca65f336e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/pirate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "pirate"
-            }
-          },
-          {
-            "id": "234efa03878a1f35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/giantboar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "giantboar"
-            }
-          },
-          {
-            "id": "1844d7c892b090e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/giantwasp.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "giantwasp"
-            }
-          },
-          {
-            "id": "a3320f44dc5d76b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/twigblight.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "twigblight"
-            }
-          },
-          {
-            "id": "c8b2e26f7af327d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/giantbadger.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "giantbadger"
-            }
-          },
-          {
-            "id": "8b79290db17f3191",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/giantowl.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "giantowl"
-            }
-          },
-          {
-            "id": "33b9c9e19fa8b8e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/alhoon.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "alhoon"
-            }
-          },
-          {
-            "id": "1ade5724bff2502d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/ghoul.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ghoul"
-            }
-          },
-          {
-            "id": "d6a8a26e9c340897",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/ghast.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ghast"
-            }
-          },
-          {
-            "id": "d5a1bd419c62cd31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/zombie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "zombie"
-            }
-          },
-          {
-            "id": "a0404df8785adc58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/skeleton.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "skeleton"
-            }
-          },
-          {
-            "id": "cb1ba2760b18d48b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/ochrejelly.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ochrejelly"
-            }
-          },
-          {
-            "id": "365a60db95bc4549",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/grayooze.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "grayooze"
-            }
-          },
-          {
             "id": "2c80e239e9de6b9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dwarf.md",
+                "file": "Goliath.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -351,11 +70,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dwarf"
+              "title": "Goliath"
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 3
       },
       {
         "id": "ce196e2f9001aae7",
@@ -639,32 +358,32 @@
   },
   "active": "2c80e239e9de6b9e",
   "lastOpenFiles": [
-    "rules/duergar.md",
-    "DantagEmpire.md",
-    "Dwarf.md",
-    "rules/dwarf.md",
-    "species.md",
-    "Dragonborn.md",
-    "Aarakocra.md",
-    "rules/aarakocra.md",
-    "rules/dragonborn.md",
-    "Cephalopoids.md",
-    "Halfling.md",
-    "Tiefling.md",
-    "IC4995.md",
-    "Hammerkeep.md",
+    "rules/goliath.md",
     "Goliath.md",
-    "rules/naturepriest.md",
-    "strongholds.md",
-    "Sowhorn.md",
-    "ShadowMirrorShrine.md",
-    "secrets/Illithid.md",
-    "rules/dragon.md",
-    "rules/blackpudding.md",
-    "rules/gelatinouscube.md",
-    "rules/grayooze.md",
-    "Ooze.md",
+    "species.md",
+    "Gnome.md",
+    "rules/duergar.md",
+    "Dwarf.md",
     "rules/ochrejelly.md",
+    "rules/skeleton.md",
+    "rules/zombie.md",
+    "rules/ghast.md",
+    "rules/ghoul.md",
+    "rules/alhoon.md",
+    "rules/giantowl.md",
+    "rules/giantbadger.md",
+    "rules/twigblight.md",
+    "rules/giantwasp.md",
+    "rules/giantboar.md",
+    "rules/pirate.md",
+    "rules/greendragon.md",
+    "rules/wolf.md",
+    "rules/goblin.md",
+    "rules/worg.md",
+    "rules/wereboar.md",
+    "rules/warrior.md",
+    "rules/allip.md",
+    "rules/grayooze.md",
     "images/names-ho2-t.png",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",
