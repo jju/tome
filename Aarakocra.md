@@ -11,6 +11,12 @@ So yes, these bird(ofprey)folk are common throughout the [Dantag Empire](DantagE
 * [Thiala Ostoroth](ThialaOstoroth.md) - leader of the town guard in [Hammerkeep](Hammerkeep.md)
 * Eqias Qisalor - Imperial military hero and warlord in [Bedwistre](Bedwistre.md)
 
+## Aarakocra Names
+
+As with much of their speech, aarakocra names include clicks, trills, and whistles to the point that other peoples have a difficult time pronouncing them. Typically, a name has two to four syllables with the sounds acting as connectors. When interacting with other races, aarakocra may use nicknames gained from people they meet or shortened forms of their full names.
+
+An aarakocra of any gender may have one of these short names: Aera, Aial, Aur, Deekek, Errk, Heehk, Ikki, Kleeck, Oorr, Ouss, Quaf, Quierk, Salleek, Urreek, or Zeed.
+
 [^1]: From the 2014 Legacy version of the Aarakocra https://www.dndbeyond.com/species/4-aarakocra
 [^2]: It is unclear what aspect of their self, the author is referring to here. Also of note is that they probably haven't seen many Aarakocra farmers since they are obligate carnivores.
 
