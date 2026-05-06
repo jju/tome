@@ -4,7 +4,7 @@ The imperial sages see Goliaths as a strange, exotic people:[^1]
 
 > Towering over most folk, goliaths are distant descendants of giants. Each goliath bears the favors of the first giants—favors that manifest in various supernatural boons, including the ability to quickly grow and temporarily approach the height of goliaths’ gigantic kin. Goliaths have physical characteristics that are reminiscent of the giants in their family lines. For example, some goliaths look like stone giants, while others resemble fire giants. 
 
-In [Nuoro](Nuoro.md) the Goliath homelands are way off to the northwest, in places where the [Imperial](DantagEmpire.md) mapmakers haven't even really been to. There are enclaves of them throughout the land, though generally because of their confusion with Giants they can tend to stick to themselves. They have no official role in the empire and its rare to see them in positions of power outside of their homelands.
+In [Nuoro](Nuoro.md) the Goliath homelands are way off to the northwest, in places where the [Imperial](DantagEmpire.md) mapmakers haven't even really been to. There are enclaves of them throughout the land, though generally because of their confusion with Giants they can tend to stick to themselves. They have no official role in the empire and its rare to see them in positions of power outside of their windswept homelands.
 ## Characters
 
 * [Rurik Stoneblood](Rurik.md)

@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goliath.md",
+                "file": "Halfling.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -70,7 +70,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Goliath"
+              "title": "Halfling"
             }
           }
         ],
@@ -358,9 +358,9 @@
   },
   "active": "2c80e239e9de6b9e",
   "lastOpenFiles": [
-    "rules/goliath.md",
-    "Goliath.md",
     "species.md",
+    "Goliath.md",
+    "rules/goliath.md",
     "Gnome.md",
     "rules/duergar.md",
     "Dwarf.md",
