@@ -1,18 +1,20 @@
 # Tiefling
 
-Tieflings have fiendish ancestors who originated in one of the lower planes in ages long past. A tiefling (pronounced TEE-fling) is linked by blood to a devil, a demon, or some other Fiend. This connection to the Lower Planes is the tiefling’s fiendish legacy, which comes with the promise of power yet has no effect on the tiefling’s moral outlook.
+According to imperial lore[^1], Tieflings have fiendish ancestors who originated in one of the lower planes.
 
 > Deep in the past Tieflings were part of what the [Dantag Empire](DantagEmpire.md) would term mongrel humanoids. However, their infernal heritage has left a clear imprint on their appearance. Tieflings have large horns that take any of a variety of shapes: some have curling horns like a ram, others have straight and tall horns like a gazelle’s, and some spiral upward like an antelopes’ horns. They have thick tails, four to five feet long, which lash or coil around their legs when they get upset or nervous. Their canine teeth are sharply pointed, and their eyes are solid colors—black, red, white, silver, or gold—with no visible sclera or pupil. Their skin tones cover the full range of human coloration, but also include various shades of red. Their hair, cascading down from behind their horns, is usually dark, from black or brown to dark red, blue, or purple.
-> source: https://www.dndbeyond.com/species/7-tiefling
 
+Nowadays Tieflings are one of the most powerful communities in the [Dantag Empire](DantagEmpire.md). They take a lot of pride in their legacies and -- like many Imperials -- as a class tend to look down on peoples who have less distinction about them.
+
+Most Tieflings in [Nuoro](Nuoro.md) these days came with the Empire (or their legacies did).
 ## Characters
 
-* [Fillika](Fillika.md)
-* TieflingRanger - Gloom
-* [Warden of Hammerkeep](WardenofHammerkeep.md)
-* [Diswoff](Diswoff.md)
-* [Suffering Cairn](SufferingCairn.md)
-* [Suffering Amnon](SufferingAmnon.md)
+* [Fillika](Fillika.md) - Ranger near [Dracolathe](Dracolathe.md)
+* Feargal - Ranger near [Dracolathe](Dracolathe.md)
+* [Suffering Yilmaz](WardenofHammerkeep.md) - the Warden of [Hammerkeep](Hammerkeep.md)
+* [Diswoff](Diswoff.md) - gambler in [Hammerkeep](Hammerkeep.md)
+* [Suffering Cairn](SufferingCairn.md) - Yilmaz's nephew in [Grapplers' Creek](GrapplersCreek.md)
+* [Suffering Amnon](SufferingAmnon.md) - Yilmaz's older brother in [Grapplers' Creek](GrapplersCreek.md)
 
 ## Tiefling Names
 
@@ -24,6 +26,7 @@ Tiefling names fall into three broad categories. Tieflings born into another cul
 
 **“Virtue” Names:** Art, Carrion, Chant, Creed, Despair, Excellence, Fear, Glory, Hope, Ideal, Music, Nowhere, Open, Poetry, Quest, Random, Reverence, Sorrow, Temerity, Torment, Weary
 
+[^1]: From the 2014 Legacy version of the Tiefling https://www.dndbeyond.com/species/7-tiefling
 
 > source: https://www.dndbeyond.com/species/1751443-tiefling 
 > [species](species.md)

@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tabaxi.md",
+                "file": "Tiefling.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -70,7 +70,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tabaxi"
+              "title": "Tiefling"
             }
           }
         ],
@@ -373,6 +373,8 @@
   "active": "2c80e239e9de6b9e",
   "lastOpenFiles": [
     "species.md",
+    "Tabaxi.md",
+    "EagerWave.md",
     "Ratfolk.md",
     "rules/ratfolk.md",
     "Halfling.md",
@@ -396,8 +398,6 @@
     "rules/zombie.md",
     "rules/ghast.md",
     "rules/ghoul.md",
-    "rules/alhoon.md",
-    "rules/giantowl.md",
     "images/names-ho2-t.png",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",
