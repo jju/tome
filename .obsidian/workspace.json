@@ -271,12 +271,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goblin.md",
+                "file": "Maglubiyet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Goblin"
+              "title": "Maglubiyet"
             }
           }
         ],
@@ -458,6 +458,20 @@
                 }
               },
               {
+                "id": "fa7a97d013400485",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "rules/blinkdog.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "blinkdog"
+                }
+              },
+              {
                 "id": "bb1088710004a4c9",
                 "type": "leaf",
                 "state": {
@@ -500,7 +514,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 5
           }
         ],
         "direction": "horizontal"
@@ -652,11 +666,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "01181fd48075a76d",
+  "active": "ec1db1af45313cac",
   "lastOpenFiles": [
-    "rules/gnoll.md",
-    "rules/couatl.md",
     "Goblin.md",
+    "rules/blinkdog.md",
+    "rules/couatl.md",
+    "rules/gnoll.md",
     "Bugbear.md",
     "rules/bugbear.md",
     "species.md",
@@ -679,7 +694,6 @@
     "rules/wizard.md",
     "rules/wilderness.md",
     "rules/wererat.md",
-    "rules/wereboar.md",
     "images/names-ho2-t.png",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",
