@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tortle.md",
+                "file": "rules/tortle.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -70,7 +70,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tortle"
+              "title": "tortle"
             }
           }
         ],
@@ -372,6 +372,7 @@
   },
   "active": "2c80e239e9de6b9e",
   "lastOpenFiles": [
+    "Tortle.md",
     "species.md",
     "Tiefling.md",
     "Tabaxi.md",
@@ -397,7 +398,6 @@
     "rules/ochrejelly.md",
     "rules/skeleton.md",
     "rules/zombie.md",
-    "rules/ghast.md",
     "images/names-ho2-t.png",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",
