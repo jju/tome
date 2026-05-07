@@ -250,9 +250,37 @@
               "icon": "lucide-file",
               "title": "Elf"
             }
+          },
+          {
+            "id": "ea658940e21b0f03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hobgoblin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hobgoblin"
+            }
+          },
+          {
+            "id": "ec1db1af45313cac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bugbear.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bugbear"
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 17
       },
       {
         "id": "ce196e2f9001aae7",
@@ -383,7 +411,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/hobgoblin.md",
+                    "file": "rules/bugbear.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -398,7 +426,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "hobgoblin"
+                  "title": "bugbear"
                 }
               },
               {
@@ -596,11 +624,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "8dea0d7bcbedc35a",
+  "active": "ec1db1af45313cac",
   "lastOpenFiles": [
+    "rules/bugbear.md",
+    "rules/hobgoblin.md",
+    "Bugbear.md",
+    "Hobgoblin.md",
+    "Giant.md",
+    "Elf.md",
     "species.md",
     "Aberration.md",
-    "rules/hobgoblin.md",
     "Bullywug.md",
     "rules/backgrounds.md",
     "rules/acolyte.md",
@@ -619,11 +652,6 @@
     "rules/warrior.md",
     "rules/warpriest.md",
     "rules/warlord.md",
-    "rules/warlockgreatoldone.md",
-    "rules/warlockfiend.md",
-    "rules/warlockarchfey.md",
-    "rules/warlock.md",
-    "rules/vampirefamiliar.md",
     "images/names-ho2-t.png",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",

@@ -8,4 +8,8 @@ The Goliaths in the northwest tell stories of the many kinds of giants and that 
 
 [^1]: It's unclear if those creatures were also gigantic, or if they're the ancestors of the fewer giant beasts we see nowadays, or if regular beasts have just gotten smaller.
 
+## Characters
+
+* 
+
 > [species](species.md) [creatures](creatures.md)

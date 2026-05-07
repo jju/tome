@@ -3,7 +3,7 @@ Recently emerged from brutal civil war.
 
 Region called Suristhanam central flood plain, fertile hills and tropical swamps.
 
-Significant populations of [human](rules/human.md) elf [hobgoblin](hobgoblin.md) [lizardfolk](rules/lizardfolk.md) and [yuan-ti](yuan-ti.md)
+Significant populations of [human](rules/human.md) elf [hobgoblin](rules/hobgoblin.md) [lizardfolk](rules/lizardfolk.md) and [yuan-ti](yuan-ti.md)
 
 Qaragarh - metropolis with teleportation circles linked to locations across the empire.
 

@@ -4,6 +4,4 @@ Elves are mysterious secretive creatures hidden away from the world. People who 
 
 What the stories mostly similarily claim is that elves have long pointed ears and are very slender. They have wide eyes. Basically they're tall [Goblins](Goblin.md) except they live a long time (way longer than [Dwarves](Dwarf.md)).
 
-
-
 > [species](species.md)

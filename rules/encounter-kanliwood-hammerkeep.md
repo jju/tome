@@ -9,7 +9,7 @@ Roll 2d6
 | 3    | 1d2 [owlbears](owlbear.md) (Lying in Ambush)                         |
 | 4    | 1d2 redcaps (Demolishing)                                            |
 | 5    | 2d3 [giant boars](giantboar.md) (Fleeing)                            |
-| 6    | 2d4 [hobgoblins](hobgoblin.md) (Searching)                           |
+| 6    | 2d4 [hobgoblins](rules/hobgoblin.md) (Searching)                           |
 | 7    | Recurring NPC - Havilar and Tyrinnicus with bags of mushrooms (Sick) |
 | 8    | 2d4 [giant wasps](giantwasp.md) (eating)                             |
 | 9    | 2d4 [twigblights](twigblight.md) and 1 vine blight (Hurt)            |
