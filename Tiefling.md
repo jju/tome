@@ -6,7 +6,7 @@ According to imperial lore[^1], Tieflings have fiendish ancestors who originated
 
 Nowadays Tieflings are one of the most powerful communities in the [Dantag Empire](DantagEmpire.md). They take a lot of pride in their legacies and -- like many Imperials -- as a class tend to look down on peoples who have less distinction about them.
 
-Most Tieflings in [Nuoro](Nuoro.md) these days came with the Empire (or their legacies did).
+Most Tieflings in [Nuoro](Nuoro.md) these days came with the Empire (or their legacies did). They've now been around for centuries, but you can still find a gnome or two who flinches at the sight of these devils walking around like they own the place.
 ## Characters
 
 * [Fillika](Fillika.md) - Ranger near [Dracolathe](Dracolathe.md)
@@ -27,6 +27,8 @@ Tiefling names fall into three broad categories. Tieflings born into another cul
 **“Virtue” Names:** Art, Carrion, Chant, Creed, Despair, Excellence, Fear, Glory, Hope, Ideal, Music, Nowhere, Open, Poetry, Quest, Random, Reverence, Sorrow, Temerity, Torment, Weary
 
 [^1]: From the 2014 Legacy version of the Tiefling https://www.dndbeyond.com/species/7-tiefling
+
+![tiefling](rules/tiefling.md)
 
 > source: https://www.dndbeyond.com/species/1751443-tiefling 
 > [species](species.md)
