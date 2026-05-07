@@ -14,7 +14,6 @@ Whatever their true origin, kenku are most often found in the Shadowfell and the
 
 > The following sections are collected from poorly annotated sources and appear to have a lot of simplistic bias. Where even are these "Forgotten Realms" hm? - *hateswords*
 
-
 ## Flightless Stereotypes
 
 Although they may have evolved from avians, kenku have no wings or capacity for flight. Instead, they have arms in place of wings and bird-like talons for hands and feet. They retain bird-like features, however, with black and beady eyes and a long dark-hued beak. Head and torso are covered with soft feathers, a dark russet-brown color, while their scrawny limbs are bare and scaled like a bird's. They most resembled ravens.
