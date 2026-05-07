@@ -30,6 +30,12 @@ When you roll a 1 on the d20 of a [D20 Test](https://www.dndbeyond.com/sources/d
 
 You can take the [Hide](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#HideAction) action even when you are obscured only by a creature that is at least one size larger than you.
 
+#### Light or Stout
+
+Lightfoot halflings have spread the farthest and thus are the most common variety. They tend to be more prone to wanderlust than other halflings, and often dwell alongside other species or take up a nomadic life. Sometimes they are called hairfeet or tallfellows.
+
+Stout halflings are hardier than average and have some resistance to poison. Some say that stouts have dwarven blood. Sometimes they are called stronghearts.
+
 > source: https://www.dndbeyond.com/species/1751440-halfling
 > [srd](srd.md)
 > [species](species.md)

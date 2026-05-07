@@ -6,9 +6,9 @@ The imperial scribes say this[^1] about halflings:
 
 It sounds nice doesn't it? Only a little patronizing. 
 
-Halflings are far more common in [Nuoro](Nuoro.md) than back on [Anor](Anor.md). In fact, when the [Dantag Empire](DantagEmpire.md) first landed on Nuoro's shores most of what is now [Rundan](Rundan.md) was occupied predominantly by halflings (and humans). And there are still many many halflings all over Nuoro.
+Halflings are far more common in [Nuoro](Nuoro.md) than back on [Anor](Anor.md). In fact, when the [Dantag Empire](DantagEmpire.md) first landed on Nuoro's shores most of what is now [Rundan](Rundan.md) was occupied predominantly by halflings (and humans). And there are still many many halflings all over Nuoro. There's a lot of speculation that the Nuoro halflings are more closely related to dwarves than the "hairfeet" in other parts of the [Empire](DantagEmpire.md) so some imperial subjects call them "stouthearts."
 
-You just won't find a lot of them holding any Imperial power[^2].
+Regardless, you just won't find a lot of them holding any Imperial power[^2].
 
 
 [^1]: Source: https://www.dndbeyond.com/species/1751440-halfling
@@ -23,6 +23,16 @@ You just won't find a lot of them holding any Imperial power[^2].
 * [Lavinia Daergel](LaviniaDaergel.md) - tough barkeep in [Hammerkeep](Hammerkeep.md)
 * KerowynHucrele - runs General store in [Oakhurst](Oakhurst.md)
 * FelosialWaterskin - guard in [Oakhurst](Oakhurst.md)
+
+## Halfling Names
+
+A halfling has a given name, a family name, and possibly a nickname. Family names are often nicknames that stuck so tenaciously they have been passed down through the generations.
+
+**Male Names:** Alton, Ander, Cade, Corrin, Eldon, Errich, Finnan, Garret, Lindal, Lyle, Merric, Milo, Osborn, Perrin, Reed, Roscoe, Wellby
+
+**Female Names:** Andry, Bree, Callie, Cora, Euphemia, Jillian, Kithri, Lavinia, Lidda, Merla, Nedda, Paela, Portia, Seraphina, Shaena, Trym, Vani, Verna
+
+**Family Names:** Brushgather, Goodbarrel, Greenbottle, High-hill, Hilltopple, Leagallow, Tealeaf, Thorngage, Tosscobble, Underbough
 
 ![halfling](rules/halfling.md)
 
