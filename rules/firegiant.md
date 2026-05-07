@@ -33,4 +33,4 @@ _**Flame Sword.** Melee Attack Roll:_ +11, reach 10 ft. _Hit:_ 21 (4d6 + 7) Slas
 
 _**Hammer Throw.** Ranged Attack Roll:_ +11, range 60/240 ft. _Hit:_ 23 (3d10 + 7) Bludgeoning damage plus 4 (1d8) Fire damage, and the target is pushed up to 15 feet straight away from the giant and has [Disadvantage](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Disadvantage) on the next attack roll it makes before the end of its next turn.
 
-> [species](species.md)
+> [species](species.md) 
