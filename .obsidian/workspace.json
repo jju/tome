@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kenku.md",
+                "file": "Tabaxi.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -70,7 +70,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kenku"
+              "title": "Tabaxi"
             }
           }
         ],
@@ -181,12 +181,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Halfling.md",
+                    "file": "rules/ratfolk.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Halfling"
+                  "title": "ratfolk"
                 }
               },
               {
@@ -195,12 +195,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Hairfeet.md",
+                    "file": "stories/Hk01-InvestigationInvisible.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Hairfeet"
+                  "title": "Hk01-InvestigationInvisible"
                 }
               },
               {
@@ -218,7 +218,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -373,9 +373,17 @@
   "active": "2c80e239e9de6b9e",
   "lastOpenFiles": [
     "species.md",
+    "Ratfolk.md",
+    "rules/ratfolk.md",
     "Halfling.md",
-    "rules/halfling.md",
+    "Orc.md",
+    "Dragons.md",
+    "Aarakocra.md",
+    "Kobold.md",
+    "stories/Hk01-InvestigationInvisible.md",
     "Hairfeet.md",
+    "Kenku.md",
+    "rules/halfling.md",
     "Tallfellows.md",
     "Stouthearts.md",
     "rules/duergar.md",
@@ -390,14 +398,6 @@
     "rules/ghoul.md",
     "rules/alhoon.md",
     "rules/giantowl.md",
-    "rules/giantbadger.md",
-    "rules/twigblight.md",
-    "rules/giantwasp.md",
-    "rules/giantboar.md",
-    "rules/pirate.md",
-    "rules/greendragon.md",
-    "rules/wolf.md",
-    "rules/goblin.md",
     "images/names-ho2-t.png",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",

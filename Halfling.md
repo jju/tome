@@ -1,4 +1,4 @@
-# Halfling
+# Halflings
 
 The imperial scribes say this[^1] about halflings:
 
