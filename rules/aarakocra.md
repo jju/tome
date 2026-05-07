@@ -4,7 +4,7 @@ From below, aarakocra look like large birds and thus are sometimes called birdfo
 
 ## Aarakocra Traits
 
-**Creature Type:** Humanoid
+**Creature Type:** [Humanoid](Humanoid.md)
 **Size:** Medium
 **Speed:** 30 ft.
 **Flight:** Because of your wings, you have a flying speed equal to your walking speed. You can't use this flying speed if you're wearing medium or heavy armor.

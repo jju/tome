@@ -2,7 +2,7 @@
 
 [Stone Giant](https://www.dndbeyond.com/monsters/5195220-stone-giant)
 
-Huge Giant, Neutral
+Huge [Giant](Giant.md), Neutral
 AC 17    Initiative +5 (15)
 HP 126 (11d12 + 55)
 Speed 40 ft.

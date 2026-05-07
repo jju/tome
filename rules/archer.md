@@ -1,4 +1,4 @@
-Medium Humanoid, Any Alignment
+Medium [Humanoid](Humanoid.md), Any Alignment
 AC 16 (studded leather) Initiative +3 (13)
 Hit Points 75 (10d8 + 30)
 Speed 30 ft.

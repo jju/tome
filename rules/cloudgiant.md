@@ -2,7 +2,7 @@
 
 [Cloud Giant](https://www.dndbeyond.com/monsters/5194947-cloud-giant)
 
-Huge Giant, Neutral
+Huge [Giant](Giant.md), Neutral
 AC 14    Initiative +4 (14)
 HP 200 (16d12 + 96)
 Speed 40 ft., Fly 20 ft.

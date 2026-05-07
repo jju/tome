@@ -2,7 +2,7 @@
 
 [Bugbear Warrior](https://www.dndbeyond.com/monsters/4831002-bugbear-warrior)
 
-Medium Fey (Goblinoid), Chaotic Evil
+Medium [Fey](Fey.md) ([Goblinoid](Goblinoid.md)), Chaotic Evil
 AC 14    Initiative +2 (12)
 HP 33 (6d8 + 6)
 Speed 30 ft.
@@ -39,7 +39,7 @@ _**Light Hammer.** Melee or Ranged Attack Roll:_ +4 (with [Advantage](https://ww
 
 [Bugbear Stalker](https://www.dndbeyond.com/monsters/5194934-bugbear-stalker)
 
-Medium Fey (Goblinoid), Chaotic Evil
+Medium [Fey](Fey.md) ([Goblinoid](Goblinoid.md)), Chaotic Evil
 AC 15    Initiative +2 (12)
 HP 65 (10d8 + 20)
 Speed 30 ft.

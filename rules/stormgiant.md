@@ -2,7 +2,7 @@
 
 [Storm Giant](https://www.dndbeyond.com/monsters/5195221-storm-giant)
 
-Huge Giant, Chaotic Good
+Huge [Giant](Giant.md), Chaotic Good
 AC 16    Initiative +7 (17)
 HP 230 (20d12 + 100)
 Speed 50 ft., Fly 25 ft. (hover), Swim 50 ft.

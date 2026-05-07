@@ -2,7 +2,7 @@
 
 [Frost Giant](https://www.dndbeyond.com/monsters/5195001-frost-giant)
 
-Huge Giant, Neutral Evil
+Huge [Giant](Giant.md), Neutral Evil
 AC 15    Initiative +2 (12)
 HP 149 (13d12 + 65)
 Speed 40 ft.

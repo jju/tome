@@ -2,7 +2,7 @@
 
 [Hill Giant](https://www.dndbeyond.com/monsters/5195074-hill-giant)
 
-Huge Giant, Chaotic Evil
+Huge [Giant](Giant.md), Chaotic Evil
 AC 13    Initiative +2 (12)
 HP 105 (10d12 + 40)
 Speed 40 ft.

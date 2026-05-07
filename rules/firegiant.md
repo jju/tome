@@ -2,7 +2,7 @@
 
 [Fire Giant](https://www.dndbeyond.com/monsters/5194994-fire-giant)
 
-Huge Giant, Lawful Evil
+Huge [Giant](Giant.md), Lawful Evil
 AC 18    Initiative +3 (13)
 HP 162 (13d12 + 78)
 Speed 30 ft.
