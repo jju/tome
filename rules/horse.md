@@ -1,6 +1,6 @@
 [Riding Horse](https://www.dndbeyond.com/monsters/4775839-riding-horse)
 
-Large Beast, Unaligned
+Large [Beast](Beast.md), Unaligned
 AC 11    Initiative +1 (11)
 HP 13 (2d10 + 2)
 Speed 60 ft.

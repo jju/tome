@@ -2,7 +2,7 @@
 
 [Giant Boar](https://www.dndbeyond.com/monsters/5195013-giant-boar)
 
-Large Beast, Unaligned
+Large [Beast](Beast.md), Unaligned
 AC 13    Initiative +0 (10)
 HP 42 (5d10 + 15)
 Speed 40 ft.

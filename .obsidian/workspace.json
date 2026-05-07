@@ -170,9 +170,65 @@
               "icon": "lucide-file",
               "title": "Beast"
             }
+          },
+          {
+            "id": "04a0be7f17bfa51e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elf.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elf"
+            }
+          },
+          {
+            "id": "958691f78efcdf1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Celestial.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Celestial"
+            }
+          },
+          {
+            "id": "b623898014f95098",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metallic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Metallic"
+            }
+          },
+          {
+            "id": "60be0aeeb1498a81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Halfling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Halfling"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 14
       },
       {
         "id": "ce196e2f9001aae7",
@@ -289,12 +345,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Dragons.md",
+                    "file": "Dragon.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Dragons"
+                  "title": "Dragon"
                 }
               },
               {
@@ -303,12 +359,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/citywatch.md",
+                    "file": "rules/warlockgreatoldone.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "citywatch"
+                  "title": "warlockgreatoldone"
                 }
               },
               {
@@ -508,32 +564,32 @@
   },
   "active": "03e25c04ea22ced1",
   "lastOpenFiles": [
-    "rules/charlatan.md",
-    "rules/champion.md",
-    "rules/cat.md",
-    "Beast.md",
-    "Demon.md",
-    "rules/bugbear.md",
-    "rules/blackpudding.md",
-    "rules/blackguard.md",
-    "rules/berserker.md",
-    "rules/barbarian.md",
-    "rules/bandit.md",
-    "rules/balor.md",
-    "Fiend.md",
-    "Monstrosity.md",
-    "rules/ballista.md",
-    "rules/backgrounds.md",
-    "rules/axebeak.md",
-    "Humanoid.md",
-    "rules/awakenedtree.md",
-    "rules/assassin.md",
-    "rules/artificer.md",
-    "rules/archer.md",
-    "rules/archdruid.md",
-    "rules/annishag.md",
-    "rules/allip.md",
-    "rules/aarakocra.md",
+    "rules/warlockfiend.md",
+    "rules/warlockarchfey.md",
+    "rules/warlock.md",
+    "rules/vampirefamiliar.md",
+    "rules/vampire.md",
+    "rules/urchin.md",
+    "rules/twigblight.md",
+    "rules/Untitled.md",
+    "rules/treant.md",
+    "rules/tough.md",
+    "rules/tortle.md",
+    "rules/tlacatecolo.md",
+    "rules/tiefling.md",
+    "rules/tabaxi.md",
+    "rules/stonegiant.md",
+    "rules/spawnofkyuss.md",
+    "rules/sorcerer.md",
+    "rules/soldier.md",
+    "rules/smuggler.md",
+    "rules/skeleton.md",
+    "rules/shamblingmound.md",
+    "rules/shadow.md",
+    "rules/shadar-kai.md",
+    "rules/scout.md",
+    "rules/sailor.md",
+    "rules/sailingship.md",
     "images/names-ho2-t.png",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",

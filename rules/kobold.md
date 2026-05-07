@@ -1,6 +1,6 @@
 [Kobold](https://www.dndbeyond.com/monsters/16939-kobold)
 
-Small Humanoid (Kobold), Lawful Evil
+Small [Humanoid](Humanoid.md) ([Kobold](Kobold.md)), Lawful Evil
 AC 14    Initiative +2 (12)
 HP 7 (2d6 - 2)
 Speed 30 ft.

@@ -1,7 +1,7 @@
 # Gladiator
 [Gladiator](https://www.dndbeyond.com/monsters/5195042-gladiator)
 
-Medium Or Small Humanoid, Neutral
+Medium Or Small [Humanoid](Humanoid.md), Neutral
 AC 16    Initiative +5 (15)
 HP 112 (15d8 + 45)
 Speed 30 ft.

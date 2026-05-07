@@ -6,7 +6,7 @@ Lizardfolk have colorful scales and exhibit a wide array of scale patterns. Thei
 
 ## Lizardfolk Traits
 
-**Creature Type:** Humanoid
+**Creature Type:** [Humanoid](Humanoid.md)
 **Size:** Medium
 **Speed:** 30 ft., swim 30 ft.
 

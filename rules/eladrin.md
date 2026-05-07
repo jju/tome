@@ -15,7 +15,7 @@ Like other elves, eladrin can live to be over 750 years old.
 
 ## Eladrin Traits
 
-**Creature Type:** Humanoid (Also considered an elf for any prerequisite or effect that requires one to be an elf.)
+**Creature Type:** [Humanoid](Humanoid.md) (Also considered an elf for any prerequisite or effect that requires one to be an elf.)
 **Size:** Medium
 **Speed:** 30 feet
 
@@ -78,7 +78,7 @@ Eladrin often enter the autumn season when they are overcome by feelings of good
 
 ## Autumn Eladrin
 
-Medium Fey (E), Typically Chaotic Neutral
+Medium [Fey](Fey.md) ([Elf](Elf.md)), Typically Chaotic Neutral
 Armor Class 19 (natural armor)
 Hit Points 165 (22d8 + 66)
 Speed 30 ft.
@@ -134,7 +134,7 @@ Their hearts filled with joy, spring eladrin cavort through their sylvan realms,
 
 ## Spring Eladrin
 
-Medium Fey (E), Typically Chaotic Neutral
+Medium [Fey](Fey.md) ([Elf](Elf.md)), Typically Chaotic Neutral
 Armor Class 19 (natural armor)
 Hit Points 165 (22d8 + 66)
 Speed 30 ft.

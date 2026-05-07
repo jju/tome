@@ -4,7 +4,7 @@ Orcs are, on average, tall and broad. They have gray skin, ears that are sharply
 
 ## Orc Traits
 
-**Creature Type:** Humanoid
+**Creature Type:** [Humanoid](Humanoid.md)
 **Size:** Medium
 **Speed:** 30 ft.
 

@@ -1,4 +1,4 @@
-Medium Humanoid, Any Alignment
+Medium [Humanoid](Humanoid.md) ([Warlock](Warlock.md), Any Alignment
 AC 13 (16 with mage armor)    Initiative +3 (13)
 HP 67 (15d8)
 Speed 30 ft.

@@ -4,7 +4,7 @@ Like other gnomes, deep gnomes can live for centuries, up to 500 years.
 
 ## Deep Gnome Traits
 
-**Creature Type:** Humanoid (Gnome)
+**Creature Type:** [Humanoid](Humanoid.md) ([Gnome](Gnome.md))
 **Size:** Small
 **Speed:** 30 ft.
 

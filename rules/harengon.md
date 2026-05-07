@@ -4,7 +4,7 @@ Harengons are bipedal, with the characteristic long feet of the rabbits they res
 
 ## Harengon Traits
 
-**Creature Type:** Humanoid
+**Creature Type:** [Humanoid](Humanoid.md)
 **Size:** Medium or Small
 **Speed:** 30 ft.
 

@@ -6,7 +6,7 @@ On some worlds in the multiverse, the first settlements of dwarves were built in
 
 ## Dwarf Traits
 
-**Creature Type:** Humanoid  
+**Creature Type:** [Humanoid](Humanoid.md)  
 **Size:** Medium (about 4–5 feet tall)  
 **Speed:** 30 feet
 

@@ -2,7 +2,7 @@
 
 [Green Dragon Wyrmling](https://www.dndbeyond.com/monsters/5195056-green-dragon-wyrmling)
 
-Medium Dragon (Chromatic), Lawful Evil
+Medium [Dragon](Dragon.md) ([Chromatic](Chromatic.md)), Lawful Evil
 AC 17    Initiative +3 (13)
 HP 38 (7d8 + 7)
 Speed 30 ft., Fly 60 ft., Swim 30 ft.
@@ -38,5 +38,4 @@ _**Rend.** Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 7 (1d10 + 2) Slashing dama
 _**Poison Breath (Recharge 5–6).** Constitution Saving Throw:_ DC 11, each creature in a 15-foot Cone. _Failure:_ 21 (6d6) Poison damage. _Success:_ Half damage.
 
 > [creatures](creatures.md)
-> [Dragons](Dragons.md)
 > [npcs](npcs.md)

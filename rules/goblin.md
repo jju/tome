@@ -4,7 +4,7 @@ Now many goblins pursue their own destinies, escaping the plots of both archfey 
 
 ## Goblin Traits
 
-**Creature Type:** Humanoid (goblinoid)
+**Creature Type:** [Humanoid](Humanoid.md) ([Goblinoid](Goblinoid.md))
 **Size:** Small
 **Speed:** 30 ft.
 

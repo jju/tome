@@ -1,6 +1,6 @@
 [Sahuagin Warrior](https://www.dndbeyond.com/monsters/5195190-sahuagin-warrior)
 
-Medium Fiend, Lawful Evil
+Medium [Fiend](Fiend.md), Lawful Evil
 AC 12    Initiative +0 (10)
 HP 22 (4d8 + 4)
 Speed 30 ft., swim 40 ft.

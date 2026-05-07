@@ -1,7 +1,7 @@
 # Commoner
 [Commoner](https://www.dndbeyond.com/monsters/5194951-commoner)
 
-Medium Humanoid, Neutral
+Medium [Humanoid](Humanoid.md), Neutral
 AC 10    Initiative +0 (10)
 HP 4 (1d8)
 Speed 30 ft.

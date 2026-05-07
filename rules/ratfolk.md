@@ -2,12 +2,11 @@ Rat folk are humanoid rats. They have rat-like heads, with large ears, long snou
 
 ## Ratfolk Traits
 
-**Creature Type:** Humanoid
+**Creature Type:** [Humanoid](Humanoid.md)
 **Size:** Small or Medium
 **Speed:** 30 ft.
 
-**Age.** Ratfolks reach adulthood at 12 and can live up to 50
-years.
+**Age.** Ratfolks reach adulthood at 12 and can live up to 50 years.
 
 **Brethren of the Swarm.** Mice and rats of all types will not show unprovoked hostility towards you unless threatened. Additionally, you can communicate simple ideas with them through speaking Rattus.
 

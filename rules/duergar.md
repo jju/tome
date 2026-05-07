@@ -5,7 +5,7 @@ Duergar are [dwarves](rules/dwarf.md) whose ancestors were transformed by centur
 Like other dwarves, duergar typically have a life span of 350 years.
 ## Duergar Traits
 
-**Creature Type:** Humanoid (dwarf)
+**Creature Type:** [Humanoid](Humanoid.md) ([Dwarf](Dwarf.md))
 **Size:** Medium
 **Speed:** 30 ft.
 

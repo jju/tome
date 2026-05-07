@@ -4,7 +4,7 @@ Humans are as diverse in appearance as the people of Earth, and they have many g
 
 ## Human Traits
 
-**Creature Type:** Humanoid  
+**Creature Type:** [Humanoid](Humanoid.md)  
 **Size:** Medium (about 4–7 feet tall) or Small (about 2–4 feet tall), chosen when you select this species  
 **Speed:** 30 feet
 

@@ -2,7 +2,7 @@
 
 [Owlbear](https://www.dndbeyond.com/monsters/5195152-owlbear)
 
-Large Monstrosity, Unaligned
+Large [Monstrosity](Monstrosity.md), Unaligned
 AC 13    Initiative +1 (11)
 HP 59 (7d10 + 21)
 Speed 40 ft., Climb 40 ft.

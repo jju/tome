@@ -3,7 +3,7 @@
 
 A familiar is always linked to its master 
 
-Medium Or Small Humanoid, Neutral Evil
+Medium Or Small [Humanoid](Humanoid.md), Neutral Evil
 AC 15    Initiative +5 (15)
 HP 65 (10d8 + 20)
 Speed 30 ft., climb 30 ft.
@@ -41,3 +41,5 @@ _**Umbral Dagger.** Melee or Ranged Attack Roll:_ +5, reach 5 ft. or range 20/60
 ## Bonus Actions
 
 _**Deathless Agility.**_ The familiar takes the [Dash](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#DashAction) or [Disengage](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#DisengageAction) action.
+
+> [npcs](npcs.md)

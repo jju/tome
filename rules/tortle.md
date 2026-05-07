@@ -4,7 +4,7 @@ Tortles exhibit the same range of coloration and patterns found among turtles, a
 
 ## Tortle Traits
 
-**Creature Type:** Humanoid
+**Creature Type:** [Humanoid](Humanoid.md)
 **Size:** Medium or Small
 **Speed:** 30 ft.
 
@@ -14,6 +14,7 @@ Tortles exhibit the same range of coloration and patterns found among turtles, a
 
 *Height = base height + height modifier  
 **Weight = base weight + (height modifier × weight modifier)
+
 #### Claws
 
 You have claws that you can use to make unarmed strikes. When you hit with them, the strike deals 1d6 + your Strength modifier slashing dam-age, instead of the bludgeoning damage normal for an unarmed strike.
@@ -43,7 +44,7 @@ The generic tortle stat block here represents a warrior, especially the sort who
 
 ## Tortle Warrior
 
-Medium Humanoid, Any Alignment
+Medium [Humanoid](Humanoid.md), Any Alignment
 AC 17 (natural)    Initiative +0 (10)
 Hit Points 22 (4d8 + 4)
 Speed 30 ft.
@@ -81,7 +82,7 @@ CR 1/4 (50 XP; PB +2)
 
 Many tortles view the world as a place of wonder. They live for the chance to hear a soft wind blowing through trees, to watch a frog croaking on a lily pad, or to stand in a crowded marketplace. A tortle druid savors such things more than most, channeling the natural magic of the world around them.
 
-Medium Humanoid, Any Alignment
+Medium [Humanoid](Humanoid.md) ([Druid](Druid.md), Any Alignment
 AC 17 (natural)    Initiative +0 (10)
 Hit Points 33 (6d8 + 6)
 Speed 30 ft.

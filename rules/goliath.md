@@ -5,7 +5,7 @@ Towering over most folk, goliaths are distant descendants of giants. Each goliat
 Goliaths have physical characteristics that are reminiscent of the giants in their family lines. For example, some goliaths look like stone giants, while others resemble fire giants. Whatever giants they count as kin, goliaths have forged their own path in the multiverse—unencumbered by the internecine conflicts that have ravaged giantkind for ages—and seek heights above those reached by their ancestors.
 ## Goliath Traits
 
-**Creature Type:** Humanoid  
+**Creature Type:** [Humanoid](Humanoid.md)  
 **Size:** Medium (about 7–8 feet tall)  
 **Speed:** 35 feet
 

@@ -1,6 +1,6 @@
 # Lich
 
-Medium [Undead](Undead.md) (Wizard), Neutral Evil
+Medium [Undead](Undead.md) ([Wizard](Wizard.md)), Neutral Evil
 AC 20    Initiative +17 (27)
 HP 315 (42d8 + 126)
 Speed 30 ft.

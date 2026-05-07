@@ -3,7 +3,7 @@
 
 > see also: [cat](cat.md)
 
-Medium Beast, Unaligned
+Medium [Beast](Beast.md), Unaligned
 AC 13    Initiative +3 (13)
 HP 13 (3d8)
 Speed 50 ft., Climb 40 ft.

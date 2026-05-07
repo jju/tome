@@ -3,7 +3,7 @@ The ancestors of dragonborn hatched from the eggs of chromatic and metallic drag
 Dragonborn look like wingless, bipedal dragons— scaly, bright-eyed, and thick-boned with horns on their heads—and their coloration and other features are reminiscent of their draconic ancestors.
 ## Dragonborn Traits
 
-**Creature Type:** Humanoid  
+**Creature Type:** [Humanoid](Humanoid.md)  
 **Size:** Medium (about 5–7 feet tall)  
 **Speed:** 30 feet
 

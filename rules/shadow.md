@@ -41,3 +41,5 @@ _**Draining Swipe.** Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 5 (1d6 + 2) Necr
 ## Bonus Actions
 
 _**Shadow Stealth.**_ While in [Dim Light](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#DimLight) or [Darkness](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkness), the shadow takes the [Hide](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#HideAction) action. DC15 Dex (Stealth) to be invisible (roll is the DC for the Wis (Perception) check) and has Advantage when attacking from invisibility.
+
+> [creatures](creatures.md)

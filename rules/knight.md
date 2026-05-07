@@ -1,4 +1,4 @@
-Medium Or Small Humanoid, Neutral
+Medium Or Small [Humanoid](Humanoid.md), Neutral
 
 AC 18    Initiative +0 (10)
 HP 52 (8d8 + 16)
@@ -33,3 +33,5 @@ _**Heavy Crossbow.**_ _Ranged Attack Roll:_ +2, range 100/400 ft. _Hit:_ 11 (2d1
 ## Reactions
 
 _**Parry.**_ _Trigger:_ The knight is hit by a melee attack roll while holding a weapon. _Response:_ The knight adds 2 to its AC against that attack, possibly causing it to miss.
+
+> [npcs](npcs.md)

@@ -4,7 +4,7 @@
 
 > see also: [giantrat](giantrat.md)
 
-Tiny Beast, Unaligned
+Tiny [Beast](Beast.md), Unaligned
 AC 10    Initiative +0 (10)
 HP 1 (1d4 − 1)
 Speed 20 ft., Climb 20 ft.
@@ -38,7 +38,7 @@ _**Bite.** Melee Attack Roll:_ +2, reach 5 ft. _Hit:_ 1 Piercing damage.
 
 [Swarm of Rats](https://www.dndbeyond.com/monsters/5195228-swarm-of-rats)
 
-Medium Swarm of Tiny beasts, Unaligned
+Medium Swarm of Tiny [Beasts](Beast.md), Unaligned
 AC 10    Initiative +0 (10)
 HP 14 (4d8 − 4)
 Speed 30 ft., Climb 30 ft.

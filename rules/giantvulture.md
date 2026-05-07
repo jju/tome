@@ -2,8 +2,7 @@
 
 [Giant Vulture](https://www.dndbeyond.com/monsters/5195031-giant-vulture)
 
-Large Monstrosity, Neutral Evil
-
+Large [Monstrosity](Monstrosity.md), Neutral Evil
 AC 10    Initiative +0 (10)
 HP 25 (3d10 + 9)
 Speed 10 ft., Fly 60 ft.

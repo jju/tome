@@ -1,6 +1,8 @@
 # Reborn
+
 Death isn't always the end. The reborn exemplify this, being individuals who have died yet, somehow, still live. Some reborn exhibit the scars of fatal ends, their ashen flesh or bloodless veins making it clear that they've been touched by death. Other reborn are marvels of magic or science, being stitched together from disparate beings or bearing mysterious minds in manufactured bodies. Whatever their origins, reborn know a new life and seek experiences and answers all their own.
 ## Faded Memories
+
 Reborn suffer from some manner of discontinuity, an interruption of their lives or physical state that their minds are ill equipped to deal with. Their memories of events before this interruption are often vague or absent. Occasionally, the most unexpected experiences might cause sensations or visions of the past to come rushing back.
 
 Rather than sleeping, reborn regularly sit and dwell on the past, hoping for some revelation of what came before. Most of the time, these are dark, silent stretches. Occasionally, though, in a moment of peace, stress, or excitement, a reborn gains a glimpse of what came before. When you desire to have such a dreamlike vision, roll on the Lost Memories table to inspire its details.
@@ -15,6 +17,7 @@ Rather than sleeping, reborn regularly sit and dwell on the past, hoping for som
 | 6   | A memory carries a vivid smell or sensation. What are you going to do to recreate that experience?                   |
 
 ## Reborn Origins
+
 Reborn might originate from circumstances similar to those of various [Undead](Undead.md) or constructs. The Reborn Origins table provides suggestions for how your character became reborn.
 
 | d8  | Origins                                                                                                                          |
@@ -29,6 +32,7 @@ Reborn might originate from circumstances similar to those of various [Undead](U
 | 8   | In public, you pass as an unremarkable individual, but you can feel the itchy straw stuffing inside you.                         |
 
 ## Reborn in the Domains of Dread
+
 When creating a reborn, consult with your DM to see if it's appropriate to tie your origins to one of the following Domains of Dread (detailed in chapter 3):
 
 ***Har'Akir.*** You died and endured the burial rites of this desert realm, yet somehow a soul-yours or another's— has taken refuge in your perfectly preserved remains.
@@ -39,7 +43,7 @@ When creating a reborn, consult with your DM to see if it's appropriate to tie y
 
 ## Reborn Traits
 
-**Creature Type:** Humanoid
+**Creature Type:** [Humanoid](Humanoid.md)
 **Size:** Medium or Small
 **Speed:** 30 ft.
 
