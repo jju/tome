@@ -4,6 +4,7 @@
 * [Cephalopoids](Cephalopoids.md)
 * [Dragonborn](Dragonborn.md)
 * [Dwarf](Dwarf.md)
+* [Elf](Elf.md)
 * [Gnome](Gnome.md) 
 * [Goliath](Goliath.md)
 * [Halfling](Halfling.md)
@@ -22,16 +23,32 @@
 * [Bullywug](Bullywug.md)
 * Cyclops
 * Eladrin
+* Harengon
+* Hobgoblin
+* Lizardfolk
 
 # Classifications
 
-* [Undead](Undead.md)
-* [Dragon](Dragon.md)
-* [Giant](Giant.md)
+* [Aberration](Aberration.md)
+* [Beast](Beast.md)
 * [Celestial](Celestial.md)
-* [Chromatic](Chromatic.md)
-* [Demon](Demon.md)
-* [Elf](Elf.md)
+* Construct
+* [Dragon](Dragon.md)
+	* [Chromatic](Chromatic.md)
+	* [Metallic](Metallic.md)
+* Elemental
 * [Fey](Fey.md)
 * [Fiend](Fiend.md)
-* [Hairfeet](Hairfeet.md)
+	* [Demon](Demon.md)
+* [Giant](Giant.md)
+* [Humanoid](Humanoid.md)
+	* [Elf](Elf.md)
+	* [Goblinoid](Goblinoid.md)
+	* [Hairfeet](Hairfeet.md)
+	* [Stouthearts](Stouthearts.md)
+	* [Tallfellows](Tallfellows.md)
+* [Monstrosity](Monstrosity.md)
+	* [Lycanthrope](Lycanthrope.md)
+* [Ooze](Ooze.md)
+* [Plant](Plant.md)
+* [Undead](Undead.md)

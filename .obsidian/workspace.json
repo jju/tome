@@ -233,7 +233,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "species.md",
+                "file": "Elf.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -248,7 +248,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "species"
+              "title": "Elf"
             }
           }
         ],
@@ -383,7 +383,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "species.md",
+                    "file": "rules/hobgoblin.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -398,7 +398,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "species"
+                  "title": "hobgoblin"
                 }
               },
               {
@@ -598,8 +598,10 @@
   },
   "active": "8dea0d7bcbedc35a",
   "lastOpenFiles": [
-    "Bullywug.md",
     "species.md",
+    "Aberration.md",
+    "rules/hobgoblin.md",
+    "Bullywug.md",
     "rules/backgrounds.md",
     "rules/acolyte.md",
     "rules/zombie.md",
@@ -622,8 +624,6 @@
     "rules/warlockarchfey.md",
     "rules/warlock.md",
     "rules/vampirefamiliar.md",
-    "rules/vampire.md",
-    "rules/urchin.md",
     "images/names-ho2-t.png",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",
