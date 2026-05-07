@@ -2,7 +2,7 @@
 
 [Wolf](https://www.dndbeyond.com/monsters/4775850-wolf)
 
-Medium Beast, Unaligned
+Medium [Beast](Beast.md), Unaligned
 AC 12    Initiative +2 (12)
 HP 11 (2d8 + 2)
 Speed 40 ft.

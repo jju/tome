@@ -4,7 +4,7 @@ Blessed with resistance to magical and poisonous effects by the rituals that cre
 
 ## Yuan-Ti Traits
 
-**Creature Type:** Humanoid
+**Creature Type:** [Humanoid](Humanoid.md)
 **Size:** Medium or Small
 **Speed:** 30 ft.
 

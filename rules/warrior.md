@@ -1,7 +1,7 @@
 # Warrior Infantry
 [Warrior Infantry](https://www.dndbeyond.com/monsters/5195259-warrior-infantry)
 
-Medium Or Small Humanoid, Neutral
+Medium Or Small [Humanoid](Humanoid.md), Neutral
 AC 13    Initiative +0 (10)
 HP 9 (2d8)
 Speed 30 ft.
@@ -34,7 +34,7 @@ _**Spear.** Melee or Ranged Attack Roll:_ +3, reach 5 ft. or range 20/60 ft. _Hi
 # Warrior Veteran
 [Warrior Veteran](https://www.dndbeyond.com/monsters/5195260-warrior-veteran)
 
-Medium Or Small Humanoid, Neutral
+Medium Or Small [Humanoid](Humanoid.md), Neutral
 AC 17    Initiative +3 (13)
 HP 65 (10d8 + 20)
 Speed 30 ft.

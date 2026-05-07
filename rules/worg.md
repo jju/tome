@@ -2,7 +2,7 @@
 
 [Worg](https://www.dndbeyond.com/monsters/4831031-worg)
 
-Large Fey, Neutral Evil
+Large [Fey](Fey.md), Neutral Evil
 AC 13    Initiative +1 (11)
 HP 26 (4d10 + 4)
 Speed 50 ft.

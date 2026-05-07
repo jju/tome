@@ -2,7 +2,7 @@
 
 [Wereboar](https://www.dndbeyond.com/monsters/5195264-wereboar)
 
-Medium or Small Monstrosity (Lycanthrope), Neutral Evil
+Medium or Small [Monstrosity](Monstrosity.md) ([Lycanthrope](Lycanthrope.md)), Neutral Evil
 AC 15    Initiative +2 (12)
 HP 97 (15d8 + 30)
 Speed 30 ft., 40 ft. (boar form only)
