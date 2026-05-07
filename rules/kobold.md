@@ -5,6 +5,10 @@ AC 14    Initiative +2 (12)
 HP 7 (2d6 - 2)
 Speed 30 ft.
 
+| Base Height | Height Modifier | Base Weight | Weight Modifier |
+| ----------- | --------------- | ----------- | --------------- |
+| 2′ 1″       | +2d4            | 25 lb.      | x 1 lb.         |
+
 |     |     | Mod | Save |
 | --- | --- | --- | ---- |
 | STR | 7   | -2  | -2   |

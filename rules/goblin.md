@@ -8,6 +8,9 @@ Now many goblins pursue their own destinies, escaping the plots of both archfey 
 **Size:** Small
 **Speed:** 30 ft.
 
+| Base Height | Height Modifier | Base Weight | Weight Modifier |
+| ----------- | --------------- | ----------- | --------------- |
+| 2′ 11″      | +2d4            | 40 lb.      | × 1 lb.         |
 #### Darkvision
 
 You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
@@ -101,7 +104,6 @@ Speed 30 ft.
 ## Reactions
 
 **_Redirect Attack._** _Trigger:_ A creature the goblin can see makes an attack roll against it. _Response:_ The goblin chooses a Small or Medium ally within 5 feet of itself. The goblin and that ally swap places, and the ally becomes the target of the attack instead.
-
 
 > source: _Mordenkainen Presents: Monsters of the Multiverse_ (2021)
 > [species](species.md) [npcs](npcs.md) [srd](srd.md) 

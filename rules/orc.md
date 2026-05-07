@@ -8,6 +8,9 @@ Orcs are, on average, tall and broad. They have gray skin, ears that are sharply
 **Size:** Medium
 **Speed:** 30 ft.
 
+|Base Height|Height Modifier|Base Weight|Weight Modifier|
+|---|---|---|---|
+|5'1″|+2d10|140 lb.|× (1d6) lb.|
 #### Adrenaline Rush
 You can take the Dash action as a bonus action. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a short or long rest.
 

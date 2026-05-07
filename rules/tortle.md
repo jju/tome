@@ -8,6 +8,12 @@ Tortles exhibit the same range of coloration and patterns found among turtles, a
 **Size:** Medium or Small
 **Speed:** 30 ft.
 
+| Base  <br>Height | Height  <br>Modifier* | Base  <br>Weight | Weight  <br>Modifier** |
+| ---------------- | --------------------- | ---------------- | ---------------------- |
+| 5′ 0''           | +4d4                  | 350 lb.          | × (4d6) lb.            |
+
+*Height = base height + height modifier  
+**Weight = base weight + (height modifier × weight modifier)
 #### Claws
 
 You have claws that you can use to make unarmed strikes. When you hit with them, the strike deals 1d6 + your Strength modifier slashing dam-age, instead of the bludgeoning damage normal for an unarmed strike.
@@ -113,14 +119,6 @@ CR 2 (450 XP; PB +2)
 * At will: *druidcraft, guidance*
 * 2/day each: *cure wounds, hold person, speak with animals, thunderwave*
 
-### Random Height and Weight
-
-| Base  <br>Height | Height  <br>Modifier* | Base  <br>Weight | Weight  <br>Modifier** |
-| ---------------- | --------------------- | ---------------- | ---------------------- |
-| 5′ 0''           | +4d4                  | 350 lb.          | × (4d6) lb.            |
-|                  |                       |                  |                        |
-*Height = base height + height modifier  
-**Weight = base weight + (height modifier × weight modifier)
 
 > source: _Mordenkainen Presents: Monsters of the Multiverse_ (2021)
 > [species](species.md)

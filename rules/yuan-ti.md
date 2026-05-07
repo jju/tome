@@ -8,6 +8,9 @@ Blessed with resistance to magical and poisonous effects by the rituals that cre
 **Size:** Medium or Small
 **Speed:** 30 ft.
 
+|Base Height|Height Modifier|Base Weight|Weight Modifier|
+|---|---|---|---|
+|4'8"|+2d10 inches|110 lb.|+2d4 lbs.|
 #### Darkvision
 You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
 

@@ -9,6 +9,10 @@ Goliaths have physical characteristics that are reminiscent of the giants in the
 **Size:** Medium (about 7–8 feet tall)  
 **Speed:** 35 feet
 
+| Base Height | Height Modifier | Base Weight | Weight Modifier |
+| ----------- | --------------- | ----------- | --------------- |
+| 6 ft ′ 2″   | + 2d10 in       | 274 lbs.    | +2d6 lbs.       |
+
 Goliaths have lifespans comparable to humans. They enter adulthood in their late teens and usually live less than a century.
 
 As a goliath, you have these special traits.
