@@ -1,13 +1,15 @@
 # [Humanoids](Humanoid.md)
 
 * [Aarakocra](Aarakocra.md)
-* [Cephalopoids](Cephalopoids.md)
+* [Bugbear](Bugbear.md)
+* [Cephalopoid](Cephalopoid.md)
 * [Dragonborn](Dragonborn.md)
 * [Dwarf](Dwarf.md)
 * [Elf](Elf.md)
 * [Gnome](Gnome.md) 
 * [Goliath](Goliath.md)
 * [Halfling](Halfling.md)
+* [Hobgoblin](Hobgoblin.md)
 * [Human](Human.md)
 * [Kenku](Kenku.md)
 * [Kobold](Kobold.md)
@@ -19,17 +21,16 @@
 
 ## tbd
 
-* Bugbear
 * [Bullywug](Bullywug.md)
 * Cyclops
 * Eladrin
 * Harengon
-* Hobgoblin
 * Lizardfolk
 
 # Classifications
 
 * [Aberration](Aberration.md)
+	* Beholder
 * [Beast](Beast.md)
 * [Celestial](Celestial.md)
 * Construct
@@ -40,6 +41,11 @@
 * [Fey](Fey.md)
 * [Fiend](Fiend.md)
 	* [Demon](Demon.md)
+	* Devil
+	* Gnoll
+	* Shapechanger
+	* Titan
+	* Yugoloth
 * [Giant](Giant.md)
 * [Humanoid](Humanoid.md)
 	* [Elf](Elf.md)

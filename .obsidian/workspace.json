@@ -338,7 +338,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Giant.md",
+                    "file": "species.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -353,7 +353,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Giant"
+                  "title": "species"
                 }
               },
               {
@@ -624,15 +624,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "ec1db1af45313cac",
+  "active": "d133ac69102c6d4b",
   "lastOpenFiles": [
+    "Cephalopoid.md",
+    "species.md",
+    "Bugbear.md",
+    "Giant.md",
     "rules/bugbear.md",
     "rules/hobgoblin.md",
-    "Bugbear.md",
     "Hobgoblin.md",
-    "Giant.md",
     "Elf.md",
-    "species.md",
     "Aberration.md",
     "Bullywug.md",
     "rules/backgrounds.md",
@@ -651,7 +652,6 @@
     "Halfling.md",
     "rules/warrior.md",
     "rules/warpriest.md",
-    "rules/warlord.md",
     "images/names-ho2-t.png",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",
