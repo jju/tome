@@ -45,7 +45,7 @@
 	* Gnoll
 	* Shapechanger
 	* Titan
-	* Yugoloth
+	* [Yugoloth](Yugoloth.md)
 * [Giant](Giant.md)
 * [Humanoid](Humanoid.md)
 	* [Elf](Elf.md)
