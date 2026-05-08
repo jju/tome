@@ -271,12 +271,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/cloudgiant.md",
+                "file": "secrets/underdarkitems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cloudgiant"
+              "title": "underdarkitems"
             }
           }
         ],
@@ -338,7 +338,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Yugoloth.md",
+                    "file": "secrets/AbbeyReflectingMind.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -353,7 +353,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Yugoloth"
+                  "title": "AbbeyReflectingMind"
                 }
               },
               {
@@ -491,12 +491,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Bugbear.md",
+                    "file": "secrets/SkerpaSnowcoat.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Bugbear"
+                  "title": "SkerpaSnowcoat"
                 }
               },
               {
@@ -694,12 +694,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "bc468f95d5012762",
+  "active": "d133ac69102c6d4b",
   "lastOpenFiles": [
-    "rules/korred.md",
-    "rules/cloudgiant.md",
-    "rules/yagnoloth.md",
     "Yugoloth.md",
+    "secrets/underdarkitems.md",
+    "rules/cloudgiant.md",
+    "secrets/SkerpaSnowcoat.md",
+    "Bugbear.md",
+    "rules/korred.md",
+    "rules/yagnoloth.md",
     "species.md",
     "Maglubiyet.md",
     "rules/blinkdog.md",
@@ -707,7 +710,6 @@
     "Goblin.md",
     "rules/couatl.md",
     "rules/gnoll.md",
-    "Bugbear.md",
     "rules/bugbear.md",
     "Cephalopoid.md",
     "Giant.md",
@@ -720,8 +722,6 @@
     "rules/acolyte.md",
     "rules/zombie.md",
     "Lycanthrope.md",
-    "rules/yuan-ti.md",
-    "rules/yggdrasti.md",
     "images/names-ho2-t.png",
     "images/Hammerkeep.png",
     "images/Nuoro24mi.png",
