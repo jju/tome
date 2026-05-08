@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Aberration"
             }
+          },
+          {
+            "id": "7a7ea27519857a48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shadow.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Shadow"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "443a3a9afa63f420",
@@ -227,8 +252,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "ee79e388833fd58f",
+  "active": "7a7ea27519857a48",
   "lastOpenFiles": [
+    "Aberration.md",
+    "Shadow.md",
     "secrets/AbbeyReflectingMind.md",
     "secrets/Kruthik.md",
     "rules/allip.md",
@@ -253,8 +280,6 @@
     "rules/owlbear.md",
     "rules/ochrejelly.md",
     "rules/hillgiant.md",
-    "rules/greendragon.md",
-    "rules/grayooze.md",
     "images/names-ho2-t.png",
     "images/names-h-ho1.png",
     "images/names-e3-g.png",

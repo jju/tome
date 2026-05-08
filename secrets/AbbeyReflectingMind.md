@@ -57,7 +57,7 @@ Two dim lights flicker softly in this small room. Two doors are visible: one to 
 
 A brief sense of vertigo washes over the adventures as they set foot into this room. Mirrors cover the walls in this space, reflecting light across multiple surfaces, nearly blinding anyone in the room. Only when the lights are doused do the reflections appear on the surfaces despite the gloom.
 
-**Shadows.** Two to three **Shadow demons** lurk on the other side of the central mirrored surfaces and take on the appearances of anyone who enters. They perfectly mimic all actions, yet their faces hint at an unworldly evil. When a character “reflects” on their darkest impulse (allow for some roleplaying) a secret door on the western wall opens and 2-3 [shadows](shadow.md) emerge from the wall mirrors to attack.
+**Shadows.** Two to three **Shadow demons** lurk on the other side of the central mirrored surfaces and take on the appearances of anyone who enters. They perfectly mimic all actions, yet their faces hint at an unworldly evil. When a character “reflects” on their darkest impulse (allow for some roleplaying) a secret door on the western wall opens and 2-3 [shadows](rules/shadow.md) emerge from the wall mirrors to attack.
 
 This room's mirrors serve as portals to the [Shadowfell](Shadowfell.md) and [Abyss](Abyss.md)
 
