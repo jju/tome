@@ -1,7 +1,7 @@
 # Priest Acolyte
 [Priest Acolyte](https://www.dndbeyond.com/monsters/5195169-priest-acolyte)
 
-Medium Or Small Humanoid (Cleric), Neutral
+Medium Or Small [Humanoid](Humanoid.md) ([Cleric](Cleric.md)), Neutral
 AC 13    Initiative +0 (10)
 HP 11 (2d8 + 2)
 Speed 30 ft.
@@ -39,7 +39,7 @@ _**Divine Aid (1/Day).**_ The priest casts [Bless](https://www.dndbeyond.com/spe
 # Priest
 [Priest](https://www.dndbeyond.com/monsters/5195170-priest)
 
-Medium Or Small Humanoid (Cleric), Neutral
+Medium Or Small [Humanoid](Humanoid.md) ([Cleric](Cleric.md)), Neutral
 AC 13    Initiative +0 (10)
 HP 38 (7d8 + 7)
 Speed 30 ft.
@@ -78,3 +78,5 @@ _**Spellcasting.**_ The priest casts one of the following spells, using Wisdom a
 ## Bonus Actions
 
 _**Divine Aid (3/Day).**_ The priest casts [Bless](https://www.dndbeyond.com/spells/2618933-bless), [Dispel Magic](https://www.dndbeyond.com/spells/2619103-dispel-magic), [Healing Word](https://www.dndbeyond.com/spells/2619143-healing-word), or [Lesser Restoration](https://www.dndbeyond.com/spells/2619016-lesser-restoration), using the same spellcasting ability as Spellcasting.
+
+> [npcs](npcs.md)

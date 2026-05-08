@@ -2,7 +2,7 @@
 
 [Shambling Mound](https://www.dndbeyond.com/monsters/5195203-shambling-mound)
 
-Large Plant, Unaligned
+Large [Plant](Plant.md), Unaligned
 AC 15    Initiative -1 (9)
 HP 110 (13d10 + 39)
 Speed 30 ft., swim 20 ft.
@@ -39,4 +39,4 @@ _**Charged Tendril.** Melee Attack Roll:_ +7, reach 10 ft. _Hit:_ 7 (1d6 + 4) Bl
 _**Engulf.** Strength Saving Throw:_ DC 15, one Medium or smaller creature within 5 feet. _Failure:_ The target is pulled into the shambling mound’s space and has the [Grappled](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#GrappledCondition) condition (escape DC 14). Until the grapple ends, the target has the [Blinded](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#BlindedCondition) and [Restrained](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#RestrainedCondition) conditions, and it takes 10 (3d6) Lightning damage at the start of each of its turns. When the shambling mound moves, the Grappled target moves with it, costing it no extra movement. The shambling mound can have only one creature Grappled by this action at a time.
 
 > [creatures](creatures.md)
-> 
+> source: https://www.dndbeyond.com/monsters/5195203-shambling-mound 

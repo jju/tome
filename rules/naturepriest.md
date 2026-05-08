@@ -3,7 +3,7 @@
 
 > see also [archdruid](archdruid.md)
 
-Medium Or Small Humanoid, Neutral
+Medium Or Small [Humanoid](Humanoid.md), Neutral
 AC 13    Initiative +1 (11)
 HP 44 (8d8 + 8)
 Speed 30 ft.

@@ -1,7 +1,7 @@
 # Pirate
 [Pirate](https://www.dndbeyond.com/monsters/4904830-pirate)
 
-Medium Or Small Humanoid, Neutral
+Medium Or Small [Humanoid](Humanoid.md), Neutral
 AC 14    Initiative +5 (15)
 HP 33 (6d8 + 6)
 Speed 30 ft.
@@ -34,7 +34,7 @@ _**Enthralling Panache.** Wisdom Saving Throw:_ DC 12, one creature the pirate c
 # Pirate Captain
 [Pirate Captain](https://www.dndbeyond.com/monsters/4904838-pirate-captain)
 
-Medium Or Small Humanoid, Neutral
+Medium Or Small [Humanoid](Humanoid.md), Neutral
 AC 17    Initiative +7 (17)
 HP 84 (13d8 + 26)
 Speed 30 ft.
@@ -72,3 +72,5 @@ _**Captain’s Charm.**_ _Wisdom Saving Throw:_ DC 14, one creature the pirate c
 ## Reactions
 
 _**Riposte.** Trigger:_ The pirate is hit by a melee attack roll while holding a weapon. _Response:_ The pirate adds 3 to its AC against that attack, possibly causing it to miss. On a miss, the pirate makes one Rapier attack against the triggering creature if within range.
+
+> [npcs](npcs.md)

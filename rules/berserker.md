@@ -4,7 +4,7 @@
 
 [Berserker](https://www.dndbeyond.com/monsters/16805-berserker)
 
-Medium Humanoid, Any Chaotic Alignment
+Medium [Humanoid](Humanoid.md), Any Chaotic Alignment
 AC 13 (hide armor)    Initiative +1
 HP 67 (9d8 + 27)
 Speed 30 ft.

@@ -1,7 +1,7 @@
 # Guard
 [Guard](https://www.dndbeyond.com/monsters/5195065-guard)
 
-Medium Or Small Humanoid, Neutral
+Medium Or Small [Humanoid](Humanoid.md), Neutral
 AC 16    Initiative +1 (11)
 HP 11 (2d8 + 2)
 Speed 30 ft.
@@ -33,7 +33,7 @@ _**Spear.** Melee or Ranged Attack Roll:_ +3, reach 5 ft. or range 20/60 ft. _Hi
 # Guard Captain
 
 [Guard Captain](https://www.dndbeyond.com/monsters/5195064-guard-captain)
-Medium Or Small Humanoid, Neutral
+Medium Or Small [Humanoid](Humanoid.md), Neutral
 AC 18    Initiative +4 (14)
 HP 75 (10d8 + 30)
 Speed 30 ft.

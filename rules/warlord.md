@@ -1,4 +1,4 @@
-Medium Humanoid, Any Alignment
+Medium [Humanoid](Humanoid.md), Any Alignment
 AC 18 (plate)    Initiative +3 (13)
 HP 229 (27d8 + 108)
 Speed 30 ft.

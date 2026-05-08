@@ -1,7 +1,7 @@
 # Vampire Spawn
 [Vampire Spawn](https://www.dndbeyond.com/monsters/5195249-vampire-spawn)
 
-Medium Or Small Undead, Neutral Evil
+Medium Or Small [Undead](Undead.md), Neutral Evil
 AC 16    Initiative +3 (13)
 HP 90 (12d8 + 36)
 Speed 30 ft.
@@ -50,7 +50,7 @@ _**Deathless Agility.**_ The vampire takes the [Dash](https://www.dndbeyond.com/
 # Vampire
 [Vampire](https://www.dndbeyond.com/monsters/5195251-vampire)
 
-Medium Or Small Undead, Lawful Evil
+Medium Or Small [Undead](Undead.md), Lawful Evil
 AC 16    Initiative +14 (24)
 HP 195 (23d8 + 92)
 Speed 40 ft., climb 40 ft.

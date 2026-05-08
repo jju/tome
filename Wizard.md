@@ -33,7 +33,7 @@ Evokers harness arcane energy to destroy. Many armies employ evokers to rain des
 Illusionists twist light, sound, and even thought to create illusory effects. Some illusionists are delightful entertainers, while others are devilish tricksters.
 
 ## Necromancer
-Necromancers study the interaction of life, death, and undeath. Some necromancers dig up or purchase corpses to create Undead servitors. A few instead use their powers for good, hunting Undead.
+Necromancers study the interaction of life, death, and undeath. Some necromancers dig up or purchase corpses to create [Undead](Undead.md) servitors. A few instead use their powers for good, hunting Undead.
 
 ## Transmuter
 Transmuters are masters at transforming physical forms. They typically view magical transmutation as a path to riches, enlightenment, or apotheosis.

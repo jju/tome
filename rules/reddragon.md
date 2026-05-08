@@ -1,7 +1,7 @@
 # Ancient Red Dragon
 [Ancient Red Dragon](https://www.dndbeyond.com/monsters/5194887-ancient-red-dragon)
 
-Gargantuan Dragon (Chromatic), Chaotic Evil
+Gargantuan [Dragon](Dragon.md) ([Chromatic](Chromatic.md)), Chaotic Evil
 AC 22    Initiative +14 (24)
 HP 507 (26d20 + 234)
 Speed 40 ft., climb 40 ft., fly 80 ft.
@@ -50,3 +50,6 @@ _**Commanding Presence.**_ The dragon uses Spellcasting to cast [Command](https:
 _**Fiery Rays.**_ The dragon uses Spellcasting to cast [Scorching Ray](https://www.dndbeyond.com/spells/2619005-scorching-ray) (level 3 version). The dragon can’t take this action again until the start of its next turn.
 
 _**Pounce.**_ The dragon moves up to half its Speed, and it makes one Rend attack.
+
+> [creatures](creatures.md)
+> [npcs](npcs.md)

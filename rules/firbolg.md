@@ -6,7 +6,7 @@ Firbolgs can live up to 500 years.
 
 ## Firbolg Traits
 
-**Creature Type:** Humanoid
+**Creature Type:** [Humanoid](Humanoid.md)
 **Size:** Medium
 **Speed:** 30 ft.
 

@@ -6,7 +6,7 @@ Some tabaxi have features or patterning in their fur like tigers, jaguars, or ot
 
 ## Tabaxi Traits
 
-**Creature Type:** Humanoid
+**Creature Type:** [Humanoid](Humanoid.md)
 **Size** Medium or Small
 **Speed** 30 ft, climbing speed equal to your walking speed.
 

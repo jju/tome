@@ -1,7 +1,7 @@
 # Tough
 [Tough](https://www.dndbeyond.com/monsters/5195235-tough)
 
-Medium Or Small Humanoid, Neutral
+Medium Or Small [Humanoid](Humanoid.md), Neutral
 AC 12    Initiative +1 (11)
 HP 32 (5d8 + 10)
 Speed 30 ft.
@@ -36,7 +36,7 @@ _**Heavy Crossbow.** Ranged Attack Roll:_ +3, range 100/400 ft. _Hit:_ 6 (1d10 +
 # Tough Boss
 [Tough Boss](https://www.dndbeyond.com/monsters/4904883-tough-boss)
 
-Medium Or Small Humanoid, Neutral
+Medium Or Small [Humanoid](Humanoid.md), Neutral
 AC 16    Initiative +2 (12)
 HP 82 (11d8 + 33)
 Speed 30 ft.

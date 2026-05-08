@@ -1,4 +1,4 @@
-Huge Monstrosity, Unaligned
+Huge [Monstrosity](Monstrosity.md), Unaligned
 AC 14 (natural armor)    Initiative +1 (11)
 HP 161 (14d12 + 70)
 Speed 30 ft., swim 30 ft.

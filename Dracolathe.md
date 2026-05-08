@@ -6,6 +6,21 @@ The symbol of the modern city is the ancient Golden Dragon named [Cyzzarun](Cyzz
 
 A famine is currently hitting Dracolathe which is experimenting with a democratic form government. The council is attempting to improve condition for its citizens by turning to previously discounted forms of knowledge, but so far there haven't been huge breakthroughs. If the empire knew they would not be happy they gave away the City.
 
+
+## Geography
+
+### The Depths
+
+## The Wall
+
+## Taverns
+
+## Inns
+
+## Temples
+
+## Other Businesses
+
 ## Demographics
 
 The major population groups are Dragonborn, Orcs and Goliaths. In addition to those cultural languages, many people speak an Infernal language.
@@ -25,9 +40,17 @@ Current taxes are a 10% land tax, and the city's treasury is empty.
 ## Factions
 
 * Bloodaxes - mercenary company that doesn't give a fuck that Dracolathe changed hands.
-* [TheQuality](TheQuality.md) - Aristocrats banding across national lines to makes sure life is good for rich folk
-* [GoldenDragons](GoldenDragons.md) - Military group tasked with defending the city for the glory of [Empire](DantagEmpire.md) 
-* [GoblinTransportGuilds](GoblinTransportGuilds.md) - aren't based here but do have a branch office for escorting folks through the [TwinWoods](TwinWoods.md).
+* [The Quality](TheQuality.md) - Aristocrats banding across national lines to makes sure life is good for rich folk
+* [Golden Dragons](GoldenDragons.md) - Military group tasked with defending the city for the glory of [Empire](DantagEmpire.md) 
+* [Goblin Transport Guilds](GoblinTransportGuilds.md) - aren't based here but do have a branch office for escorting folks through the [Twin Woods](TwinWoods.md).
+
+## Getting Elsewhere
+
+### Ikizh
+
+### Rundan
+
+### The Frontier
 
 [^1]: This characterization is disputed.
 

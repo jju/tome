@@ -8,7 +8,7 @@ Halflings who prefer to live underground are sometimes called strongheart halfli
 
 ## Halfling Traits
 
-**Creature Type:** Humanoid  
+**Creature Type:** [Humanoid](Humanoid.md)  
 **Size:** Small (about 2–3 feet tall)  
 **Speed:** 30 feet
 
@@ -29,6 +29,12 @@ When you roll a 1 on the d20 of a [D20 Test](https://www.dndbeyond.com/sources/d
 #### Naturally Stealthy
 
 You can take the [Hide](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#HideAction) action even when you are obscured only by a creature that is at least one size larger than you.
+
+#### Light or Stout
+
+Lightfoot halflings have spread the farthest and thus are the most common variety. They tend to be more prone to wanderlust than other halflings, and often dwell alongside other species or take up a nomadic life. Sometimes they are called [Hairfeet](Hairfeet.md) or [Tallfellows](Tallfellows.md).
+
+Stout halflings are hardier than average and have some resistance to poison. Some say that stouts have dwarven blood. Sometimes they are called [Stouthearts](Stouthearts.md).
 
 > source: https://www.dndbeyond.com/species/1751440-halfling
 > [srd](srd.md)

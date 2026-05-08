@@ -1,6 +1,6 @@
 [Balor](https://www.dndbeyond.com/monsters/5194911-balor)
 
-Huge Fiend (Demon), Chaotic Evil
+Huge [Fiend](Fiend.md) ([Demon](Demon.md)), Chaotic Evil
 AC 19    Initiative +14 (24)
 HP 287 (23d12 + 138)
 Speed 40 ft., fly 80 ft.

@@ -3,7 +3,7 @@
 
 > see also [treant](treant.md) and [woodwoad](woodwoad.md)
 
-Huge Plant, Neutral
+Huge [Plant](Plant.md), Neutral
 AC 13    Initiative -2 (8)
 HP 59 (7d12 + 14)
 Speed 20 ft.

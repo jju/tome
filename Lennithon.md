@@ -3,4 +3,4 @@ Adult blue dragon, made a deal with FrulamMondath (of the Wyrmshood) kind of dis
 
 
 > [npcs](npcs.md)
-> [Dragons](Dragons.md)
+> [Dragon](Dragon.md)

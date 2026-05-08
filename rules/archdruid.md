@@ -18,7 +18,7 @@ When an archdruid uses their Change Shape action, you may choose the creature th
 | 8   | Water elemental                    |
 ## Archdruid
 
-Medium Humanoid (Druid), Any Alignment
+Medium [Humanoid](Humanoid.md) ([Druid](Druid.md)), Any Alignment
 AC 14 (hide armor)    Initiative +2
 HP 154 (28d8 + 28)
 Speed 30 ft.

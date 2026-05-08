@@ -3,7 +3,7 @@ Feathered folk who resemble ravens, kenku are blessed with keen observation and 
 Whatever their true origin, kenku are most often found in the Shadowfell and the Material Plane, and they tend to have the coloration typical of ravens.
 ## Kenku Traits
 
-**Creature Type:** Humanoid  
+**Creature Type:** [Humanoid](Humanoid.md)  
 **Size:** Medium or Small  
 **Speed:** 30 feet
 

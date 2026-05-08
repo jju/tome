@@ -5,6 +5,6 @@ know everyone as she nimbly deposits drink and fare at various tables. Another h
 one male, is tending the mostly full bar while simultaneously keeping an eye on everyone and
 everything.
 
-A quick scan of the room reveals a [hobgoblin](hobgoblin.md) in a dark-blue cap sitting alone in a large booth in
+A quick scan of the room reveals a [hobgoblin](rules/hobgoblin.md) in a dark-blue cap sitting alone in a large booth in
 the back left of the common room. Although he’s obviously trying to be inconspicuous, the quality
 of his clothing marks him as an outsider here. You notice several of the patrons shooting glances his way—some of them curious, others calculating.

@@ -1,4 +1,4 @@
-Medium Humanoid, Any Alignment
+Medium [Humanoid](Humanoid.md), Any Alignment
 AC 16 (studded leather)    Initiative +4 (14)
 HP 84 (13d8 + 26)
 Speed 30 ft.

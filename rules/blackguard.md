@@ -1,6 +1,7 @@
-Medium Humanoid (Paladin), Typically Neutral Evil
+# Blackguard
 
-AC 18 (plate)
+Medium [Humanoid](Humanoid.md) ([Paladin](Paladin.md)), Typically Neutral Evil
+AC 18 (plate) Initiative +0 (10)
 HP 119 (14d8 + 56)
 Speed 30 ft.
 
@@ -59,3 +60,4 @@ Blackguards often adorn their armor and weapons with dread accoutrements or are 
 | 6   | Dozens of flies buzzing about the blackguard                                |
 | 7   | Severed hand hanging from a chain around the blackguard's neck              |
 | 8   | Glaive adorned with a length of cloth bearing the words "I choose violence" |
+> [npcs](npcs.md)

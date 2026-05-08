@@ -1,7 +1,7 @@
 # Cultist
 [Cultist](https://www.dndbeyond.com/monsters/4904636-cultist)
 
-Medium Or Small Humanoid, Neutral
+Medium Or Small [Humanoid](Humanoid.md), Neutral
 AC 12    Initiative +1 (11)
 HP 9 (2d8)
 Speed 30 ft.
@@ -31,7 +31,7 @@ _**Ritual Sickle.**_ _Melee Attack Roll:_ +3, reach 5 ft. _Hit:_ 3 (1d4 + 1) Sla
 # Cultist Fanatic
 [Cultist Fanatic](https://www.dndbeyond.com/monsters/4904746-cultist-fanatic)
 
-Medium Or Small Humanoid, Neutral
+Medium Or Small [Humanoid](Humanoid.md), Neutral
 AC 13    Initiative +2 (12)
 HP 44 (8d8 + 8)
 Speed 30 ft.
@@ -67,3 +67,5 @@ _**Spellcasting.**_ The cultist casts one of the following spells, using Wisdom 
 ## Bonus Actions
 
 _**Spiritual Weapon (2/Day).**_ The cultist casts the [Spiritual Weapon](https://www.dndbeyond.com/spells/2619081-spiritual-weapon) spell, using the same spellcasting ability as Spellcasting.
+
+> [npcs](npcs.md)

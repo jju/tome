@@ -20,7 +20,7 @@ The Keep the city draws its name from is home to [Bidrith Crecur](BidrithCrecur.
 
 Along with [Lady Hammerkeep](BidrithCrecur.md) and her retinue, the [Imperial Warden](WardenofHammerkeep.md) is stationed at the castle in a cottage eating at the Lady's table, making sure the king's trees and wildlife aren't taken by poachers, and keeping paths safe for Empire. Officially at least. The truth is that the warden's patrols follow very well-worn and predictable paths through the Woods, since leaving them makes for dead rangers.
 
-There's also a council of advisors for the city. This includes [Lor Stalk](LorStalk.md) as well as [Snerpi](Snerpi.md), [Brecken Dirtbone](BreckenDirtbone.md), [DalrigGravelmantle](DalrigGravelmantle.md) and [Creed Itzmin](Itzmin.md).
+There's also a council of advisors for the city. This includes [Lor Stalk](LorStalk.md) as well as [Snerpi](Snerpi.md), [Brecken Dirtbone](BreckenDirtbone.md), [Dalrig Gravelmantle](DalrigGravelmantle.md) and [Creed Itzmin](Itzmin.md).
 
 The city has about 70 fulltime guards, some of whom are stationed in the castle when on duty. Their leader is [Thiala Ostoroth](ThialaOstoroth.md) an imperious [Aarakocra](Aarakocra.md).
 
@@ -40,7 +40,7 @@ The [Circle of Healing Arts](CircleofHealingArts.md) is a low wooden building ne
 ## Inns
 
 * Razorback - the roughest place (in the Docks) - run by [Lavinia Daergel](LaviniaDaergel.md) halfling woman
-* [Ockney's Eye](OckneysEye.md) - cheapest, near the 
+* [Ockney's Eye](OckneysEye.md) - cheap, near the [Hammersford](Hammersford.md) Road 
 * Three Candles - the biggest place (near the [Hammersford](Hammersford.md) Road) - there is a lot of staff turnover
 * Clafton Inn - the classiest place (near the Keep) - managed by [Lagazi Proudfist](LagaziProudfist.md) owned by [FrugMiggledy](Frug Miggledy.md)
 
@@ -52,12 +52,47 @@ Not every god of the Empire has a full-on temple in Hammerkeep (this isn't [Bedw
 * Temple of [Pelor](Pelor.md) - Wooden roundhouse that's especially busy in harvest season. [Snerpi](Snerpi.md), the small round [Kobold](Kobold.md) who keeps things running, loves telling jokes and is legitimately kind (no spellcasting ability though).
 * Temple of [Erathis](Erathis.md) - Gray, stone and square, this temple is built up on the hill, closer to the Keep than any of the others. [Dalrig Gravelmantle](DalrigGravelmantle.md), the [Dwarf](Dwarf.md) in charge, has a [military background](guard.md#Guard%20Captain) and openly disdains the [Warden of Hammerkeep](WardenofHammerkeep.md). When Paladins come to town there is a lot of politicking between the Erathis and Bahamut temples.
 * Temple of [Gruumsh](Gruumsh.md) - Carved from huge timbers down by the docks, this is often where travellers stop for blessings on their way upstream. Usually that's because they've heard it's a good idea from the travellers coming downstream through the Woods. The main priest is a dour [Orc](Orc.md) named [Simple Rhela](SimpleRhela.md).
-* Temple of [Luxon](Luxon.md) - The Empty Dodecahedron has a storefront entrance to their shrine in an alley between a pair of bickering blacksmiths ([ThalaneTruthhaulerKalukithino](ThalaneTruthhaulerKalukithino.md) - Goliath & [Xokx](Xokx.md)  - Harengon). It's rare to see a priest there. Mostly it seems to be used as a modest reading room.
+* Temple of [Luxon](Luxon.md) - The Empty Dodecahedron has a storefront entrance to their shrine in an alley between a pair of bickering blacksmiths ([Thalane Truthhauler Kalukithino](ThalaneTruthhaulerKalukithino.md) - Goliath & [Xokx](Xokx.md)  - Harengon). It's rare to see a priest there. Mostly it seems to be used as a modest reading room.
 
-# Other Businesses
+## Other Businesses
 
 * Zan's Tradehouse - good place to find work as a caravan guard
-* 
+
+## Demographics
+
+| Class       | Pop (%) | Species                      |
+| ----------- | ------- | ---------------------------- |
+| Aristocrats | 1       | Dragonborn                   |
+| Wealthy     | 5       | Dragonborn                   |
+| Comfortable | 25      | Dragonborn & Goliath         |
+| Modest      | 25      | Dragonborn & Goliath         |
+| Poor        | 20      | Dragonborn & Goliath & Dwarf |
+| Squalid     | 20      | Goliath & Orc                |
+| Wretched    | 4       | Orc                          |
+
+## Factions
+
+* [The Quality](TheQuality.md) - Aristocrats banding across national lines to makes sure life is good for rich folk
+* [Golden Dragons](GoldenDragons.md) - Military group who show up on occasional patrols for the glory of [Empire](DantagEmpire.md) 
+* [Goblin Transport Guilds](GoblinTransportGuilds.md) - have an office for escorting folks through the [Twin Woods](TwinWoods.md).
+
+## Getting Elsewhere
+
+Hammerkeep is the main overland point of connection between [Dracolathe](Dracolathe.md), the [Croaklands](Croaklands.md) and greater [Rundan](Rundan.md). 
+### Rundan
+
+The rest of [Rundan](Rundan.md) is easily accessible from Hammerkeep. Large amounts of cargo can go via the [Nuoro River](NuoroRiver.md) (2 days to [Hammersford](Hammersford.md) and 3 days to [Bedwistre](Bedwistre.md)) or you can use the network of roads through the fertile lands and get to either city in a couple of days of riding. Usually you'd be looking at a couple of weeks to get cargo up the river from Bedwistre, so most goods come into town by caravan (4-5 days).
+
+Rundan has a post-horse system set up between the three major cities wherein there are fresh riding mounts every 5-6 miles on the main roads. This means a determined messenger (usually a light [Halfling](Halfling.md) or [Gnome](Gnome.md)) can change horses every hour and get from Hammerkeep to [Hammersford](Hammersford.md) or [Bedwistre](Bedwistre.md) in 12 hours.
+
+## Dracolathe
+
+Cargo coming down from Dracolathe is usually carried on river barges down the [Nuoro](NuoroRiver.md), which is usually a three day(ish) voyage. Heading up the river to Dracolathe is much slower, more like 12-20 days, as the barges need to be pulled up the river by draft animals (and doing that requires a contract with the [Goblin Transport Guilds](GoblinTransportGuilds.md)). For those who aren't bringing cargo, Dracolathe is usually seen as 8-12 days away through the [Kanliwood](Kanliwood.md) if you have a guide (again from the [GTG](GoblinTransportGuilds.md)) or a death sentence if you don't.
+
+## Croaklands
+
+The largest settlements in the [Croaklands](Croaklands.md) are [Saltmarsh](Saltmarsh.md) and [Seaton](Seaton.md). The main way to get there from Hammerkeep is the winding 3-6 day trip along the Seaton Road through the [Karanliwood](Karanliwood.md). You can also take a more direct/difficult path which cuts off some 30 miles.
+
 
 > [[places]]
 > [cities](cities.md)

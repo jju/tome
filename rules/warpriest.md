@@ -1,6 +1,6 @@
 # Warpriest
 
-Medium Humanoid (Cleric), Any Alignment
+Medium [Humanoid](Humanoid.md) ([Cleric](Cleric.md)), Any Alignment
 AC 18 (plate)    Initiative +0 (10)
 HP 117 (18d8 + 36)
 Speed 30 ft.

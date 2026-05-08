@@ -8,7 +8,7 @@ Those familiar with San Citlán know the following facts:
 
 Hallmarks. San Citlán is known for its magical industry but also its economic disparity. Its people maintain a strong bond with their honored dead. 
 
-People. The inhabitants of San Citlán typically have skin of light to medium brown, black hair, and dark eyes. Humans and dwarves are the most common folk in the city. A small number of intelligent Undead known as olvidados (detailed below) also reside here and are fully accepted as citizens.
+People. The inhabitants of San Citlán typically have skin of light to medium brown, black hair, and dark eyes. Humans and dwarves are the most common folk in the city. A small number of intelligent [Undead](Undead.md) known as olvidados (detailed below) also reside here and are fully accepted as citizens.
 
 Languages. The language of San Citlán is Citlanes, which is related to Tetlahtolli (the language of Tletepec; see the adventure "Trail of Destruction" and the language of previous colonizers). Most people also speak Common.
 

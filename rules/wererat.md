@@ -2,7 +2,7 @@
 
 [Wererat](https://www.dndbeyond.com/monsters/5195265-wererat)
 
-Medium Or Small Monstrosity (Lycanthrope), Lawful Evil
+Medium Or Small [Monstrosity](Monstrosity.md) ([Lycanthrope](Lycanthrope.md)), Lawful Evil
 AC 13    Initiative +3 (13)
 HP 60 (11d8 + 11)
 Speed 30 ft., climb 30 ft.

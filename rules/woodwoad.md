@@ -1,7 +1,7 @@
 
 > see also [awakenedtree](awakenedtree.md) and [treant](treant.md)
 
-Medium Plant, Typically Lawful Neutral
+Medium [Plant](Plant.md), Typically Lawful Neutral
 AC 18 (natural armor, shield)    Initiative +4
 HP 75 (10d8 + 30)
 Speed 30 ft., climb 30 ft.
