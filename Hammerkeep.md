@@ -60,15 +60,15 @@ Not every god of the Empire has a full-on temple in Hammerkeep (this isn't [Bedw
 
 ## Demographics
 
-| Class       | Pop (%) | Species                      |
-| ----------- | ------- | ---------------------------- |
-| Aristocrats | 1       | Dragonborn                   |
-| Wealthy     | 5       | Dragonborn                   |
-| Comfortable | 25      | Dragonborn & Goliath         |
-| Modest      | 25      | Dragonborn & Goliath         |
-| Poor        | 20      | Dragonborn & Goliath & Dwarf |
-| Squalid     | 20      | Goliath & Orc                |
-| Wretched    | 4       | Orc                          |
+| Class       | Pop (%) | Species |
+| ----------- | ------- | ------- |
+| Aristocrats | 1       |         |
+| Wealthy     | 5       |         |
+| Comfortable | 10      |         |
+| Modest      | 45      |         |
+| Poor        | 15      |         |
+| Squalid     | 20      |         |
+| Wretched    | 4       |         |
 
 ## Factions
 
