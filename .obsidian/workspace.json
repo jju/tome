@@ -37,12 +37,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/wilderness.md",
+                    "file": "rules/allip.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "wilderness"
+                  "title": "allip"
                 }
               }
             ]
@@ -219,9 +219,10 @@
   },
   "active": "2771a0702e231c15",
   "lastOpenFiles": [
-    "rules/allip.md",
     "rules/wilderness.md",
     "secrets/AbbeyReflectingMind.md",
+    "images/names-ho2-t.png",
+    "rules/allip.md",
     "Hammerkeep.md",
     "secrets/fiendhollowmine.md",
     "rules/sorcerer.md",
@@ -244,8 +245,6 @@
     "Itzmin.md",
     "Pog.md",
     "rules/encounter.md",
-    "rules/encounter-hammerkeep-area.md",
-    "images/names-ho2-t.png",
     "images/names-h-ho1.png",
     "images/names-e3-g.png",
     "images/names-e2.png",
