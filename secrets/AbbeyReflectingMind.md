@@ -3,7 +3,7 @@
 > created at least a thousand years ago by [duergar](duergar.md) as a place of calm reflection and a connecting point to the [Abyss](Abyss.md) and the [Shadowfell](Shadowfell.md)
 #### Background
 
-Long has the abbey of the Reflecting Mind sat beneath the world in darkness and solitude. Many lost souls of the Underdark reach the broken steps that lead to a quiet temple dedicated to personal reflection of self. The abbey’s acolytes welcome all to contemplate the nature of existence in halls filled with reflective surfaces that seemingly echo the viewer’s deepest desires. In actuality, the ruminations of these lost pilgrims grant control to an [allip](allip.md) named Jennar, which in turn drives all within the abbey towards a grey, emotionless madness as they sink further into themselves. Few within the abbey recognize the danger, as the echoes seen deep within the mirrors calms bygone anguish. 
+Long has the abbey of the Reflecting Mind sat beneath the world in darkness and solitude. Many lost souls of the Underdark reach the broken steps that lead to a quiet temple dedicated to personal reflection of self. The abbey’s acolytes welcome all to contemplate the nature of existence in halls filled with reflective surfaces that seemingly echo the viewer’s deepest desires. In actuality, the ruminations of these lost pilgrims grant control to an [allip](allip.md) named Skerpa, which in turn drives all within the abbey towards a grey, emotionless madness as they sink further into themselves. Few within the abbey recognize the danger, as the echoes seen deep within the mirrors calms bygone anguish. 
 
 #### Plot Hooks
 
@@ -29,7 +29,7 @@ The interior of the abbey is constructed entirely out of mortared stone, with tw
 
 Three life-sized statues of an [Illithid](Illithid.md) with arms outstretched looking towards the sky stand across from each other in this circular room. A hallway leads to the east, revealing a narrow corridor choked with dust and fallen rocks to the north. Two closed doors reside within this corridor to the east and to the south. Three [Dwarf](Dwarf.md) **acolytes** wait within this room and greet any who enter.  
 
-**Statues.** The three statues are enchanted with an aura of _calm emotions_ that affect living creatures that enter the room. Creatures that attempt to resist this spell must succeed on a DC 14 Charisma saving throw. The spell’s effects last for an hour. Each creature that fails the save or accepts the enchantment increases Jennar’s HP max by 2 for as long as the spell holds. 
+**Statues.** The three statues are enchanted with an aura of _calm emotions_ that affect living creatures that enter the room. Creatures that attempt to resist this spell must succeed on a DC 14 Charisma saving throw. The spell’s effects last for an hour. Each creature that fails the save or accepts the enchantment increases Skerpa’s HP max by 2 for as long as the spell holds. 
 
 **Acolytes.** Three acolytes of the Reflecting Mind await here and offer guidance to humanoid creatures that enter the abbey. They are incapable of showing strong emotions and are not hostile, but will fight if they or the statues are attacked. The acolytes have _guidance_ instead of _light_ for a cantrip.
 
@@ -37,7 +37,7 @@ Three life-sized statues of an [Illithid](Illithid.md) with arms outstretched lo
 
 The sound of soft water lapping fills the air of this roughly 25ft. by 25ft. chamber. Sections of the ceiling collapsed long ago and rubble sits in massive piles in the eastern and southern corners, nearly knocking down the nearby drow statues. In the center of the room is a rectangular reflecting pool with two halflings, one duergar **veteran**, and two **deep gnome** pilgrims sitting in quiet meditation on soft pillows. Their faces appear sullen upon closer inspection. Beyond the dim light on the western wall is an engraving atop an exquisite depiction of Underdark scholars. 
 
-**Statues.** The statues in this room exude an aura of calmness and cast _calm emotions_ on living creatures within the room. Creatures that attempt to resist this spell must succeed on a DC 14 Charisma saving throw. The spell’s effects last for an hour. Each creature that fails the save or accepts the enchantment increases Jennar’s HP max by 2 for as long as the spell holds.
+**Statues.** The statues in this room exude an aura of calmness and cast _calm emotions_ on living creatures within the room. Creatures that attempt to resist this spell must succeed on a DC 14 Charisma saving throw. The spell’s effects last for an hour. Each creature that fails the save or accepts the enchantment increases Skerpa’s HP max by 2 for as long as the spell holds.
 
 **Pilgrims.** Getting the attention of the pilgrims is a tough endeavor, as each one is deep in thought. Any attempt to break the _calm emotions_ enchantment, breaking a statue, or attacking a pilgrim causes them all to fly into a rage and attack any interlopers. They have few possessions, though the duergar keeps a ruby-jeweled brooch worth 100 gold pieces. 
 
@@ -51,7 +51,7 @@ Beyond a curved hallway resides a small room filled with familiar trappings of c
 
 Two dim lights flicker softly in this small room. Two doors are visible: one to the north and one to the west. Both doors are unlocked. Opening the western door reveals a shallow chamber with a floor to ceiling mirror directly facing the doorway. Anyone peering deeply into the mirror spot swirling shadows drifting off of their reflection. 
 
-**Wall mirror.** The allip Jennar sees and travels through this mirror, and his followers speak to him through it. The mirror takes no damage if attacked.
+**Wall mirror.** The allip Skerpa sees and travels through this mirror, and his followers speak to him through it. The mirror takes no damage if attacked.
 
 ##### R5. Hall of mirrors
 
@@ -63,15 +63,15 @@ This room's mirrors serve as portals to the [Shadowfell](Shadowfell.md) and [Aby
 
 ##### R6. Shrine
 
-Beyond the hall of mirrors lies a 15ft. by 35ft. chamber. Four statues stand across from each other in the center, while a half circle alcove holds a plinth topped with a swirling crystal ball. A dark-robed duergar **priest** watches the swirling patterns intently. Before the adventurers can interrupt the priest, a swirling black miasma forms in the center of the room as Jennar materializes, floating above the floor. The apparition offers promises of dark secrets and a release from earthly stresses if they “only look inward”. If attacked, the priest defends Jennar. 
+Beyond the hall of mirrors lies a 15ft. by 35ft. chamber. Four statues stand across from each other in the center, while a half circle alcove holds a plinth topped with a swirling crystal ball. A dark-robed duergar **priest** watches the swirling patterns intently. Before the adventurers can interrupt the priest, a swirling black miasma forms in the center of the room as Skerpa materializes, floating above the floor. The apparition offers promises of dark secrets and a release from earthly stresses if they “only look inward”. If attacked, the priest defends Skerpa. 
 
-**Jennar.** The apparition appears as a young female dwarf bathed in swirling shadows that obscure her lower torso. The allip speaks Common, Dwarvish, and Undercommon. Jennar has an additional 22 hit points as long as the original inhabitants of the abbey are still under the _calm emotions_ spell. 
+**Skerpa.** The apparition appears as a young female dwarf bathed in swirling shadows that obscure her lower torso. The allip speaks Common, Dwarvish, and Undercommon. Skerpa has an additional 22 hit points as long as the original inhabitants of the abbey are still under the _calm emotions_ spell. 
 
-**Statues.** The four statues are enchanted with an aura of _calm emotions_ that affect living creatures that enter the room. Creatures that attempt to resist this spell must succeed on a DC 14 Charisma saving throw. The spell’s effects last for an hour. Each creature that fails the save or accepts the enchantment increases Jennar’s HP max by 2 for as long as the spell holds.
+**Statues.** The four statues are enchanted with an aura of _calm emotions_ that affect living creatures that enter the room. Creatures that attempt to resist this spell must succeed on a DC 14 Charisma saving throw. The spell’s effects last for an hour. Each creature that fails the save or accepts the enchantment increases Skerpa’s HP max by 2 for as long as the spell holds.
 
 **Secret door.** Opening the door at the end of the hallway reveals a floor-to-ceiling length mirror that shows the door opposite it in room **R4.** Creatures may pass through as if the mirror and wall were not there, though the route is one way only. 
 
-**Treasure.** The swirling orb on the plinth is a _crystal ball_ used by Jennar to watch the inhabitants of the abbey as well as others in distant lands.
+**Treasure.** The swirling orb on the plinth is a _crystal ball_ used by Skerpa to watch the inhabitants of the abbey as well as others in distant lands.
 
 ##### R7. Stairwell
 

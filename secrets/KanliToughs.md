@@ -1,0 +1,6 @@
+* Ned Lolvodug - [Kanliwood](Kanliwood.md) [Ranger Captain](rules/hobgoblin.md#Hobgoblin%20Captain)
+* Alzek the Shallow - Goblin [Scout](scout.md#Scout)
+* Agruzoc the Shallow - [Hobgoblin Warrior](rules/hobgoblin.md#Hobgoblin%20Warrior)
+* Glagronorg Rush - [Hobgoblin Warrior](rules/hobgoblin.md#Hobgoblin%20Warrior) (f)
+* Kukvanod Etch - [Hobgoblin Warrior](rules/hobgoblin.md#Hobgoblin%20Warrior)
+* Zrukvoron "Kill" - [Bugbear Stalker](rules/bugbear.md#Bugbear%20Stalker) (f)
