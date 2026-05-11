@@ -285,12 +285,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shadow.md",
+                "file": "Skulk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shadow"
+              "title": "Skulk"
             }
           }
         ],
@@ -364,12 +364,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "secrets/AbbeyReflectingMind.md",
+                    "file": "rules/allip.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "AbbeyReflectingMind"
+                  "title": "allip"
                 }
               }
             ],
@@ -521,12 +521,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "SnowcoatGhost.md",
+                    "file": "secrets/Skulk.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "SnowcoatGhost"
+                  "title": "Skulk"
                 }
               },
               {
@@ -754,14 +754,17 @@
   },
   "active": "0e7f9ba283bebfee",
   "lastOpenFiles": [
+    "secrets/SkerpaSnowcoat.md",
+    "rules/allip.md",
+    "secrets/AbbeyReflectingMind.md",
+    "SnowcoatGhost.md",
+    "Skulk.md",
     "Shadow.md",
     "ShadowMirrorShrine.md",
-    "secrets/AbbeyReflectingMind.md",
     "Xalicas.md",
     "SwirlyOrb.md",
     "treasures.md",
     "characters.md",
-    "SnowcoatGhost.md",
     "Cephalopoid.md",
     "rules/cat.md",
     "secrets/Illithid.md",
@@ -777,10 +780,7 @@
     "Hobgoblin.md",
     "Hammerkeep.md",
     "secrets/KanliToughs.md",
-    "secrets/SkerpaSnowcoat.md",
     "images/Hammerkeep.png",
-    "Yugoloth.md",
-    "secrets/underdarkitems.md",
     "images/names-ho2-t.png",
     "images/Nuoro24mi.png",
     "images/names-h-ho1.png",
