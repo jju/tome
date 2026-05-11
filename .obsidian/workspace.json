@@ -577,12 +577,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "stories/Hk01-InvestigationInvisible.md",
+                    "file": "stories/Hk03.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Hk01-InvestigationInvisible"
+                  "title": "Hk03"
                 }
               },
               {
@@ -600,7 +600,7 @@
                 }
               }
             ],
-            "currentTab": 9
+            "currentTab": 13
           }
         ],
         "direction": "horizontal"
@@ -752,8 +752,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "0e7f9ba283bebfee",
+  "active": "058c19d4e472e5bf",
   "lastOpenFiles": [
+    "stories/Hk02-MessMirrors.md",
+    "stories/Hk01-InvestigationInvisible.md",
+    "secrets/Skulk.md",
     "secrets/SkerpaSnowcoat.md",
     "rules/allip.md",
     "secrets/AbbeyReflectingMind.md",
@@ -777,9 +780,6 @@
     "rules/yagnoloth.md",
     "rules/gnoll.md",
     "rules/blinkdog.md",
-    "Hobgoblin.md",
-    "Hammerkeep.md",
-    "secrets/KanliToughs.md",
     "images/Hammerkeep.png",
     "images/names-ho2-t.png",
     "images/Nuoro24mi.png",
