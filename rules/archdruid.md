@@ -6,16 +6,16 @@ When an archdruid uses their Change Shape action, you may choose the creature th
 > see also [druid](rules/druid.md) and [naturepriest](naturepriest.md)
 ## Archdruid Favoured Shapes
 
-| d8  | Favored Shape                      |
-| --- | ---------------------------------- |
-| 1   | Air elemental                      |
-| 2   | Earth elemental                    |
-| 3   | Fire elemental                     |
-| 4   | Giant crocodile                    |
-| 5   | Mammoth                            |
-| 6   | Flail snail (appears in this book) |
-| 7   | Triceratops                        |
-| 8   | Water elemental                    |
+| d8  | Favored Shape   |
+| --- | --------------- |
+| 1   | Air elemental   |
+| 2   | Earth elemental |
+| 3   | Fire elemental  |
+| 4   | Giant crocodile |
+| 5   | Mammoth         |
+| 6   | Flail snail     |
+| 7   | Triceratops     |
+| 8   | Water elemental |
 ## Archdruid
 
 Medium [Humanoid](Humanoid.md) ([Druid](Druid.md)), Any Alignment
@@ -37,7 +37,7 @@ Speed 30 ft.
 **Skills** Medicine +9, Nature +5, Perception +9
 **Senses** passive Perception 19
 **Languages** Druidic plus any two languages
-CR 12 (8,400 XP; PB +4)
+**CR** 12 (8,400 XP; PB +4)
 
 ## Actions
 
