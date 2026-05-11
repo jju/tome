@@ -285,12 +285,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SwirlyOrb.md",
+                "file": "ShadowMirrorShrine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SwirlyOrb"
+              "title": "ShadowMirrorShrine"
             }
           }
         ],
@@ -364,16 +364,16 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Xalicas.md",
+                    "file": "secrets/AbbeyReflectingMind.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Xalicas"
+                  "title": "AbbeyReflectingMind"
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           },
           {
             "id": "f95a241c1a1d9096",
@@ -752,9 +752,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "0e7f9ba283bebfee",
+  "active": "e146e63015d1b700",
   "lastOpenFiles": [
+    "secrets/AbbeyReflectingMind.md",
+    "Xalicas.md",
+    "ShadowMirrorShrine.md",
     "SwirlyOrb.md",
+    "treasures.md",
+    "characters.md",
     "SnowcoatGhost.md",
     "Cephalopoid.md",
     "rules/cat.md",
@@ -773,14 +778,9 @@
     "secrets/KanliToughs.md",
     "secrets/SkerpaSnowcoat.md",
     "images/Hammerkeep.png",
-    "secrets/AbbeyReflectingMind.md",
     "Yugoloth.md",
     "secrets/underdarkitems.md",
     "rules/cloudgiant.md",
-    "Bugbear.md",
-    "rules/korred.md",
-    "species.md",
-    "Maglubiyet.md",
     "images/names-ho2-t.png",
     "images/Nuoro24mi.png",
     "images/names-h-ho1.png",
