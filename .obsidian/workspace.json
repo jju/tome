@@ -285,12 +285,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ShadowMirrorShrine.md",
+                "file": "Shadow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ShadowMirrorShrine"
+              "title": "Shadow"
             }
           }
         ],
@@ -752,11 +752,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "e146e63015d1b700",
+  "active": "0e7f9ba283bebfee",
   "lastOpenFiles": [
+    "Shadow.md",
+    "ShadowMirrorShrine.md",
     "secrets/AbbeyReflectingMind.md",
     "Xalicas.md",
-    "ShadowMirrorShrine.md",
     "SwirlyOrb.md",
     "treasures.md",
     "characters.md",
@@ -780,7 +781,6 @@
     "images/Hammerkeep.png",
     "Yugoloth.md",
     "secrets/underdarkitems.md",
-    "rules/cloudgiant.md",
     "images/names-ho2-t.png",
     "images/Nuoro24mi.png",
     "images/names-h-ho1.png",

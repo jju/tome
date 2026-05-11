@@ -22,6 +22,8 @@ In an intersection room there's a full-size mirror directly behind a door. It is
 
 The hall of mirrors amplifies to a dazzling degree any light source brought in. The walls and ceiling are all mirrored and the floor is a bright white stone. There's a a large double-sided mirror in the centre of the room that people can walk around. These mirrors reflect a malevolent sinister version of the subject.
 
+When [the party](TheParty.md) followed the inspiration from the reflecting pool room and had [Barfgeld](Barfgeld.md) reflect on his darkest impulses in the mirror room. This opened a door and also released a bunch of [living shadows](Shadow.md) into the room.
 
+Beyond that lies another chamber, the shrine proper. Four tentacle-faced statues stand across from each other in the center, while a rounded alcove holds an altar topped with a [swirling crystal ball](SwirlyOrb.md). The statues and floor and the entire room were unnaturally clean. [The party](TheParty.md) encountered [a phantasmal creature](SnowcoatGhost.md) here and retreated expeditiously.
 
 > [places](places.md)
