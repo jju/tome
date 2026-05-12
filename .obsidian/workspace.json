@@ -285,12 +285,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SkulkStones.md",
+                "file": "ShadowMirrorShrine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SkulkStones"
+              "title": "ShadowMirrorShrine"
             }
           }
         ],
@@ -752,12 +752,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "13590e60728a0eda",
+  "active": "e146e63015d1b700",
   "lastOpenFiles": [
-    "SkulkStones.md",
-    "Skulk.md",
     "stories/Hk03-CurtainMurder.md",
     "ShadowMirrorShrine.md",
+    "Cephalopoid.md",
+    "TentacleFacedBabysittersClubSaga.md",
+    "SkulkStones.md",
+    "Skulk.md",
     "stories/Hk02-MessMirrors.md",
     "rules/yagnoloth.md",
     "rules/ratfolk.md",
@@ -776,11 +778,9 @@
     "SwirlyOrb.md",
     "treasures.md",
     "characters.md",
-    "Cephalopoid.md",
     "rules/cat.md",
     "secrets/Illithid.md",
     "rules/kraken.md",
-    "rules/kruthik.md",
     "images/Hammerkeep.png",
     "images/names-ho2-t.png",
     "images/Nuoro24mi.png",

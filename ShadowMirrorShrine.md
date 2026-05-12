@@ -12,11 +12,9 @@ Beyond the circular room are a couple of passages with doors made of strange mus
 
 One door leads to a slightly larger rectangular room (#2) with more of the [Cephalopoid](Cephalopoid.md) statues and a pool in the centre. The water in the pool is slightly cloudy (from mineral gunk, possibly some other fluids) and the surface is constantly disturbed by dripping from the ceiling. There's another doorway that leads to another circular room (#1) with statues and a passage beyond.
 
-When [the Party](TheParty.md) entered the reflecting pool room there was also a table with a very gruesomely taken apart[^1] [Tiefling](Tiefling.md) body lying on a table. On at least one wall of the room there were carved artworks depicting scholars in meditative poses, accompanied by script in a few languages. The old Dwarvish version of the text reads: 
+When [the Party](TheParty.md) entered the reflecting pool room there was also a table with a very dead [Tiefling](Tiefling.md) body lying on a table. On at least one wall of the room there were carved artworks depicting scholars in meditative poses, accompanied by script in a few languages. The old Dwarvish version of the text reads: 
 
 > "Only when we reflect upon our darkest impulses does the way forward present itself."
-
-[^1]: Dissected? Vivisected? Though Riles inspected the body, it was unclear.
 
 Going back through the passage to the other door is a curved passage that leads to a small room (#3) with a bunk and fungiwood table and some space for food and drink. The chamberpot is long dried out. The corridor continues past.
 
