@@ -1,4 +1,6 @@
-Rat folk are humanoid rats. They have rat-like heads, with large ears, long snouts, whiskers, and large, strong teeth. Their bodies are covered in short fur but are otherwise human in form. 
+# Ratfolk
+
+Rat folk are [Humanoid](Humanoid.md) rats. They have rat-like heads, with large ears, long snouts, whiskers, and large, strong teeth. Their bodies are covered in short fur but are otherwise human in form. 
 
 ## Ratfolk Traits
 
