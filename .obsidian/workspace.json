@@ -285,12 +285,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ShadowMirrorShrine.md",
+                "file": "Skulk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ShadowMirrorShrine"
+              "title": "Skulk"
             }
           }
         ],
@@ -535,12 +535,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/yagnoloth.md",
+                    "file": "stories/Hk03-CurtainMurder.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "yagnoloth"
+                  "title": "Hk03-CurtainMurder"
                 }
               },
               {
@@ -600,7 +600,7 @@
                 }
               }
             ],
-            "currentTab": 12
+            "currentTab": 10
           }
         ],
         "direction": "horizontal"
@@ -752,16 +752,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "bb1088710004a4c9",
+  "active": "13590e60728a0eda",
   "lastOpenFiles": [
-    "rules/dungeon.md",
+    "Skulk.md",
     "ShadowMirrorShrine.md",
+    "stories/Hk03-CurtainMurder.md",
+    "stories/Hk02-MessMirrors.md",
+    "rules/yagnoloth.md",
+    "rules/ratfolk.md",
+    "rules/dungeon.md",
     "world.md",
     "Nuoro.md",
-    "stories/Hk03.md",
-    "Skulk.md",
     "images/mirrortemple.png",
-    "stories/Hk02-MessMirrors.md",
     "stories/Hk01-InvestigationInvisible.md",
     "secrets/Skulk.md",
     "secrets/SkerpaSnowcoat.md",
@@ -779,8 +781,6 @@
     "rules/kraken.md",
     "rules/kruthik.md",
     "rules/berserker.md",
-    "rules/_statblocktemplate.md",
-    "rules/archdruid.md",
     "images/Hammerkeep.png",
     "images/names-ho2-t.png",
     "images/Nuoro24mi.png",

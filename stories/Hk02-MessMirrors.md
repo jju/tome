@@ -34,7 +34,7 @@ Loud booming noises came from the flat central stone when the party was trying t
 
 The party made their way down the carved stairs, spotting no traps. About ten minutes down the passageway they discovered another passageway branching off to the right. They followed this another twenty minutes until they came to a stone archway. They tossed stones through and detected nothing weird. Rurik had been marking their path with chalk this entire time, and now rigged a bell on a string to ring if something hit it going through the archway.
 
-Inside the archway was [an obviously constructed place](ShadowMirrorShrine.md). The walls are mortared stone with 12-foot high ceilings. They entered a circular room with statues of three tentacle-faced humanoids lifting their arms upward. This room immediately creeped Riles out, but Barfgeld and Rurik thought he was overreacting. There were also mirrors on the walls in weirdly random places. Riles tried to see if shining light from his lantern would illuminate anything weird, but it didn't. The statues were also very clean.
+Inside the archway was [an obviously constructed place](../ShadowMirrorShrine.md). The walls are mortared stone with 12-foot high ceilings. They entered a circular room with statues of three tentacle-faced humanoids lifting their arms upward. This room immediately creeped Riles out, but Barfgeld and Rurik thought he was overreacting. There were also mirrors on the walls in weirdly random places. Riles tried to see if shining light from his lantern would illuminate anything weird, but it didn't. The statues were also very clean.
 
 On leaving this room they were faced with a choice of strange green doors reinforced with metal. They took the first choice (Rurik marking their choices with chalk), travelled along a short curved passageway to find another door and further passage. The door opened into a small room with a bunk, a desk and some dead animals with holes in their skulls. The passage was crumbled closed to the right, but the leftward way opened into another room with two doors, a pair of flickeringly lit stones and more random mirrors.
 
@@ -50,5 +50,5 @@ They opened the other door in the room and discovered a blindingly mirrored room
 
 They thought and pondered and ruminated on how helpful a map might have been.
 
-> continued: [Hk03](Hk03.md)
+> continued: [Hk03-CurtainMurder](Hk03-CurtainMurder.md)
 > [IC4996](../IC4996.md)
