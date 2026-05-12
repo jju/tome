@@ -50,5 +50,5 @@ They opened the other door in the room and discovered a blindingly mirrored room
 
 They thought and pondered and ruminated on how helpful a map might have been.
 
-> continued: [Hk03-CurtainMurder](Hk03-CurtainMurder.md)
+> continued: [Hk03-MurderCurtains](Hk03-MurderCurtains.md)
 > [IC4996](../IC4996.md)

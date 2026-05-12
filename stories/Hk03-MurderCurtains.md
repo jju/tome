@@ -18,6 +18,14 @@ After sharing their tales while they were resting from their frustrations, they 
 
 > "Only when we reflect upon our darkest impulses does the way forward present itself."
 
+When Barfgeld read that, he decided to try following the instructions. He shared "his darkest impulse" that once he had felt motivated to flee from a battle. After he said that though, he reconsidered. This was a place for true reflection; he should think and share more deeply, because this was a safe place for doing that. So in a low voice he told his companions of a task he'd had in the war, where villagers had been giving aid to the enemy. He'd spotted an insignia of an [Imperial](DantagEmpire.md) soldier hiding in a dwarf home and flew into a rage, attacking the hidden figure bearing it. When he looked at the corpse that fell to the ground he realized he'd been mistaken; that was no Imperial marker, just a scrap of cloth.
+
+The group was silent. "So you murdered a curtain..." said Pog, with deep empathy.
+
+Though nothing else happened when Barfgeld told his story, the party quickly regrouped, focusing on the word "reflect" in the carving and headed for the hall of mirrors. While Pog held hands with Rurik and Riles, Barfgeld told the story again, facing the central mirror in the room. As he finished reflecting on his darkest impulse, a door swung open at one end of the room and the group was attacked by four [living shadows](../Shadow.md).
+
+Rurik was attacked first and found he couldn't grapple the thing as it weakened him. These were not the same [invisible beasts](../Skulk.md) from the farm. The others tried to hack at the creatures, but the tide turned as [Riles](../Riles.md) cast a light spell on the central mirror, dazzling everyone, but sending the shadows into a full retreat. Everyone got some hits in on one of the things and Rurik finished it off with a Starry Wisp spell. Two of the creatures escaped out into the shrine and one escaped through the secret door that had opened.
+
 
 
 [^1]: Without ringing it!
