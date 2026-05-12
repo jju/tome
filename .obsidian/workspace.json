@@ -285,12 +285,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skulk.md",
+                "file": "SkulkStones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skulk"
+              "title": "SkulkStones"
             }
           }
         ],
@@ -754,9 +754,10 @@
   },
   "active": "13590e60728a0eda",
   "lastOpenFiles": [
+    "SkulkStones.md",
     "Skulk.md",
-    "ShadowMirrorShrine.md",
     "stories/Hk03-CurtainMurder.md",
+    "ShadowMirrorShrine.md",
     "stories/Hk02-MessMirrors.md",
     "rules/yagnoloth.md",
     "rules/ratfolk.md",
@@ -780,7 +781,6 @@
     "secrets/Illithid.md",
     "rules/kraken.md",
     "rules/kruthik.md",
-    "rules/berserker.md",
     "images/Hammerkeep.png",
     "images/names-ho2-t.png",
     "images/Nuoro24mi.png",
