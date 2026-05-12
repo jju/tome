@@ -285,12 +285,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shadow.md",
+                "file": "Barfgeld.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shadow"
+              "title": "Barfgeld"
             }
           }
         ],
@@ -752,12 +752,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "e146e63015d1b700",
+  "active": "13590e60728a0eda",
   "lastOpenFiles": [
-    "Riles.md",
-    "Shadow.md",
+    "Barfgeld.md",
     "stories/Hk03-MurderCurtains.md",
+    "SnowcoatGhost.md",
     "ShadowMirrorShrine.md",
+    "TheParty.md",
+    "Shadow.md",
+    "Riles.md",
     "Cephalopoid.md",
     "TentacleFacedBabysittersClubSaga.md",
     "SkulkStones.md",
@@ -774,13 +777,10 @@
     "secrets/SkerpaSnowcoat.md",
     "rules/allip.md",
     "secrets/AbbeyReflectingMind.md",
-    "SnowcoatGhost.md",
     "Xalicas.md",
     "SwirlyOrb.md",
     "treasures.md",
     "characters.md",
-    "rules/cat.md",
-    "secrets/Illithid.md",
     "images/Hammerkeep.png",
     "images/names-ho2-t.png",
     "images/Nuoro24mi.png",
