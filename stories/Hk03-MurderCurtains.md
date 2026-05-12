@@ -1,3 +1,5 @@
+# A Murder of Curtains
+
 > previously: [Hk02-MessMirrors](Hk02-MessMirrors.md)
 
 While [the party](../TheParty.md) headed to the [standing stones](../SkulkStones.md), [Pog](../Pog.md) slept in. Again. He headed out about town to see what was happening, found a note from his friends telling him where they were going then he saw a dog and almost got run over by a cart, which reminded him about the note, but there was another dog and some good salami, but oh, the note! Eventually he grabbed his gear and headed out of [town](Hammerkeep.md).

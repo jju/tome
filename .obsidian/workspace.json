@@ -535,12 +535,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "IC4996.md",
+                    "file": "stories/Hk03-MurderCurtains.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "IC4996"
+                  "title": "Hk03-MurderCurtains"
                 }
               },
               {
@@ -754,7 +754,9 @@
   },
   "active": "13590e60728a0eda",
   "lastOpenFiles": [
+    "stories/Hk02-MessMirrors.md",
     "stories/Hk03-MurderCurtains.md",
+    "IC4996.md",
     "Barfgeld.md",
     "SnowcoatGhost.md",
     "ShadowMirrorShrine.md",
@@ -765,7 +767,6 @@
     "TentacleFacedBabysittersClubSaga.md",
     "SkulkStones.md",
     "Skulk.md",
-    "stories/Hk02-MessMirrors.md",
     "rules/yagnoloth.md",
     "rules/ratfolk.md",
     "rules/dungeon.md",
@@ -780,7 +781,6 @@
     "Xalicas.md",
     "SwirlyOrb.md",
     "treasures.md",
-    "characters.md",
     "images/Hammerkeep.png",
     "images/names-ho2-t.png",
     "images/Nuoro24mi.png",
