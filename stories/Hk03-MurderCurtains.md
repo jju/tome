@@ -30,13 +30,13 @@ Though nothing else happened when [Barfgeld](../Barfgeld.md) told his story, the
 
 Beyond the secret door was another chamber, the shrine proper. Four tentacle-faced statues stood across from each other in the center, while a rounded alcove held an altar topped with a [swirling crystal ball](../SwirlyOrb.md). The statues and floor (and the entire room, really) were unnaturally clean. In here, [Rurik](Rurik.md) fell back into a more contemplative state.
 
-That's when [the ghost](SnowcoatGhost.md) showed up.
+That's when [the ghost](../SnowcoatGhost.md) showed up.
 
-The apparition appeared to be a youngish female [Dwarf](../Dwarf.md), that manifested from the darkness. The party tried talking to her, [Barfgeld](../Barfgeld.md) on lead. He soon discovered her clan name was [Snowcoat](../SnowcoatClan.md) and her accent was from [Zhaalum](../Zhaalum.md) like him.
+The apparition appeared to be a youngish female [Dwarf](../Dwarf.md), that manifested from the darkness. The party tried talking to her, [Barfgeld](../Barfgeld.md) on lead. He soon discovered her clan name was [Snowcoat](../SnowcoatClan.md) and her accent was from [Zhaalum](../Zhaalum.md) like [his](../Barfgeld.md).
 
-At first Snowcoat wished only for the party to sit with her and think. She could not tell the party how long she had been in the shrine, nor was she interested in going home. She complained of "the last one" who did not bring her anyone to come and sit and think with her. All it did was "cut cut cut." It was not a sit and thinker.
+At first [Snowcoat](SnowcoatGhost.md) wished only for the party to sit with her and think. [Rurik](../Rurik.md) was all in for this. She could not tell the party how long she had been in the shrine, nor was she interested in going home. She complained of ["the last one"](../TheLastOne.md) who did not bring her anyone to come and sit and think with her. All it did was bring not enough people and then "cut cut cut." It was not a sit and thinker. Could the party sit and think with her? Or at least bring her people to sit and think with?
 
-When [Riles](../Riles.md) grew frustrated and attempted to leave her chamber with the [swirly glowing orb](../SwirlyOrb.md) she got very agitated, saying they were even worse than "the last one." A [Shadow](../Shadow.md) attacked and she unleashed her own attacks directly upon [Riles'](../Riles.md) brain, nearly killing him. In the ensuing melee she screamed horrifically at the rest of the group causing damage throughout the party.
+When [Riles](../Riles.md) grew frustrated and attempted to leave her chamber with the [swirly glowing orb](../SwirlyOrb.md) she got very agitated, saying they were even worse than ["the last one."](../TheLastOne.md) A [Shadow](../Shadow.md) attacked and she unleashed her own attacks directly upon [Riles'](../Riles.md) brain, nearly killing him. In the ensuing melee she screamed horrifically at the rest of the group causing damage throughout the party.
 
 By the time [Barfgeld](../Barfgeld.md) had connected with his axe a few times, and [Riles](../Riles.md) was revived and [Rurik](../Rurik.md) had thrown all the starry wisps at her he could, Snowcoat swirled around in her shadowy form and disappeared.
 
