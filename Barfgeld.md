@@ -6,16 +6,25 @@ Barfgeld got his nickname because someone bet him that he couldn't eat 50 gold p
 
 Garriff loves the underground.
 
-Once Garriff had a task in the war, where he was supposed to round up villagers who'd been giving aid to the enemy. He spotted an insignia of an [Imperial](DantagEmpire.md) soldier hiding in a dwarf home and flew into a rage, attacking the hidden figure bearing it. When he looked at the corpse that fell to the ground he realized he'd been mistaken; that was no Imperial marker, just a scrap of meaningless cloth.
+*Ideals:* Nation. His city, nation or people are all that matter.
+
+*Bonds:* Those who fight beside him are those worth dying for.
+
+*Flaws:* Little respect for anyone who is not a proven warrior.
+
+*Darkest Impulse:* Once Garriff had a task in the war, where he was supposed to round up villagers who'd been giving aid to the enemy. He spotted an insignia of an [Imperial](DantagEmpire.md) soldier hiding in a dwarf home and flew into a rage, attacking the hidden figure bearing it. When he looked at the corpse that fell to the ground he realized he'd been mistaken; that was no Imperial marker, just a scrap of meaningless cloth.
 
 # Stats
 
-[Dwarf](Dwarf.md) [Fighter](Fighter.md)
+[Dwarf](Dwarf.md) [Fighter](Fighter.md) 
 
-Medium [Humanoid](Humanoid.md), Alignment
+Medium [Humanoid](Humanoid.md), Lawful Good
 AC 15 (17 with Shield)    Initiative +2
 HP 13 (1d10)
-Speed 30 ft.
+Speed 25 ft.
+
+Height 4'3" Weight 190 lbs
+Born [IC4826](IC4826.md) (170 years old)
 
 |     |     | Mod | Save |
 | --- | --- | --- | ---- |
@@ -29,21 +38,24 @@ Speed 30 ft.
 | WIS | 11  | +0  | +0   |
 | CHA | 10  | +0  | +0   |
 
-**Skills** [Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +5, [Stealth](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +5
-**Resistances**
-**Immunities**
-**Senses** [Darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft.; Passive Perception 15
-**Languages** Understands Elvish and Sylvan but can’t speak them
-**CR** 1/4 (XP 50; PB +2)
+**Skills (PB +2)** Animal Handling +2, Athletics +6, Intimidation +2, [Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +2, [Stealth](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +5
+**Resistances** Poison, Advantage on Poison Saves
+**Senses** [Darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft.; Passive Perception 12; Passive Insight 10; Passive Investigation 12
+**Languages** Common, Dwarvish
+**XP:** 100
 
+**Gear:** Chain Mail, Shield, Dagger, Light Crossbow (20 Bolts), Greataxe, Crowbar, Hammer, Pitons (10), Rations (9), Rope (50 ft.), Tinderbox, Torches (10), Waterskin
 
 ## Actions
 
-**_Attack._** _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 5 (1d4 + 3) Piercing damage.
+**_Greataxe._** _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 1d12 + 4 Slashing. Martial, Heavy, Two-Handed, Cleave.
 
+**_Unarmed Strike._** _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 5 Bludgeoning. Grapple, Shove.
+
+***Light Crossbow** Ranged Attack Roll:* +4, 80/320 ft. *Hit:* 1d8 + 2 Piercing. Simple, Ammunition, Loading, Range, Two-Handed, Slow.
 ## Bonus Actions
 
-**_Weird Thing (Recharge 4–6)._** The dog teleports up to 40 feet to an unoccupied space it can see.
+**_Second Wind._** Once per short rest, regain 1d10+1 HP.
 
 
 > [characters](characters.md)
