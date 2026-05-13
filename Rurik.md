@@ -26,4 +26,52 @@ He'd instead use his paint supply to draw graffiti skulls in vibrant colours on 
 
 Rurik, beside himself, took to spending more time in taverns, trying to find the answers in the bottom of a mug. Instead it was those arguments and the genuine care of the Gnome who helped him begin the process of healing. Healthily. He hopes that he return the favour by finding the Giant Cock.
 
+
+# Stats
+
+[Human](Human.md) [Paladin](Paladin.md)
+
+Medium [Humanoid](Humanoid.md), Neutral
+AC 15 (17 with Shield)    Initiative +2
+HP 13 (1d10)
+Speed 20 ft.
+
+Height 4'3" Weight 190 lbs
+Born  (?? years old)
+
+|     |     | Mod | Save |
+| --- | --- | --- | ---- |
+| STR | 19  | +4  | +6   |
+| DEX | 14  | +2  | +2   |
+| CON | 16  | +3  | +5   |
+
+|     |     | Mod | Save |
+| --- | --- | --- | ---- |
+| INT | 15  | +2  | +2   |
+| WIS | 11  | +0  | +0   |
+| CHA | 10  | +0  | +0   |
+
+**Skills (PB +2)** Animal Handling +2, Athletics +6, Intimidation +2, [Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +2, [Stealth](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +5
+**Resistances** 
+**Senses** Passive Perception 12; Passive Insight 10; Passive Investigation 12
+**Languages** Common, 
+**XP:** 100
+
+**Gear:** Chain Mail, Shield, Dagger, Light Crossbow (20 Bolts), Greataxe, Crowbar, Hammer, Pitons (10), Rations (9), Rope (50 ft.), Tinderbox, Torches (10), Waterskin
+
+**Money:** 10GP, 11SP
+
+## Actions
+
+**_Longsword._** _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 1d10 + 4 Slashing. Martial, Heavy, Two-Handed, Cleave. *Great Weapon Fighting:* Reroll 1 or 2 on damage dice.
+
+**_Unarmed Strike._** _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 5 Bludgeoning. Grapple, Shove.
+
+***Light Crossbow** Ranged Attack Roll:* +4, 80/320 ft. *Hit:* 1d8 + 2 Piercing. Simple, Ammunition, Loading, Range, Two-Handed, Slow.
+
+***Guiding Bolt.** Ranged Spell Attack:* 
+## Bonus Actions
+
+**_Second Wind._** Once per short rest, regain 1d10+1 HP.
+
 > [characters](characters.md) 
