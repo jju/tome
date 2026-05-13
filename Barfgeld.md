@@ -46,9 +46,11 @@ Born [IC4826](IC4826.md) (170 years old)
 
 **Gear:** Chain Mail, Shield, Dagger, Light Crossbow (20 Bolts), Greataxe, Crowbar, Hammer, Pitons (10), Rations (9), Rope (50 ft.), Tinderbox, Torches (10), Waterskin
 
+**Money:** 10GP, 11SP
+
 ## Actions
 
-**_Greataxe._** _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 1d12 + 4 Slashing. Martial, Heavy, Two-Handed, Cleave.
+**_Greataxe._** _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 1d12 + 4 Slashing. Martial, Heavy, Two-Handed, Cleave. *Great Weapon Fighting:* Reroll 1 or 2 on damage dice.
 
 **_Unarmed Strike._** _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 5 Bludgeoning. Grapple, Shove.
 
