@@ -313,12 +313,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TheLastOne.md",
+                "file": "Barfgeld.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TheLastOne"
+              "title": "Barfgeld"
             }
           }
         ],
@@ -392,12 +392,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/allip.md",
+                    "file": "rules/_statblocktemplate.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "allip"
+                  "title": "_statblocktemplate"
                 }
               }
             ],
@@ -628,7 +628,7 @@
                 }
               }
             ],
-            "currentTab": 10
+            "currentTab": 3
           }
         ],
         "direction": "horizontal"
@@ -780,14 +780,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "13590e60728a0eda",
+  "active": "ba2ce5b03c12abc3",
   "lastOpenFiles": [
-    "TheLastOne.md",
+    "rules/_statblocktemplate.md",
+    "rules/gnoll.md",
     "stories/Hk03-MurderCurtains.md",
+    "Barfgeld.md",
+    "rules/allip.md",
+    "TheLastOne.md",
     "Cephalopoid.md",
     "secrets/Skulk.md",
     "SnowcoatClan.md",
-    "Barfgeld.md",
     "stories/Hk02-MessMirrors.md",
     "IC4996.md",
     "SnowcoatGhost.md",
@@ -806,9 +809,6 @@
     "images/mirrortemple.png",
     "stories/Hk01-InvestigationInvisible.md",
     "secrets/SkerpaSnowcoat.md",
-    "rules/allip.md",
-    "secrets/AbbeyReflectingMind.md",
-    "Xalicas.md",
     "images/Hammerkeep.png",
     "images/names-ho2-t.png",
     "images/Nuoro24mi.png",
