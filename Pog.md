@@ -1,17 +1,26 @@
-[Gnome](Gnome.md) [Ranger](Ranger.md) who seems to have lost his riding cockerel. He's cagey about which Queen he soldiered for.
+# Sgt. Poggleston "Pog" Timbers
 
+[Gnome](Gnome.md) [Ranger](Ranger.md) who seems to have lost his riding cockerel. He's cagey about which Queen he [soldiered](/rules/soldier.md) for.
+
+Poggleston is often confused why people always think he's making jokes when he's trying to be serious. He likes it though.
+
+*Ideals:* Always try and help those in need.
+
+*Bonds:* His (missing) war cock "Precious"
+
+*Flaws:* He's a gambler.
 
 # Stats
 
-[Human](Human.md) [Paladin](Paladin.md)
+[Gnome](Gnome.md) [Ranger](Ranger.md)
 
-Small [Humanoid](Humanoid.md), Neutral Good
-AC 16    Initiative +4
-HP 11 (1d10)
-Speed 30 ft.
-
-Height 3'11" Weight 42 lbs
-Born [IC4960](IC4960.md) (36 years old)
+* Small [Humanoid](Humanoid.md), Neutral Good
+* Height 3'11" Weight 42 lbs Fiery Orange Hair and Blue Eyes
+* Born [IC4960](IC4960.md) (36 years old)
+* AC 16
+* Initiative +4
+* HP 11 (1d10)
+* Speed 30 ft.
 
 |     |     | Mod | Save |
 | --- | --- | --- | ---- |
@@ -30,7 +39,7 @@ Born [IC4960](IC4960.md) (36 years old)
 **Resistances** 
 **Senses** Darkvision 60 ft., Passive Perception 15; Passive Insight 13; Passive Investigation 10
 **Languages** Common, Elvish, Gnomish
-**XP:** 100
+**Level** 1 **XP:** 100
 
 **Gear:** Chain Mail, Shield, Dagger, Light Crossbow (20 Bolts), Greataxe, Crowbar, Hammer, Pitons (10), Rations (9), Rope (50 ft.), Tinderbox, Torches (10), Waterskin
 

@@ -18,13 +18,13 @@ Garriff loves the underground.
 
 [Dwarf](Dwarf.md) [Fighter](Fighter.md) 
 
-Medium [Humanoid](Humanoid.md), Lawful Good
-AC 15 (17 with Shield)    Initiative +2
-HP 13 (1d10)
-Speed 25 ft.
-
-Height 4'3" Weight 190 lbs
-Born [IC4826](IC4826.md) (170 years old)
+* Medium [Humanoid](Humanoid.md), Lawful Good
+* Height 4'3" Weight 190 lbs
+* Born [IC4826](IC4826.md) (170 years old)
+* AC 15 (17 with Shield)
+* Initiative +2
+* HP 13 (1d10)
+* Speed 25 ft.
 
 |     |     | Mod | Save |
 | --- | --- | --- | ---- |
@@ -38,7 +38,7 @@ Born [IC4826](IC4826.md) (170 years old)
 | WIS | 11  | +0  | +0   |
 | CHA | 10  | +0  | +0   |
 
-**Skills (PB +2)** Animal Handling +2, Athletics +6, Intimidation +2, [Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +2, [Stealth](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +5
+**[Skills](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) (PB +2)** Animal Handling +2, Athletics +6, Intimidation +2, Perception +2, Stealth +5
 **Resistances** Poison, Advantage on Poison Saves
 **Senses** [Darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft.; Passive Perception 12; Passive Insight 10; Passive Investigation 12
 **Languages** Common, Dwarvish
@@ -58,6 +58,5 @@ Born [IC4826](IC4826.md) (170 years old)
 ## Bonus Actions
 
 **_Second Wind._** Once per short rest, regain 1d10+1 HP.
-
 
 > [characters](characters.md)
