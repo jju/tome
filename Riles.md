@@ -16,8 +16,8 @@ Riles in his wandering scam normally moves on before people get wise to his shen
 [Human](Human.md) [Paladin](Paladin.md)
 
 * Medium [Humanoid](Humanoid.md), Neutral
-* Height 4'3" Weight 190 lbs
-* Born  (?? years old)
+* Height 5'10" Weight 165 lbs
+* Born [IC4965](IC4965.md) (31 years old)
 * AC 15 (17 with Shield)
 * Initiative +2
 * HP 13 (1d10)
