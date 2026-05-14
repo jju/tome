@@ -36,7 +36,7 @@ Riles in his wandering scam normally moves on before people get wise to his shen
 | WIS | 12  | +1  | +3   |
 | CHA | 16  | +3  | +5   |
 
-**Skills (PB +2)** Animal Handling +2, Athletics +6, Intimidation +2, [Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +2, [Stealth](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +5
+**[Skills](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) (PB +2)** Animal Handling +2, Athletics +6, Intimidation +2, Perception +2, Stealth +5
 **Resistances** 
 **Senses** Passive Perception 13; Passive Insight 13; Passive Investigation 10
 **Languages** Common, Common Sign Language, Halfling
@@ -48,17 +48,20 @@ Riles in his wandering scam normally moves on before people get wise to his shen
 
 ## Actions
 
-**_Longsword._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 1d8 + 2 (or 1d10 + 2 if two-handed) Slashing. Martial, Sap.
+**_Longsword._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 1d8 + 2 (or 1d10 + 2 if two-handed) Slashing. Sap[^1].
 
-***Javelin** Melee/Ranged Attack Roll:* +4, 30/120 ft. *Hit:* 1d6 + 2 Piercing. Simple, [[weapons.md#Slow
-]].
+***Javelin** Melee/Ranged Attack Roll:* +4, 30/120 ft. *Hit:* 1d6 + 2 Piercing. Slow[^2].
 
 **_Unarmed Strike._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 3 Bludgeoning. Grapple, Shove.
 
 ***Guiding Bolt.** Ranged Spell Attack:* 
+
+[^1]: Hit target has disadvantage on next attack roll.
+[^2]: Hit target has Speed reduced by 10 ft.
+
 ## Bonus Actions
 
-**_Second Wind._** Once per short rest, regain 1d10+1 HP.
+**_Lay on Hands._** Once per short rest, regain 1d10+1 HP.
 
 
 > [characters](characters.md)

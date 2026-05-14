@@ -21,7 +21,7 @@ Garriff loves the underground.
 * Medium [Humanoid](Humanoid.md), Lawful Good
 * Height 4'3" Weight 190 lbs
 * Born [IC4826](IC4826.md) (170 years old)
-* AC 15 (17 with Shield)
+* AC 16 (18 with Shield)
 * Initiative +2
 * HP 13 (1d10)
 * Speed 25 ft.
@@ -50,11 +50,14 @@ Garriff loves the underground.
 
 ## Actions
 
-**_Greataxe._** _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 1d12 + 4 Slashing. Martial, Heavy, Two-Handed, Cleave. *Great Weapon Fighting:* Reroll 1 or 2 on damage dice.
+**_Greataxe._** _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 1d12 + 4 Slashing. Heavy, Two-Handed, Cleave[^1]. *Great Weapon Fighting:* Reroll 1 or 2 on damage dice.
 
 **_Unarmed Strike._** _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 5 Bludgeoning. Grapple, Shove.
 
-***Light Crossbow** Ranged Attack Roll:* +4, 80/320 ft. *Hit:* 1d8 + 2 Piercing. Simple, Ammunition, Loading, Range, Two-Handed, Slow.
+***Light Crossbow** Ranged Attack Roll:* +4, 80/320 ft. *Hit:* 1d8 + 2 Piercing. Simple, Ammunition, Loading, Range, Two-Handed, Slow[^2].
+
+[^1]: Can attack another creature within 5ft. and reach. +6 _Hit:_ 1d12 Slashing.
+[^2]: Hit target has Speed reduced by 10 ft.
 ## Bonus Actions
 
 **_Second Wind._** Once per short rest, regain 1d10+1 HP.

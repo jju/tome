@@ -315,7 +315,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "weapons.md",
+                    "file": "rules/weapons.md",
                     "mode": "source",
                     "source": false
                   },
@@ -630,11 +630,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "902083e6b2bb0ee3",
+  "active": "ba2ce5b03c12abc3",
   "lastOpenFiles": [
-    "Riles.md",
-    "weapons.md",
     "Barfgeld.md",
+    "Riles.md",
+    "rules/weapons.md",
     "rules/_statblocktemplate.md",
     "Rurik.md",
     "timeline.md",
