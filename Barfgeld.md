@@ -42,7 +42,7 @@ Garriff loves the underground.
 **Resistances** Poison, Advantage on Poison Saves
 **Senses** [Darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft.; Passive Perception 12; Passive Insight 10; Passive Investigation 12
 **Languages** Common, Dwarvish
-**XP:** 100
+**Level:** 1 **XP:** 100
 
 **Gear:** Chain Mail, Shield, Dagger, Light Crossbow (20 Bolts), Greataxe, Crowbar, Hammer, Pitons (10), Rations (9), Rope (50 ft.), Tinderbox, Torches (10), Waterskin
 

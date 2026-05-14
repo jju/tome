@@ -16,43 +16,44 @@ Riles in his wandering scam normally moves on before people get wise to his shen
 [Human](Human.md) [Paladin](Paladin.md)
 
 * Medium [Humanoid](Humanoid.md), Neutral
-* Height 5'10" Weight 165 lbs
+* Height 5'10" Weight 165 lbs Black hair, Grey eyes
 * Born [IC4965](IC4965.md) (31 years old)
-* AC 15 (17 with Shield)
-* Initiative +2
-* HP 13 (1d10)
-* Speed 20 ft.
+* AC 16 (18 with Shield)
+* Initiative -1
+* HP 12 (1d10)
+* Speed 30 ft.
 
 
 |     |     | Mod | Save |
 | --- | --- | --- | ---- |
-| STR | 19  | +4  | +6   |
-| DEX | 14  | +2  | +2   |
-| CON | 16  | +3  | +5   |
+| STR | 15  | +2  | +2   |
+| DEX | 8   | -1  | -1   |
+| CON | 14  | +2  | +2   |
 
 |     |     | Mod | Save |
 | --- | --- | --- | ---- |
-| INT | 15  | +2  | +2   |
-| WIS | 11  | +0  | +0   |
-| CHA | 10  | +0  | +0   |
+| INT | 10  | +0  | +0   |
+| WIS | 12  | +1  | +3   |
+| CHA | 16  | +3  | +5   |
 
 **Skills (PB +2)** Animal Handling +2, Athletics +6, Intimidation +2, [Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +2, [Stealth](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +5
 **Resistances** 
-**Senses** Passive Perception 12; Passive Insight 10; Passive Investigation 12
-**Languages** Common, 
-**XP:** 100
+**Senses** Passive Perception 13; Passive Insight 13; Passive Investigation 10
+**Languages** Common, Common Sign Language, Halfling
+**Level:** 1 **XP:** 100
 
-**Gear:** Chain Mail, Shield, Dagger, Light Crossbow (20 Bolts), Greataxe, Crowbar, Hammer, Pitons (10), Rations (9), Rope (50 ft.), Tinderbox, Torches (10), Waterskin
+**Gear:** Chain Mail, Shield, Longsword, Javelins (6), Crowbar, Holy Symbol, Rations (7), Robe, Blanket, Tinderbox, Lamp, Holy Water
 
-**Money:** 10GP, 11SP
+**Money:** 24GP
 
 ## Actions
 
-**_Longsword._** _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 1d10 + 4 Slashing. Martial, Heavy, Two-Handed, Cleave. *Great Weapon Fighting:* Reroll 1 or 2 on damage dice.
+**_Longsword._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 1d8 + 2 (or 1d10 + 2 if two-handed) Slashing. Martial, Sap.
 
-**_Unarmed Strike._** _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 5 Bludgeoning. Grapple, Shove.
+***Javelin** Melee/Ranged Attack Roll:* +4, 30/120 ft. *Hit:* 1d6 + 2 Piercing. Simple, [[weapons.md#Slow
+]].
 
-***Light Crossbow** Ranged Attack Roll:* +4, 80/320 ft. *Hit:* 1d8 + 2 Piercing. Simple, Ammunition, Loading, Range, Two-Handed, Slow.
+**_Unarmed Strike._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 3 Bludgeoning. Grapple, Shove.
 
 ***Guiding Bolt.** Ranged Spell Attack:* 
 ## Bonus Actions

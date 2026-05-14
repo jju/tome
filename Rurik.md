@@ -1,4 +1,6 @@
-Rurik Stoneblood is a [Goliath](Goliath.md) with an inferiority complex… 
+# Rurik Stoneblood
+
+[Goliath](Goliath.md) [Bard](Bard.md) with an inferiority complex… 
 
 Rurik’s a glue guy who can lead with a morale-boosting, oft-crude joke or by being first in the fight and last out. He’s as skilled with his tongue as he is with his blade, but he knows, in his heart of hearts, that he’ll never live up to his Goliath ancestry… those mythical heroes of old cast long shadows over his measly existence. 
 
