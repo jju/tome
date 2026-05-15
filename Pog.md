@@ -35,15 +35,15 @@ Poggleston is often confused why people always think he's making jokes when he's
 | CHA | 15  | +2  | +2*  |
 *Advantage* on starred Saves
 
-**Skills (PB +2)** Animal Handling +5, Athletics +1, Intimidation +4, Nature +2, [Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +5
-**Resistances** 
-**Senses** Darkvision 60 ft., Passive Perception 15; Passive Insight 13; Passive Investigation 10
-**Languages** Common, Elvish, Gnomish
-**Level** 1 **XP:** 100
+* **[Skills](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) (PB +2)** Animal Handling +5, Athletics +1, Intimidation +4, Nature +2, [Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +5
+* **Resistances** 
+* **Senses** Darkvision 60 ft., Passive Perception 15; Passive Insight 13; Passive Investigation 10
+* **Languages** Common, Elvish, Gnomish
+* **Level** 1 **XP:** 100
 
-**Gear:** Chain Mail, Shield, Dagger, Light Crossbow (20 Bolts), Greataxe, Crowbar, Hammer, Pitons (10), Rations (9), Rope (50 ft.), Tinderbox, Torches (10), Waterskin
+**Gear:** 
 
-**Money:** 10GP, 11SP
+**Money:** 
 
 ## Actions
 
@@ -54,6 +54,18 @@ Poggleston is often confused why people always think he's making jokes when he's
 ***Light Crossbow** Ranged Attack Roll:* +4, 80/320 ft. *Hit:* 1d8 + 2 Piercing. Simple, Ammunition, Loading, Range, Two-Handed, Slow.
 
 ***Guiding Bolt.** Ranged Spell Attack:* 
+
+### Cantrips
+
+* ***[Minor Illusion.](minorillusion.md)*** Illusion created for 1 minute. Investigation DC 13 to discern (or touching it since things pass through it).
+
+### Spells
+
+* ***[Cure Wounds.](rules/curewounds.md)*** Touch to heal 2d8 + 3 HP for a creature.
+* ***Absorb Elements.***
+* ***[Speak With Animals.](rules/speakwithanimals.md)*** Influence and speak with animals for 10 minutes.
+* ***[Hunter's Mark.](rules/huntersmark.md)*** Advantage to find target creature, + 1d6 Force to target.
+
 ## Bonus Actions
 
 **_Second Wind._** Once per short rest, regain 1d10+1 HP.

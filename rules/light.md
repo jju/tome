@@ -14,4 +14,4 @@ You touch one Large or smaller object that isn’t being worn or carried by some
 
 Covering the object with something opaque blocks the light. The spell ends if you cast it again.
 
-> [spells](spells.md)
+> [spells](spells.md) [Riles](Riles.md)

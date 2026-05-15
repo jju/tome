@@ -13,3 +13,5 @@ _Level 1 Evocation (Cleric)_
 You hurl a bolt of light toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 4d6 Radiant damage, and the next attack roll made against it before the end of your next turn has [Advantage](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Advantage).
 
 **_Using a Higher-Level Spell Slot._** The damage increases by 1d6 for each spell slot level above 1.
+
+> [spells](spells.md) [Riles](Riles.md)

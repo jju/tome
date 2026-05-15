@@ -149,16 +149,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Riles.md",
+                "file": "Barfgeld.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Riles"
+              "title": "Barfgeld"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       },
       {
         "id": "ce196e2f9001aae7",
@@ -242,12 +242,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/_statblocktemplate.md",
+                    "file": "Riles.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "_statblocktemplate"
+                  "title": "Riles"
                 }
               }
             ],
@@ -363,6 +363,48 @@
                   },
                   "icon": "lucide-file",
                   "title": "light"
+                }
+              },
+              {
+                "id": "2a8822f174be17e9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "rules/huntersmark.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "huntersmark"
+                }
+              },
+              {
+                "id": "be1553caf4bbf1a1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "rules/speakwithanimals.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "speakwithanimals"
+                }
+              },
+              {
+                "id": "0a8baf3ee4ccdbfe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "rules/minorillusion.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "minorillusion"
                 }
               },
               {
@@ -714,23 +756,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "0635100778654f6c",
+  "active": "e146e63015d1b700",
   "lastOpenFiles": [
-    "Riles.md",
-    "rules/shieldoffaith.md",
-    "rules/guidance.md",
+    "rules/minorillusion.md",
+    "Pog.md",
+    "rules/speakwithanimals.md",
+    "rules/huntersmark.md",
     "rules/light.md",
+    "Riles.md",
+    "rules/_statblocktemplate.md",
+    "Barfgeld.md",
+    "rules/guidance.md",
+    "rules/guidingbolt.md",
+    "rules/shieldoffaith.md",
     "rules/curewounds.md",
     "rules/couatl.md",
-    "rules/guidingbolt.md",
-    "rules/_statblocktemplate.md",
     "spells.md",
     "Aarakocra.md",
     "rules/weapons.md",
-    "Barfgeld.md",
     "Rurik.md",
     "timeline.md",
-    "Pog.md",
     "calendar.md",
     "IC4996.md",
     "rules/gnoll.md",
@@ -739,9 +784,6 @@
     "Elf.md",
     "Halfling.md",
     "Metallic.md",
-    "Celestial.md",
-    "Beast.md",
-    "Demon.md",
     "images/mirrortemple.png",
     "images/Hammerkeep.png",
     "images/names-ho2-t.png",

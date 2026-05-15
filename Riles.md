@@ -23,7 +23,6 @@ Riles in his wandering scam normally moves on before people get wise to his shen
 * HP 12 (1d10)
 * Speed 30 ft.
 
-
 |     |     | Mod | Save |
 | --- | --- | --- | ---- |
 | STR | 15  | +2  | +2   |

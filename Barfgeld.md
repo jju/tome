@@ -38,11 +38,11 @@ Garriff loves the underground.
 | WIS | 11  | +0  | +0   |
 | CHA | 10  | +0  | +0   |
 
-**[Skills](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) (PB +2)** Animal Handling +2, Athletics +6, Intimidation +2, Perception +2, Stealth +5
-**Resistances** Poison, Advantage on Poison Saves
-**Senses** [Darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft.; Passive Perception 12; Passive Insight 10; Passive Investigation 12
-**Languages** Common, Dwarvish
-**Level:** 1 **XP:** 100
+* **[Skills](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) (PB +2)** Animal Handling +2, Athletics +6, Intimidation +2, Perception +2, Stealth +5
+* **Resistances** Poison, Advantage on Poison Saves
+* **Senses** [Darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft.; Passive Perception 12; Passive Insight 10; Passive Investigation 12
+* **Languages** Common, Dwarvish
+* **Level:** 1 **XP:** 100
 
 **Gear:** Chain Mail, Shield, Dagger, Light Crossbow (20 Bolts), Greataxe, Crowbar, Hammer, Pitons (10), Rations (9), Rope (50 ft.), Tinderbox, Torches (10), Waterskin
 
@@ -50,11 +50,11 @@ Garriff loves the underground.
 
 ## Actions
 
-**_Greataxe._** _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 1d12 + 4 Slashing. Heavy, Two-Handed, Cleave[^1]. *Great Weapon Fighting:* Reroll 1 or 2 on damage dice.
+**_Greataxe._** _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 1d12 + 4 Slashing. Heavy, Two-Handed, [Cleave](weapons.md#Cleave)[^1]. *Great Weapon Fighting:* Reroll 1 or 2 on damage dice.
 
 **_Unarmed Strike._** _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 5 Bludgeoning. Grapple, Shove.
 
-***Light Crossbow** Ranged Attack Roll:* +4, 80/320 ft. *Hit:* 1d8 + 2 Piercing. Simple, Ammunition, Loading, Range, Two-Handed, Slow[^2].
+***Light Crossbow** Ranged Attack Roll:* +4, 80/320 ft. *Hit:* 1d8 + 2 Piercing. Simple, Ammunition, Loading, Range, Two-Handed, [Slow](weapons.md#Slow)[^2].
 
 [^1]: Can attack another creature within 5ft. and reach. +6 _Hit:_ 1d12 Slashing.
 [^2]: Hit target has Speed reduced by 10 ft.

@@ -12,4 +12,4 @@ _Divination Cantrip (Cleric, Druid)_
 
 You touch a willing creature and choose a skill. Until the spell ends, the creature adds 1d4 to any ability check using the chosen skill.
 
-> [spells](spells.md)
+> [spells](spells.md) [Riles](Riles.md)
