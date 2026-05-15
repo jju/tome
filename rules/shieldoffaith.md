@@ -12,4 +12,4 @@ _Level 1 Abjuration (Cleric, Paladin)_
 
 A shimmering field surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
 
-> [spells](spells.md)
+> [spells](spells.md) [Riles](Riles.md)

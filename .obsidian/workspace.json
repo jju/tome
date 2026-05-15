@@ -714,14 +714,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "ba2ce5b03c12abc3",
+  "active": "0635100778654f6c",
   "lastOpenFiles": [
-    "rules/light.md",
     "Riles.md",
     "rules/shieldoffaith.md",
-    "rules/guidingbolt.md",
     "rules/guidance.md",
+    "rules/light.md",
     "rules/curewounds.md",
+    "rules/couatl.md",
+    "rules/guidingbolt.md",
     "rules/_statblocktemplate.md",
     "spells.md",
     "Aarakocra.md",
@@ -741,7 +742,6 @@
     "Celestial.md",
     "Beast.md",
     "Demon.md",
-    "Fiend.md",
     "images/mirrortemple.png",
     "images/Hammerkeep.png",
     "images/names-ho2-t.png",

@@ -36,11 +36,10 @@ Riles in his wandering scam normally moves on before people get wise to his shen
 | WIS | 12  | +1  | +3   |
 | CHA | 16  | +3  | +5   |
 
-**[Skills](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) (PB +2)** Animal Handling +2, Athletics +6, Intimidation +2, Perception +2, Stealth +5
-**Resistances** 
-**Senses** Passive Perception 13; Passive Insight 13; Passive Investigation 10
-**Languages** Common, Common Sign Language, Halfling
-**Level:** 1 **XP:** 100
+* **[Skills](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) (PB +2)** Animal Handling +2, Athletics +6, Intimidation +2, Perception +2, Stealth +5
+* **Senses** Passive Perception 13; Passive Insight 13; Passive Investigation 10
+* **Languages** Common, Common Sign Language, Halfling
+* **Level:** 1 **XP:** 100
 
 **Gear:** Chain Mail, Shield, Longsword, Javelins (6), Crowbar, Holy Symbol, Rations (7), Robe, Blanket, Tinderbox, Lamp, Holy Water
 
@@ -50,28 +49,24 @@ Riles in his wandering scam normally moves on before people get wise to his shen
 
 ## Actions
 
-**_Longsword._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 1d8 + 2 (or 1d10 + 2 if two-handed) Slashing. Sap[^1]. 
+**_Longsword._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 1d8 + 2 (or 1d10 + 2 if two-handed) Slashing. [Sap](weapons.md#Sap)[^1]. 
 
-***Javelin** Melee/Ranged Attack Roll:* +4, 30/120 ft. *Hit:* 1d6 + 2 Piercing. Slow[^2].
+***Javelin** Melee/Ranged Attack Roll:* +4, 30/120 ft. *Hit:* 1d6 + 2 Piercing. [Slow](weapons.md#Slow)[^2].
 
 **_Unarmed Strike._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 3 Bludgeoning. Grapple, Shove.
 
-***Guiding Bolt. (1/Day)** Ranged Spell Attack:* +5 120 ft. *Hit:* 4d6 Radiant. Next attack has Advantage.
+***[Guiding Bolt](rules/guidingbolt.md). (1/Day)** Ranged Spell Attack:* +5 120 ft. *Hit:* 4d6 Radiant. Next attack has Advantage.
 ### Cantrips
 
-***Light.*** ![light](light.md)
-
-***Guidance.*** ![guidance](guidance.md)
-
+* ***[Light.](rules/light.md)*** Touch something to have it shine bright light in a 20 ft. radius for an hour.
+* ***[Guidance.](rules/guidance.md)*** Adds 1d4 to the touched willing creature's skill check.
 ### Spells
 
-***Cure Wounds.*** ![curewounds](curewounds.md)
+- ***[Cure Wounds.](rules/curewounds.md)*** Touch to heal 2d8 + 3 HP for a creature.
+- ***[Shield of Faith.](rules/shieldoffaith.md)*** Bonus +2 AC for a creature within 60 ft. for 10 minutes (needs to be praying).
+- ***[Guiding Bolt.](guidingbolt.md)** Ranged Spell Attack:* +5 120 ft. *Hit:* 4d6 Radiant. Next attack has Advantage. 
 
-***Shield of Faith.*** ![shieldoffaith](shieldoffaith.md)
-
-***Guiding Bolt.** Ranged Spell Attack:* +5 120 ft. *Hit:* 4d6 Radiant. Next attack has Advantage. ![guidingbolt](guidingbolt.md)
-
-[^1]: Hit target has disadvantage on next attack roll. ![Sap](weapons.md#Sap)
+[^1]: Hit target has disadvantage on next attack roll.
 [^2]: Hit target has Speed reduced by 10 ft.
 
 ## Bonus Actions
