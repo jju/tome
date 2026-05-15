@@ -41,9 +41,9 @@ Poggleston is often confused why people always think he's making jokes when he's
 * **Languages** Common, Elvish, Gnomish
 * **Level** 1 **XP:** 100
 
-**Gear:** 
+**Gear:** Studded Leather, Scimitar, Shortsword, Longbow, Quiver of Arrows (20), Sprig of Mistletoe, Oil, Rations (10), Rope (50 ft.), Bedroll, Tinderbox, Torches (9), Waterskin
 
-**Money:** 
+**Money:** 57GP, 11 SP
 
 ## Actions
 
@@ -51,7 +51,7 @@ Poggleston is often confused why people always think he's making jokes when he's
 
 **_Unarmed Strike._** _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 5 Bludgeoning. Grapple, Shove.
 
-***Light Crossbow** Ranged Attack Roll:* +4, 80/320 ft. *Hit:* 1d8 + 2 Piercing. Simple, Ammunition, Loading, Range, Two-Handed, Slow.
+***Longbow** Ranged Attack Roll:* +6, 150/600 ft. *Hit:* 1d8 + 4 Piercing. Ammunition, Heavy,Loading, Range, Two-Handed, Slow.
 
 ***Guiding Bolt.** Ranged Spell Attack:* 
 
@@ -61,8 +61,8 @@ Poggleston is often confused why people always think he's making jokes when he's
 
 ### Spells
 
+* ***[Absorb Elements.](rules/absorbelements.md)*** Resistance to acid, cold, fire, lightning, or thunder damage and next melee attack does 1d6 of that type damage.
 * ***[Cure Wounds.](rules/curewounds.md)*** Touch to heal 2d8 + 3 HP for a creature.
-* ***Absorb Elements.***
 * ***[Speak With Animals.](rules/speakwithanimals.md)*** Influence and speak with animals for 10 minutes.
 * ***[Hunter's Mark.](rules/huntersmark.md)*** Advantage to find target creature, + 1d6 Force to target.
 

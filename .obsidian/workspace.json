@@ -408,6 +408,20 @@
                 }
               },
               {
+                "id": "36f74b0696162479",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "rules/absorbelements.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "absorbelements"
+                }
+              },
+              {
                 "id": "24327199a3f334f6",
                 "type": "leaf",
                 "state": {
@@ -604,7 +618,7 @@
                 }
               }
             ],
-            "currentTab": 9
+            "currentTab": 10
           }
         ],
         "direction": "horizontal"
@@ -758,8 +772,10 @@
   },
   "active": "e146e63015d1b700",
   "lastOpenFiles": [
-    "rules/minorillusion.md",
+    "rules/absorbelements.md",
     "Pog.md",
+    "rules/curewounds.md",
+    "rules/minorillusion.md",
     "rules/speakwithanimals.md",
     "rules/huntersmark.md",
     "rules/light.md",
@@ -769,7 +785,6 @@
     "rules/guidance.md",
     "rules/guidingbolt.md",
     "rules/shieldoffaith.md",
-    "rules/curewounds.md",
     "rules/couatl.md",
     "spells.md",
     "Aarakocra.md",
@@ -783,7 +798,6 @@
     "Hobgoblin.md",
     "Elf.md",
     "Halfling.md",
-    "Metallic.md",
     "images/mirrortemple.png",
     "images/Hammerkeep.png",
     "images/names-ho2-t.png",

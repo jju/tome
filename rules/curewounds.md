@@ -14,4 +14,4 @@ A creature you touch regains a number of Hit Points equal to 2d8 plus your spell
 
 **_Using a Higher-Level Spell Slot._** The healing increases by 2d8 for each spell slot level above 1.
 
-> [spells](spells.md)
+> [spells](spells.md) [Pog](Pog.md) [Riles](Riles.md)
