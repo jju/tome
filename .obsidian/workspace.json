@@ -714,13 +714,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "0635100778654f6c",
+  "active": "ba2ce5b03c12abc3",
   "lastOpenFiles": [
-    "rules/guidingbolt.md",
-    "rules/shieldoffaith.md",
-    "Riles.md",
-    "rules/guidance.md",
     "rules/light.md",
+    "Riles.md",
+    "rules/shieldoffaith.md",
+    "rules/guidingbolt.md",
+    "rules/guidance.md",
     "rules/curewounds.md",
     "rules/_statblocktemplate.md",
     "spells.md",

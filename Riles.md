@@ -50,7 +50,7 @@ Riles in his wandering scam normally moves on before people get wise to his shen
 
 ## Actions
 
-**_Longsword._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 1d8 + 2 (or 1d10 + 2 if two-handed) Slashing. Sap[^1].
+**_Longsword._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 1d8 + 2 (or 1d10 + 2 if two-handed) Slashing. Sap[^1]. 
 
 ***Javelin** Melee/Ranged Attack Roll:* +4, 30/120 ft. *Hit:* 1d6 + 2 Piercing. Slow[^2].
 
@@ -67,11 +67,11 @@ Riles in his wandering scam normally moves on before people get wise to his shen
 
 ***Cure Wounds.*** ![curewounds](curewounds.md)
 
-***Shield of Faith.***
+***Shield of Faith.*** ![shieldoffaith](shieldoffaith.md)
 
 ***Guiding Bolt.** Ranged Spell Attack:* +5 120 ft. *Hit:* 4d6 Radiant. Next attack has Advantage. ![guidingbolt](guidingbolt.md)
 
-[^1]: Hit target has disadvantage on next attack roll.
+[^1]: Hit target has disadvantage on next attack roll. ![Sap](weapons.md#Sap)
 [^2]: Hit target has Speed reduced by 10 ft.
 
 ## Bonus Actions
