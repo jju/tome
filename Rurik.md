@@ -31,47 +31,48 @@ Rurik, beside himself, took to spending more time in taverns, trying to find the
 
 # Stats
 
-[Human](Human.md) [Paladin](Paladin.md)
+[Goliath](Goliath.md) [Bard](Bard.md)
 
-Medium [Humanoid](Humanoid.md), Neutral
-AC 15 (17 with Shield)    Initiative +2
-HP 13 (1d10)
-Speed 20 ft.
+* Medium [Humanoid](Humanoid.md), Lawful Good
+* Height 7'8" Weight 310 lbs
+* Born [IC4964](IC4964.md) (32 years old)
+* AC 11
+* Initiative +0
+* HP 15 (1d8)
+* Speed 35 ft.
 
-Height 4'3" Weight 190 lbs
-Born  (?? years old)
-
-|     |     | Mod | Save |
-| --- | --- | --- | ---- |
-| STR | 19  | +4  | +6   |
-| DEX | 14  | +2  | +2   |
-| CON | 16  | +3  | +5   |
 
 |     |     | Mod | Save |
 | --- | --- | --- | ---- |
-| INT | 15  | +2  | +2   |
-| WIS | 11  | +0  | +0   |
-| CHA | 10  | +0  | +0   |
+| STR | 16  | +3  | +6   |
+| DEX | 10  | +0  | +2   |
+| CON | 16  | +3  | +3   |
 
-**Skills (PB +2)** Animal Handling +2, Athletics +6, Intimidation +2, [Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +2, [Stealth](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +5
+|     |     | Mod | Save |
+| --- | --- | --- | ---- |
+| INT | 14  | +2  | +2   |
+| WIS | 10  | +0  | +0   |
+| CHA | 16  | +3  | +5   |
+
+**Skills (PB +2)** Animal Handling +2, History +4, Insight +2, Intimidation +5, Survival +2
 **Resistances** 
-**Senses** Passive Perception 12; Passive Insight 10; Passive Investigation 12
-**Languages** Common, 
+**Senses** Passive Perception 10; Passive Insight 12; Passive Investigation 12
+**Languages** Common, Dwarvish, Halfling 
 **XP:** 100
 
-**Gear:** Chain Mail, Shield, Dagger, Light Crossbow (20 Bolts), Greataxe, Crowbar, Hammer, Pitons (10), Rations (9), Rope (50 ft.), Tinderbox, Torches (10), Waterskin
+**Gear:** Leather Armour, Dagger, Light Crossbow (20 Bolts), Greataxe, Crowbar, Hammer, Pitons (10), Rations (9), Rope (50 ft.), Tinderbox, Torches (10), Waterskin
 
 **Money:** 10GP, 11SP
 
 ## Actions
 
-**_Longsword._** _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 1d10 + 4 Slashing. Martial, Heavy, Two-Handed, Cleave. *Great Weapon Fighting:* Reroll 1 or 2 on damage dice.
+**_Dagger._** _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 1d10 + 4 Slashing. Martial, Heavy, Two-Handed, Cleave. *Great Weapon Fighting:* Reroll 1 or 2 on damage dice.
 
-**_Unarmed Strike._** _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 5 Bludgeoning. Grapple, Shove.
+**_Unarmed Strike._** _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 4 Bludgeoning. Grapple, Shove.
 
 ***Light Crossbow** Ranged Attack Roll:* +4, 80/320 ft. *Hit:* 1d8 + 2 Piercing. Simple, Ammunition, Loading, Range, Two-Handed, Slow.
 
-***Guiding Bolt.** Ranged Spell Attack:* 
+***Starry Wisp.** Ranged Spell Attack:* +5 *Hit:* 1d8 Radiant.
 ## Bonus Actions
 
 **_Second Wind._** Once per short rest, regain 1d10+1 HP.

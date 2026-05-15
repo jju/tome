@@ -45,7 +45,6 @@ Riles in his wandering scam normally moves on before people get wise to his shen
 **Money:** 24GP
 
 **Resourceful:** Gain Heroic Inspiration every Long Rest.
-
 ## Actions
 
 **_Longsword._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 1d8 + 2 (or 1d10 + 2 if two-handed) Slashing. [Sap](weapons.md#Sap)[^1]. 

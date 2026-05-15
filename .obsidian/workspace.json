@@ -242,12 +242,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Riles.md",
+                    "file": "Rurik.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Riles"
+                  "title": "Rurik"
                 }
               }
             ],
@@ -329,12 +329,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/weapons.md",
+                    "file": "timeline.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "weapons"
+                  "title": "timeline"
                 }
               },
               {
@@ -618,7 +618,7 @@
                 }
               }
             ],
-            "currentTab": 10
+            "currentTab": 4
           }
         ],
         "direction": "horizontal"
@@ -772,14 +772,17 @@
   },
   "active": "e146e63015d1b700",
   "lastOpenFiles": [
-    "rules/absorbelements.md",
-    "Pog.md",
-    "rules/curewounds.md",
     "rules/minorillusion.md",
+    "Pog.md",
+    "Rurik.md",
+    "timeline.md",
+    "rules/weapons.md",
+    "Riles.md",
+    "rules/absorbelements.md",
+    "rules/curewounds.md",
     "rules/speakwithanimals.md",
     "rules/huntersmark.md",
     "rules/light.md",
-    "Riles.md",
     "rules/_statblocktemplate.md",
     "Barfgeld.md",
     "rules/guidance.md",
@@ -788,9 +791,6 @@
     "rules/couatl.md",
     "spells.md",
     "Aarakocra.md",
-    "rules/weapons.md",
-    "Rurik.md",
-    "timeline.md",
     "calendar.md",
     "IC4996.md",
     "rules/gnoll.md",
