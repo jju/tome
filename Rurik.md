@@ -54,27 +54,42 @@ Rurik, beside himself, took to spending more time in taverns, trying to find the
 | WIS | 10  | +0  | +0   |
 | CHA | 16  | +3  | +5   |
 
-**Skills (PB +2)** Animal Handling +2, History +4, Insight +2, Intimidation +5, Survival +2
-**Resistances** 
-**Senses** Passive Perception 10; Passive Insight 12; Passive Investigation 12
-**Languages** Common, Dwarvish, Halfling 
-**XP:** 100
+* **Skills (PB +2)** Animal Handling +2, History +4, Insight +2, Intimidation +5, Survival +2
+* **Senses** Passive Perception 10; Passive Insight 12; Passive Investigation 12
+* **Languages** Common, Dwarvish, Halfling 
+* **Level** 1 **XP:** 100
 
-**Gear:** Leather Armour, Dagger, Light Crossbow (20 Bolts), Greataxe, Crowbar, Hammer, Pitons (10), Rations (9), Rope (50 ft.), Tinderbox, Torches (10), Waterskin
+**Gear:** Leather Armour, Dagger (2), Iron Pot, Shovel, Smith's Tools, Horn, Oil (8), Rations (9), Bedroll, Bell, Tinderbox, Waterskin, Mirror, Bullseye Lantern, Costume (3), Triangle of Destiny
 
-**Money:** 10GP, 11SP
+**Money:** 29GP
 
 ## Actions
 
-**_Dagger._** _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 1d10 + 4 Slashing. Martial, Heavy, Two-Handed, Cleave. *Great Weapon Fighting:* Reroll 1 or 2 on damage dice.
+**Fire's Burn:** 2/day can add 1d10 Fire to damage on a target.
+
+**Powerful Build:** Advantage on checks to end being Grappled.
+
+**_Dagger._** _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 1d4 + 3 Piercing.  Finesse, Light, Thrown (Range 20/60)
 
 **_Unarmed Strike._** _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 4 Bludgeoning. Grapple, Shove.
 
-***Light Crossbow** Ranged Attack Roll:* +4, 80/320 ft. *Hit:* 1d8 + 2 Piercing. Simple, Ammunition, Loading, Range, Two-Handed, Slow.
+***Starry Wisp.** Ranged Spell Attack:* +5, 60 ft. *Hit:* 1d8 Radiant. Target emits Dim Light and can't benefit from Invisible condition.
 
-***Starry Wisp.** Ranged Spell Attack:* +5 *Hit:* 1d8 Radiant.
+### Cantrips
+
+* ***[Starry Wisp.](rules/starrywisp.md)*** *Ranged Spell Attack:* +5, 60 ft. *Hit:* 1d8 Radiant. Target emits Dim Light and can't benefit from Invisible condition.
+* ***[Vicious Mockery.](rules/viciousmockery.md)*** Target makes DC 13 Wis save or takes 1d6 Psychic and has Disadvantage on next attack roll.
+### Spells
+
+* ***Unseen Servant.***
+* ***Sleep.***
+* ***Command.***
+* ***[Hideous Laughter.](rules/hideouslaughter.md)*** Target makes DC 13 Wis save or is Prone and Incapacitated with laughter for 1 minute.
+
 ## Bonus Actions
 
-**_Second Wind._** Once per short rest, regain 1d10+1 HP.
+**_Bardic Inspiration._ (3/day)** Inspire a creature within 60 ft. It gains 1d6 which it can use in the next hour if a roll is failed.
+
+***Large Form.* (1/day)** Change size to Large for 10 minutes to gain Advantage on Strength checks and +10 to Speed.
 
 > [characters](characters.md) 

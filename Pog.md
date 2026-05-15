@@ -46,7 +46,7 @@ Poggleston is often confused why people always think he's making jokes when he's
 **Money:** 57GP, 11 SP
 ## Actions
 
-**Savage Attacker:** Once per turn can roll weapon's damage twice and use wither roll.
+**Savage Attacker:** Once per turn can roll weapon's damage twice and use either roll.
 
 **_Scimitar._** _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 1d6 + 4 Slashing. Martial, Finesse, Light, [Nick](rules/weapons.md#Nick)[^2] 
 
@@ -69,7 +69,7 @@ Poggleston is often confused why people always think he's making jokes when he's
 * ***[Speak With Animals.](rules/speakwithanimals.md)*** Influence and speak with animals for 10 minutes.
 * ***[Hunter's Mark.](rules/huntersmark.md)*** Advantage to find target creature, + 1d6 Force to target.
 
-[^1]: He was born long after the [Grim War](GrimWar.md) ended.
+[^1]: He was born 17 years after the [Grim War](GrimWar.md) ended.
 [^2]: Extra attack because of Light weapons happen as part of the main attack.
 [^3]: Damaged target gives Advantage on your next roll against it.
 [^4]: Hit target has Speed reduced by 10 ft.
