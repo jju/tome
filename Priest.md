@@ -1,3 +1,5 @@
+# Priests
+
 There are a lot of religious leaders hanging around [Nuoro](Nuoro.md). It's a legitimate route to power in this part of the world, especially with the huge amount of support the [Dantag Empire](DantagEmpire.md) gives to its many [gods](gods.md).
 
 In terms of who you see when you're wandering around, you can't guarantee someone can do stuff like "channel the power of the divine to smite your enemies/heal the sick" because the people who work with the many temples are diverse in their abilities. Some are noblefolk, and some are commoners and some are weird monks who like to meditate a lot. It varies. We're also including cultists here because most of the time the difference is just which specific deity you're worshipping (and how much blood they ask you to spill for power). 
@@ -14,8 +16,8 @@ We could also include [Druids](Druid.md) here as priests of nature.
 
 ## Stats
 
-* [Priest Acolyte](priest.md#Priest%20Acolyte)
-* [Priest](priest.md#Priest)
+* [Priest Acolyte](rules/priest.md#Priest%20Acolyte)
+* [Priest](rules/priest.md#Priest)
 * [Warpriest](warpriest.md#Warpriest)
 * [Fighting Monks](martialartsadept.md#Fighting%20Monks)
 * [Cultist](cultist.md#Cultist)

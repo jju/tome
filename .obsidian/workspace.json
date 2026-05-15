@@ -134,12 +134,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Barfgeld.md",
+                    "file": "gods.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Barfgeld"
+                  "title": "gods"
                 }
               }
             ],
@@ -155,12 +155,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "timeline.md",
+                    "file": "Druid.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "timeline"
+                  "title": "Druid"
                 }
               }
             ]
@@ -317,13 +317,17 @@
   },
   "active": "1b490aed9ed9a50e",
   "lastOpenFiles": [
+    "Druid.md",
+    "timeline.md",
+    "Ranger.md",
+    "gods.md",
+    "Priest.md",
+    "rules/priest.md",
+    "Barfgeld.md",
     "Rogue.md",
     "BattlehammerClan.md",
-    "timeline.md",
     "stories/Hk02-MessMirrors.md",
     "SnowcoatClan.md",
-    "Barfgeld.md",
-    "Ranger.md",
     "Rurik.md",
     "rules/kruthik.md",
     "secrets/npcs.md",
@@ -339,10 +343,6 @@
     "Pog.md",
     "Humanoid.md",
     "Dwarf.md",
-    "Goblinoid.md",
-    "Goblin.md",
-    "rules/yuan-ti.md",
-    "Skulk.md",
     "images/mirrortemple.png",
     "images/Hammerkeep.png",
     "images/names-ho2-t.png",
