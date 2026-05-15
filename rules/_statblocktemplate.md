@@ -6,6 +6,8 @@ AC 15    Initiative +1 (11)
 HP 27 (6d8)
 Speed 30 ft.
 
+https://dnd5etools.com/physical-stats.html#calculated-stats
+
 |||Mod|Save|
 |---|---|---|---|
 |STR|13|+1|+1|

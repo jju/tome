@@ -155,12 +155,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Druid.md",
+                    "file": "rules/_statblocktemplate.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Druid"
+                  "title": "_statblocktemplate"
                 }
               }
             ]
@@ -315,10 +315,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "902083e6b2bb0ee3",
+  "active": "1b490aed9ed9a50e",
   "lastOpenFiles": [
-    "Ranger.md",
+    "rules/_statblocktemplate.md",
+    "Dwarf.md",
+    "MekStoneseeker.md",
+    "rules/dwarf.md",
+    "age.md",
     "Druid.md",
+    "rules/archdruid.md",
+    "Ranger.md",
     "rules/smuggler.md",
     "rules/naturepriest.md",
     "rules/scout.md",
@@ -337,12 +343,6 @@
     "secrets/npcs.md",
     "secrets/Rundan.md",
     "secrets/SkerpaSnowcoat.md",
-    "secrets/Alhoon.md",
-    "secrets/AbbeyReflectingMind.md",
-    "secrets/fiendhollowmine.md",
-    "secrets/Kruthik.md",
-    "secrets/world.md",
-    "index.md",
     "images/mirrortemple.png",
     "images/Hammerkeep.png",
     "images/names-ho2-t.png",
