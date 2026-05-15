@@ -1,6 +1,6 @@
 # Druids
 
-Some scholars see [Druids](Druid.md) as being priests "of nature" (usually folding them in as worshippers of [Melora](Melora.md) or [Naviask](Naviask.md) or [the Traveler](Traveler.md) or [Zehir](Zehir.md) or [Hiatea](Hiatea.md)) and some say they are more like extra-mystical rangers.
+Some scholars see Druids as being [priests](Priest.md) "of nature" (usually folding them in as worshippers of [Melora](Melora.md) or [Naviask](Naviask.md) or [the Traveler](Traveler.md) or [Zehir](Zehir.md) or [Hiatea](Hiatea.md)) and some say they are more like extra-mystical [rangers](Ranger.md).
 ## Characters
 
 * [Mek Stoneseeker](MekStoneseeker)

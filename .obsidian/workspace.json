@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ranger.md",
+                "file": "rules/smuggler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ranger"
+              "title": "smuggler"
             }
           },
           {
@@ -134,12 +134,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "gods.md",
+                    "file": "Priest.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "gods"
+                  "title": "Priest"
                 }
               }
             ],
@@ -317,11 +317,14 @@
   },
   "active": "1b490aed9ed9a50e",
   "lastOpenFiles": [
-    "Druid.md",
-    "timeline.md",
     "Ranger.md",
-    "gods.md",
+    "rules/naturepriest.md",
+    "rules/scout.md",
+    "rules/ranger.md",
     "Priest.md",
+    "Druid.md",
+    "gods.md",
+    "timeline.md",
     "rules/priest.md",
     "Barfgeld.md",
     "Rogue.md",
@@ -340,9 +343,6 @@
     "secrets/world.md",
     "index.md",
     "Human.md",
-    "Pog.md",
-    "Humanoid.md",
-    "Dwarf.md",
     "images/mirrortemple.png",
     "images/Hammerkeep.png",
     "images/names-ho2-t.png",
