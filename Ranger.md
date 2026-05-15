@@ -1,6 +1,6 @@
 # Rangers
 
-There are people out there who traipse about in the wilderness for fun. There are also people who do this out of a deep sense of responsibility to the world. Some people are super badass at it and some prefer to just modestly go out camping. In my book these are all rangers.
+There are people out there who traipse about in the wilderness for fun. There are also people who do this out of a deep sense of responsibility to the world. Some people are super badass at it and some prefer to just modestly go out camping. In my book (the one you're reading, in fact) these are all rangers.
 
 One of the things that makes a person a Ranger instead of just a homeless weirdo in the woods is the connection they feel out there. The [Warden of Hammerkeep](WardenofHammerkeep.md) has a bunch of "rangers" who go out in the [Twin Woods](TwinWoods.md) to keep folks safe, but almost none of them belong there. They've got no connection to the animals. They don't flow like the streams. They can usually hunt deer and the like, shoo away bears, but they've got no mystical connection to the land. Even if they can't understand it themselves, that is what makes a Ranger.
 
