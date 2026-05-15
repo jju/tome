@@ -46,6 +46,8 @@ Riles in his wandering scam normally moves on before people get wise to his shen
 
 **Money:** 24GP
 
+**Resourceful:** Gain Heroic Inspiration every Long Rest.
+
 ## Actions
 
 **_Longsword._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 1d8 + 2 (or 1d10 + 2 if two-handed) Slashing. Sap[^1].
@@ -54,14 +56,27 @@ Riles in his wandering scam normally moves on before people get wise to his shen
 
 **_Unarmed Strike._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 3 Bludgeoning. Grapple, Shove.
 
-***Guiding Bolt.** Ranged Spell Attack:* 
+***Guiding Bolt. (1/Day)** Ranged Spell Attack:* +5 120 ft. *Hit:* 4d6 Radiant. Next attack has Advantage.
+### Cantrips
+
+***Light.*** ![light](light.md)
+
+***Guidance.*** ![guidance](guidance.md)
+
+### Spells
+
+***Cure Wounds.*** ![curewounds](curewounds.md)
+
+***Shield of Faith.***
+
+***Guiding Bolt.** Ranged Spell Attack:* +5 120 ft. *Hit:* 4d6 Radiant. Next attack has Advantage. ![guidingbolt](guidingbolt.md)
 
 [^1]: Hit target has disadvantage on next attack roll.
 [^2]: Hit target has Speed reduced by 10 ft.
 
 ## Bonus Actions
 
-**_Lay on Hands._** Once per short rest, regain 1d10+1 HP.
+**_Lay on Hands._** Touch a creature (which could be yourself) and draw power from the pool of healing (5 * Paladin level) to restore a number of Hit Points to that creature, up to the maximum amount remaining in the pool. You can also expend 5 Hit Points from the pool of healing power to remove the  poisoned condition from the creature; those points don’t also restore Hit Points to the creature.
 
 
 > [characters](characters.md)
