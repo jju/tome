@@ -309,12 +309,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/meazel.md",
+                    "file": "secrets/KanliToughs.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "meazel"
+                  "title": "KanliToughs"
                 }
               }
             ],
@@ -472,8 +472,8 @@
   },
   "active": "e7391f8522189bd5",
   "lastOpenFiles": [
-    "Meazel.md",
     "rules/meazel.md",
+    "Meazel.md",
     "TheHungry.md",
     "rules/priest.md",
     "Priest.md",
