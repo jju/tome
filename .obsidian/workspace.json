@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rurik.md",
+                "file": "Riles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rurik"
+              "title": "Riles"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QetselahGi.md",
+                "file": "stories/Hk03-MurderCurtains.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "QetselahGi"
+              "title": "Hk03-MurderCurtains"
             }
           },
           {
@@ -105,8 +105,7 @@
               "title": "Dwarf"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "ce196e2f9001aae7",
@@ -190,12 +189,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "IC4995.md",
+                    "file": "stories/Hk04.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "IC4995"
+                  "title": "Hk04"
                 }
               }
             ],
@@ -470,16 +469,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "e7391f8522189bd5",
+  "active": "e146e63015d1b700",
   "lastOpenFiles": [
-    "rules/hobgoblin.md",
-    "secrets/KanliToughs.md",
-    "rules/scout.md",
-    "QetselahGi.md",
-    "IC4995.md",
-    "timeline.md",
-    "IC4996.md",
+    "characters.md",
+    "Rurik.md",
+    "stories/Hk04.md",
     "stories/Hk03-MurderCurtains.md",
+    "QetselahGi.md",
+    "IC4996.md",
+    "timeline.md",
+    "IC4995.md",
+    "secrets/KanliToughs.md",
+    "rules/hobgoblin.md",
+    "rules/scout.md",
     "rules/priest.md",
     "rules/korred.md",
     "Padserae.md",
@@ -495,9 +497,6 @@
     "Golgewood.md",
     "HagMother.md",
     "Edaiyn.md",
-    "EkemonLust.md",
-    "Dayawlongon.md",
-    "CragmawHideout.md",
     "images/mirrortemple.png",
     "images/Hammerkeep.png",
     "images/names-ho2-t.png",
