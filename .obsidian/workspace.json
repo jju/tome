@@ -37,12 +37,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "secrets/SkerpaSnowcoat.md",
+                    "file": "secrets/KanliToughs.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "SkerpaSnowcoat"
+                  "title": "KanliToughs"
                 }
               }
             ]
@@ -199,11 +199,11 @@
   },
   "active": "8151a0c297c496fb",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "secrets/SkerpaSnowcoat.md",
-    "treasures.md",
-    "stories/Hk04.md",
     "stories/Hk03-MurderCurtains.md",
+    "stories/Hk04.md",
+    "secrets/SkerpaSnowcoat.md",
+    "conflict-files-obsidian-git.md",
+    "treasures.md",
     "spells.md",
     "secrets/KanliToughs.md",
     "rules/yagnoloth.md",
