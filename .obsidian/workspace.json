@@ -189,12 +189,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "stories/Hk04.md",
+                    "file": "stories/Hk03-MurderCurtains.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Hk04"
+                  "title": "Hk03-MurderCurtains"
                 }
               }
             ],
@@ -469,11 +469,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "e146e63015d1b700",
+  "active": "a6f9fb22bcf9fa1d",
   "lastOpenFiles": [
+    "stories/Hk04.md",
+    "Riles.md",
     "characters.md",
     "Rurik.md",
-    "stories/Hk04.md",
     "stories/Hk03-MurderCurtains.md",
     "QetselahGi.md",
     "IC4996.md",
@@ -496,7 +497,6 @@
     "LagaziProudfist.md",
     "Golgewood.md",
     "HagMother.md",
-    "Edaiyn.md",
     "images/mirrortemple.png",
     "images/Hammerkeep.png",
     "images/names-ho2-t.png",
