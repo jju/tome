@@ -1,7 +1,7 @@
 # Adult Gold Dragon
 
 [Adult Gold Dragon](https://www.dndbeyond.com/monsters/5194873-adult-gold-dragon)
-Huge Dragon (Metallic), Lawful Good
+Huge [Dragon](Dragon.md) ([Metallic](Metallic.md)), Lawful Good
 AC 19    Initiative +14 (24)
 HP 243 (18d12 + 126)
 Speed 40 ft., fly 80 ft., swim 40 ft.

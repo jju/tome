@@ -4,9 +4,16 @@ Tortles exhibit the same range of coloration and patterns found among turtles, a
 
 ## Tortle Traits
 
-**Creature Type:** Humanoid
+**Creature Type:** [Humanoid](Humanoid.md)
 **Size:** Medium or Small
 **Speed:** 30 ft.
+
+| Base  <br>Height | Height  <br>Modifier* | Base  <br>Weight | Weight  <br>Modifier** |
+| ---------------- | --------------------- | ---------------- | ---------------------- |
+| 5′ 0''           | +4d4                  | 350 lb.          | × (4d6) lb.            |
+
+*Height = base height + height modifier  
+**Weight = base weight + (height modifier × weight modifier)
 
 #### Claws
 
@@ -37,7 +44,7 @@ The generic tortle stat block here represents a warrior, especially the sort who
 
 ## Tortle Warrior
 
-Medium Humanoid, Any Alignment
+Medium [Humanoid](Humanoid.md), Any Alignment
 AC 17 (natural)    Initiative +0 (10)
 Hit Points 22 (4d8 + 4)
 Speed 30 ft.
@@ -75,7 +82,7 @@ CR 1/4 (50 XP; PB +2)
 
 Many tortles view the world as a place of wonder. They live for the chance to hear a soft wind blowing through trees, to watch a frog croaking on a lily pad, or to stand in a crowded marketplace. A tortle druid savors such things more than most, channeling the natural magic of the world around them.
 
-Medium Humanoid, Any Alignment
+Medium [Humanoid](Humanoid.md) ([Druid](Druid.md), Any Alignment
 AC 17 (natural)    Initiative +0 (10)
 Hit Points 33 (6d8 + 6)
 Speed 30 ft.

@@ -1,6 +1,6 @@
 # Fighting Monks
 
-Medium Humanoid, Any Alignment
+Medium [Humanoid](Humanoid.md), Any Alignment
 AC 16 (Unarmored Defense)    Initiative +3
 HP 60 (11d8 + 11)
 Speed 40 ft.

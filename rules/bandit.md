@@ -1,7 +1,7 @@
 # Bandit
 [Bandit](https://www.dndbeyond.com/monsters/5194915-bandit)
 
-Medium Or Small Humanoid, Neutral
+Medium Or Small [Humanoid](Humanoid.md), Neutral
 AC 12    Initiative +1 (11)
 HP 11 (2d8 + 2)
 Speed 30 ft.
@@ -32,7 +32,7 @@ _**Light Crossbow.**_ _Ranged Attack Roll:_ +3, range 80/320 ft. _Hit:_ 5 (1d8 +
 # Bandit Captain
 [Bandit Captain](https://www.dndbeyond.com/monsters/5194912-bandit-captain)
 
-Medium Or Small Humanoid, Neutral
+Medium Or Small [Humanoid](Humanoid.md), Neutral
 AC 15    Initiative +3 (13)
 HP 52 (8d8 + 16)
 Speed 30 ft.

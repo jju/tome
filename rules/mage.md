@@ -1,7 +1,7 @@
 # Mage
 [Mage](https://www.dndbeyond.com/monsters/4831023-mage)
 
-Medium Or Small Humanoid (Wizard), Neutral
+Medium Or Small [Humanoid](Humanoid.md) ([Wizard](Wizard.md)), Neutral
 AC 15    Initiative +2 (12)
 HP 81 (18d8)
 Speed 30 ft.
@@ -48,7 +48,7 @@ _**Protective Magic (3/Day).**_ The mage casts [Counterspell](https://www.dndbey
 # Archmage
 [Archmage](https://www.dndbeyond.com/monsters/5194902-archmage)
 
-Medium Or Small Humanoid (Wizard), Neutral
+Medium Or Small [Humanoid](Humanoid.md) ([Wizard](Wizard.md)), Neutral
 AC 17    Initiative +7 (17)
 HP 170 (31d8 + 31)
 Speed 30 ft.
@@ -95,3 +95,5 @@ _**Misty Step (3/Day).**_ The mage casts [Misty Step](https://www.dndbeyond.com/
 ## Reactions
 
 _**Protective Magic (3/Day).**_ The archmage casts [Counterspell](https://www.dndbeyond.com/spells/2619072-counterspell) or [Shield](https://www.dndbeyond.com/spells/2619019-shield) in response to the spell’s trigger, using the same spellcasting ability as Spellcasting.
+
+> [npcs](npcs.md)

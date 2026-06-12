@@ -1,4 +1,6 @@
-Rurik Stoneblood is a [Goliath](Goliath.md) with an inferiority complex… 
+# Rurik Stoneblood
+
+[Goliath](Goliath.md) [Bard](Bard.md) with an inferiority complex… 
 
 Rurik’s a glue guy who can lead with a morale-boosting, oft-crude joke or by being first in the fight and last out. He’s as skilled with his tongue as he is with his blade, but he knows, in his heart of hearts, that he’ll never live up to his Goliath ancestry… those mythical heroes of old cast long shadows over his measly existence. 
 
@@ -25,5 +27,68 @@ They went back to straight-sketchin', but his artist friend slowly became unreli
 He'd instead use his paint supply to draw graffiti skulls in vibrant colours on walls and in alleys. He was really setting a new street art aesthetic when he got involved in whatever opiate is found in Hammerkeep... and it kept him. He left this world far too soon.
 
 Rurik, beside himself, took to spending more time in taverns, trying to find the answers in the bottom of a mug. Instead it was those arguments and the genuine care of the Gnome who helped him begin the process of healing. Healthily. He hopes that he return the favour by finding the Giant Cock.
+
+
+# Stats
+
+[Goliath](Goliath.md) [Bard](Bard.md)
+
+* Medium [Humanoid](Humanoid.md), Lawful Good
+* Height 7'8" Weight 310 lbs
+* Born [IC4964](IC4964.md) (32 years old)
+* AC 11
+* Initiative +0
+* HP 15 (1d8)
+* Speed 35 ft.
+
+
+|     |     | Mod | Save |
+| --- | --- | --- | ---- |
+| STR | 16  | +3  | +6   |
+| DEX | 10  | +0  | +2   |
+| CON | 16  | +3  | +3   |
+
+|     |     | Mod | Save |
+| --- | --- | --- | ---- |
+| INT | 14  | +2  | +2   |
+| WIS | 10  | +0  | +0   |
+| CHA | 16  | +3  | +5   |
+
+* **Skills (PB +2)** Animal Handling +2, History +4, Insight +2, Intimidation +5, Survival +2
+* **Senses** Passive Perception 10; Passive Insight 12; Passive Investigation 12
+* **Languages** Common, Dwarvish, Halfling 
+* **Level** 1 **XP:** 100
+
+**Gear:** Leather Armour, Dagger (2), Iron Pot, Shovel, Smith's Tools, Horn, Oil (8), Rations (9), Bedroll, Bell, Tinderbox, Waterskin, Mirror, Bullseye Lantern, Costume (3), Triangle of Destiny
+
+**Money:** 29GP
+
+## Actions
+
+**Fire's Burn:** 2/day can add 1d10 Fire to damage on a hit target.
+
+**Powerful Build:** Advantage on checks to end being Grappled.
+
+**_Dagger._** _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 1d4 + 3 Piercing.  Finesse, Light, Thrown (Range 20/60)
+
+**_Unarmed Strike._** _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 4 Bludgeoning. Grapple, Shove.
+
+***[Starry Wisp.](rules/starrywisp.md)*** *Ranged Spell Attack:* +5, 60 ft. *Hit:* 1d8 Radiant. Target emits Dim Light and can't benefit from Invisible condition.
+### Cantrips
+
+* ***[Starry Wisp.](rules/starrywisp.md)*** *Ranged Spell Attack:* +5, 60 ft. *Hit:* 1d8 Radiant. Target emits Dim Light and can't benefit from Invisible condition.
+* ***[Vicious Mockery.](rules/viciousmockery.md)*** Target makes DC 13 Wis save or takes 1d6 Psychic and has Disadvantage on next attack roll.
+### Spells
+
+* ***[Unseen Servant.](rules/unseenservant.md)*** For 1 hour Bonus actions let Strength 2 servant follow commands within 60 ft.
+* ***[Sleep.](rules/sleep.md)*** Each creature in a 5 ft. sphere from a point within 60 ft makes DC 13 Wis save or be Incapacitated until end of next turn, then another DC 13 Wis save or be Unconscious for 1 minute. (Doesn't work against creatures that don't sleep or are immune to Exhaustion.)
+* ***[Command.](rules/command.md)*** Target makes DC 13 Wis save or follow one of these commands: Approach, Drop, Flee, Grovel, Halt.
+* ***[Hideous Laughter.](rules/hideouslaughter.md)*** Target makes DC 13 Wis save or is Prone and Incapacitated with laughter for 1 minute.
+
+## Bonus Actions
+
+**_Bardic Inspiration._ (3/day)** Inspire a creature within 60 ft. It gains 1d6 which it can use in the next hour if a roll is failed.
+
+***Large Form.* (1/day)** Change size to Large for 10 minutes to gain Advantage on Strength checks and +10 to Speed.
 
 > [characters](characters.md) 

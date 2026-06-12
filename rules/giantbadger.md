@@ -2,7 +2,7 @@
 
 [Giant Badger](https://www.dndbeyond.com/monsters/4775817-giant-badger)
 
-Medium Beast, Unaligned
+Medium [Beast](Beast.md), Unaligned
 AC 13    Initiative +0 (10)
 HP 15 (2d8 + 6)
 Speed 30 ft., Burrow 10 ft.

@@ -4,7 +4,7 @@
 
 > see also: 
 
-Tiny Beast, Unaligned
+Tiny [Beast](Beast.md), Unaligned
 AC 12    Initiative +2 (12)
 HP 2 (1d4)
 Speed 40 ft., Climb 40 ft.

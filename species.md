@@ -1,14 +1,60 @@
-* [Dragonborn](Dragonborn.md)
-* [Tiefling](Tiefling.md)
-* [Goliath](Goliath.md)
-* [Kenku](Kenku.md)
-* [Dwarf](Dwarf.md)
-* [Human](Human.md)
-* [Kobold](Kobold.md)
-* [Gnome](Gnome.md) 
-* [Tortle](Tortle.md)
-* [Halfling](Halfling.md)
+# [Humanoids](Humanoid.md)
+
 * [Aarakocra](Aarakocra.md)
+* [Bugbear](Bugbear.md)
+* [Cephalopoid](Cephalopoid.md)
+* [Dragonborn](Dragonborn.md)
+* [Dwarf](Dwarf.md)
+* [Elf](Elf.md)
+* [Gnome](Gnome.md) 
+* [Goliath](Goliath.md)
+* [Halfling](Halfling.md)
+* [Hobgoblin](Hobgoblin.md)
+* [Human](Human.md)
+* [Kenku](Kenku.md)
+* [Kobold](Kobold.md)
 * [Orc](Orc.md)
-* [Tabaxi](Tabaxi.md)
 * [Ratfolk](Ratfolk.md)
+* [Tabaxi](Tabaxi.md)
+* [Tiefling](Tiefling.md)
+* [Tortle](Tortle.md)
+
+## tbd
+
+* [Bullywug](Bullywug.md)
+* Cyclops
+* Eladrin
+* Harengon
+* Lizardfolk
+
+# Classifications
+
+* [Aberration](Aberration.md)
+	* Beholder
+* [Beast](Beast.md)
+* [Celestial](Celestial.md)
+* Construct
+* [Dragon](Dragon.md)
+	* [Chromatic](Chromatic.md)
+	* [Metallic](Metallic.md)
+* Elemental
+* [Fey](Fey.md)
+* [Fiend](Fiend.md)
+	* [Demon](Demon.md)
+	* Devil
+	* Gnoll
+	* Shapechanger
+	* Titan
+	* [Yugoloth](Yugoloth.md)
+* [Giant](Giant.md)
+* [Humanoid](Humanoid.md)
+	* [Elf](Elf.md)
+	* [Goblinoid](Goblinoid.md)
+	* [Hairfeet](Hairfeet.md)
+	* [Stouthearts](Stouthearts.md)
+	* [Tallfellows](Tallfellows.md)
+* [Monstrosity](Monstrosity.md)
+	* [Lycanthrope](Lycanthrope.md)
+* [Ooze](Ooze.md)
+* [Plant](Plant.md)
+* [Undead](Undead.md)

@@ -4,7 +4,7 @@
 
 > see also [awakenedtree](awakenedtree.md) and [woodwoad](woodwoad.md)
 
-Huge Plant, Chaotic Good
+Huge [Plant](Plant.md), Chaotic Good
 AC 16    Initiative +3 (13)
 HP 138 (12d12 + 60)
 Speed 30 ft.

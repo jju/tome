@@ -12,7 +12,7 @@ The infernal legacy connects tieflings not only to Gehenna but also the Nine Hel
 
 ## Tiefling Traits
 
-**Creature Type:** Humanoid  
+**Creature Type:** [Humanoid](Humanoid.md)  
 **Size:** Medium (about 4–7 feet tall) or Small (about 3–4 feet tall), chosen when you select this species  
 **Speed:** 30 feet
 

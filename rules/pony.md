@@ -1,6 +1,6 @@
 [Pony](https://www.dndbeyond.com/monsters/4775833-pony)
 
-Medium Beast, Unaligned
+Medium [Beast](Beast.md), Unaligned
 AC 10    Initiative +0 (10)
 HP 11 (2d8 + 2)
 Speed 40 ft.
@@ -24,3 +24,5 @@ Speed 40 ft.
 ## Actions
 
 _**Hooves.** Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 4 (1d4 + 2) Bludgeoning damage.
+
+> [creatures](creatures.md)

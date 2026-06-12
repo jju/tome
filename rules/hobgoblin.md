@@ -7,7 +7,7 @@ Hobgoblins are generally taller than their goblin cousins but not quite as big a
 > Hobgoblins are large goblinoids with dark orange or red-orange skin. A hobgoblin measures virtue by physical strength and martial prowess, caring about nothing except skill and cunning in battle.
 ## Hobgoblin Traits
 
-**Creature Type:** Humanoid (goblinoid)
+**Creature Type:** [Humanoid](Humanoid.md) ([Goblinoid](Goblinoid.md))
 **Size:** Medium
 **Speed:** 30 ft.
 
@@ -31,7 +31,7 @@ If you miss with an attack roll or fail an ability check or a saving throw, you 
 # Hobgoblin Warrior
 [Hobgoblin Warrior](https://www.dndbeyond.com/monsters/5195079-hobgoblin-warrior)
 
-Medium Fey (Goblinoid), Lawful Evil
+Medium [Fey](Fey.md) ([Goblinoid](Goblinoid.md)), Lawful Evil
 AC 18    Initiative +3 (13)
 HP 11 (2d8 + 2)
 Speed 30 ft.
@@ -66,7 +66,7 @@ _**Longbow.** Ranged Attack Roll:_ +3, range 150/600 ft. _Hit:_ 5 (1d8 + 1) Pier
 # Hobgoblin Captain
 [Hobgoblin Captain](https://www.dndbeyond.com/monsters/5195077-hobgoblin-captain)
 
-Medium Fey (Goblinoid), Lawful Evil
+Medium [Fey](Fey.md) ([Goblinoid](Goblinoid.md)), Lawful Evil
 AC 17    Initiative +4 (14)
 HP 58 (9d8 + 18)
 Speed 30 ft.

@@ -2,7 +2,7 @@
 
 [Giant Owl](https://www.dndbeyond.com/monsters/5195024-giant-owl)
 
-Large Celestial, Neutral
+Large [Celestial](Celestial.md), Neutral
 AC 12    Initiative +2 (12)
 HP 19 (3d10 + 3)
 Speed 5 ft., Fly 60 ft.

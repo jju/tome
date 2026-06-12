@@ -7,7 +7,8 @@
 * [Rurik Stoneblood](Rurik.md)
 * [Riles Greyfox](Riles.md)
 * [Garriff "Barfgeld" Battlehammer](Barfgeld.md)
-* 
+* [Pog](Pog.md)
+* [Feargal](Feargal.md)
 
 ## NPCs
 

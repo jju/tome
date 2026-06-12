@@ -1,7 +1,7 @@
 # Yggdrasti
 [Yggdrasti](https://www.dndbeyond.com/monsters/2506148-yggdrasti)
 
-Gargantuan Plant, Unaligned
+Gargantuan [Plant](Plant.md), Unaligned
 AC 15 (natural armor)    Initiative +0
 Hit Points 112 (9d20 + 18)
 Speed 30 ft., fly 60 ft. (hover)

@@ -4,7 +4,7 @@
 
 Cyclopes are one-eyed giants that eke out a meager existence in wild lands. They are a terrifying threat in combat due to their size and strength, but they can often be tricked by clever foes.
 
-Huge Giant, Chaotic Neutral
+Huge [Giant](Giant.md), Chaotic Neutral
 AC 14    Initiative +0 (10)
 HP 138 (12d12+60)
 Speed 30 ft.
@@ -37,3 +37,4 @@ _**Greatclub.** Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:
 _**Rock.** Ranged Weapon Attack:_ +9 to hit, range 30/120 ft., one target. _Hit:_ 28 (4d10 + 6) bludgeoning damage.
 
 > [creatures](creatures.md)
+> [species](species.md)

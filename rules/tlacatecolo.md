@@ -1,4 +1,4 @@
-Medium Fiend (Demon), Typically Neutral Evil
+Medium [Fiend](Fiend.md) ([Demon](Demon.md)), Typically Neutral Evil
 AC 13    Initiative +3
 Hit Points 78(12d8 + 24)
 Speed 30 ft., fly 30 ft.

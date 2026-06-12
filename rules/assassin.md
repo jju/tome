@@ -5,7 +5,7 @@ Trained in the use of poison, assassins are remorseless killers who work for nob
 
 > see also: [Assassin](rules/rogue.md#Assassin) 
 
-Medium Or Small Humanoid, Neutral
+Medium Or Small [Humanoid](Humanoid.md), Neutral
 AC 16    Initiative +10 (20)
 HP 97 (15d8 + 30)
 Speed 30 ft.
@@ -44,3 +44,6 @@ _**Light Crossbow.**_ _Ranged Attack Roll:_ +7, range 80/320 ft. _Hit:_ 8 (1d8 +
 ## Bonus Actions
 
 _**Cunning Action.**_ The assassin takes the [Dash](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#DashAction), [Disengage](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#DisengageAction), or [Hide](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#HideAction) action.
+
+> [npcs](npcs.md)
+> 

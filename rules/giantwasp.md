@@ -2,7 +2,7 @@
 
 [Giant Wasp](https://www.dndbeyond.com/monsters/5195032-giant-wasp)
 
-Medium Beast, Unaligned
+Medium [Beast](Beast.md), Unaligned
 AC 13    Initiative +2 (12)
 HP 22 (5d8)
 Speed 10 ft., Fly 50 ft.

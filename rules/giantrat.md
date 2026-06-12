@@ -4,7 +4,7 @@
 > see also: [rat](rat.md)
 
 
-Small Beast, Unaligned
+Small [Beast](Beast.md), Unaligned
 AC 13    Initiative +3 (13)
 HP 7 (2d6)
 Speed 30 ft., Climb 30 ft.

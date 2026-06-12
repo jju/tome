@@ -1,4 +1,5 @@
 # Ghost
+
 [Ghost](https://www.dndbeyond.com/monsters/5195008-ghost)
 
 Medium [Undead](Undead.md), Neutral

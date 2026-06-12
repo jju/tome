@@ -1,7 +1,7 @@
 # Scout
 [Scout](https://www.dndbeyond.com/monsters/5174957-scout)
 
-Medium Or Small Humanoid, Neutral
+Medium Or Small [Humanoid](Humanoid.md), Neutral
 AC 13    Initiative +2 (12)
 HP 16 (3d8 + 3)
 Speed 30 ft.

@@ -1,7 +1,7 @@
 # Bard
 ## Characters
 
-* 
+* [Rurik Stoneblood](Rurik.md)
 
 ![bard](rules/bard.md)
 

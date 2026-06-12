@@ -2,7 +2,7 @@
 
 [Shambling Mound](https://www.dndbeyond.com/monsters/5195203-shambling-mound)
 
-Large Plant, Unaligned
+Large [Plant](Plant.md), Unaligned
 AC 15    Initiative -1 (9)
 HP 110 (13d10 + 39)
 Speed 30 ft., swim 20 ft.

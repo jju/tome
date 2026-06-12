@@ -2,7 +2,7 @@
 
 [Twig Blight](https://www.dndbeyond.com/monsters/17095-twig-blight)
 
-Small Plant, Neutral Evil
+Small [Plant](Plant.md), Neutral Evil
 AC 13 natural armor Inititative +1 (11)
 HP 4 (1d6 + 1)
 Speed 20 ft.

@@ -5,7 +5,7 @@ Outland raider bands that satisfy their bloodlust by slaying any humanoids that 
 
 > see also [berserker](berserker.md)
 
-Medium Humanoid, Chaotic Evil
+Medium [Humanoid](Humanoid.md), Chaotic Evil
 AC 13 (hide armor)    Initiative +1 (11)
 Hit Points 15 (2d8 + 6)
 Speed 30 ft.

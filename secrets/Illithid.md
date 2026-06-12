@@ -73,40 +73,7 @@ See chapter 3 for more information on elder brains.
 Sometimes a mind flayer that's away from its colony breaks free from the elder brain. Perhaps it ran into a situation where its bonds of obedience were broken, or perhaps the colony was  destroyed while it was away. In such a case, the mind flayer becomes free-willed for as
 long as it avoids contact with an elder brain.
 
-A renegade illithid remains fearful of gith attacks, and likely sets about creating a sort of colony of its own the better to remain undetected. It gathers minions, establishes a lair, and makes defense of its territory a develop
-
-> They tre
-as equals
-them. A re
-advisor or
-Any allianc
-flayer falls t
-ENEMIES
-Elder brains s
-and a colony c
-decades if it ca
-Two kinds of
-colony: an invas
-THE GITH NE
-Githzerai and gith
-enslavement of the
-parties to the Mate
-illithids wherever th
-hunting, they have g
-flayer colony is const
-of gith, even if it has n
-Underdark predator:
-of formidable creatures
-colony: Although the ma
-are incredibly powerful.
-accomplished heroes, dre
-mons, and other hazards
-a colony even if they don't
-elder brain.
-top priority. Unlike colonial mind flayers, rogue illithids
-
-
-develop a healthy respect for those not of their kind. They treat especially powerful creatures and individuals as equals, not adversaries, and seek to cooperate with them. A renegade mind flayer might become a trusted advisor or a powerful ally, so long as it is kept well fed. Any alliance it makes, however, collapses if the mind flayer falls under the sway of an elder brain once more.
+A renegade illithid remains fearful of gith attacks, and likely sets about creating a sort of colony of its own the better to remain undetected. It gathers minions, establishes a lair, and makes defense of its territory a develop a healthy respect for those not of their kind. They treat especially powerful creatures and individuals as equals, not adversaries, and seek to cooperate with them. A renegade mind flayer might become a trusted advisor or a powerful ally, so long as it is kept well fed. Any alliance it makes, however, collapses if the mind flayer falls under the sway of an elder brain once more.
 
 ### ENEMIES EVERYWHERE
 
@@ -190,806 +157,290 @@ Mind flayers are inhuman monsters that typically exist as part of a collective c
 | d6  | Bond                                                                         |
 | --- | ---------------------------------------------------------------------------- |
 | 1   | I think the elder brain is wrong about something, and I want to convince it. |
-| 2   |                                                                              |
+| 2   | I have a secret I wish to keep even from other mind flayers.                 |
+| 3   | The more the colony grows, the more powerful we all become.                  |
+| 4   | Nothing is more important than rebuilding our lost empire.                   |
+| 5   | Persistence of my colony is the greatest good.                               |
+| 6   | I have important research that must be protected at all costs.               |
 
 
+#### MIND FLAYER FLAWS
 
+| d6  | Flaw                                                            |
+| --- | --------------------------------------------------------------- |
+| 1   | I am oblivious to the emotions expressed by others.             |
+| 2   | I believe my minions will always do precisely as l intend.      |
+| 3   | I never assume others understand and always explain everything. |
+| 4   | I have a memory that isn't mine. I obsess about it.             |
+| 5   | It is inconceivable that another creature could out-smart me.   |
+| 6   | I sometimes confuse others' thoughts with my own.               |
 
-MIND FLAYER BONDS
-d6 Bond
-I think the elder brain is wrong about something, and
-I want to convince it.
-2
-I have a secret I wish to keep even from other mind
-flayers.
-The more the colony grows, the more powerful we all
-become.
-4
-Nothing is more important than rebuilding our lost
-empire.
-Persistence of my colony is the greatest good.
-6
-I have important research that must be protected at
-all costs.
-MIND FLAYER FLAWS
-d6
-Flaw
-I am oblivious to the emotions expressed by others.
-I believe my minions will always do precisely as l
-intend.
-I never assume others understand and always explain
-everything.
-4
-5
-I have a memory that isn't mine. I obsess about it.
-It is inconceivable that another creature could out-
-smart me.
-I sometimes confuse others' thoughts with my own.
-MIND FLAYER NAMES
-Among mind flayers, thoughts aren't communicated in
-language per se, but are instead transmitted telepathi-
-cally as concepts and associations, which other human-
-oids interpret in their own language.
-Telepathic communication with a mind flayer is fre-
-quently accompanied by a mental static that "sounds"
-to the receiver like an underlying sussuration peppered
-with guttural clicks. The intensity of this static increases
-when a mind flayer refers to itself, because with the say-
-ing of its name, the illithid is communicating far more
-information about itself than other humanoids can com-
-prehend. The syllables that make up mind flayer names
-as expressed in other languages are thus weak approx-
-imations of the sound that others hear in their minds
-when illithids refer to themselves.
-An illithid might adopt a name that is easier for min-
-ions and allies to speak or that makes it seem more fear-
-some to enemies, but each begins its life with a thought-
-name such as the examples in the Mind Flayer Names
-table, which are suitable for any campaign.
-MIND FLAYER NAMES
-d12 Name
-1 Aurangaul
-2
-Cephalossk
-Drukt
-4
-Drusiss
-Lugribossk
-6
-Quoor
-d12
-7
-8
-10
-11
-12
-Name
-Ralayan
-Sardsult
-S'venchen
-Tharcereli
-Tobulux
-Zellix
-SPEECH
-The physiology of mind flayers doesn't leave them
-well equipped for typical humanoid speech, and most
-use telepathy exclusively. At times, however, they find
-it necessary to speak, such as when casting a divine
-spell, voicing the command word of a magic item, or
-communicating with multiple creatures at once. A mind
-flayer accomplishes such vocal feats by forcing one of its
-tentacles down its own throat and curling the tip to act
-as a tongue. The process is uncomfortable to the mind
-flayer, can be disquieting for other creatures to witness,
-and results in a sound that is often harrowing to the ear.
-Despite the difficulty, some mind flayers make a study of
-spoken communication and manage consistently intelli-
-gible (if not melodious) speech.
-QUALITH
-The "writing" of mind flayers, known as Qualith, isn't as
-simple as a set of symbols representing sounds or ideas.
-An inscription in Qualith captures the thoughts of its
-creator and psionically transmits the thoughts to a mind
-flayer who later reads the inscription by touching it with
-its tentacles. Mind flayers write in Qualith by psionically
-imprinting their messages on nonmagical, nonliving
-material they grasp or caress with their tentacles. The
-imprinting causes imperceptible surface changes to the
-object, and abrasion or degradation of the material can
-cause the inscription to fade and fail.
-An expression in Qualith is made up of four-line stan-
-zas packed into interlocking blocks, creating complex
-patterns that are indecipherable by other creatures.
-Someone that touches a Qualith inscription, however,
-can receive fragmentary insight into the multilayered
-thoughts contained within it. A non-illithid that wants
-to understand a Qualith inscription can make an Intel-
-ligence check (DC based on the complexity of the con-
-tained thoughts) to try to derive some of the inscription's
-meaning. Multiple successful attempts might uncover
-different aspects about the illithid author, its intended
-meaning, and its intended audience. A failed attempt
-results in a crushing headache and, in extreme cases,
-madness. A comprehend languages spell provides
-understanding of the inscription roughly equivalent to
-what a mind flayer would get from it.
-MIND FLAYER THRALLS
-Mind flayers never truly ally with any creatures. They
-either attempt to seize control of a population by sub-
-verting its leaders, or they use psionics to dominate a
-humanoid and turn it into a thrall.
-Illithids sometimes infiltrate an Underdark tribe of
-humanoids and use their superstitions and traditions as
-tools to make them useful followers. A mind flayer might
-use its psionic ability to send visions to a humanoid sha-
-man, causing it to proclaim the mind flayers as emissar-
-ies of the gods. With that ruse in place, the "gods" then
-dictate strict rules that cause some members of the tribe
-to be branded as heretics, to provide the pretense for oc-
-casionally seizing a humanoid and devouring its brain.
-After the colony depletes and demoralizes the popula-
-CHAPTER LI MONSTER
+### MIND FLAYER NAMES
 
+Among mind flayers, thoughts aren't communicated in language per se, but are instead transmitted telepathically as concepts and associations, which other humanoids interpret in their own language.
 
-I wonder what a mind
-flayer's brain tastes like.
--Volo
-VOLO, YE ARE THE FOOL OF FOOLS. ILLITHID BRAINS ARE
-POISONOUS, AND DRIVE HUMANS INSANE WITH A FLOOD OF
-MEMORIES AT EVERY BITE. ER, ASK ME NOT HOW I KNOW THIS.
-- ELMINSTER
-tion sufficiently, the illithids might move in en masse
-and attempt to turn the remaining followers into thralls.
-The process of transforming a creature into a thrall
-requires the entire colony's energy and attention, mak-
-ing it no small matter. Although it takes only one mind
-flayer to perform the process, any illithid not directly
-involved in the process is required to donate its psionic
-power to the effort while otherwise remaining inactive.
-A thrall-to-be is first rendered docile through psionic
-means. Using a low-power version of its Mind Blast abil-
-ity, the mind flayer bombards the victim with energy that
-washes through its synapses like acid, clearing away its
-former personality and leaving it a partially empty shell.
-This step takes 24 hours. Over the next 48 hours, the
-illithids rebuild the victim's memories and personality,
-and the victim gains the skills and talents it needs to
-perform its intended function.
-The process that creates a thrall changes almost
-everything about the victim. The creature retains its
-Hit Dice, hit points, racial traits (but not proficiencies
-granted by race), and all of its ability scores except for
-Intelligence. After the first stage of the process, the crea-
-ture's Intelligence is halved; when the second stage is
-over, its Intelligence score increases by 1d6.
-To complete the process, the thrall receives a new set
-of proficiencies, a new alignment, and a new personality.
-Some colonies have learned how to salvage a victim's
-psionic abilities during the process or how to implant
-psionic powers into their thralls. Also, some colonies
-know how to leave a victim's persona intact while infus-
-ing it with a fanatical loyalty to the colony's elder brain
-as well as telepathic power that allows the victim to
-communicate with its new masters as if it were a mind
-flayer. This sort of thrall makes a perfect spy, since most
-would never suspect its true nature.
-A thrall can be restored to its former self through a
-combination of spells and ministration. The thrall must
-have regeneration, heal, and greater restoration cast on
-it once per day for three consecutive days. The victim is
-restored to normal when the final round of spells is cast.
-Mind flayers vastly prefer to use humanoids as thralls,
-since they have a good balance of physical attributes and
-proper anatomy. Animals, in contrast, require a lot of
-direct oversight and lack the ability to use tools to help
-maintain the colony. Among the variety of humanoids
-available to the illithids, they have some preferences and
-tendencies.
-DUERGAR
-Mind fayers have hated duergar ever since the gray
-dwarves revolted against them, but consider their brains
-a delicacy. Duergar serve as a constant reminder to the
-illithids that any creatures that serve them must be kept
-dimwitted and easily controlled. The clever duergar
-threw off the long-ago attempt by the mind flayers to rule
-them and have been enemies of the illithids ever since.
-GRIMLOCKS
-The first grimlocks were descended from humans cor-
-rupted by mind flayers in ancient times, and today these
-sightless humanoids are among the illithids' preferred
-servants. Grimlocks are easily cowed by mind flayers,
-because their culture still centers on worship of and
-subservience to the illithids. Strong but dimwitted, they
-lack the initiative and the cunning to rebel as long as
-they are provided with food, shelter, and the opportunity
-to pillage and slay. Also, the grimlocks' inability to see
-gives their brains an exotic flavor that mind flayers love.
-KUO-TOA
-Illithids once used kuo-toa as slaves extensively, since
-they proved quite easy to control. In time, though, re-
-peated exposure to the mind flayers'
-psionic intrusions
-drove the kuo-toa mad. Nowadays, kuo-toa don't make
-for good thralls because their insanity makes them dif-
-ficult to control. Mind flayers consider kuo-toa brains a
-great treat, but they prefer to eat them raw, unsullied by
-psionic alteration. Thus, they tend to eat kuo-toa soon af-
-ter capturing them, rather than attempting to keep them
-penned up or docile.
-QUAGGOTHS
-Mind flayers find that the quaggoths' innate, though
-rarely manifested, talent for psionics makes them ex-
-cellent thralls. When possible, they manipulate a tribe's
-thonot (a psionic shaman) into pledging allegiance to a
-colony. Quaggoths are naturally strong and quick, mak-
-ing them ideal shock troops without any additional mod-
-ifications. The quaggoths' chaotic tendencies eventually
-motivate most colonies to convert them into thralls or
-food, rather than relying on the quaggoth thonot to keep
-them under control.
-HUMANOIDS
-Only the most desperate colonies bother using gob-
-lins, kobolds, gnomes, and other small hemanoids for
-anything except food. Small humanoids co make a
-good food source because they tend to gather in large
-groups, and their fear and despair in the face of a mind
-flayer incursion make their brains tasty to the illithid
-palate. They are also relatively easy for larger, stronger
-humanoid thralls to control. Small humanoids are only
-rarely transformed into thralls or otherwise kept under
-firm control.
-Almost any humanoid creature can end up as a thrall.
-and mind flayers sometimes work with whatever victims
-fall into their grasp. Aside from the exceptions dis-
-cussed above, they tend to see orcs, bugbears, humans.
-and other similar humanoids as largely interchangeable
-Their brains all have a similar taste, and their utility as
-thralls is roughly equal.
-MIND FLAYER M
-Mind flayers hardly ever i
-thralls or develop other re
-them are either too big an
-long or too limited in inte
-the simplest tasks. In gen
-the company of mind flaye
-have created or bred for s
-of these creatures warran
-INTELLECT DEVOURE
-Almost every mind flayer
-vourers and seeds the are.
-to keep watch, slay intrude
-their doom.
-MINDWITNESSES
-A mindwitness represents
-mind flayer pattern of repr
-ceeds in capturing and sub
-a tadpole to convert the cre
-known as a mindwitness.
-psychic hub, able to collect
-psionic power.
-See chapter 3 of this boo
-mindwitnesses.
-NEOTHELIDS
-These horrors, hated by mi
-into being when those igno
-stroy a colony. A neothelid
-is left untended. The tadpo
-and the survivor grows to il
-purple worms, these behem
-their path.
-See chapter 3 of this boo
-neothelids.
-MIND FLAYER LA
-In the lair of a mind flayer c
-of its residents is all-import
-are always well hidden and
-ways underground, and wit
-and the succulent brains.
-No ture lairs are the same
-drives the form and function
-in the a companying map is
-elements found in every colo
-The it hids, with their ab
-portiors of their lairs so as
-ficult as possible for ordinar
-such loeations, thralls must
-from place to place.
-BRAIN CHAMBER
-Mind flayers sometimes pre
-magical liquid. Still fully airy
-chamber. The mind flayers o
-the study of how psionics an
-also enjoy the babble of com
-that emanates from these s
-here in quiet, comfortable o
+Telepathic communication with a mind flayer is frequently accompanied by a mental static that "sounds" to the receiver like an underlying sussuration peppered with guttural clicks. The intensity of this static increases when a mind flayer refers to itself, because with the saying of its name, the illithid is communicating far more information about itself than other humanoids can comprehend. The syllables that make up mind flayer names as expressed in other languages are thus weak approximations of the sound that others hear in their minds when illithids refer to themselves.
 
+An illithid might adopt a name that is easier for minions and allies to speak or that makes it seem more fearsome to enemies, but each begins its life with a thoughtname such as the examples in the Mind Flayer Names table, which are suitable for any campaign.
 
-MIND FLAYER MONSTERS
-Mind flayers hardly ever use non-humanoid creatures as
-thralls or develop other relationships with them. Most of
-them are either too big and strong to keep penned up for
-long or too limited in intellect to complete anything but
-the simplest tasks. In general, non-humanoids found in
-the company of mind flayers are those that the illithids
-have created or bred for specific purposes. A few types
-of these creatures warrant special mention.
-INTELLECT DEVOURERS
-Almost every mind flayer colony creates intellect de-
-vourers and seeds the areas around its lair with a few
-to keep watch, slay intruders, and lure fresh victims to
-their doom.
-MINDWITNESSES
-A mindwitness represents an exception to the typical
-mind flayer pattern of reproduction. If a colony suc-
-ceeds in capturing and subduing a beholder, it can use
-a tadpole to convert the creature into a bizarre hybrid
-known as a mindwitness. A mindwitness is a sort of
-psychic hub, able to collect and amplify the illithids'
-psionic power.
-See chapter 3 of this book for more information on
-mindwitnesses.
-NEOTHELIDS
-These horrors, hated by mind flayers, sometimes come
-into being when those ignorant of mind flayer lore de-
-stroy a colony. A neothelid arises when a tadpole pool
-is left untended. The tadpoles turn against each other,
-and the survivor grows to immense size. Comparable to
-purple worms, these behemoths devour everything in
-their path.
-See chapter 3 of this book for more information on
-neothelids.
-MIND FLAYER LAIRS
-In the lair of a mind flayer colony, the safety and security
-of its residents is all-important. As a result, illithid lairs
-are always well hidden and well defended, almost al-
-ways underground, and within easy reach of humanoids
-and their succulent brains.
-No two lairs are the same, as the resident elder brain
-drives the form and function of each one. The lair shown
-in the accompanying map is typical and includes many
-elements found in every colony's stronghold.
-The illithids, with their ability to levitate, design major
-portions of their lairs so as to make movement as dif-
-ficult as possible for ordinary two-legged creatures. In
-such locations, thralls must climb or use ropes to move
-from place to place.
-BRAIN CHAMBER
-Mind flayers sometimes preserve extracted brains in a
-magical liquid. Still fully alive, they are kept in the brain
-chamber. The mind flayers use these brains to advance
-the study of how psionics affects their enemies. They
-also enjoy the babble of confused, horrified thoughts
-That emanates from these sources, and sometimes sit
-here in quiet, comfortable contemplation. Brains that
+#### MIND FLAYER NAMES
 
+| d12 | Name       |
+| --- | ---------- |
+| 1   | Aurangaul  |
+| 2   | Cephalossk |
+| 3   | Drukt      |
+| 4   | Drusiss    |
+| 5   | Lugribossk |
+| 6   | Quoor      |
+| 7   | Ralayan    |
+| 8   | Sardsult   |
+| 9   | S'venchen  |
+| 10  | Tharcereli |
+| 11  | Tobulux    |
+| 12  | Zellix     |
+### SPEECH
 
-prove boring or dull are eventually consumed, while the
-most interesting ones are added to the brain library.
-BRAIN LIBRARY
-Extracted brains that are exceptional in some way are
-kept in the colony's brain library. Here, the mind flayers
-continue their examinations at a much greater depth.
-CLEANSING CHAMBERS
-Freshly captured victims are processed in the cleansing
-chambers. Their gear is removed and either destroyed
-or kept if it is of interest, their hair is shaved to prevent
-parasites, and any sickly ones are disposed of.
-COMMON ROOM
-The lair's common room serves as a gathering spot for
-the colony's thralls. As they complete tasks, they come
-here to rest, eat, and wait for new orders. Any mind
-flayer in need of assistance can visit this room to obtain
-the needed muscle power. In the event of an attack,
-the thralls gather here to arm themselves and ready
-for battle.
-ELDER BRAIN RESTING POOL
-Usually centrally located, the lair's resting pool is where
-the elder brain holds court in its brine pool, protected
-by a nearly impenetrable layer of a glass-like substance
-that blocks all attacks except for psionic abilities. The
-elder brain relaxes here, and often assembles the colony
-members to engage in debates on philosophy and the
-nature of the planes. This particular colony's elder brain
-is something of a bully, and has been known to destroy
-illithids that outwit it in discussions.
-GUARDROOMS
-Chambers on the perimeter of the lair are continually
-staffed by heavily armed thralls, constructs, and other
-watchers. The inhabitants of these rooms attack strang-
-ers on sight and sound an alarm. Any entrance to a lair
-is always hidden by a secret door, an illusion, or some
-other barrier.
-ILLITHID QUARTERS
-Each member of the colony claims a single room or a
-small series of chambers at its own and uses the space
-to conduct its personal research. One illithid's quarters
-might contain musical instruments and thralls with me-
-lodious voices; another might have cages of specimens
-that teem with a variety of diseases the mind flayers
-are studying.
-LIBRARY (AND DISSECTION CHAMBER)
-The library in a mind flayer lair isn't a collection of
-books, but an array of still-living organs kept in the
-same fluid that enables them to keep brains alive. The
-mind flayers study the organs to refine their experi-
-ments. Failed experiments from the transformation
-chamber eventually are brought here to be dissected so
-that their organs can be added to the library's contents.
-PRISON
-The results of failed experiments from the transforma-
-tion chamber are dumped into cages and cells in the
-prison, to prevent them from getting underfoot else-
-where in the lair. They are eventually processed in the
-nearby library.
-TADPOLE CHAMBERS
-The elder brain dictates that populations of tadpoles be
-kept in smaller pools under guard, away from the brine
-pool. Should the brine pool be destroyed in an attack.
-these tadpoles stand a better chance of survival.
-TRANSFORMATION CHAMBER
-The transformation chamber contains a number of
-small cells. The subjects of promising experiments are
-kept here, bombarded with psionic energy in an effort
-to warp their physical development. Most creatures
-that undergo this process are turned into twisted, crip.
-pled wretches, but a few emerge stronger and tougher
-than before.
-NAUTILOIDS
-Mind flayers employ bizarre flying ships called nauti-
-loids. Able to move through the Astral Plane, nautiloids
-can also transport mind flayers between the various
-worlds of the Material Plane.
-A nautiloid looks like an enormous conch shell fitted
-with an exterior deck and a large mass of rubbery tenta-
-cles. Ages ago, when the mind flayers could fly through
-the worlds of the Material Plane without resistance,
-they used the nautiloid's tentacles to scour the surface
-for interesting creatures to take back home for study or
-a feasting.
-The most notable feature of a nautiloid is its ability to
-move directly from one world to another in the Material
-Plane. Normally, travelers must venture to Sigil, a city in
-the Outer Planes, and find a doorway leading to the spe-
-cific world they seek. But mind flayers can use nautiloids
-to move between worlds without going through Sigil. By
-this means, they have been able to spread themselves
-out into almost every corner of the multiverse.
-Nowadays, a nautiloid is an incredibly rare sight. A
-colony in possession of one takes great care to keep it
-hidden, taking to the sky only out of necessity. Word of a
-nautiloid seen soaring through the air travels quickly in
-almost every world and is likely to attract the attention
-of vengeful githyanki and githzerai. A gith hunting party
-counts a nautiloid as the greatest prize it can claim,
+The physiology of mind flayers doesn't leave them well equipped for typical humanoid speech, and most use telepathy exclusively. At times, however, they find it necessary to speak, such as when casting a divine spell, voicing the command word of a magic item, or communicating with multiple creatures at once. A mind flayer accomplishes such vocal feats by forcing one of its tentacles down its own throat and curling the tip to act as a tongue. The process is uncomfortable to the mind flayer, can be disquieting for other creatures to witness, and results in a sound that is often harrowing to the ear.
+
+Despite the difficulty, some mind flayers make a study of spoken communication and manage consistently intelligible (if not melodious) speech.
+
+### QUALITH
+
+The "writing" of mind flayers, known as Qualith, isn't as simple as a set of symbols representing sounds or ideas. An inscription in Qualith captures the thoughts of its creator and psionically transmits the thoughts to a mind flayer who later reads the inscription by touching it with its tentacles. Mind flayers write in Qualith by psionically imprinting their messages on nonmagical, nonliving material they grasp or caress with their tentacles. The imprinting causes imperceptible surface changes to the object, and abrasion or degradation of the material can cause the inscription to fade and fail.
+
+An expression in Qualith is made up of four-line stanzas packed into interlocking blocks, creating complex patterns that are indecipherable by other creatures.
+
+Someone that touches a Qualith inscription, however, can receive fragmentary insight into the multilayered thoughts contained within it. A non-illithid that wants to understand a Qualith inscription can make an Intelligence check (DC based on the complexity of the contained thoughts) to try to derive some of the inscription's meaning. Multiple successful attempts might uncover different aspects about the illithid author, its intended meaning, and its intended audience. A failed attempt results in a crushing headache and, in extreme cases, madness. A comprehend languages spell provides understanding of the inscription roughly equivalent to what a mind flayer would get from it.
+
+### MIND FLAYER THRALLS
+
+Mind flayers never truly ally with any creatures. They either attempt to seize control of a population by subverting its leaders, or they use psionics to dominate a humanoid and turn it into a thrall.
+
+Illithids sometimes infiltrate an Underdark tribe of humanoids and use their superstitions and traditions as tools to make them useful followers. A mind flayer might use its psionic ability to send visions to a humanoid shaman, causing it to proclaim the mind flayers as emissaries of the gods. With that ruse in place, the "gods" then dictate strict rules that cause some members of the tribe to be branded as heretics, to provide the pretense for occasionally seizing a humanoid and devouring its brain.
+
+After the colony depletes and demoralizes the population sufficiently, the illithids might move in en masse and attempt to turn the remaining followers into thralls. The process of transforming a creature into a thrall requires the entire colony's energy and attention, making it no small matter. Although it takes only one mind flayer to perform the process, any illithid not directly involved in the process is required to donate its psionic power to the effort while otherwise remaining inactive.
+
+A thrall-to-be is first rendered docile through psionic means. Using a low-power version of its Mind Blast ability, the mind flayer bombards the victim with energy that washes through its synapses like acid, clearing away its former personality and leaving it a partially empty shell. This step takes 24 hours. Over the next 48 hours, the illithids rebuild the victim's memories and personality, and the victim gains the skills and talents it needs to perform its intended function.
+
+The process that creates a thrall changes almost everything about the victim. The creature retains its Hit Dice, hit points, racial traits (but not proficiencies granted by species), and all of its ability scores except for Intelligence. After the first stage of the process, the creature's Intelligence is halved; when the second stage is over, its Intelligence score increases by 1d6.
+
+To complete the process, the thrall receives a new set of proficiencies, a new alignment, and a new personality. Some colonies have learned how to salvage a victim's psionic abilities during the process or how to implant psionic powers into their thralls. Also, some colonies know how to leave a victim's persona intact while infusing it with a fanatical loyalty to the colony's elder brain as well as telepathic power that allows the victim to communicate with its new masters as if it were a mind
+flayer. This sort of thrall makes a perfect spy, since most would never suspect its true nature.
+
+A thrall can be restored to its former self through a combination of spells and ministration. The thrall must have regeneration, heal, and greater restoration cast on it once per day for three consecutive days. The victim is restored to normal when the final round of spells is cast.
+
+Mind flayers vastly prefer to use humanoids as thralls, since they have a good balance of physical attributes and proper anatomy. Animals, in contrast, require a lot of direct oversight and lack the ability to use tools to help maintain the colony. Among the variety of humanoids available to the illithids, they have some preferences and tendencies.
+
+#### DUERGAR
+
+Mind flayers have hated duergar ever since the gray dwarves revolted against them, but consider their brains a delicacy. Duergar serve as a constant reminder to the illithids that any creatures that serve them must be kept dimwitted and easily controlled. The clever duergar threw off the long-ago attempt by the mind flayers to rule them and have been enemies of the illithids ever since.
+
+#### GRIMLOCKS
+
+The first grimlocks were descended from humans corrupted by mind flayers in ancient times, and today these sightless humanoids are among the illithids' preferred servants. Grimlocks are easily cowed by mind flayers, because their culture still centers on worship of and subservience to the illithids. Strong but dimwitted, they lack the initiative and the cunning to rebel as long as they are provided with food, shelter, and the opportunity to pillage and slay. Also, the grimlocks' inability to see gives their brains an exotic flavor that mind flayers love.
+
+#### KUO-TOA
+
+Illithids once used kuo-toa as slaves extensively, since they proved quite easy to control. In time, though, repeated exposure to the mind flayers' psionic intrusions drove the kuo-toa mad. 
+
+Nowadays, kuo-toa don't make for good thralls because their insanity makes them difficult to control. Mind flayers consider kuo-toa brains a great treat, but they prefer to eat them raw, unsullied by psionic alteration. Thus, they tend to eat kuo-toa soon after capturing them, rather than attempting to keep them penned up or docile.
+
+#### QUAGGOTHS
+
+Mind flayers find that the quaggoths' innate, though rarely manifested, talent for psionics makes them excellent thralls. When possible, they manipulate a tribe's thonot (a psionic shaman) into pledging allegiance to a colony. Quaggoths are naturally strong and quick, making them ideal shock troops without any additional modifications. The quaggoths' chaotic tendencies eventually
+motivate most colonies to convert them into thralls or food, rather than relying on the quaggoth thonot to keep them under control.
+
+#### HUMANOIDS
+
+Only the most desperate colonies bother using goblins, kobolds, gnomes, and other small humanoids for anything except food. Small humanoids can make a good food source because they tend to gather in large groups, and their fear and despair in the face of a mind flayer incursion make their brains tasty to the illithid palate. They are also relatively easy for larger, stronger humanoid thralls to control. Small humanoids are only rarely transformed into thralls or otherwise kept under firm control.
+
+Almost any humanoid creature can end up as a thrall and mind flayers sometimes work with whatever victims fall into their grasp. Aside from the exceptions discussed above, they tend to see orcs, bugbears, humans and other similar humanoids as largely interchangeable. Their brains all have a similar taste, and their utility as thralls is roughly equal.
+
+### MIND FLAYER MONSTERS
+
+Mind flayers hardly ever use non-humanoid creatures as thralls or develop other relationships with them. Most of them are either too big and strong to keep penned up for long or too limited in intellect to complete anything but the simplest tasks. In general, non-humanoids found in the company of mind flayers are those that the illithids have created or bred for specific purposes. A few types of these creatures warrant special mention.
+
+#### INTELLECT DEVOURERS
+
+Almost every mind flayer colony creates intellect devourers and seeds the areas around its lair with a few to keep watch, slay intruders, and lure fresh victims to their doom.
+
+#### MINDWITNESSES
+
+A mindwitness represents an exception to the typical mind flayer pattern of reproduction. If a colony succeeds in capturing and subduing a beholder, it can use a tadpole to convert the creature into a bizarre hybrid known as a mindwitness. A mindwitness is a sort of psychic hub, able to collect and amplify the illithids' psionic power.
+
+See [[chapter 3 of this book]] for more information on mindwitnesses.
+
+#### NEOTHELIDS
+
+These horrors, hated by mind flayers, sometimes come into being when those ignorant of mind flayer lore destroy a colony. A neothelid arises when a tadpole pool is left untended. The tadpoles turn against each other, and the survivor grows to immense size. Comparable to purple worms, these behemoths devour everything in their path.
+
+See chapter 3 of this book for more information on neothelids.
+
+### MIND FLAYER LAIRS
+
+In the lair of a mind flayer colony, the safety and security of its residents is all-important. As a result, illithid lairs are always well hidden and well defended, almost always underground, and within easy reach of humanoids and their succulent brains.
+
+No two lairs are the same, as the resident elder brain drives the form and function of each one. The lair shown in the accompanying map is typical and includes many elements found in every colony's stronghold. The illithids, with their ability to levitate, design major portions of their lairs so as to make movement as difficult as possible for ordinary two-legged creatures. In such locations, thralls must climb or use ropes to move from place to place.
+
+#### BRAIN CHAMBER
+
+Mind flayers sometimes preserve extracted brains in a magical liquid. Still fully alive, they are kept in the brain chamber. The mind flayers use these brains to advance the study of how psionics affects their enemies. They also enjoy the babble of confused, horrified thoughts that emanates from these sources, and sometimes sit here in quiet, comfortable contemplation. Brains that prove boring or dull are eventually consumed, while the most interesting ones are added to the brain library.
+
+#### BRAIN LIBRARY
+
+Extracted brains that are exceptional in some way are kept in the colony's brain library. Here, the mind flayers continue their examinations at a much greater depth.
+
+#### CLEANSING CHAMBERS
+
+Freshly captured victims are processed in the cleansing chambers. Their gear is removed and either destroyed or kept if it is of interest, their hair is shaved to prevent parasites, and any sickly ones are disposed of.
+
+#### COMMON ROOM
+
+The lair's common room serves as a gathering spot for the colony's thralls. As they complete tasks, they come here to rest, eat, and wait for new orders. Any mind flayer in need of assistance can visit this room to obtain the needed muscle power. In the event of an attack, the thralls gather here to arm themselves and ready for battle.
+
+#### ELDER BRAIN RESTING POOL
+
+Usually centrally located, the lair's resting pool is where the elder brain holds court in its brine pool, protected by a nearly impenetrable layer of a glass-like substance that blocks all attacks except for psionic abilities. The elder brain relaxes here, and often assembles the colony members to engage in debates on philosophy and the nature of the planes. This particular colony's elder brain is something of a bully, and has been known to destroy illithids that outwit it in discussions.
+
+#### GUARDROOMS
+
+Chambers on the perimeter of the lair are continually staffed by heavily armed thralls, constructs, and other watchers. The inhabitants of these rooms attack strangers on sight and sound an alarm. Any entrance to a lair is always hidden by a secret door, an illusion, or some other barrier.
+
+#### ILLITHID QUARTERS
+
+Each member of the colony claims a single room or a small series of chambers at its own and uses the space to conduct its personal research. One illithid's quarters might contain musical instruments and thralls with melodious voices; another might have cages of specimens that teem with a variety of diseases the mind flayers are studying.
+
+#### LIBRARY (AND DISSECTION CHAMBER)
+
+The library in a mind flayer lair isn't a collection of books, but an array of still-living organs kept in the same fluid that enables them to keep brains alive. The mind flayers study the organs to refine their experiments. Failed experiments from the transformation chamber eventually are brought here to be dissected so that their organs can be added to the library's contents.
+
+#### PRISON
+
+The results of failed experiments from the transformation chamber are dumped into cages and cells in the prison, to prevent them from getting underfoot elsewhere in the lair. They are eventually processed in the nearby library.
+
+#### TADPOLE CHAMBERS
+
+The elder brain dictates that populations of tadpoles be kept in smaller pools under guard, away from the brine pool. Should the brine pool be destroyed in an attack these tadpoles stand a better chance of survival.
+
+#### TRANSFORMATION CHAMBER
+
+The transformation chamber contains a number of small cells. The subjects of promising experiments are kept here, bombarded with psionic energy in an effort to warp their physical development. Most creatures that undergo this process are turned into twisted, crippled wretches, but a few emerge stronger and tougher than before.
+
+### NAUTILOIDS
+
+Mind flayers employ bizarre flying ships called nautiloids. Able to move through the Astral Plane, nautiloids can also transport mind flayers between the various worlds of the Material Plane.
+
+A nautiloid looks like an enormous conch shell fitted with an exterior deck and a large mass of rubbery tentacles. Ages ago, when the mind flayers could fly through the worlds of the Material Plane without resistance, they used the nautiloid's tentacles to scour the surface for interesting creatures to take back home for study or a feasting.
+
+The most notable feature of a nautiloid is its ability to move directly from one world to another in the Material Plane. Normally, travelers must venture to Sigil, a city in the Outer Planes, and find a doorway leading to the specific world they seek. But mind flayers can use nautiloids to move between worlds without going through Sigil. By this means, they have been able to spread themselves out into almost every corner of the multiverse.
+
+Nowadays, a nautiloid is an incredibly rare sight. A colony in possession of one takes great care to keep it hidden, taking to the sky only out of necessity. Word of a nautiloid seen soaring through the air travels quickly in almost every world and is likely to attract the attention of vengeful githyanki and githzerai. A gith hunting party counts a nautiloid as the greatest prize it can claim,
 above even an elder brain.
-The illithids have lost the secret of manufacturing
-nautiloids, meaning that the loss of any essel brings
-them one step closer to remaining trapped on the Mate-
-rial Plane.
-OFFENSIVE AND DEFENSIVE USES
-A colony that has access to a nautiloid uses it as a
-weapon only in rare circumstances, perhaps as part of
-the final phase of a plan to subvert, destroy, or control
-an enemy. Nautiloids move quietly and are almost im-
-possible to detect in the darkness. A sudden strike, with
-the ship disgorging mind flayers and thralls to finish the
-assault after it lands, can reduce an enemy settlement 1o
+
+The illithids have lost the secret of manufacturing nautiloids, meaning that the loss of any vessel brings them one step closer to remaining trapped on the Material Plane.
+
+#### OFFENSIVE AND DEFENSIVE USES
+
+A colony that has access to a nautiloid uses it as a weapon only in rare circumstances, perhaps as part of the final phase of a plan to subvert, destroy, or control an enemy. Nautiloids move quietly and are almost impossible to detect in the darkness. A sudden strike, with the ship disgorging mind flayers and thralls to finish the assault after it lands, can reduce an enemy settlement 1o
 ruins in a single night.
 
+Most colonies that possess a nautiloid save it for use as an emergency escape vehicle. If pressed by attackers, the surviving illithids and the elder brain move into the vessel and immediately shift to another world, leaving the attackers in their wake.
 
-GUARDROOM
-ILLITHID QUARTERS
-COMMON
-ROOM
-CLEANSING
-CHAMBERS
-ELDER BRAIN
-CHAMBER
-BRAIN
-LIBRARY
-RESTING POOL
-STRANSFORMATION
-CHAMBER C
-PRISON
-TADPOLE
-CHAMBERS
-LIBRARY/DISSECTION
-CHAMBER
-GUARDROOM
-ESCAPE
-SHAFT
-IND FLAYER
-COLONY
-UNDERCAVERN
-50 FEET.
+#### MOBILE LAIRS
 
+A few nautiloids are large enough to hold an entire colony, serving as a mobile lair. A colony that uses a nautiloid in this way is much more aggressive than other colonies, since it can effectively carry out hit-and-run attacks and can vacate an area that has been depleted of victims.
 
-SHIPS THAT SAIL BETWEEN THE STARS? NEXT YE
-WILL SPIN TALES OF A TALKING HIPPOPOTAMUS
-THAT WALKS ON TWO LEGS AND CARRIES A BOW
-1 ASKED YE TO RESEARCH FACTS ABOUT OTHER
-WORLDS, NOT SPEND A WEEK IN AN OPIUM DEN
-- ELMINSTER
-Most colonies that possess a nautiloid save it for use
-as an emergency escape vehicle. If pressed by attackers,
-the surviving illithids and the elder brain move into the
-vessel and immediately shift to another world, leaving
-the attackers in their wake.
-MOBILE LAIRS
-A few nautiloids are large enough to hold an entire
-colony, serving as a mobile lair. A colony that uses a
-nautiloid in this way is much more aggressive than other
-colonies, since it can effectively carry out hit-and-run
-attacks and can vacate an area that has been depleted
-of victims.
-These immense vessels invariably have protections
-that enable them to survive in extreme environments. As
-such, the illithids typically locate their lair on a moun-
-taintop, beneath the surface of the ocean, or at the upper
-levels of the atmosphere-places where raids by their
-enemies are almost impossible.
-MIND FLAYER MAGIC
-From their perspective as masters of psionic energy,
-mind flayers view magic as a wild, unpredictable, and
-primitive source of power. After all, anything that simple
-humanoids can learn to use must be ineffectual com-
-pared to what illithids are capable of.
-ARCANE MAGIC
-Mind flayers consider arcane magic to be an abomi-
-nation, a twisted cousin of psionic power that will be
-erased from the multiverse when the illithids' empire
-rises again. Some sages speculate that this attitude
-arose among the mind flayers because magic played an
-important role in the rebellion of the gith.
-In any case, a few renegade mind flayers do pursue
-arcane magic. Using some of the items or spells they
-discover, they can shield their minds as they aspire to
-break free of the elder brain's control.
-Eventually, a mind flayer thus separated from the
-hive turns to the path of lichdom. Just as the elder brain
-offers immortality to its faithful illithids, so does becom-
-ing a lich ensure life everlasting. The feeling of freedom
-that comes from this change is liberating, but the spec-
-ter of death forever after colors the mind flayer's actions.
-An undead mind flayer is hated and hunted by other
-illithids, but many are powerful enough to stand on their
-own against attackers.
-See the alhoon entry in chapter 3 of this book for
-more information on undead mind flayers.
-MONSTER LORR
-FUNERARY BRAIN JARS
-When a mind flayer dies, other mind flayers try to salvage
-the dead illithid's brain and bring it to the colony's brine
-pool for the elder brain to consume. For this purpose,
-mind flayers craft funerary brain jars made of stone. Every
-jar is made for an individual, inscribed with Qualith and
-artwork that relate the mind flayer's accomplishments. Of.
-ten a mind flayer's funerary brain jar is created long before
-the illithid's death and updated as the years pass, with the
-jar serving as a diary of sorts for the one whose brain will
-eventually fill it. After it is filled with brine, a funerary brain
-jar can preserve a brain without spoiling for 1d4 + 10 days.
-DIVINE MAGIC
-Illithids acknowledge the existence of divine entities, but
-it is unusual for any but a deviant mind flayer to actively
-worship such a power. Since they are capable of planar
-travel, illithids don't view the afterlife and the Outer
-Planes in the mythic way that most other races do. II-
-lithids don't believe they possess souls whose eternal
-fate is governed by the gods. Instead, when a mind flay-
-er's brain is returned to the elder brain to be consumed,
-the creature's intelligence lives on. Only if an illithid's
-brain isn't retrieved after death would its consciousness
-be cast into oblivion.
-Two divine entities have long been associated with
-mind flayers by the scholars of other races. These aren't
-deities, but rather manifestations of ideal psionic and
-philosophical mental states that mind flayers revere.
-Illithids occasionally meditate on these ideals while
-performing physical movements meant to help them
-achieve the proper attitude-actions that have often
-been misinterpreted by observers as worship.
-Maanzecorian. The entity/concept called Maanzeco-
-rian embodies a complete comprehension of knowledge.
-It is a state wherein memories, thoughts, and aptitudes
-are dredged up from one's mind not one at a time as
-needed, but are all laid bare and brought to the fore at
-once. The perfect memories exhibited by aboleths have
-long fascinated mind flayers that emulate Maanzeco-
-rian, leading to frequent conflict between the two races.
-Ilsensine. Ilsensine is a broader philosophical ideal
-than Maanzecorian, leading many sages to assume it
-must be the more important or more powerful of the two
-"gods." Ilsensine represents not just mastery of one's
-own mind but a psionic union between oneself and the
-realm of universal knowledge. Different elder brains
-have different interpretations of what this state consists
-of and how to achieve it. Elder brains and illithids that
-devote themselves to Ilsensine sometimes pursue ways
-to dominate gods of knowledge or even aspire to sup-
-plant those gods on the way to attaining the state of full
-incorporation into the universal consciousness.
-MIND FLAYER MAGIC ITEMS
-Some mind flayer colonies have developed the ability
-to create or modify certain kinds of gear, imbuing them
-with psionic energy. Mind flayers craft magic items that
-only they or their thralls can use—a sensible security
-measure to keep enemies from turning the illithids' own
-creations against them.
-MIND BLADE
-Weapon (any sword), rare requires
-cific individual)
-Mind flayers can turn any nonmagic
-blade. Only one creature can attune
-cific mind flayer or one of its thralls.
-other creature, the mind blade funct
-sword of its kind. In the hands of its
-the mind blade is a magic weapon th
-2d6 psychic damage to any target it
-MIND CARAPACE ARMOR
-Armor (any heavy armor), uncommo
-ment by a specific individual)
-Any nonmagical suit of heavy armor
-by mind flayers into mind carapace
-creature can attune to it: either a spe
-or one of its thralls. While worn by a
-the mind carapace armor functions
-of its kind. To its intended wearer, th
-vantage on Intelligence, Wisdom, an
-throws and makes its wearer immur
-condition.
-MIND LASH
-Weapon (whip), rare (requires attune
-flayer)
-In the hands of a creature other than
-mind lash functions as a normal whi
-an illithid, this magic weapon strips
-will to survive as it also strips away
-extra 2d4 psychic damage to any tar
-ture that takes psychic damage from
-also succeed on a DC 15 Wisdom sa
-disadvantage on Intelligence, Wisdor
-saving throws for 1 minute. The crea
-saving throw at the end of each of its
-effect on itself on a success.
-SHIELD OF FAR SIGHT
+These immense vessels invariably have protections that enable them to survive in extreme environments. As such, the illithids typically locate their lair on a mountaintop, beneath the surface of the ocean, or at the upper levels of the atmosphere-places where raids by their enemies are almost impossible.
+
+### MIND FLAYER MAGIC
+
+From their perspective as masters of psionic energy, mind flayers view magic as a wild, unpredictable, and primitive source of power. After all, anything that simple humanoids can learn to use must be ineffectual compared to what illithids are capable of.
+
+#### ARCANE MAGIC
+
+Mind flayers consider arcane magic to be an abomination, a twisted cousin of psionic power that will be erased from the multiverse when the illithids' empire rises again. Some sages speculate that this attitude arose among the mind flayers because magic played an important role in the rebellion of the gith.
+
+In any case, a few renegade mind flayers do pursue arcane magic. Using some of the items or spells they discover, they can shield their minds as they aspire to break free of the elder brain's control.
+
+Eventually, a mind flayer thus separated from the hive turns to the path of lichdom. Just as the elder brain offers immortality to its faithful illithids, so does becoming a lich ensure life everlasting. The feeling of freedom that comes from this change is liberating, but the specter of death forever after colors the mind flayer's actions.
+
+An [undead mind flayer](Alhoon.md) is hated and hunted by other illithids, but many are powerful enough to stand on their own against attackers.
+
+##### FUNERARY BRAIN JARS
+
+When a mind flayer dies, other mind flayers try to salvage the dead illithid's brain and bring it to the colony's brine pool for the elder brain to consume. For this purpose, mind flayers craft funerary brain jars made of stone. Every jar is made for an individual, inscribed with Qualith and
+artwork that relate the mind flayer's accomplishments. Often a mind flayer's funerary brain jar is created long before the illithid's death and updated as the years pass, with the jar serving as a diary of sorts for the one whose brain will eventually fill it. After it is filled with brine, a funerary brain jar can preserve a brain without spoiling for 1d4 + 10 days.
+
+#### DIVINE MAGIC
+
+Illithids acknowledge the existence of divine entities, but it is unusual for any but a deviant mind flayer to actively worship such a power. Since they are capable of planar travel, illithids don't view the afterlife and the Outer Planes in the mythic way that most other races do. IIlithids don't believe they possess souls whose eternal fate is governed by the gods. Instead, when a mind flayer's brain is returned to the elder brain to be consumed, the creature's intelligence lives on. Only if an illithid's brain isn't retrieved after death would its consciousness be cast into oblivion.
+
+Two divine entities have long been associated with mind flayers by the scholars of other races. These aren't deities, but rather manifestations of ideal psionic and philosophical mental states that mind flayers revere. Illithids occasionally meditate on these ideals while performing physical movements meant to help them achieve the proper attitude-actions that have often been misinterpreted by observers as worship.
+
+**Maanzecorian.** The entity/concept called Maanzecorian embodies a complete comprehension of knowledge. It is a state wherein memories, thoughts, and aptitudes are dredged up from one's mind not one at a time as needed, but are all laid bare and brought to the fore at once. The perfect memories exhibited by [[aboleth]]s have long fascinated mind flayers that emulate Maanzecorian, leading to frequent conflict between the two races. 
+
+**Ilsensine.** Ilsensine is a broader philosophical ideal than Maanzecorian, leading many sages to assume it must be the more important or more powerful of the two "gods." Ilsensine represents not just mastery of one's own mind but a psionic union between oneself and the realm of universal knowledge. Different elder brains have different interpretations of what this state consists
+of and how to achieve it. Elder brains and illithids that devote themselves to Ilsensine sometimes pursue ways to dominate gods of knowledge or even aspire to supplant those gods on the way to attaining the state of full incorporation into the universal consciousness.
+
+#### MIND FLAYER MAGIC ITEMS
+
+Some mind flayer colonies have developed the ability to create or modify certain kinds of gear, imbuing them with psionic energy. Mind flayers craft magic items that only they or their thralls can use—a sensible security measure to keep enemies from turning the illithids' own creations against them.
+
+##### MIND BLADE
+
+Weapon (any sword), rare (requires attunement by a specific individual)
+
+Mind flayers can turn any nonmagical sword into a mind blade. Only one creature can attune to it: either a specific mind flayer or one of its thralls. In the hands of any other creature, the mind blade functions as a normal sword of its kind. In the hands of its intended wielder, the mind blade is a magic weapon that deals an extra 2d6 psychic damage to any target it hits.
+
+##### MIND CARAPACE ARMOR
+
+Armor (any heavy armor), uncommon (requires attunement by a specific individual)
+
+Any nonmagical suit of heavy armor can be turned by mind flayers into mind carapace armor. Only one creature can attune to it: either a specific mind flayer or one of its thralls. While worn by any other creature, the mind carapace armor functions as normal armor of its kind. To its intended wearer, the armor grants advantage on Intelligence, Wisdom, and Charisma saving throws and makes its wearer immune to the frightened condition.
+
+##### MIND LASH
+
+Weapon (whip), rare (requires attunement by a mind flayer)
+
+In the hands of a creature other than a mind flayer, a mind lash functions as a normal whip. In the hands of an illithid, this magic weapon strips away a creature's will to survive as it also strips away flesh, dealing an extra 2d4 psychic damage to any target it hits. Any creature that takes psychic damage from the mind lash must also succeed on a DC 15 Wisdom saving throw or have disadvantage on Intelligence, Wisdom, and Charisma saving throws for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+##### SHIELD OF FAR SIGHT
+
 Armor (shield), rare
-A mind flayer skilled at crafting mag
-shield of far sight by harvesting an ey
-gent humanoid and magically implan
-surface of a nonmagical shield. The s
-magic item once the eye is implanted
-mind flayer can give the shield to a th
-a wall in its lair. As long as the shield
-plane of existence as its creator, the r
-through the shield's eye, which has di
-range of 60 feet. While peering throu
-eye, the mind flayer can use its Mind
-though it were standing behind the sl
-If a shield of far sight is destroyed,
-created it is blinded for 2d12 hours.
-MIND FLAYER AUGMENT
-Some mind flayer colonies augment t
-nonmagical gear to make them more
-guardians and bodyguards. Two exan
-augmentations are presented here.
 
+A mind flayer skilled at crafting magic items creates a shield of far sight by harvesting an eye from an intelligent humanoid and magically implanting it on the outer surface of a nonmagical shield. The shield becomes a magic item once the eye is implanted, whereupon the mind flayer can give the shield to a thrall or hang it on a wall in its lair. As long as the shield is on the same plane of existence as its creator, the mind flayer can see through the shield's eye, which has darkvision out to a range of 60 feet. While peering through this magical eye, the mind flayer can use its Mind Blast action as though it were standing behind the shield. 
 
-MIND BLADE
-Weapon (any sword), rare (requires attunement by a spe-
-cific individual)
-Mind flayers can turn any nonmagical sword into a mind
-blade. Only one creature can attune to it: either a spe-
-cific mind flayer or one of its thralls. In the hands of any
-other creature, the mind blade functions as a normal
-sword of its kind. In the hands of its intended wielder,
-the mind blade is a magic weapon that deals an extra
-2d6 psychic damage to any target it hits.
-MIND CARAPACE ARMOR
-Armor (any heavy armor), uncommon (requires attune-
-ment by a specific individual
-Any nonmagical suit of heavy armor can be turned
-by mind flayers into mind carapace armor. Only one
-creature can attune to it: either a specific mind flayer
-or one of its thralls. While worn by any other creature,
-the mind carapace armor functions as normal armor
-of its kind. To its intended wearer, the armor grants ad-
-vantage on Intelligence, Wisdom, and Charisma saving
-throws and makes its wearer immune to the frightened
-condition.
-MIND LASH
-Weapon (whip), rare (requires attunement by a mind
-flayer)
-In the hands of a creature other than a mind flayer, a
-mind lash functions as a normal whip. In the hands of
-an illithid, this magic weapon strips away a creature's
-will to survive as it also strips away flesh, dealing an
-extra 2d4 psychic damage to any target it hits. Any crea-
-ture that takes psychic damage from the mind lash must
-also succeed on a DC 15 Wisdom saving throw or have
-disadvantage on Intelligence, Wisdom, and Charisma
-saving throws for 1 minute. The creature can repeat the
-saving throw at the end of each of its turns, ending the
-effect on itself on a success.
-SHIELD OF FAR SIGHT
-Armor (shield), rare
-A mind flayer skilled at crafting magic items creates a
-shield of far sight by harvesting an eye from an intelli-
-gent humanoid and magically implanting it on the outer
-surface of a nonmagical shield. The shield becomes a
-magic item once the eye is implanted, whereupon the
-mind flayer can give the shield to a thrall or hang it on
-a wall in its lair. As long as the shield is on the same
-plane of existence as its creator, the mind flayer can see
-through the shield's eye, which has darkvision out to a
-range of 60 feet. While peering through this magical
-eye, the mind flayer can use its Mind Blast action as
-though it were standing behind the shield.
-If a shield of far sight is destroyed, the mind flayer that
-created it is blinded for 2d12 hours.
-MIND FLAYER AUGMENTATIONS
-Some mind flayer colonies augment their thralls with
-nonmagical gear to make them more effective as lair
-guardians and bodyguards. Two examples of mind flayer
-augmentations are presented here.
-FLENSING CLAWS
-Illithids don't always provide their thralls with normal
-weapons, such as swords and axes. Sometimes they
-improve the natural capabilities of thralls by giving
-them new anatomy. Flensing claws take the form of ar-
-ticulated digits that extend into long metal blades. The
-claws are knitted into the flesh and bones of a creature's
-arms and can't be removed without surgical amputation.
-Each set of flensing claws is designed for a specific
-creature and can't be used by anyone else. A creature
-equipped with flensing claws can use its action to make
-one melee weapon attack with the claws. The claws
-deal slashing damage based on the creature's size:
-Small, 1d8; Medium, 1d10; Large, 1d12; or Huge, 2d8.
-The creature adds its proficiency bonus and Strength
-modifier to any attack roll made with the claws, and its
-Strength modifier to its damage roll when it hits a target
-with the claws. Tiny and Gargantuan creatures can't be
-fitted with flensing claws.
-SURVIVAL MANTLE
-This carapace-like augmentation encases portions of
-the wearer's shoulders, neck, and chest. A survival man-
-tle is equivalent to a suit of nonmagical half plate armor
-and takes just as long to don or doff. It can't be worn
-with other kinds of armor.
-A creature wearing a survival mantle can breathe
-normally in any environment (including a vacuum) and
-has advantage on saving throws against harmful gases
-(such as those created by a cloudkill spell, a stinking
-cloud spell, inhaled poisons, and the breath weapons of
-some dragons).
-TREASURE
-Mind flayers don't hoard coins, gemstones, jewelry, and
-other sorts of treasure. However, a colony obsessed
-with the study of biology would consider a new, alien
-specimen a great prize, especially a living creature. One
-concerned with improving its war machinery might seek
-out new gear, weapons, and armor it can use. A colony
-that collects gold coins or gemstones might do so not to
-become rich but to contaminate them with a psychic ef-
-fect it wants to spread through the surface world.
-Adventurers who are motivated by the prospect of
-vast wealth are best off avoiding mind flayer colonies.
-Although illithids are evil, and defeating them makes
-the world a safer place, they don't accumulate material
-wealth the way many other powerful creatures do. Be-
-cause of their disdain for arcane and divine power, they
-discount most magic items as trivial baubles, unless
-they are useful to the colony for a particular reason. A
-mind fayer might ignore a bag of diamonds it is offered
-as a bribe, but might listen to a proposal if a bargaining
-creature offers it news of a new construction technique
-developed by the dwarves of a faraway kingdom.
-Mind flayers know that humans, orcs, and other prim-
-itive creatures love shiny baubles and mysterious de-
-vices. They might use such objects they come across the
-way a rat catcher uses a lump of cheese-a lure to draw
-quarry into a trap.
+If a shield of far sight is destroyed, the mind flayer that created it is blinded for 2d12 hours.
+
+#### MIND FLAYER AUGMENTATIONS
+
+Some mind flayer colonies augment their thralls with nonmagical gear to make them more effective as lair guardians and bodyguards. Two examples of mind flayer augmentations are presented here.
+
+##### FLENSING CLAWS
+
+Illithids don't always provide their thralls with normal weapons, such as swords and axes. Sometimes they improve the natural capabilities of thralls by giving them new anatomy. Flensing claws take the form of articulated digits that extend into long metal blades. The claws are knitted into the flesh and bones of a creature's arms and can't be removed without surgical amputation.
+
+Each set of flensing claws is designed for a specific creature and can't be used by anyone else. A creature equipped with flensing claws can use its action to make one melee weapon attack with the claws. The claws deal slashing damage based on the creature's size: Small, 1d8; Medium, 1d10; Large, 1d12; or Huge, 2d8.
+
+The creature adds its proficiency bonus and Strength modifier to any attack roll made with the claws, and its Strength modifier to its damage roll when it hits a target with the claws. Tiny and Gargantuan creatures can't be fitted with flensing claws.
+
+##### SURVIVAL MANTLE
+
+This carapace-like augmentation encases portions of the wearer's shoulders, neck, and chest. A survival mantle is equivalent to a suit of nonmagical half plate armor and takes just as long to don or doff. It can't be worn with other kinds of armor.
+
+A creature wearing a survival mantle can breathe normally in any environment (including a vacuum) and has advantage on saving throws against harmful gases (such as those created by a cloudkill spell, a stinking cloud spell, inhaled poisons, and the breath weapons of some dragons).
+
+### TREASURE
+
+Mind flayers don't hoard coins, gemstones, jewelry, and other sorts of treasure. However, a colony obsessed with the study of biology would consider a new, alien specimen a great prize, especially a living creature. One concerned with improving its war machinery might seek out new gear, weapons, and armor it can use. A colony that collects gold coins or gemstones might do so not to
+become rich but to contaminate them with a psychic effect it wants to spread through the surface world.
+
+Adventurers who are motivated by the prospect of vast wealth are best off avoiding mind flayer colonies. Although illithids are evil, and defeating them makes the world a safer place, they don't accumulate material wealth the way many other powerful creatures do. Because of their disdain for arcane and divine power, they discount most magic items as trivial baubles, unless they are useful to the colony for a particular reason. A mind flayer might ignore a bag of diamonds it is offered as a bribe, but might listen to a proposal if a bargaining creature offers it news of a new construction technique developed by the dwarves of a faraway kingdom.
+
+Mind flayers know that humans, orcs, and other primitive creatures love shiny baubles and mysterious devices. They might use such objects they come across the way a rat catcher uses a lump of cheese-a lure to draw quarry into a trap.
+
+## On what an Illithid might eat
 
 > Because of the mind flayer’s all-encompassing nervous system, food does not pass through a simple gastrointestinal tract but through a cognitive, self-aware digestive system. That system absorbs more than just nourishment from food. It scavenges enzymes, hormones, and most important, psychic energy. Illithids are known for consuming brains, but they eat other food as well, most of which contains various amounts of these needed enzymes and hormones. Internal organs are good sources, and they rank high on illithid menus. Brains are ripe with all three and are the only external source of psychic energy.
 
@@ -1002,6 +453,8 @@ quarry into a trap.
 
 > *The mind flayer swallows the bone fragment whole, and will later regurgitate it like a cat with a hairball. This is somewhat comical to watch. Unfortunately, very few people are ever in a position to appreciate it.  
 > **If the corpse falls with the hole pointed upward, the digestive acids soon eat through the membranes of mouth, nose, and ears, and the fluid drains out that way. This takes a little longer, but not much.
+
+## Another source
 
 **Mind flayers**, also known as **illithids** (sing: **illithid**; pronounced: /[ɪ](https://forgottenrealms.fandom.com/wiki/I_as_in_%22cleric%22 "I as in \"cleric\"")[l](https://forgottenrealms.fandom.com/wiki/L_as_in_%22law%22 "L as in \"law\"")ˈ[l](https://forgottenrealms.fandom.com/wiki/L_as_in_%22law%22 "L as in \"law\"")[ɪ](https://forgottenrealms.fandom.com/wiki/I_as_in_%22cleric%22 "I as in \"cleric\"")[θ](https://forgottenrealms.fandom.com/wiki/Th_as_in_%22strength%22 "Th as in \"strength\"")[ɪ](https://forgottenrealms.fandom.com/wiki/I_as_in_%22cleric%22 "I as in \"cleric\"")[d](https://forgottenrealms.fandom.com/wiki/D_as_in_%22druid%22 "D as in \"druid\"")/ _il-LITH-id_[[11]](https://forgottenrealms.fandom.com/wiki/Mind_flayer#cite_note-D#93-APG-p26-11) [![about this audio file](https://static.wikia.nocookie.net/forgottenrealms/images/f/f7/Loudspeaker.png/revision/latest/scale-to-width-down/10?cb=20210902234558)](https://forgottenrealms.fandom.com/wiki/File:Illithid.ogg "about this audio file") [listen](https://static.wikia.nocookie.net/forgottenrealms/images/4/43/Illithid.ogg/revision/latest?cb=20180516230133 "Illithid.ogg"), meaning "mind flayer" or "mind ruler" in [Undercommon](https://forgottenrealms.fandom.com/wiki/Undercommon "Undercommon")[[12]](https://forgottenrealms.fandom.com/wiki/Mind_flayer#cite_note-Dr281-p48-49-12)), and sometimes referred to as **ghaik** by the [githyanki](https://forgottenrealms.fandom.com/wiki/Githyanki "Githyanki"),[[13]](https://forgottenrealms.fandom.com/wiki/Mind_flayer#cite_note-bg3-13) were sadistic [aberrations](https://forgottenrealms.fandom.com/wiki/Aberration "Aberration") feared by sentient creatures on many worlds across the [multiverse](https://forgottenrealms.fandom.com/wiki/Multiverse "Multiverse") due to their powerful [psionic](https://forgottenrealms.fandom.com/wiki/Psionic "Psionic") abilities.[[1]](https://forgottenrealms.fandom.com/wiki/Mind_flayer#cite_note-MM5e-p221-222-1) From their twisted lairs deep in the [Underdark](https://forgottenrealms.fandom.com/wiki/Underdark "Underdark"), these alien entities sought to expand their dominion over all other lifeforms, controlling their minds to use them as obedient thralls.[[2]](https://forgottenrealms.fandom.com/wiki/Mind_flayer#cite_note-VGM5e-p71-81-2) They consumed their victims' very personality by extracting and devouring their brains while they were still alive.[[14]](https://forgottenrealms.fandom.com/wiki/Mind_flayer#cite_note-LM3e-p61-14)
 
