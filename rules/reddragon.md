@@ -50,3 +50,7 @@ _**Commanding Presence.**_ The dragon uses Spellcasting to cast [Command](https:
 _**Fiery Rays.**_ The dragon uses Spellcasting to cast [Scorching Ray](https://www.dndbeyond.com/spells/2619005-scorching-ray) (level 3 version). The dragon can’t take this action again until the start of its next turn.
 
 _**Pounce.**_ The dragon moves up to half its Speed, and it makes one Rend attack.
+
+> [creatures](creatures.md)
+> [Dragons](Dragons.md)
+> [npcs](npcs.md)

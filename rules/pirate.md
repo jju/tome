@@ -72,3 +72,5 @@ _**Captain’s Charm.**_ _Wisdom Saving Throw:_ DC 14, one creature the pirate c
 ## Reactions
 
 _**Riposte.** Trigger:_ The pirate is hit by a melee attack roll while holding a weapon. _Response:_ The pirate adds 3 to its AC against that attack, possibly causing it to miss. On a miss, the pirate makes one Rapier attack against the triggering creature if within range.
+
+> [npcs](npcs.md)

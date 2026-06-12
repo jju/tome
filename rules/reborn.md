@@ -15,7 +15,7 @@ Rather than sleeping, reborn regularly sit and dwell on the past, hoping for som
 | 6   | A memory carries a vivid smell or sensation. What are you going to do to recreate that experience?                   |
 
 ## Reborn Origins
-Reborn might originate from circumstances similar to those of various undead or constructs. The Reborn Origins table provides suggestions for how your character became reborn.
+Reborn might originate from circumstances similar to those of various [Undead](Undead.md) or constructs. The Reborn Origins table provides suggestions for how your character became reborn.
 
 | d8  | Origins                                                                                                                          |
 | --- | -------------------------------------------------------------------------------------------------------------------------------- |

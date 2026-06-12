@@ -1,8 +1,9 @@
 * [Golden Dragon Guard](GoldenDragons)
 * [Bandits](Bandits.md)
-* [OldZhaalumi](OldZhaalumi.md)
-* [DantagEmpire](DantagEmpire.md)
+* [Old Zhaalumi](OldZhaalumi.md)
+* [Dantag Empire](DantagEmpire.md)
 * KoboldKin
-* [TheQuality](TheQuality.md)
-* [GoblinTransportGuilds](GoblinTransportGuilds.md)
+* [The Quality](TheQuality.md)
+* [Goblin Transport Guilds](GoblinTransportGuilds.md)
 * [Bloodaxes](Bloodaxes.md)
+* [The Party](TheParty.md)

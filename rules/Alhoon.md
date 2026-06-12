@@ -1,4 +1,6 @@
-Medium Undead (Mind Flayer, Wizard), Typically Neutral Evil
+# Alhoon
+
+Medium [Undead](Undead.md) (Mind Flayer, Wizard), Typically Neutral Evil
 AC 15    Initiative +3 (13)
 HP 150 (20d8 + 60)
 Speed 30 ft., fly 15 ft. (hover)

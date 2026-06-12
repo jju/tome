@@ -34,7 +34,7 @@ The name of the friendly skeleton is Rufina, and they own the village tavern. As
 
 RUFINA
 
-Formerly a human, Rufina is now an olvidado-a deceased person who remained behind after the Night of the Remembered. Rufina doesn't know how or why they don't pass on to the afterlife. Although beings like Rufina are uncommon in the region, they're not unheard of, and the skeleton is a well-liked member of the community. Rufina is neutral good and uses the [commoner](commoner.md) stat block, but is Undead and doesn't require air, food, drink, or sleep.
+Formerly a human, Rufina is now an olvidado-a deceased person who remained behind after the Night of the Remembered. Rufina doesn't know how or why they don't pass on to the afterlife. Although beings like Rufina are uncommon in the region, they're not unheard of, and the skeleton is a well-liked member of the community. Rufina is neutral good and uses the [commoner](commoner.md) stat block, but is [Undead](Undead.md) and doesn't require air, food, drink, or sleep.
 
 Rufina has been sheltering Paloma in the cellar of the tavern: after witnessing the characters' prowess the olvidado wonders if the adventurers might be able to help her.
 

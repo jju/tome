@@ -4,7 +4,7 @@
 
 [^1]: Orfuzz initially tried to bully them into this with threats of pinning murders on these drifters, but they got intimidated out of it.
 
-On the hike (with walking song) they spotted a couple of [Kobold](../Kobold.md) kids with sacks full of mushrooms. They also learned about a gigantic owl flying around, which Rurik was quickly paranoid about. 
+On the hike (with walking song) they spotted a couple of [Kobold](../Kobold.md) kids with sacks full of mushrooms. They also learned about a [gigantic owl](../GodOwls.md) flying around, which Rurik was quickly paranoid about. 
 
 Getting to the farm they were supposed to check on, there was no one around but a middle-aged Tiefling in the fireplace. The party was attacked by [invisible creatures](../Skulk.md) jumping on them, which were fairly easily dispatched (though Pog had to do a little healing) just as [Riles Greyfox](../Riles.md) showed up on someone else's horse.
 

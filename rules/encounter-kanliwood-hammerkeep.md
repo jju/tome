@@ -3,19 +3,19 @@
 
 Roll 2d6
 
-| Roll | Result                                                                                           |
-| ---- | ------------------------------------------------------------------------------------------------ |
-| 2    | Dragon (Building a Lair)                                                                         |
-| 3    | 1d4 ghouls (Eating)                                                                              |
-| 4    | 2d10 [rats](rat.md) (Lying in Ambush)                                                            |
-| 5    | [Peddler](commoner.md) weighed down with pots and pans and other basic supplies (Returning Home) |
-| 6    | Apple-laden wagon with broken wheel holding up traffic (Holding small fey captives)              |
-| 7    | Recurring NPC - [Diswoff](Diswoff.md)                                                            |
-| 8    | 1d6 [cats](cat.md) (Lying in Ambush)                                                             |
-| 9    | 1 raven perched on a signpost (Hurt)                                                             |
-| 10   | 1 [wererat](wererat.md) (Eating)                                                                 |
-| 11   | 1 ghost (Mating behaviour)                                                                       |
-| 12   | [Riora Runninggoat](RioraRunninggoat.md) (Lying in Ambush)                                       |
+| Roll | Result                                                               |
+| ---- | -------------------------------------------------------------------- |
+| 2    | Dragon (Gloating)                                                    |
+| 3    | 1d2 [owlbears](owlbear.md) (Lying in Ambush)                         |
+| 4    | 1d2 redcaps (Demolishing)                                            |
+| 5    | 2d3 [giant boars](giantboar.md) (Fleeing)                            |
+| 6    | 2d4 [hobgoblins](hobgoblin.md) (Searching)                           |
+| 7    | Recurring NPC - Havilar and Tyrinnicus with bags of mushrooms (Sick) |
+| 8    | 2d4 [giant wasps](giantwasp.md) (eating)                             |
+| 9    | 2d4 [twigblights](twigblight.md) and 1 vine blight (Hurt)            |
+| 10   | 1d6 [giant badgers](giantbadger.md) (Tracking Prey)                  |
+| 11   | 2d4 [giant owl](giantowl.md) (Starving)                              |
+| 12   | [hateswords](hateswords.md) (Artistic Pursuit)                       |
 When encountering either Wizards or Dragons the party should be in great personal danger, but clever play could also bring them great advantage. If a wizard or dragon is slain, there are consequences. Allegiances shift, power vacuums appear and are filled, and valuable treasure hoards are left without their most powerful guardians.
 
 ## Wrinkle 1

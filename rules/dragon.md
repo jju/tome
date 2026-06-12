@@ -1,5 +1,6 @@
 * [reddragon](reddragon.md)
 * [golddragon](golddragon.md)
+* [greendragon](greendragon.md)
 
 territory - 50 miles across = 1 young dragon, 300 miles across = 2-3 dozen dragons if mostly young 3-4 adult/ancient, 3000 miles across = hundreds of young dozens of adults handful of ancient
 
@@ -124,7 +125,7 @@ Dragons typically establish new caches as their hoard reaches multiples of 15,00
 
 | d6  | Goal                                                                                                                                                                                                    |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Avoid decline by becoming Undead or seeking magical alternatives to aging                                                                                                                               |
+| 1   | Avoid decline by becoming [Undead](Undead.md) or seeking magical alternatives to aging                                                                                                                  |
 | 2   | Acquire a particular artifact, perhaps to complete a set (all three parts of the Regalia of Evil, the Eye of Vecna and Hand of Vecna, and so forth)                                                     |
 | 3   | Collect a complete set of artistic treasures, such as all the paintings of a great master, manuscripts for a famed author's entire body of writings, or every piece of jewelry made by a master artisan |
 | 4   | Transform an entire world into an extreme environment suitable as a lair—a volcanic hellscape, a frozen wonderland, an arid wasteland, or the like                                                      |
@@ -184,7 +185,7 @@ Engraved Wards. The arcane markings carved into hidecarved dragons' scales are m
 | 4   | Damage Resistance. The dragon has resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.                                                                                                                                           |
 | 5   | Additional Resistance. The dragon has resistance to one type of damage. Roll a d8, rerolling if you get a damage type the dragon is already resistant or immune to: 1, acid; 2, cold; 3, fire; 4, lightning: 5, necrotic: 6, psychic; 7, radiant; 8, thunder. |
 | 6   | Death Ward. The dragon can cast the death ward spell on itself and regains the ability to do so after a long rest.                                                                                                                                            |
-Mystic Markings. The sigils engraved in the scales of a hidecarved dragon echo across the Material Plane similarly to how a dragon becoming Undead does. When a dragon joins a lauth, the dragon's echoes on other worlds gain a measure of the magical protection from the dragon's engraved markings. Some of those echoes accept this inexplicable boon without questioning it. Others investigate the mystery and might end up awakening their dragonsight and discovering the nature of the lauths affecting them-perhaps eventually founding their own lauths with other dragons in a similar situation.
+Mystic Markings. The sigils engraved in the scales of a hidecarved dragon echo across the Material Plane similarly to how a dragon becoming [Undead](Undead.md) does. When a dragon joins a lauth, the dragon's echoes on other worlds gain a measure of the magical protection from the dragon's engraved markings. Some of those echoes accept this inexplicable boon without questioning it. Others investigate the mystery and might end up awakening their dragonsight and discovering the nature of the lauths affecting them-perhaps eventually founding their own lauths with other dragons in a similar situation.
 
 ### Hooks
 

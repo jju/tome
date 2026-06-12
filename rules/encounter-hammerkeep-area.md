@@ -3,19 +3,19 @@
 
 Roll 2d6
 
-| Roll | Result                                                     |
-| ---- | ---------------------------------------------------------- |
-| 2    | Dragon (Trapped)                                           |
-| 3    | 1 Cyclops (Artistic pursuit)                               |
-| 4    | 1d6+3 Goblins (non-guild) Riding Wolves (holding captives) |
-| 5    | Goblin Transport Guild (Returning Home)                    |
-| 6    | Golden Dragon Guard (Fleeing)                              |
-| 7    | Recurring NPC                                              |
-| 8    | 1d3 Giant Vultures (Mating Behaviour)                      |
-| 9    | 2d4+2 [axebeaks](axebeak.md) (Starving)                    |
-| 10   | 1d8 Worgs (Sick)                                           |
-| 11   | 1 Wereboar (Sleeping)                                      |
-| 12   | Wizard (Sick)                                              |
+| Roll | Result                                                                                                            |
+| ---- | ----------------------------------------------------------------------------------------------------------------- |
+| 2    | [greendragon](greendragon.md) (Trapped)                                                                           |
+| 3    | 1 [cyclops](cyclops.md) (Artistic pursuit)                                                                        |
+| 4    | 1d6+3 [Goblin Warriors](rules/goblin.md#Goblin%20Warrior) (non-guild) Riding [wolves](wolf.md) (holding captives) |
+| 5    | 2d4 Goblin Transport Guild [scouts](scout.md) (Returning Home)                                                    |
+| 6    | 1d4 Golden Dragon Guard - [Guard](guard.md) (Fleeing)                                                             |
+| 7    | Recurring NPC - [Odine Manysister](OdineManysister.md)                                                            |
+| 8    | 1d3 [Giant Vultures](giantvulture.md) (Mating Behaviour)                                                          |
+| 9    | 2d4+2 [Axebeaks](axebeak.md) (Starving)                                                                           |
+| 10   | 1d8 [Worgs](worg.md) (Sick)                                                                                       |
+| 11   | 1 [wereboar](wereboar.md) (Sleeping)                                                                              |
+| 12   | [Eager Wave](EagerWave.md) (Sick)                                                                                 |
 When encountering either Wizards or Dragons the party should be in great personal danger, but clever play could also bring them great advantage. If a wizard or dragon is slain, there are consequences. Allegiances shift, power vacuums appear and are filled, and valuable treasure hoards are left without their most powerful guardians.
 
 ## Wrinkle 1
