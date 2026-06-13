@@ -1,21 +1,22 @@
 # Archdruid
-Archdruids watch over the natural wonders of their domains. They seldom interact with folk away from their druid groves and shrines, unless there is a great threat to the natural order or to a nearby community. An archdruid typically has one or more pupils who are druids (see the Monster Manual), and the archdruid's lair is usually guarded by loyal Beasts and Fey creatures.
+
+Archdruids watch over the natural wonders of their domains. They seldom interact with folk away from their druid groves and shrines, unless there is a great threat to the natural order or to a nearby community. An archdruid typically has one or more pupils who are [druids](Druid.md), and the archdruid's lair is usually guarded by loyal [Beasts](Beast.md) and [Fey](Fey.md) creatures.
 
 When an archdruid uses their Change Shape action, you may choose the creature they turn into, abiding by the action's restrictions. Or you may roll on the Archdruid Favored Shapes table to determine the form the archdruid adopts. These creatures appear in the Monster Manual, unless otherwise noted.
 
 > see also [druid](rules/druid.md) and [naturepriest](naturepriest.md)
 ## Archdruid Favoured Shapes
 
-| d8  | Favored Shape                      |
-| --- | ---------------------------------- |
-| 1   | Air elemental                      |
-| 2   | Earth elemental                    |
-| 3   | Fire elemental                     |
-| 4   | Giant crocodile                    |
-| 5   | Mammoth                            |
-| 6   | Flail snail (appears in this book) |
-| 7   | Triceratops                        |
-| 8   | Water elemental                    |
+| d8  | Favored Shape   |
+| --- | --------------- |
+| 1   | Air elemental   |
+| 2   | Earth elemental |
+| 3   | Fire elemental  |
+| 4   | Giant crocodile |
+| 5   | Mammoth         |
+| 6   | Flail snail     |
+| 7   | Triceratops     |
+| 8   | Water elemental |
 ## Archdruid
 
 Medium [Humanoid](Humanoid.md) ([Druid](Druid.md)), Any Alignment
@@ -37,11 +38,11 @@ Speed 30 ft.
 **Skills** Medicine +9, Nature +5, Perception +9
 **Senses** passive Perception 19
 **Languages** Druidic plus any two languages
-CR 12 (8,400 XP; PB +4)
+**CR** 12 (8,400 XP; PB +4)
 
 ## Actions
 
-***Multiattack.*** The archdruid makes three Staff or Wildfire at-tacks. It can replace one attack with a use of Spellcasting.
+***Multiattack.*** The archdruid makes three Staff or Wildfire attacks. It can replace one attack with a use of Spellcasting.
 
 ***Staff.** Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) bludgeoning damage plus 21 (6d6) poison damage.
 
@@ -49,7 +50,7 @@ CR 12 (8,400 XP; PB +4)
 
 ***Spellcasting.*** The archdruid casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 17):
 
-* At will: *beast sense, entangle, speak with animals 3/day each: animal messenger, dominate beast, faerie fire, tree stride*
+* At will: *beast sense, entangle, [speak with animals](speakwithanimals.md) 3/day each: animal messenger, dominate beast, faerie fire, tree stride*
 * 1/day each: *commune with nature (as an action), mass cure wounds*
 
 ## Bonus Actions

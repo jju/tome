@@ -1,15 +1,17 @@
 # Shadowfell
 
-The Shadowfell, also called the Plane of Shadow. is a gloomy dimension whose sky is a black vault with neither sun nor stars.
+The Shadowfell, also called the Plane of Shadow, is a gloomy dimension whose sky is a black vault with neither sun nor stars.
 
 The Shadowfell overlaps the Material Plane in much the same way as the [Feywild](Feywild.md). Aside from the bleak landscape, it appears similar to the Material Plane. Travelers from the Material Plane who enter the Shadowfell often observe landmarks similar to the world they left, but distorted and often sinister. A mountain on the Material Plane might be replaced in the Shadowfell by a skull-shaped rock outcropping, a heap of rubble, or the crumbling ruin of a once-great castle. The forests of the Shadowfell hold sinister-looking trees, their branches reaching out to snare travelers' cloaks, and their roots coiling to trip those who pass by.
 
 Shadow dragons and [Undead](Undead.md) haunt this bleak plane, as do other creatures that thrive in the gloom, including cloakers and darkmantles.
 
 ## Shadow Crossings
+
 Shadow crossings are locations where the veil between the Material Plane and the Shadowfell is so thin that creatures can pass from one plane to the other. A blot of shadow in the corner of a dusty crypt might be a shadow crossing, as might an open grave. Shadow crossings form in gloomy places where spirits or the stench of death lingers, such as battlefields, graveyards, and tombs. They manifest only in darkness, closing as soon as they feel light's kiss.
 
 ## Domains of Dread
+
 In a far-flung corner of the Shadowfell drifts a hidden expanse of roiling mist and vague semireality. At this eerie edge of the multiverse, mysterious entities known as the Dark Powers collect the most wicked beings from across ages and worlds within inescapable, mist-shrouded demiplanes. In these shadowy prisons, the villainous beings become Darklords, able to exercise great power but confined to realms that twist their desires, capturing them in cycles of dread and despair.
 
 Mists surround each of the Domains of Dread, making it difficult to leave one domain and even harder to find a path to another. The Mists rise and fall at the whim of the Dark Powers, and they can even slip across the planes to drag people unwittingly into the dread domains. Those who live in these domains ascribe all sorts of sinister stories to the Mists-any supernatural happening, inexplicable disappearance, or malicious force can be blamed on the Mists.
@@ -31,6 +33,7 @@ The following Domains of Dread are among the most infamous. They are described i
 ***Valachan.*** The devious hunter Chajuna roams the jungles of her domain, hunting the most dangerous beasts she can find. When she grows dissatisfied with simpler prey, she draws people into a fatal contest, ensuring that the land remains steeped in blood.
 
 ## SHADOWFELL DESPAIR
+
 A melancholic atmosphere pervades the Shadowfell, and extended forays to this plane can afflict characters with despair.
 
 When you deem it appropriate, though usually not more than once per day, you can require a character not from the Shadowfell to make a DC 10 Wisdom saving throw. On a failed save, the character is affected by despair. Roll on the Shadowfell Despair table to determine the effects. You can substitute different despair effects of your own creation.

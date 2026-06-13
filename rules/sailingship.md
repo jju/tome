@@ -92,7 +92,7 @@ A warship typically includes the following additional crew to augment its fighti
 
 - Forty soldiers ([guard](guard.md))
 - Eight siege engineers ([guard](guard.md))
-- One [priest](priest.md) (the ship's surgeon)
+- One [priest](rules/priest.md) (the ship's surgeon)
 
 #### 1. Main Deck
 
