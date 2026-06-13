@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "secrets/Alhoon.md",
+                    "file": "Riles.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Alhoon"
+                  "title": "Riles"
                 }
               }
             ]
@@ -37,12 +37,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "secrets/KanliToughs.md",
+                    "file": "rules/hobgoblin.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "KanliToughs"
+                  "title": "hobgoblin"
                 }
               }
             ]
@@ -199,13 +199,21 @@
   },
   "active": "8151a0c297c496fb",
   "lastOpenFiles": [
+    "secrets/KanliToughs.md",
+    "rules/hobgoblin.md",
+    "rules/bugbear.md",
+    "rules/scout.md",
+    "Riles.md",
+    "TheParty.md",
+    "Pog.md",
+    "Barfgeld.md",
+    "secrets/Alhoon.md",
     "stories/Hk03-MurderCurtains.md",
     "stories/Hk04.md",
     "secrets/SkerpaSnowcoat.md",
     "conflict-files-obsidian-git.md",
     "treasures.md",
     "spells.md",
-    "secrets/KanliToughs.md",
     "rules/yagnoloth.md",
     "rules/minorillusion.md",
     "rules/meazel.md",
@@ -217,14 +225,6 @@
     "rules/kraken.md",
     "rules/korred.md",
     "rules/curewounds.md",
-    "rules/couatl.md",
-    "rules/command.md",
-    "rules/cloudgiant.md",
-    "rules/bugbear.md",
-    "rules/blinkdog.md",
-    "rules/angrysorrowsworn.md",
-    "rules/absorbelements.md",
-    "rules/_statblocktemplate.md",
     "images/mirrortemple.png",
     "images/names-ho2-t.png",
     "images/names-h-ho1.png",
