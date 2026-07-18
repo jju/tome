@@ -48,5 +48,5 @@ The party escaped the temple, heading up towards the surface where they were goi
 [^2]: Dissected? Vivisected? It was unclear.
 [^3]: Possibly dragged away by an owl.
 
-> continued: [Hk04](Hk04.md)
+> continued: [Hk04-WellWellWell](Hk04-WellWellWell.md)
 > [IC4996](../IC4996.md)
