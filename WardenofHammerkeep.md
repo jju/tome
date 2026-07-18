@@ -6,6 +6,8 @@ His lieutenant is named [Orfuzz](Orfuzz.md) and she is the one who's seen more a
 
 He lives in a cottage on the grounds of the Keep, but his elderly brother [Suffering Amnon](SufferingAmnon.md) lived in [Grapplers' Creek](GrapplersCreek.md) looking after his grandson [Suffering Cairn](SufferingCairn.md) until the end of [IC4995](IC4995.md) when everyone in the town was murdered. Now Amnon and Cairn are living in the cottage with him.
 
-Yilmaz was responsible for managing the [imperial](DantagEmpire.md) side of the Wyrmstone Pact, delivering a prisoner to the 
+Yilmaz was responsible for managing the [imperial](DantagEmpire.md) side of the Wyrmstone Pact, delivering a prisoner to the [Wyrmstone Circle](WyrmstoneCircle.md) by the new moon of Sharkar each year. In [IC4995](IC4995.md) the expedition bringing the prisoner found no [Guardian](BranchGolem.md) and figured something was going terribly wrong. Secretly, Yilmaz told his brother to get out of [Grapplers' Creek](GrapplersCreek.md) for the new year.
+
+After getting reports from [the Party](TheParty.md) about the invisible stalkers and a confirmation of the dead Guardian. Yilmaz needs to decide what to do with the [Queen of the Woods](QueenoftheWoods.md). He has [the Party](TheParty.md) at his disposal, after a brief time of them worrying he was sacrificing them on an altar.
 
 > [npcs](npcs.md)
