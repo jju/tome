@@ -9,7 +9,7 @@ Led by [Ned Lolvodug](NedLolvodug.md) these [Goblinoids](Goblinoid.md) were a te
 * [The other Hobgoblin](AgruzocShallow.md) - Quiet and slightly injured male [Hobgoblin Warrior](rules/hobgoblin.md#Hobgoblin%20Warrior) 
 * The big one - Moves quietly, didn't say much
 
-In late [IC4995](IC4995.md) the patrol was dispatched by the [Queen of the Woods](QueenoftheWoods.md) from [Padserae](Padserae.md) to the [Standing Stones Circle](SkulkStones.md) to find out what happened to the year's honey-apple bearers, [Ux](Ux.md) and [Stelsyz](Stelsyz.md).
+In late [IC4995](IC4995.md) the patrol was dispatched by the [Queen of the Woods](QueenoftheWoods.md) from [Padserae](Padserae.md) to the [Standing Stones Circle](WyrmstoneCircle.md) to find out what happened to the year's honey-apple bearers, [Ux](Ux.md) and [Stelsyz](Stelsyz.md).
 
 > [factions](factions.md)
 > [npcs](npcs.md)

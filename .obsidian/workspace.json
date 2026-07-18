@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BranchGolem.md",
+                "file": "WardenofHammerkeep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BranchGolem"
+              "title": "WardenofHammerkeep"
             }
           },
           {
@@ -288,12 +288,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Stelsyz.md",
+                    "file": "WyrmstoneCircle.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Stelsyz"
+                  "title": "WyrmstoneCircle"
                 }
               }
             ],
@@ -568,15 +568,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "d10bfffdce80008d",
+  "active": "9112853efd8b4eca",
   "lastOpenFiles": [
-    "SkulkStones.md",
-    "LolPatrol.md",
+    "WardenofHammerkeep.md",
+    "WyrmstoneCircle.md",
     "Stelsyz.md",
-    "Ux.md",
     "secrets/LolPatrol.md",
-    "calendar.md",
+    "Orfuzz.md",
+    "AlzekShallow.md",
+    "IronWroughtFellowship.md",
     "BranchGolem.md",
+    "LolPatrol.md",
+    "Ux.md",
+    "calendar.md",
     "timeline.md",
     "factions.md",
     "stories/Hk04-WellWellWell.md",
@@ -591,11 +595,7 @@
     "IC4995.md",
     "stories/Hk03-MurderCurtains.md",
     "stories/Hk01-InvestigationInvisible.md",
-    "AlzekShallow.md",
     "Pog.md",
-    "Ranger.md",
-    "conflict-files-obsidian-git.md",
-    "IC4996.md",
     "images/mirrortemple.png",
     "images/Hammerkeep.png",
     "images/names-ho2-t.png",

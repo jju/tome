@@ -2,7 +2,7 @@
 
 > previously: [Hk02-MessMirrors](Hk02-MessMirrors.md)
 
-While [the party](../TheParty.md) headed to the [standing stones](../SkulkStones.md), [Pog](../Pog.md) slept in. Again. He headed out about town to see what was happening, found a note from his friends telling him where they were going then he saw a dog and almost got run over by a cart, which reminded him about the note, but there was another dog and some good salami, but oh, the note! Eventually he grabbed his gear and headed out of [town](../Hammerkeep.md).
+While [the party](../TheParty.md) headed to the [standing stones](WyrmstoneCircle.md), [Pog](../Pog.md) slept in. Again. He headed out about town to see what was happening, found a note from his friends telling him where they were going then he saw a dog and almost got run over by a cart, which reminded him about the note, but there was another dog and some good salami, but oh, the note! Eventually he grabbed his gear and headed out of [town](../Hammerkeep.md).
 
 [Pog's](../Pog.md) meandering path took him into the [Kanliwood](../Kanliwood.md) where he saw mushrooms growing, like those kobold kids said. He didn't see any god owls before getting to [Grapplers' Creek](../GrapplersCreek.md). In the town he could see where his friends had checked out different homes and the temple and found the same gory bodies. He headed into the woods.
 

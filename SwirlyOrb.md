@@ -1,6 +1,6 @@
 # Shadowy Orb of Swirliness
 
-In [IC4996](IC4996.md) [the party](TheParty.md) discovered [a small shrine](ShadowMirrorShrine.md) below some [standing stones](SkulkStones.md) in the [Kanliwood](Kanliwood.md) near [Grapplers' Creek](GrapplersCreek.md). Inside the shrine behind a secret door they found a chamber where a swirly orb sat on an altar.
+In [IC4996](IC4996.md) [the party](TheParty.md) discovered [a small shrine](ShadowMirrorShrine.md) below some [standing stones](WyrmstoneCircle.md) in the [Kanliwood](Kanliwood.md) near [Grapplers' Creek](GrapplersCreek.md). Inside the shrine behind a secret door they found a chamber where a swirly orb sat on an altar.
 
 The orb appeared filled with shadows and purple light and was very soothing to watch. It also projected its light to the ceiling, at least as reported by [Rurik](Rurik.md) (who was under the influence of some sort of calming magical effect at the time).
 

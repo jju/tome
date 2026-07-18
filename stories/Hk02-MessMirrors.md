@@ -26,7 +26,7 @@ The three adventurers headed past the Suffering farm and into the forest. (Rurik
 
 [^4]: They left Pog a note (and his share of the fee) so he'd know where they were headed.
 
-On arrival at the [standing stones](../SkulkStones.md) the party worked on exposing the staircase under the toppled stone they discovered previously. Barfgeld was less effective in this than expected (due to the slippery mud on his boots) and when he was searching for a tree to chop down for leverage he was totally spooked by a weird bunch of wood suspended from the branches of a tree. This looked "just like" the warding bundles his grandmother used to hang up to keep evil spirits away, so he decided against chopping anything down.
+On arrival at the [standing stones](WyrmstoneCircle.md) the party worked on exposing the staircase under the toppled stone they discovered previously. Barfgeld was less effective in this than expected (due to the slippery mud on his boots) and when he was searching for a tree to chop down for leverage he was totally spooked by a weird bunch of wood suspended from the branches of a tree. This looked "just like" the warding bundles his grandmother used to hang up to keep evil spirits away, so he decided against chopping anything down.
 
 Loud booming noises came from the flat central stone when the party was trying to move the toppled standing stone. Barfgeld and Riles did some experimenting and discovered that sometimes the stone boomed twice, sometimes thrice and when they actually rolled the stone over[^5] exposing the stairs, it boomed 5 times.
 
