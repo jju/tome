@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/hobgoblin.md",
+                "file": "SwirlyOrb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hobgoblin"
+              "title": "SwirlyOrb"
             }
           },
           {
@@ -584,6 +584,8 @@
   },
   "active": "d10bfffdce80008d",
   "lastOpenFiles": [
+    "SnowcoatClan.md",
+    "rules/hobgoblin.md",
     "NedLolvodug.md",
     "WyrmstoneCircle.md",
     "ShadowMirrorShrine.md",
@@ -608,8 +610,6 @@
     "GlagronorgRush.md",
     "AgruzocShallow.md",
     "KukvanodEtch.md",
-    "IC4995.md",
-    "stories/Hk03-MurderCurtains.md",
     "images/mirrortemple.png",
     "images/Hammerkeep.png",
     "images/names-ho2-t.png",
