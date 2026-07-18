@@ -2,7 +2,7 @@
 
 > previously: [Hk03-MurderCurtains](Hk03-MurderCurtains.md)
 
-When [the Party](../TheParty.md) emerged from the hole into the [Standing Stones clearing](../SkulkStones.md) they were surrounded, and though they didn't lay down their weapons immediately, they weren't too belligerent. [Pog](../Pog.md) quickly clocked that there was a hidden archer somewhere up in the trees, and they didn't waste much time in rolling the stone over the passage back down below. The leader of the group surrounding them was a big [Hobgoblin](../Hobgoblin.md) named [Ned](../NedLolvodug.md) and he did most the questioning.
+When [the Party](../TheParty.md) emerged from the hole into the [Standing Stones clearing](../SkulkStones.md) they were surrounded, and though they didn't lay down their weapons immediately, they weren't too belligerent. [Pog](../Pog.md) quickly clocked that there was a hidden archer somewhere up in the trees, and they didn't waste much time in rolling the stone over the passage back down below. The leader of [the group surrounding them](../LolPatrol.md) was a big [Hobgoblin](../Hobgoblin.md) named [Ned](../NedLolvodug.md) and he did most the questioning.
 
 At first the questioning focused on what the party had done, with the leader seemingly trying to trap them into an admission of guilt. Eventually (and after a warning arrow flew from the trees) and a lot of bickering back and forth [Ned](../NedLolvodug.md) showed them the bundle of branches tied up in a tree, all scarred and bound, demanding what they knew about it. [Barfgeld](../Barfgeld.md) had seen it before going down the hole, but hadn't realized what it was.
 
