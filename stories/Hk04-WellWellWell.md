@@ -22,7 +22,7 @@ Other bits from chatting around the fire:
 
 The party slept and in the morning decided to bring [Al](../AlzekShallow.md) back to [Hammerkeep](../Hammerkeep.md) to report to/confront the [Warden of Hammerkeep](../WardenofHammerkeep.md). On the long walk back, they discovered [Al](../AlzekShallow.md) had discovered the [Swirly Orb](../SwirlyOrb.md) in [Riles'](../Riles.md) pack, and that a lot of people are kind of racist. Together they came up with a convoluted plan to confront the [Warden](WardenofHammerkeep.md) which in the end didn't really come off (but it seemed like [Al](../AlzekShallow.md) and [Orfuzz](../Orfuzz.md) might have a history when they briefly encountered each other). 
 
-The [Warden](../WardenofHammerkeep.md) claims that [Hammerkeep](../Hammerkeep.md) had sent a prisoner out to the [Standing Stones](../SkulkStones.md) by the last New Moon of the winter (as per the arrangement) but there had been no Guardian. 
+[Suffering Dilmaz](../WardenofHammerkeep.md) claims that [Hammerkeep](../Hammerkeep.md) had sent a prisoner out to the [Standing Stones](../SkulkStones.md) by the last New Moon of the winter (as per the arrangement) but there had been no Guardian. He was frustrated the party still didn't know where the [invisible stalkers](Skulk.md) were coming from or who controlled them, but thanked them for the communication. He paid the party and told them he would be in consultation with the [Lady of Hammerkeep](BidrithCrecur.md) to see what use they could be in the future, and promised he'd be sending a message to the [Queen of the Woods](QueenoftheWoods.md) with [Al](AlzekShallow.md).
 
 > continued: Hk05
 > [IC4996](IC4996.md)
