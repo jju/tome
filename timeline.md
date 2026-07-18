@@ -3,6 +3,7 @@ For more on the [calendar](calendar.md)
 
 The year is [IC4996](IC4996.md)
 
+* 4996-01-05 - [Hk04-WellWellWell](Hk04-WellWellWell.md)
 * 4996-01-04 - [Hk02-MessMirrors](Hk02-MessMirrors.md) [Hk03-MurderCurtains](Hk03-MurderCurtains.md)
 * 4996-01-02 - [Hk01-InvestigationInvisible](Hk01-InvestigationInvisible.md)
 

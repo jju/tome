@@ -274,16 +274,30 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "SkulkStones.md",
+                    "file": "calendar.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "SkulkStones"
+                  "title": "calendar"
+                }
+              },
+              {
+                "id": "9112853efd8b4eca",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Stelsyz.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Stelsyz"
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 6
           },
           {
             "id": "f95a241c1a1d9096",
@@ -557,14 +571,18 @@
   "active": "d10bfffdce80008d",
   "lastOpenFiles": [
     "SkulkStones.md",
+    "LolPatrol.md",
+    "Stelsyz.md",
+    "Ux.md",
+    "secrets/LolPatrol.md",
+    "calendar.md",
     "BranchGolem.md",
+    "timeline.md",
     "factions.md",
     "stories/Hk04-WellWellWell.md",
     "TheParty.md",
     "stories/Hk05.md",
-    "secrets/LolPatrol.md",
     "rules/hungrysorrowsworn.md",
-    "LolPatrol.md",
     "QueenoftheWoods.md",
     "GlagronorgRush.md",
     "AgruzocShallow.md",
@@ -572,16 +590,12 @@
     "NedLolvodug.md",
     "IC4995.md",
     "stories/Hk03-MurderCurtains.md",
-    "timeline.md",
     "stories/Hk01-InvestigationInvisible.md",
     "AlzekShallow.md",
     "Pog.md",
     "Ranger.md",
     "conflict-files-obsidian-git.md",
     "IC4996.md",
-    "secrets/history.md",
-    "Riles.md",
-    "secrets/swirlyorb.md",
     "images/mirrortemple.png",
     "images/Hammerkeep.png",
     "images/names-ho2-t.png",
