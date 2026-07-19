@@ -118,6 +118,23 @@
 * Bezlov - has hills nearby
 * Udinsk - has a  very old princess with a large stone on a chain that came from a kobold hoard
 * Mitzen city, Fenningar kingdom
+* Unmar - coast town
+* Alessa - coast town far from Unmar
+* Untenborg - house with a secret room full of treasure
+* Lybek coast town, Udinsk kingdom
+* Arnum's Tower - far south
+* Yem jungle kingdom
+* Chunjaar - sunken
+* Urr-Sheb - dead and forgotten
+* Callipos hills then follow Hooj trains west to Deos where civilization began
+* Borganhund, Hustria and Yrrgen - across the Urd (mythical river)
+* Bal-Hodden - grim
+* Guth-Habben-Yor - frozen waste
+* Drudensk - home of the emperor, across the Vethandi (mythical river)
+* Fenningar and Gallia along the Pilgrim Road
+* cross Skuld (mythical river) to the Yokuri
+* Shuan-Hun and Xia-Fend - across the mountains and over the wall
+* sea of bones
 
 # Elsewhere
 

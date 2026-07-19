@@ -75,7 +75,14 @@ The Betrayer Gods are the deities who strayed from the ideals of the founding an
 | [Vecna](Vecna.md)         | NE        | Necromancy, secrets       | Arcana, Death, Grave, Knowledge | Desiccated hand with an eye in the palm    |
 | [Zehir](Zehir.md)         | CE        | Assassins, poison, snakes | Nature, Trickery                | Coiled serpent                             |
 
+## Other Gods
 
+* Gyoss - earth mother and nine daughters - of the world not of humanity
+* Kosto - the sea
+* Hestra - caves that reach deep
+* Queen of Cats/Witches
+* The Black Dragon with 10000 eyes and 500 mouths and every mouth fumes poison
+* The Red Dragon that saw the old world and its evil worship of hateful beasts and so cut its own throat to water a new world tree
 
 > source https://dnd-5e.fandom.com/wiki/Gods , *Bigby Presents Glory of the Giants*
 > [factions](factions.md)
