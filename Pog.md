@@ -38,8 +38,8 @@ Poggleston is often confused why people always think he's making jokes when he's
 * **[Skills](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) (PB +2)** Animal Handling +5, Athletics +1, Intimidation +4, Nature +2, Perception +5
 * **Resistances** Absorb Elements (spell): acid, cold, fire, lightning, or thunder
 * **Senses** Darkvision 60 ft., Passive Perception 15; Passive Insight 13; Passive Investigation 10
-* **Languages** Common, Elvish, Gnomish
-* **Level** 1 **XP:** 100
+* **Languages** Common, Elvish, Gnomish, Goblin, Common Sign Language
+* **Level** 2 **XP:** 100
 
 **Gear:** Studded Leather, Scimitar, Shortsword, Longbow, Quiver of Arrows (20), Sprig of Mistletoe, Oil, Rations (10), Rope (50 ft.), Bedroll, Tinderbox, Torches (9), Waterskin
 

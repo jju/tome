@@ -7,3 +7,4 @@
 * [Goblin Transport Guilds](GoblinTransportGuilds.md)
 * [Bloodaxes](Bloodaxes.md)
 * [The Party](TheParty.md)
+* [LolPatrol](LolPatrol.md)

@@ -1,3 +1,5 @@
+# Hobgoblins
+
 Hobgoblins trace their origins to the ancient courts of the Feywild, where they first appeared with their goblin and bugbear kin. Many of them were driven from the Feywild by the conquering god Maglubiyet, who marshaled them as soldiers, but the fey realm left its mark; wherever they are in the multiverse, they continue to channel an aspect of the Feywild's rule of reciprocity, which creates a mystical bond between the giver and the receiver of a gift.
 
 Such bonds lead hobgoblins to form communities with deep ties to one another. Vast hobgoblin legions have emerged, with ranks of devoted soldiers famed for their unity.
@@ -5,6 +7,7 @@ Such bonds lead hobgoblins to form communities with deep ties to one another. Va
 Hobgoblins are generally taller than their goblin cousins but not quite as big as bugbears. They have curved, pointed ears and noses that turn bright red or blue during displays of emotion.
 
 > Hobgoblins are large goblinoids with dark orange or red-orange skin. A hobgoblin measures virtue by physical strength and martial prowess, caring about nothing except skill and cunning in battle.
+
 ## Hobgoblin Traits
 
 **Creature Type:** [Humanoid](Humanoid.md) ([Goblinoid](Goblinoid.md))

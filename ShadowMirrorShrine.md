@@ -1,6 +1,6 @@
 # The Shrine with the Shadowy Mirrors
 
-A half hour descent into the darkness from a set of [standing stones](SkulkStones.md) near [Grapplers' Creek](GrapplersCreek.md) there is a strange little shrine down a passage beyond an archway.
+A half hour descent into the darkness from a set of [standing stones](WyrmstoneCircle.md) near [Grapplers' Creek](GrapplersCreek.md) there is a strange little shrine down a passage beyond an archway.
 
 ![mirrorshrine](images/mirrortemple.png)
 
