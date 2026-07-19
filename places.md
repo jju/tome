@@ -110,6 +110,14 @@
 * Istria, region - is far north
 * Alessia, region - coast
 * house of a robber and murderer with many bodies beneath the floorboards who are now haunting it
+* Yulles IC4500ish - place where sorcery and unholy magicks were done
+* Bocklin road - south of unteborg Fenningar kingdom
+* Osborg
+* Ulfen - site of a battle in the GrimWar where the [DantagEmpire](DantagEmpire.md) won
+* Tywen-Mor - a church was burned there in the GrimWar
+* Bezlov - has hills nearby
+* Udinsk - has a  very old princess with a large stone on a chain that came from a kobold hoard
+* Mitzen city, Fenningar kingdom
 
 # Elsewhere
 
