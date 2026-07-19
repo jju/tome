@@ -62,10 +62,14 @@
                 "id": "8151a0c297c496fb",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
+                  "type": "markdown",
+                  "state": {
+                    "file": "places.md",
+                    "mode": "source",
+                    "source": false
+                  },
                   "icon": "lucide-file",
-                  "title": "New tab"
+                  "title": "places"
                 }
               }
             ]
@@ -220,10 +224,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "9f4d61736f24e2a0",
+  "active": "8151a0c297c496fb",
   "lastOpenFiles": [
-    "stories/Hk04.md",
     "stories/Hk04-WellWellWell.md",
+    "stories/Hk04.md",
     "conflict-files-obsidian-git.md",
     "stories/Hk05.md",
     "secrets/swirlyorb.md",

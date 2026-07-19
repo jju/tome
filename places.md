@@ -103,6 +103,13 @@
 * Chambery
 * Quintus
 * Notertent
+* Unzio town, Escolla region, Gallia Kingdom - crypt corpses, has a wizard's tower
+* Castle Yarg - has a library ghost
+* Cymir Yarg region - has little forest chapels
+* Nan-Tung, the kingdom of ghosts - is over the wall
+* Istria, region - is far north
+* Alessia, region - coast
+* house of a robber and murderer with many bodies beneath the floorboards who are now haunting it
 
 # Elsewhere
 
