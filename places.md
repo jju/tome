@@ -37,6 +37,7 @@
 
 * [Padserae](Padserae.md)
 * [Sowhorn](Sowhorn.md)
+* [Unzio](Unzio.md)
 
 ### Northwest
 
@@ -105,7 +106,6 @@
 * Chambery
 * Quintus
 * Notertent
-* Unzio town, Escolla region, Gallia Kingdom - crypt corpses, has a wizard's tower
 * Castle Yarg - has a library ghost
 * Cymir Yarg region - has little forest chapels
 * Nan-Tung, the kingdom of ghosts - is over the wall
@@ -117,7 +117,7 @@
 * Ulfen - site of a battle in the GrimWar where the [DantagEmpire](DantagEmpire.md) won
 * Tywen-Mor - a church was burned there in the GrimWar
 * Bezlov - has hills nearby
-* Udinsk - has a  very old princess with a large stone on a chain that came from a kobold hoard
+* Udinsk - has a very old princess with a large stone on a chain that came from a kobold hoard
 * Mitzen city, Fenningar kingdom
 * Unmar - coast town
 * Alessa - coast town far from Unmar
