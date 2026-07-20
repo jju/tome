@@ -8,7 +8,7 @@ Their biggest military hero (Eqias an [aarakocra](rules/aarakocra.md) warlord) i
 
 ## History
 
-The [Dantag Empire](DantagEmpire.md) was formed almost five thousand years ago across the sea in the land of [Anor](Anor.md) from an alliance of the sapient species who shook off their domination by the smear of humanity. The (now somewhat mythical) founders were the [Dragonborn](Dragonborn.md), [Tiefling](Tiefling.md) and [Aarakocra](Aarakocra.md) resisters to that previous empire, but over time they gathered others to their banner of "strength in difference."
+The [Dantag Empire](DantagEmpire.md) was formed almost five thousand years ago across the sea in the land of [Anor](Anor.md) from an alliance of the sapient species who shook off their domination by the smear of humanity. The (now somewhat mythical) founders were the [Dragonborn](Dragonborn.md), [Tiefling](Tiefling.md) and [Aarakocra](Aarakocra.md) resisters to that previous empire, but over time they gathered others to their banner of "strength in difference." The seat of empire is in the glorious capital, [Drudensk](Drudensk.md).
 
 The empire claims blessings from almost all the gods and believe those gods grant them their right to rule as much of the world as exists. The Empire has a lasting enmity towards the entire concept of [Undeath](Undead.md), making necromancy (even for benevolent purposes) one of the highest crimes.
 

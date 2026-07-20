@@ -74,14 +74,16 @@
 
 * [Croaklands](Croaklands.md)
 * [Oddlewett](Oddlewett.md)
-* [FadedCoast](FadedCoast.md)
+* [Faded Coast](FadedCoast.md)
 
 ## Bodies of Water
 
-* [NuoroRiver](NuoroRiver.md)
-* [LakeArkona](LakeArkona.md)
-* [BohaiLake](BohaiLake.md)
-* [FarzaBay](FarzaBay.md)
+* [Nuoro River](NuoroRiver.md)
+* [Lake Arkona](LakeArkona.md)
+* [Bohai Lake](BohaiLake.md)
+* [Farza Bay](FarzaBay.md)
+* [Vethandi Sea](Vethandi.md)
+* [Sea of Bones](SeaofBones)
 
 ## Islands
 
@@ -111,7 +113,6 @@
 * Alessia, region - coast
 * house of a robber and murderer with many bodies beneath the floorboards who are now haunting it
 * Yulles IC4500ish - place where sorcery and unholy magicks were done
-* Bocklin road - south of unteborg Fenningar kingdom
 * Osborg
 * Ulfen - site of a battle in the GrimWar where the [DantagEmpire](DantagEmpire.md) won
 * Tywen-Mor - a church was burned there in the GrimWar
@@ -130,11 +131,9 @@
 * Borganhund, Hustria and Yrrgen - across the Urd (mythical river)
 * Bal-Hodden - grim
 * Guth-Habben-Yor - frozen waste
-* Drudensk - home of the emperor, across the Vethandi (mythical river)
 * Fenningar and Gallia along the Pilgrim Road
 * cross Skuld (mythical river) to the Yokuri
 * Shuan-Hun and Xia-Fend - across the mountains and over the wall
-* sea of bones
 
 # Elsewhere
 
