@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/hungrysorrowsworn.md",
+                "file": "rules/lostsorrowsworn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hungrysorrowsworn"
+              "title": "lostsorrowsworn"
             }
           },
           {
@@ -597,8 +597,10 @@
   },
   "active": "f6a0694689fe9ca8",
   "lastOpenFiles": [
-    "rules/angrysorrowsworn.md",
+    "rules/lonelysorrowsworn.md",
+    "rules/hungrysorrowsworn.md",
     "rules/awakenedtree.md",
+    "rules/angrysorrowsworn.md",
     "rules/annishag.md",
     "Abyss.md",
     "rules/sacredflame.md",
@@ -621,8 +623,6 @@
     "rules/archdruid.md",
     "rules/druid.md",
     "TheLastOne.md",
-    "TheAngry.md",
-    "secrets/swirlyorb.md",
     "images/mirrortemple.png",
     "images/Hammerkeep.png",
     "images/names-ho2-t.png",
