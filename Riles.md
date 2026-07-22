@@ -36,7 +36,7 @@ Riles in his wandering scam normally moves on before people get wise to his shen
 * **[Skills](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) (PB +2)** Animal Handling +2, Athletics +6, Intimidation +2, Perception +2, Stealth +5
 * **Senses** Passive Perception 13; Passive Insight 13; Passive Investigation 10
 * **Languages** Common, Common Sign Language, Halfling
-* **Level:** 1 **XP:** 100
+* **Level:** 2 **XP:** 100
 
 **Gear:** Chain Mail, Shield, Longsword, Javelins (6), Crowbar, Holy Symbol, Rations (7), Robe, Blanket, Tinderbox, Lamp, Holy Water
 

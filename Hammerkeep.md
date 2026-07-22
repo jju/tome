@@ -24,7 +24,6 @@ There's also a council of advisors for the city. This includes [Lor Stalk](LorSt
 
 The city has about 70 fulltime guards, some of whom are stationed in the castle when on duty. Their leader is [Thiala Ostoroth](ThialaOstoroth.md) an imperious [Aarakocra](Aarakocra.md).
 
-
 ## Circle of Healing
 
 The [Circle of Healing Arts](CircleofHealingArts.md) is a low wooden building near the Docks. It's a place where the sick come for herbs, or for boils to be lanced or for strange illnesses to be assessed.
