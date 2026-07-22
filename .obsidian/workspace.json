@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TheWretched.md",
+                "file": "Witchpeak.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TheWretched"
+              "title": "Witchpeak"
             }
           },
           {
@@ -609,10 +609,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "2771a0702e231c15",
+  "active": "b6615a5db251fcbe",
   "lastOpenFiles": [
-    "rules/awakenedtree.md",
+    "Witchpeak.md",
     "TheWretched.md",
+    "secrets/rumours.md",
+    "rules/meazel.md",
+    "rules/awakenedtree.md",
     "Sorrowsworn.md",
     "TheLost.md",
     "TheLonely.md",
@@ -628,15 +631,12 @@
     "rules/sacredflame.md",
     "Aarakocra.md",
     "spells.md",
-    "secrets/rumours.md",
     "secrets/Skulk.md",
     "secrets/Rodham.md",
     "secrets/history.md",
     "secrets/Illithid.md",
     "secrets/Rundan.md",
     "secrets/world.md",
-    "secrets/index.md",
-    "stories/Hk05.md",
     "images/mirrortemple.png",
     "images/Hammerkeep.png",
     "images/names-ho2-t.png",

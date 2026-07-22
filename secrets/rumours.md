@@ -6,7 +6,7 @@
 * South of the mountains was once a green valley, filled with villages, kin to the Grinvolt clans. In my father’s father’s time, there was trade, supposedly. unmendedway
 * Hainsley Hall was built on a locus of misfortune. None who lived there came to a peaceful end. hauntinghainsleyhall
 * The “people of stone” founded a great city, far underground, as a peaceful meeting place for all. citycarreg
-* Last year, a sorcerer-pretender set off from here “to reclaim Parrow Mountain.” She hired many locals as porters, but none returned. chainsofheaven
+* Last year, a sorcerer-pretender set off from here “to reclaim Parrow Mountain.” She hired many locals as porters, but none returned. chainsofheaven 
 ## Rodham
 
 01-06: Rodham? Some sort of deep-forest share-all, supposed to be better than life under any king or baron. Don’t know much about it, don’t hear much; they keep to themselves. Tree-lovers. The fellow who founded it got killed by bears, or some such; Rodney something or other. These things never end well.
