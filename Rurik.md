@@ -84,8 +84,8 @@ Rurik, beside himself, took to spending more time in taverns, trying to find the
 * ***[Sleep.](rules/sleep.md)*** Each creature in a 5 ft. sphere from a point within 60 ft makes DC 13 Wis save or be Incapacitated until end of next turn, then another DC 13 Wis save or be Unconscious for 1 minute. (Doesn't work against creatures that don't sleep or are immune to Exhaustion.)
 * ***[Command.](rules/command.md)*** Target makes DC 13 Wis save or follow one of these commands: Approach, Drop, Flee, Grovel, Halt.
 * ***[Hideous Laughter.](rules/hideouslaughter.md)*** Target makes DC 13 Wis save or is Prone and Incapacitated with laughter for 1 minute.
-* Faerie Fire
-* Comprehend Languages
+* ***[Faerie Fire](faeriefire.md).*** Objects in 20 ft cube shed dim light, Dex save or can't benefit from invisibility. Attacks have Advantage. (Needs concentration or 1 minute).
+* ***[Comprehend Languages](comprehendlanguages.md).*** For 1 hour understand any language heard/signed and if touching surface can read (at a ~1 page/minute rate).
 * 
 
 ## Bonus Actions

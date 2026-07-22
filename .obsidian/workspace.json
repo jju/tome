@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Riles.md",
+                "file": "secrets/swirlyorb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Riles"
+              "title": "swirlyorb"
             }
           },
           {
@@ -187,6 +187,76 @@
                 }
               },
               {
+                "id": "66922a833a3ad76c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "rules/sacredflame.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "sacredflame"
+                }
+              },
+              {
+                "id": "0ccf18e6ba068f3f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "rules/wordofradiance.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "wordofradiance"
+                }
+              },
+              {
+                "id": "f681ecd209566713",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "rules/faeriefire.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "faeriefire"
+                }
+              },
+              {
+                "id": "86f8133ecaccafce",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "rules/comprehendlanguages.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "comprehendlanguages"
+                }
+              },
+              {
+                "id": "e08110d5252fee77",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "rules/scrying.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "scrying"
+                }
+              },
+              {
                 "id": "d133ac69102c6d4b",
                 "type": "leaf",
                 "state": {
@@ -241,7 +311,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 8
           },
           {
             "id": "f95a241c1a1d9096",
@@ -514,10 +584,20 @@
   },
   "active": "f6a0694689fe9ca8",
   "lastOpenFiles": [
-    "TheParty.md",
+    "SwirlyOrb.md",
+    "secrets/swirlyorb.md",
+    "rules/scrying.md",
+    "rules/comprehendlanguages.md",
     "Pog.md",
-    "Golem.md",
+    "TheParty.md",
+    "Rurik.md",
+    "rules/faeriefire.md",
+    "rules/wordofradiance.md",
+    "Riles.md",
+    "rules/sacredflame.md",
+    "rules/guidingbolt.md",
     "spells.md",
+    "Golem.md",
     "CymirYarg.md",
     "rules/aarakocra.md",
     "rules/_statblocktemplate.md",
@@ -530,16 +610,6 @@
     "gods.md",
     "Bugbear.md",
     "Bane.md",
-    "rules/claygolem.md",
-    "places.md",
-    "rules/allip.md",
-    "rules/citywatch.md",
-    "Hammerkeep.md",
-    "Nan-Tung.md",
-    "Demon.md",
-    "Khudurra.md",
-    "Ikizh.md",
-    "secrets/history.md",
     "images/mirrortemple.png",
     "images/Hammerkeep.png",
     "images/names-ho2-t.png",

@@ -61,8 +61,8 @@ Riles in his wandering scam normally moves on before people get wise to his shen
 - ***[Cure Wounds.](rules/curewounds.md)*** Touch to heal 2d8 + 3 HP for a creature.
 - ***[Shield of Faith.](rules/shieldoffaith.md)*** Bonus +2 AC for a creature within 60 ft. for 10 minutes (needs to be praying).
 - ***[Guiding Bolt.](guidingbolt.md)** Ranged Spell Attack:* +5 120 ft. *Hit:* 4d6 Radiant. Next attack has Advantage. 
-- Sacred Flame
-- Word of Radiance
+- ***[Sacred Flame](sacredflame.md)*** Visible target within 60 ft makes Dex Save or take 1d8 Radiant.
+- ***[Word of Radiance](wordofradiance.md)*** Each creature in 5 ft Emanation makes Con Save or take 1d6 Radiant.
 
 [^1]: Hit target has disadvantage on next attack roll.
 [^2]: Hit target has Speed reduced by 10 ft.
