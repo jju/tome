@@ -55,12 +55,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secrets/swirlyorb.md",
+                "file": "TheLost.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "swirlyorb"
+              "title": "TheLost"
+            }
+          },
+          {
+            "id": "ba48e00fcda0a9d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "secrets/Rodham.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rodham"
             }
           },
           {
@@ -120,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "ce196e2f9001aae7",
@@ -582,10 +596,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "f6a0694689fe9ca8",
+  "active": "ba48e00fcda0a9d3",
   "lastOpenFiles": [
-    "SwirlyOrb.md",
+    "Rodham.md",
+    "Druid.md",
+    "rules/naturepriest.md",
+    "CymirYarg.md",
+    "rules/archdruid.md",
+    "rules/druid.md",
+    "secrets/Rodham.md",
+    "TheLost.md",
+    "TheLastOne.md",
+    "TheAngry.md",
     "secrets/swirlyorb.md",
+    "SwirlyOrb.md",
     "rules/scrying.md",
     "rules/comprehendlanguages.md",
     "Pog.md",
@@ -598,18 +622,8 @@
     "rules/guidingbolt.md",
     "spells.md",
     "Golem.md",
-    "CymirYarg.md",
     "rules/aarakocra.md",
     "rules/_statblocktemplate.md",
-    "rules/angrysorrowsworn.md",
-    "rules/lonelysorrowsworn.md",
-    "rules/lostsorrowsworn.md",
-    "rules/wretchedsorrowsworn.md",
-    "Construct.md",
-    "Sivekkah.md",
-    "gods.md",
-    "Bugbear.md",
-    "Bane.md",
     "images/mirrortemple.png",
     "images/Hammerkeep.png",
     "images/names-ho2-t.png",
