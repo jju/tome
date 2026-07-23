@@ -1,0 +1,50 @@
+# Clay Golem
+
+[Clay Golem](https://www.dndbeyond.com/monsters/5194945-clay-golem)
+
+Large [Construct](Construct.md), Unaligned
+AC 14    Initiative +3 (13)
+HP 123 (13d10 + 52)
+Speed 20 ft.
+
+|     |     | Mod | Save |
+| --- | --- | --- | ---- |
+| STR | 20  | +5  | +5   |
+| DEX | 9   | −1  | −1   |
+| CON | 18  | +4  | +4   |
+
+|     |     | Mod | Save |
+| --- | --- | --- | ---- |
+| INT | 3   | −4  | −4   |
+| WIS | 8   | −1  | −1   |
+| CHA | 1   | −5  | −5   |
+
+**Resistances** Bludgeoning, Piercing, Slashing
+**Immunities** Acid, Poison, Psychic; [Charmed](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#CharmedCondition), [Exhaustion](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ExhaustionCondition), [Frightened](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#FrightenedCondition), [Paralyzed](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ParalyzedCondition), [Petrified](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#PetrifiedCondition), [Poisoned](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#PoisonedCondition)
+**Senses** [Darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft.; Passive Perception 9
+**Languages** Common plus one other language
+**CR** 9 (XP 5,000; PB +4)
+
+## Traits
+
+**_Acid Absorption._** Whenever the golem is subjected to Acid damage, it takes no damage and instead regains a number of Hit Points equal to the Acid damage dealt.
+
+**_Berserk._** Whenever the golem starts its turn [Bloodied](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Bloodied), roll 1d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object. Once the golem goes berserk, it continues to be berserk until it is destroyed or it is no longer Bloodied.
+
+**_Immutable Form._** The golem can’t shape-shift.
+
+**_Magic Resistance._** The golem has [Advantage](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Advantage) on saving throws against spells and other magical effects.
+
+## Actions
+
+**_Multiattack._** The golem makes two Slam attacks, or it makes three Slam attacks if it used Hasten this turn.
+
+**_Slam._** _Melee Attack Roll:_ +9, reach 5 ft. _Hit:_ 10 (1d10 + 5) Bludgeoning damage plus 6 (1d12) Acid damage, and the target’s Hit Point maximum decreases by an amount equal to the Acid damage taken.
+
+## Bonus Actions
+
+**_Hasten (Recharge 5–6)._** The golem takes the [Dash](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#DashAction) and [Disengage](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#DisengageAction) actions.
+
+> [species](species.md)
+> [srd](srd.md)
+> [npcs](npcs.md)

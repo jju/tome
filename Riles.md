@@ -36,7 +36,7 @@ Riles in his wandering scam normally moves on before people get wise to his shen
 * **[Skills](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) (PB +2)** Animal Handling +2, Athletics +6, Intimidation +2, Perception +2, Stealth +5
 * **Senses** Passive Perception 13; Passive Insight 13; Passive Investigation 10
 * **Languages** Common, Common Sign Language, Halfling
-* **Level:** 1 **XP:** 100
+* **Level:** 2 **XP:** 100
 
 **Gear:** Chain Mail, Shield, Longsword, Javelins (6), Crowbar, Holy Symbol, Rations (7), Robe, Blanket, Tinderbox, Lamp, Holy Water
 
@@ -61,8 +61,8 @@ Riles in his wandering scam normally moves on before people get wise to his shen
 - ***[Cure Wounds.](rules/curewounds.md)*** Touch to heal 2d8 + 3 HP for a creature.
 - ***[Shield of Faith.](rules/shieldoffaith.md)*** Bonus +2 AC for a creature within 60 ft. for 10 minutes (needs to be praying).
 - ***[Guiding Bolt.](guidingbolt.md)** Ranged Spell Attack:* +5 120 ft. *Hit:* 4d6 Radiant. Next attack has Advantage. 
-- Sacred Flame
-- Word of Radiance
+- ***[Sacred Flame](sacredflame.md)*** Visible target within 60 ft makes Dex Save or take 1d8 Radiant.
+- ***[Word of Radiance](wordofradiance.md)*** Each creature in 5 ft Emanation makes Con Save or take 1d6 Radiant.
 
 [^1]: Hit target has disadvantage on next attack roll.
 [^2]: Hit target has Speed reduced by 10 ft.

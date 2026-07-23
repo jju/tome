@@ -9,6 +9,8 @@ When the [Dantag Empire](DantagEmpire.md) gave [Zhaalum](Zhaalum.md) to the [Dra
 ## The Last Five Hundred Years
 
 These were centuries of relative Imperial peace. The pious regime was ascendant and [Nuoro](Nuoro.md) was a land dedicated to its gods. Many expeditions were sent out in these times to locate remnants of arcane knowledge and destroy it. Fighting pockets of [Undead](Undead.md) and patrolling for [Bandits](Bandits.md) were primary roles of the state. The [Dwarf Road](DwarfRoad.md) was completed in this era, and the [Dwarves](Dwarf.md) of [Zhaalum](Zhaalum.md) grew very prosperous with collecting tolls on the treasures they were pulling from the [Grimteeth](Grimteeth.md) mountains.
+
+Suppressed in the Imperial histories are the records of the Seree, who made an attempt to organize and control the land in sorcerous resistance after the Arcane Purge. Some say the Seree were their own empire, brought down by demigods themselves (controversially demigods unconnected to the official Empire religions.
 ## The Last Thousand Years
 
 When the [Empire](DantagEmpire.md) came to [Nuoro](Nuoro.md) it conquered the many peoples there without mass-extermination. They came with assistance and funds to build projects. The small fiefdoms generally fell in line at the sight of the cosmopolitan power the imperial army projected: their shining armour, powerful wizards, imperious priests. Queens and kings all across Nuoro bent the knee.

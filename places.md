@@ -37,6 +37,7 @@
 
 * [Padserae](Padserae.md)
 * [Sowhorn](Sowhorn.md)
+* [Unzio](Unzio.md)
 
 ### Northwest
 
@@ -74,14 +75,16 @@
 
 * [Croaklands](Croaklands.md)
 * [Oddlewett](Oddlewett.md)
-* [FadedCoast](FadedCoast.md)
+* [Faded Coast](FadedCoast.md)
 
 ## Bodies of Water
 
-* [NuoroRiver](NuoroRiver.md)
-* [LakeArkona](LakeArkona.md)
-* [BohaiLake](BohaiLake.md)
-* [FarzaBay](FarzaBay.md)
+* [Nuoro River](NuoroRiver.md)
+* [Lake Arkona](LakeArkona.md)
+* [Bohai Lake](BohaiLake.md)
+* [Farza Bay](FarzaBay.md)
+* [Vethandi Sea](Vethandi.md)
+* [Sea of Bones](SeaofBones)
 
 ## Islands
 
@@ -103,20 +106,16 @@
 * Chambery
 * Quintus
 * Notertent
-* Unzio town, Escolla region, Gallia Kingdom - crypt corpses, has a wizard's tower
-* Castle Yarg - has a library ghost
-* Cymir Yarg region - has little forest chapels
-* Nan-Tung, the kingdom of ghosts - is over the wall
+* [CastleYarg](CastleYarg.md) - has a library ghost
+* [CymirYarg](CymirYarg.md) region - has little forest chapels
+* [Nan-Tung](Nan-Tung.md), the kingdom of ghosts - is over the wall
 * Istria, region - is far north
 * Alessia, region - coast
 * house of a robber and murderer with many bodies beneath the floorboards who are now haunting it
 * Yulles IC4500ish - place where sorcery and unholy magicks were done
-* Bocklin road - south of unteborg Fenningar kingdom
 * Osborg
-* Ulfen - site of a battle in the GrimWar where the [DantagEmpire](DantagEmpire.md) won
-* Tywen-Mor - a church was burned there in the GrimWar
-* Bezlov - has hills nearby
-* Udinsk - has a  very old princess with a large stone on a chain that came from a kobold hoard
+* [Bezlov](Bezlov.md) - in the [UzakHills](UzakHills.md)
+* Udinsk - has a very old princess with a large stone on a chain that came from a kobold hoard
 * Mitzen city, Fenningar kingdom
 * Unmar - coast town
 * Alessa - coast town far from Unmar
@@ -130,11 +129,9 @@
 * Borganhund, Hustria and Yrrgen - across the Urd (mythical river)
 * Bal-Hodden - grim
 * Guth-Habben-Yor - frozen waste
-* Drudensk - home of the emperor, across the Vethandi (mythical river)
 * Fenningar and Gallia along the Pilgrim Road
 * cross Skuld (mythical river) to the Yokuri
 * Shuan-Hun and Xia-Fend - across the mountains and over the wall
-* sea of bones
 
 # Elsewhere
 

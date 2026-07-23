@@ -1,11 +1,9 @@
 # Meazel
 
 Medium [Monstrosity](Monstrosity.md), Typically Neutral Evil
-Armor Class 13
+Armor Class 13 Initiative +3 (13)
 Hit Points 35 (10d8 - 10)
 Speed 30 ft.
-
-https://dnd5etools.com/physical-stats.html#calculated-stats
 
 |     |     | Mod | Save |
 | --- | --- | --- | ---- |
@@ -43,6 +41,6 @@ Meazels are malicious hermits who fled to the [Shadowfell](Shadowfell.md) to esc
 
 The evil that corrupted meazels also imbued them with magical powers that allow them to move through shadows with ease. They can step from one pool of darkness into another one, using this talent to ambush prey. Sometimes they snatch victims around the throat with their strangling cords and then step away; other times they ferry their victims to isolated spots and then leave the hapless souls to the designs of whatever horrors lurk there.
 
-Any creatures meazels draw through the shadows are cursed by the meazels' baleful magic. The curse acts as a beacon; sorrowsworn, [Undead](Undead.md), and other terrors sense where they are located and descend on the stranded victims to tear them apart.
+Any creatures meazels draw through the shadows are cursed by the meazels' baleful magic. The curse acts as a beacon; [Sorrowsworn](Sorrowsworn.md), [Undead](Undead.md), and other terrors sense where they are located and descend on the stranded victims to tear them apart.
 
 > [creatures](creatures.md) [npcs](npcs.md)

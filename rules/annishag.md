@@ -5,7 +5,6 @@ Armor Class 17 (natural armor)
 Hit Points 90 (12d10 + 24)
 Speed 40 ft.
 
-
 |     |     | Mod | Save |
 | --- | --- | --- | ---- |
 | STR | 21  | +5  | +5   |

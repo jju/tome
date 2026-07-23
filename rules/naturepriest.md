@@ -39,3 +39,6 @@ _**Spellcasting.**_ The druid casts one of the following spells, using Wisdom as
 * ***At Will:** [Druidcraft](https://www.dndbeyond.com/spells/2619158-druidcraft), [Speak with Animals](https://www.dndbeyond.com/spells/2619059-speak-with-animals)  
 * **2/Day Each:** [Entangle](https://www.dndbeyond.com/spells/2619186-entangle), [Thunderwave](https://www.dndbeyond.com/spells/2619184-thunderwave)  
 * **1/Day Each:** [Animal Messenger](https://www.dndbeyond.com/spells/2618850-animal-messenger), [Longstrider](https://www.dndbeyond.com/spells/2619004-longstrider), [Moonbeam](https://www.dndbeyond.com/spells/2619134-moonbeam)
+
+> [npcs](npcs.md)
+> [srd](srd.md)
