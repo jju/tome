@@ -48,23 +48,8 @@
                       "icon": "lucide-file",
                       "title": "Ceratos"
                     }
-                  },
-                  {
-                    "id": "f4e36ed826d007d2",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "conflict-files-obsidian-git.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "conflict-files-obsidian-git"
-                    }
                   }
-                ],
-                "currentTab": 1
+                ]
               }
             ],
             "direction": "horizontal"
@@ -79,12 +64,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Witchpeak.md",
+                    "file": "Dragon.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Witchpeak"
+                  "title": "Dragon"
                 }
               }
             ]
@@ -241,11 +226,12 @@
   },
   "active": "8151a0c297c496fb",
   "lastOpenFiles": [
+    "creatures.md",
+    "Witchpeak.md",
     "conflict-files-obsidian-git.md",
     "Ceratos.md",
     "gods.md",
     "Ukotoa.md",
-    "Witchpeak.md",
     "places.md",
     "secrets/rumours.md",
     "secrets/Rodham.md",
@@ -266,7 +252,6 @@
     "Rodham.md",
     "Nan-Tung.md",
     "Martoi.md",
-    "Golem.md",
     "images/mirrortemple.png",
     "images/names-ho2-t.png",
     "images/names-h-ho1.png",
