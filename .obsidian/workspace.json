@@ -62,14 +62,13 @@
                 "id": "8151a0c297c496fb",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "bases",
                   "state": {
-                    "file": "hateswords.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "Untitled.base",
+                    "viewName": "Table"
                   },
-                  "icon": "lucide-file",
-                  "title": "hateswords"
+                  "icon": "lucide-table",
+                  "title": "Untitled"
                 }
               }
             ]
@@ -226,6 +225,8 @@
   },
   "active": "8151a0c297c496fb",
   "lastOpenFiles": [
+    "hateswords.md",
+    "Untitled.base",
     "HangmansLibrary.md",
     "QetselahGi.md",
     "Dragon.md",
@@ -251,7 +252,6 @@
     "Tywen-Mor.md",
     "Sorrowsworn.md",
     "Seree.md",
-    "SeaofBones.md",
     "images/mirrortemple.png",
     "images/names-ho2-t.png",
     "images/names-h-ho1.png",
