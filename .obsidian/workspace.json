@@ -4,463 +4,78 @@
     "type": "split",
     "children": [
       {
-        "id": "6951d5cab2888335",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bc57c19e33674274",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IC4995.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IC4995"
-            }
-          },
-          {
-            "id": "704f53907b6ba790",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/citywatch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "citywatch"
-            }
-          },
-          {
-            "id": "df5b6c59df1953ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bane.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bane"
-            }
-          },
-          {
-            "id": "f6a0694689fe9ca8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TheAngry.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TheAngry"
-            }
-          },
-          {
-            "id": "23ab42cd9b1059dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Witchpeak.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Witchpeak"
-            }
-          },
-          {
-            "id": "19a2290373623bd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Construct.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Construct"
-            }
-          },
-          {
-            "id": "28c3d7de2deedf3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "factions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "factions"
-            }
-          },
-          {
-            "id": "d10bfffdce80008d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "roads.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "roads"
-            }
-          },
-          {
-            "id": "26b2099eb5c78ca9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Escolla.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Escolla"
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "ce196e2f9001aae7",
+        "id": "8dd02978f0ec3b3f",
         "type": "split",
         "children": [
           {
-            "id": "6b20df96ac8835da",
+            "id": "3b50601a595bf288",
+            "type": "split",
+            "children": [
+              {
+                "id": "6b20df96ac8835da",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "9e0f6278cb9f3a50",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "npcs.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "npcs"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "3b7f5781ee059e7f",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "9f4d61736f24e2a0",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Ceratos.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Ceratos"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "456adc6c28b770da",
             "type": "tabs",
             "children": [
               {
-                "id": "2771a0702e231c15",
+                "id": "8151a0c297c496fb",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/meazel.md",
+                    "file": "hateswords.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "meazel"
-                }
-              },
-              {
-                "id": "01c8c3f1f2f01eef",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Dracolathe.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Dracolathe"
-                }
-              },
-              {
-                "id": "2a229f1b620d45fa",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Aarakocra.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Aarakocra"
-                }
-              },
-              {
-                "id": "d47eead22cae64f7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "spells.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "spells"
-                }
-              },
-              {
-                "id": "66922a833a3ad76c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/sacredflame.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "sacredflame"
-                }
-              },
-              {
-                "id": "0ccf18e6ba068f3f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/wordofradiance.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "wordofradiance"
-                }
-              },
-              {
-                "id": "f681ecd209566713",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/faeriefire.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "faeriefire"
-                }
-              },
-              {
-                "id": "86f8133ecaccafce",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/comprehendlanguages.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "comprehendlanguages"
-                }
-              },
-              {
-                "id": "e08110d5252fee77",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/scrying.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "scrying"
-                }
-              },
-              {
-                "id": "d133ac69102c6d4b",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "images/Hammerkeep.png"
-                  },
-                  "icon": "lucide-image",
-                  "title": "Hammerkeep"
-                }
-              },
-              {
-                "id": "a6f9fb22bcf9fa1d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "calendar.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "calendar"
-                }
-              },
-              {
-                "id": "c5becb6709ea775d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "gods.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "gods"
-                }
-              },
-              {
-                "id": "9112853efd8b4eca",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "WyrmstoneCircle.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "WyrmstoneCircle"
+                  "title": "hateswords"
                 }
               }
             ]
-          },
-          {
-            "id": "f95a241c1a1d9096",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "902083e6b2bb0ee3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/_statblocktemplate.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "_statblocktemplate"
-                }
-              },
-              {
-                "id": "7506a8e1c18cf3d9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "secrets/Skulk.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Skulk"
-                }
-              },
-              {
-                "id": "b6615a5db251fcbe",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "secrets/rumours.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "rumours"
-                }
-              },
-              {
-                "id": "e184a5c95bfb3b0b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/wretchedsorrowsworn.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "wretchedsorrowsworn"
-                }
-              },
-              {
-                "id": "ef7b7117b97e80be",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/lostsorrowsworn.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "lostsorrowsworn"
-                }
-              },
-              {
-                "id": "28580ac31d0956a7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/lonelysorrowsworn.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "lonelysorrowsworn"
-                }
-              },
-              {
-                "id": "86e7ba86c7ed1de7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/angrysorrowsworn.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "angrysorrowsworn"
-                }
-              },
-              {
-                "id": "eda17a1889ad3c7d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/hungrysorrowsworn.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "hungrysorrowsworn"
-                }
-              },
-              {
-                "id": "e7391f8522189bd5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Construct.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Construct"
-                }
-              }
-            ],
-            "currentTab": 2
           }
         ],
-        "direction": "horizontal"
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -492,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "undead",
+                "query": "Kara-Tur",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -609,43 +224,42 @@
       "bases:Create new base": false
     }
   },
-  "active": "b6615a5db251fcbe",
+  "active": "8151a0c297c496fb",
   "lastOpenFiles": [
+    "HangmansLibrary.md",
+    "QetselahGi.md",
+    "Dragon.md",
+    "creatures.md",
     "Witchpeak.md",
+    "conflict-files-obsidian-git.md",
+    "Ceratos.md",
+    "gods.md",
+    "Ukotoa.md",
+    "places.md",
     "secrets/rumours.md",
-    "TheWretched.md",
-    "rules/meazel.md",
-    "rules/awakenedtree.md",
-    "Sorrowsworn.md",
-    "TheLost.md",
-    "TheLonely.md",
-    "TheHungry.md",
-    "TheAngry.md",
-    "rules/wretchedsorrowsworn.md",
-    "rules/lostsorrowsworn.md",
-    "rules/lonelysorrowsworn.md",
-    "rules/hungrysorrowsworn.md",
-    "rules/angrysorrowsworn.md",
-    "rules/annishag.md",
-    "Abyss.md",
-    "rules/sacredflame.md",
-    "Aarakocra.md",
-    "spells.md",
-    "secrets/Skulk.md",
     "secrets/Rodham.md",
-    "secrets/history.md",
-    "secrets/Illithid.md",
-    "secrets/Rundan.md",
-    "secrets/world.md",
+    "rules/wordofradiance.md",
+    "rules/scrying.md",
+    "rules/sacredflame.md",
+    "rules/faeriefire.md",
+    "rules/comprehendlanguages.md",
+    "rules/claygolem.md",
+    "Yulles.md",
+    "Vethandi.md",
+    "Unzio.md",
+    "Ulfen.md",
+    "Tywen-Mor.md",
+    "Sorrowsworn.md",
+    "Seree.md",
+    "SeaofBones.md",
     "images/mirrortemple.png",
-    "images/Hammerkeep.png",
     "images/names-ho2-t.png",
-    "images/Nuoro24mi.png",
     "images/names-h-ho1.png",
     "images/names-e3-g.png",
     "images/names-e2.png",
     "images/names-db2-dw-e1.png",
-    "images/names-db2.png",
-    "images/names-db1.png"
+    "images/names-db1.png",
+    "images/Nuoro24mi.png",
+    "images/Hammerkeep.png"
   ]
 }
