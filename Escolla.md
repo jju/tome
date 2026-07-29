@@ -4,4 +4,5 @@ An area of the northern [Kanliwood](Kanliwood.md) where the forests are a little
 
 #mig 
 
-> [places](places.md)
+> [places](places.md) 
+> [forests](forests.md)
