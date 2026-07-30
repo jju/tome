@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chokewoods.md",
+                "file": "Eladrin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chokewoods"
+              "title": "Eladrin"
             }
           },
           {
@@ -409,7 +409,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -541,8 +541,9 @@
   },
   "active": "65bf8739a791303f",
   "lastOpenFiles": [
-    "Duvenstoll.md",
+    "Elf.md",
     "Chokewoods.md",
+    "Duvenstoll.md",
     "unassigned.md",
     "forests.md",
     "Fosswood.md",
@@ -566,7 +567,6 @@
     "rules/annishag.md",
     "Abyss.md",
     "rules/sacredflame.md",
-    "Aarakocra.md",
     "images/mirrortemple.png",
     "images/Hammerkeep.png",
     "images/names-ho2-t.png",
