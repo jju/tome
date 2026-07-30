@@ -56,6 +56,8 @@ Not every god of the Empire has a full-on temple in Hammerkeep (this isn't [Bedw
 ## Other Businesses
 
 * Zan's Tradehouse - good place to find work as a caravan guard
+* [Thalane Truthhauler Kalukithino](ThalaneTruthhaulerKalukithino.md) - blacksmith focusing on large farm implements
+* [RolandBohr](RolandBohr.md) - [Dwarf](Dwarf.md) blacksmith 
 
 ## Demographics
 
