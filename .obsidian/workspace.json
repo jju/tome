@@ -92,6 +92,20 @@
             }
           },
           {
+            "id": "02b185d6f17fd52d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rules/eladrin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "eladrin"
+            }
+          },
+          {
             "id": "19a2290373623bd1",
             "type": "leaf",
             "state": {
@@ -378,12 +392,22 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Construct.md",
+                    "file": "Golem.md",
                     "mode": "source",
-                    "source": false
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
                   },
                   "icon": "lucide-file",
-                  "title": "Construct"
+                  "title": "Golem"
                 }
               }
             ],
@@ -539,10 +563,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "19a2290373623bd1",
+  "active": "02b185d6f17fd52d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Eladrin.md",
+    "Golem.md",
+    "Construct.md",
+    "conflict-files-obsidian-git.md",
     "secrets/KaranliwoodNecromancer.md",
     "VakSerpent.md",
     "Untitled.base",
@@ -555,7 +581,6 @@
     "forests.md",
     "Fosswood.md",
     "Escolla.md",
-    "Construct.md",
     "rules/hungrysorrowsworn.md",
     "rules/angrysorrowsworn.md",
     "rules/lonelysorrowsworn.md",
@@ -567,7 +592,6 @@
     "rules/meazel.md",
     "rules/awakenedtree.md",
     "Sorrowsworn.md",
-    "TheLost.md",
     "images/mirrortemple.png",
     "images/Hammerkeep.png",
     "images/names-ho2-t.png",
