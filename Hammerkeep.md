@@ -62,15 +62,15 @@ Not every god of the Empire has a full-on temple in Hammerkeep (this isn't [Bedw
 
 ## Demographics
 
-| Class       | Pop (%) | Species                                                 |
-| ----------- | ------- | ------------------------------------------------------- |
-| Aristocrats | 1       | [Aarakocra](Aarakocra.md) & [Dragonborn](Dragonborn.md) |
-| Wealthy     | 5       | [Tiefling](Tiefling.md) & [Aarakocra](Aarakocra.md)     |
-| Comfortable | 25      | [Tiefling](Tiefling.md)                                 |
-| Modest      | 25      | [Halfling](Halfling.md) & [Dwarf](Dwarf.md)             |
-| Poor        | 20      | [Halfling](Halfling.md) & [Dwarf](Dwarf.md)             |
-| Squalid     | 20      | [Halfling](Halfling.md)                                 |
-| Wretched    | 4       | [Halfling](Halfling.md)                                 |
+| Class       | Pop (%) | Species                                                                           |
+| ----------- | ------- | --------------------------------------------------------------------------------- |
+| Aristocrats | 1       | [Aarakocra](Aarakocra.md) & [Dragonborn](Dragonborn.md)                           |
+| Wealthy     | 5       | [Tiefling](Tiefling.md) & [Aarakocra](Aarakocra.md) & [Dragonborn](Dragonborn.md) |
+| Comfortable | 25      | [Tiefling](Tiefling.md)                                                           |
+| Modest      | 25      | [Halfling](Halfling.md) & [Dwarf](Dwarf.md)                                       |
+| Poor        | 20      | [Halfling](Halfling.md) & [Dwarf](Dwarf.md)                                       |
+| Squalid     | 20      | [Halfling](Halfling.md)                                                           |
+| Wretched    | 4       | [Halfling](Halfling.md)                                                           |
 The Empire extracts a 40% tax on the value of land, and their treasury is empty
 ## Factions
 

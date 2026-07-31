@@ -48,7 +48,7 @@ While no one is willing to discuss Paloma's whereabouts, a character who succeed
 
 ## CURSED VILLAGERS
 
-As they walk through the village, the characters notice many locals huddled in corners, bundled in blanket-like sarapes and trembling with cold despite it being a warm but cloudy day. If asked about them, Rufina replies that these unfortunates have caught sereno, an ailment seemingly spread by bitterly cold winds. Folk who have fallen ill speak of those winds blowing mostly at night, and Rufina warns the characters against staying out after dark. Although no one in Milpazul knows it, the sickness stems from the youth Serapio, who has transformed into a [Tlacatecolo](Tlacatecolo.md) (detailed at the end of this adventure) and hunts at night.
+As they walk through the village, the characters notice many locals huddled in corners, bundled in blanket-like sarapes and trembling with cold despite it being a warm but cloudy day. If asked about them, Rufina replies that these unfortunates have caught sereno, an ailment seemingly spread by bitterly cold winds. Folk who have fallen ill speak of those winds blowing mostly at night, and Rufina warns the characters against staying out after dark. Although no one in Milpazul knows it, the sickness stems from the youth Kiirith, who has transformed into a [Tlacatecolo](Tlacatecolo.md) (detailed at the end of this adventure) and hunts at night.
 
 A character who examines a villager with sereno and succeeds on a DC 14 Intelligence (Arcana) or Wisdom (Medicine) check determines that sereno is not a disease but a curse.
 
@@ -108,22 +108,21 @@ Paloma offers 100 gp per character for the party's assistance, and she gives the
 
 RUMORS OF HOLLOW
 
-If the characters ask around Milpazul about Hollow, they learn the information at the start of the *A
-Town Called Hollow* section. Additionally, a local overhears their inquiries and shares a chilling story.
+If the characters ask around Milpazul about Hollow, they learn the information at the start of the *A Town Called Hollow* section. Additionally, a local overhears their inquiries and shares a chilling story.
 
 > "I was riding by Hollow after dark, trying to get home, when I saw movement up by the old mine entrance. Two gaunt figures were dragging some poor soul into the mine —had it wrapped up tight. They looked like twin death, they did. I'll never forget their hissing and their slithering, horrid tongues. As a mercy, the body they were dragging looked like it was already dead. I rode on, I tell you. I didn't look back."
 
 THE FIEND'S IDENTITY
 
-The fiend that Paloma's band is searching for is Serapio, a taciturn young man who lives in San Citlán with his mother, Doña Rosa. The son of the evil sorcerer Orencio, Serapio suffers from the corruption of the demon lord Pazuzu and has transformed into a tlacatecolo (detailed at the end of the adventure). His fiendish nature compels him to spread his curse and feed on the afflicted. When he's himself, Serapio is terrified and doesn't understand why he's changing. When he's overwhelmed by fiendish influence, he's ruled by the evil of his new form.
+The fiend that Paloma's band is searching for is Kiirith, a taciturn young man who lives in San Citlán with his mother, Findex. The son of the evil sorcerer Mreksh, Kiirith suffers from the corruption of the demon lord Pazuzu and has transformed into a tlacatecolo (detailed at the end of the adventure). His fiendish nature compels him to spread his curse and feed on the afflicted. When he's himself, Kiirith is terrified and doesn't understand why he's changing. When he's overwhelmed by fiendish influence, he's ruled by the evil of his new form.
 
 FAMILY MATTERS
 
-Serapio's mother, Doña Rosa, is unaware of her son's transformation and believes he's in some trouble that he's hiding from her. She never told him about his biological father, Orencio. Years ago, Rosa lived among the San Citlánian elite, but after Orencio's execution, she fled the city to escape his followers. Starting a new life, Rosa married a man named Evaristo who helped raise Serapio. Evaristo died three months ago from a sudden illness. In truth, Evaristo was the first victim of sereno. Soon after Evaristo died, when Serapio showed signs of his own strange affliction, Rosa decided to return to San Citlán to confront her past. She believes the cult Orencio was involved with is somehow responsible, but she's found no evidence of this thus far.
+Kiirith's mother, Findex, is unaware of her son's transformation and believes he's in some trouble that he's hiding from her. She never told him about his biological father, Mreksh. Years ago, Findex lived among the San Citlánian elite, but after Mreksh's execution, she fled the city to escape his followers. Starting a new life, Findex married a man named Reirak who helped raise Kiirith. Reirak died three months ago from a sudden illness. In truth, Reirak was the first victim of sereno. Soon after Reirak died, when Kiirith showed signs of his own strange affliction, Findex decided to return to San Citlán to confront her past. She believes the cult Mreksh was involved with is somehow responsible, but she's found no evidence of this thus far.
 
 PAZUZU'S SERVANT
 
-When the wicked sorcerer Orencio was executed, his protégé, Itzmin, made his own pact with Pazuzu. Two decades later, Itzmin has become a corrupt politician in San Citlán who serves Pazuzu as Orencio did, using the demon lord's favor to secure economic and political power. Under Pazuzu's guidance, Itzmin has befriended Serapio, arranging for the young man to get part-time jobs for a produce distributor and an ironworks warehouse he owns. As Serapio comes further under Pazuzu's control, Itzmin uses the youth's fiendish hunger to sow chaos in the borderlands.
+When the wicked sorcerer Mreksh was executed, his protégé, Itzmin, made his own pact with Pazuzu. Two decades later, Itzmin has become a corrupt politician in San Citlán who serves Pazuzu as Mreksh did, using the demon lord's favor to secure economic and political power. Under Pazuzu's guidance, Itzmin has befriended Kiirith, arranging for the young man to get part-time jobs for a produce distributor and an ironworks warehouse he owns. As Kiirith comes further under Pazuzu's control, Itzmin uses the youth's fiendish hunger to sow chaos in the borderlands.
 
 A TOWN CALLED HOLLOW
 
@@ -137,7 +136,7 @@ The journey from Milpazul to Hollow takes just over half a day at a normal pace.
 
 NIGHT TRAVEL
 
-If the characters ignore Paloma's warning and travel at night, after a few hours of travel, Serapio sees them and flies overhead in his owl form. Though his mind is twisted by fiendish hunger, he is too wary to approach adventurers. A character who succeeds on a DC 14 Wisdom (Perception) check sees sudden movement in the darkness overhead as a spotted owl silently circles the party and then flies away.
+If the characters ignore Paloma's warning and travel at night, after a few hours of travel, Kiirith sees them and flies overhead in his owl form. Though his mind is twisted by fiendish hunger, he is too wary to approach adventurers. A character who succeeds on a DC 14 Wisdom (Perception) check sees sudden movement in the darkness overhead as a spotted owl silently circles the party and then flies away.
 
 HOLLOW
 
@@ -154,7 +153,7 @@ ITZMIN
 A spiteful tiefling in his late forties, Itzmin del Prado is a chaotic evil cult fanatic. He's also a politician and part of San Citlán's ruling council, the Trecena, where he serves as Councilor of Arms. The public gave him the moniker Astaverde (meaning "green horn") for his jadeite prosthetic horn.
 
 Following the death of his mother, a celebrated military general, Itzmin squandered his family's for-
-tune, and his family name became synonymous with disgrace. Desperate to regain his former glory, Itzmin sought the guidance of the cultist Orencio and forged his own pact with Pazuzu, offering his obedience in exchange for secrets that could be leveraged against San Citlán's elite.
+tune, and his family name became synonymous with disgrace. Desperate to regain his former glory, Itzmin sought the guidance of the cultist Mreksh and forged his own pact with Pazuzu, offering his obedience in exchange for secrets that could be leveraged against San Citlán's elite.
 
 Personality Trait. "I can't stand anyone treating me as their lesser."
 Ideal. "T'll do whatever it takes to gain the upper hand in any situation."
@@ -163,7 +162,7 @@ Flaw. "I value prestige over security"
 
 ITZMIN'S GOALS
 
-Itzmin wants to use Serapio's corruption to advance Pazuzu's wishes. And the more chaos reigns in the borderlands, the less organized the revolutionaries can be, which benefits Itzmin's political agenda.
+Itzmin wants to use Kiirith's corruption to advance Pazuzu's wishes. And the more chaos reigns in the borderlands, the less organized the revolutionaries can be, which benefits Itzmin's political agenda.
 
 He's currently in Hollow to cover his tracks by razing the town, caving in the mine, and destroying any evidence of the rites that have taken place there.
 
@@ -226,9 +225,9 @@ Once the characters can see into this area, read the following:
 
 This chamber is the workspace of Teocín, a [cultist](cultist.md) dedicated to Pazuzu. As soon as the characters enter, Teocín releases the two ghouls on the tables and joins them as they attack.
 
-Teocín. The cultist Teocín uses this laboratory to research ways to corrupt the magic of the Night of the Remembered. Itzmin has convinced Serapio that Teocín is trying to find a cure for him, so the young man leaves her alone. For months, Teocín's ghouls have killed animals, hunters, prospectors, and others wandering the borderlands so Teocin can study and raise the dead using profane knowledge she gleans from unholy rites.
+Teocín. The cultist Teocín uses this laboratory to research ways to corrupt the magic of the Night of the Remembered. Itzmin has convinced Kiirith that Teocín is trying to find a cure for him, so the young man leaves her alone. For months, Teocín's ghouls have killed animals, hunters, prospectors, and others wandering the borderlands so Teocin can study and raise the dead using profane knowledge she gleans from unholy rites.
 
-If Teocín is captured, she says nothing to the characters, but they can learn of her goals, Orencio, and Pazuzu by looking through her notes-dozens of filthy, scrawl-covered pages strewn about the room.
+If Teocín is captured, she says nothing to the characters, but they can learn of her goals, Mreksh, and Pazuzu by looking through her notes-dozens of filthy, scrawl-covered pages strewn about the room.
 
 **Treasure.** Teocín keeps the belongings of her victims in a chest: 2,500 cp, 950 sp, and jewelry and other trinkets worth 90 gp. She also wears a periapt of health to avoid the threat of disease that comes from working with the dead.
 
@@ -245,18 +244,18 @@ as they sense movement.
 If the mine entrance has not yet collapsed and all
 the characters are in or near this room, Itzmin detonates his charges (see the "Cave-In!" section earlier in the adventure.
 
-H4: SERAPIO'S QUARTERS
+H4: Kiirith'S QUARTERS
 
 Damaged furniture has been dragged into this area
 to create a study. Two bookshelves stand alongside
 chairs and a desk covered with papers. The rough cave walls feature gouges, as if some powerful creature dragged its claws across the stone.
 
-Itzmin set up these living quarters for Serapio, hoping to entice him away from his mother and make
-the mine feel homier. Serapio is not present when
+Itzmin set up these living quarters for Kiirith, hoping to entice him away from his mother and make
+the mine feel homier. Kiirith is not present when
 the characters arrive but often isolates himself here
 to hide his monstrous shape. Silence and isolation
 calm him, as does his hobby of sketching. When the
-corruption becomes too much, Serapio scratches
+corruption becomes too much, Kiirith scratches
 the walls with his fiendish talons.
 
 Makeshift Library. The bookshelves hold a mix of
@@ -278,9 +277,9 @@ drawings have the legend "Los Gavilanes" on them.
 Characters looking through the drawings spot two
 things of note:
 * One sketch depicts an elegantly dressed tiefling, whom the characters recognize as Itzmin if they met him outside.
-* Numerous cityscapes show a distinctive vecindad, one of the manor houses converted into apartments that are common in Los Gavilanes. Many of these sketches bear the caption "Home" written in a shaky hand. This is the vecindad of Doña Rosa.
+* Numerous cityscapes show a distinctive vecindad, one of the manor houses converted into apartments that are common in Los Gavilanes. Many of these sketches bear the caption "Home" written in a shaky hand. This is the vecindad of Findex.
 
-**Hidden Locket.** A character searching the desk's otherwise empty drawers finds half of a hinged silver locket wrapped in paper. The locket contains a tiny pencil portrait of a warmly smiling woman. The characters likely have no way of knowing it yet, but this is Serapio's mother, Doña Rosa. The other half of the locket is in Serapio's room in Hammerkeep.
+**Hidden Locket.** A character searching the desk's otherwise empty drawers finds half of a hinged silver locket wrapped in paper. The locket contains a tiny pencil portrait of a warmly smiling woman. The characters likely have no way of knowing it yet, but this is Kiirith's mother, Findex. The other half of the locket is in Kiirith's room in Hammerkeep.
 
 H5: WAILING CAVERN
 
@@ -304,7 +303,7 @@ H6: TUNNEL TO SAN CITLÁN
 
 Eerie scrawls cover the walls of this long, straight tunnel. A breeze flows from that darkness, carrying a faint scent of smoke. Foul-looking feathers litter the floor, and claw marks gouge the stone walls. This ancient tunnel runs northwest toward Hammerkeep.
 
-Itzmin, Teocín, and Serapio travel this passage from the city to the mine without attracting attention. After the demolition of area H1, this tunnel is the characters' only escape route from the mine.
+Itzmin, Teocín, and Kiirith travel this passage from the city to the mine without attracting attention. After the demolition of area H1, this tunnel is the characters' only escape route from the mine.
 
 The feathers here are unnatural, and any character who has proficiency in the Religion skill can tell they are from a fiendish creature. The claw marks match the marks in area H4. A character who can automatically sense direction or who succeeds on a DC 12 Wisdom (Survival) check knows the tunnel leads northwest toward Hammerkeep.
 
@@ -324,17 +323,17 @@ A character who succeeds on a DC 14 Intelligence (History or Religion) check kno
 
 THE FIEND'S TRAIL
 
-While the characters explored Hollow Mine, a desperate Serapio watched the preparations for the Night of the Remembered in San Citlán. Overcome by guilt, Serapio managed to fight back his fiendish urges long enough to resume his human form. He confessed to his mother, then fled his home as he felt himself transforming again. For the better part of the day since, he has flown around in spotted owl form, trying to decide what path to take.
+While the characters explored Hollow Mine, a desperate Kiirith watched the preparations for the Night of the Remembered in San Citlán. Overcome by guilt, Kiirith managed to fight back his fiendish urges long enough to resume his human form. He confessed to his mother, then fled his home as he felt himself transforming again. For the better part of the day since, he has flown around in spotted owl form, trying to decide what path to take.
 
-The characters can learn about his plight at Dona Rosa's vecindad, which they might find in multiple ways:
+The characters can learn about his plight at Dona Findex's vecindad, which they might find in multiple ways:
 
-• A character who has a passive Wisdom (Perception) score of 12 or higher notices folk on the street pointing at the sky. If asked, the people say an owl has been flying over the district during daylight-a strange portent on the Night of the Remembered. The characters can determine the owl's course by succeeding on a DC 14 Wisdom (Perception or Survival) check, which leads them to Doña Rosa's feather-littered vecindad.
-• A character can show the locket containing Dota Rosa's portrait to passersby. If they do so and succeed on a DC 14 Charisma (Persuasion) check, a character finds a local or recognizes the picture and provides directions to Doña Rosa's home.
-• If the characters kept Serapio's cityscape drawings, they can use it to find the vecindad with a successful DC 14 Wisdom (Survival) check.
+• A character who has a passive Wisdom (Perception) score of 12 or higher notices folk on the street pointing at the sky. If asked, the people say an owl has been flying over the district during daylight-a strange portent on the Night of the Remembered. The characters can determine the owl's course by succeeding on a DC 14 Wisdom (Perception or Survival) check, which leads them to Findex's feather-littered vecindad.
+• A character can show the locket containing Dota Findex's portrait to passersby. If they do so and succeed on a DC 14 Charisma (Persuasion) check, a character finds a local or recognizes the picture and provides directions to Findex's home.
+• If the characters kept Kiirith's cityscape drawings, they can use it to find the vecindad with a successful DC 14 Wisdom (Survival) check.
 
-As the characters near the vecindad, folk on the street can direct the party toward the old manor house if the characters show them Serapio's sketches. If the characters found the half-locket in area H4 of Hollow Mine, they can use a locate object spell to find the other half of the locket once they are within 1,000 feet of the vecindad.
+As the characters near the vecindad, folk on the street can direct the party toward the old manor house if the characters show them Kiirith's sketches. If the characters found the half-locket in area H4 of Hollow Mine, they can use a locate object spell to find the other half of the locket once they are within 1,000 feet of the vecindad.
 
-DOÑA ROSA'S VECINDAD
+Findex'S VECINDAD
 
 The old manor house stands on a quiet street. Read the following to set the scene:
 
@@ -344,39 +343,39 @@ ALTAR WITH OFRENDAS
 
 > A colorful altar stands opposite the entrance, its tiers covered with sketched portraits. You hear sobbing coming from one of the apartments.
 
-Most of the folk in the vecindad are celebrating, but Dona Rosa weeps alone in her apartment. Unless the characters attempt to sneak in, Doña Rosa hears them approach and opens the door. Characters who saw Serapio's locket identify Dona Rosa as the woman in the portrait. If the characters are armed, she faces them defiantly, asking, "Are you here to kill my son?" The group's answer determines how she engages with them.
+Most of the folk in the vecindad are celebrating, but Dona Findex weeps alone in her apartment. Unless the characters attempt to sneak in, Findex hears them approach and opens the door. Characters who saw Kiirith's locket identify Dona Findex as the woman in the portrait. If the characters are armed, she faces them defiantly, asking, "Are you here to kill my son?" The group's answer determines how she engages with them.
 
-DOÑA ROSA
+Findex
 
-If the characters describe the creature they're looking for, Doña Rosa (neutral good, human commoner) invites them into her home and tells them there is much they don't know about this fiend. Use the following information to guide the conversation:
+If the characters describe the creature they're looking for, Findex (neutral good, human commoner) invites them into her home and tells them there is much they don't know about this fiend. Use the following information to guide the conversation:
 
-• The creature the characters hunt is named Serapio. He is Doña Rosa's son, not a monster.
-• She had thought Serapio was ill, but he confessed his secret earlier that day and fled.
-• Serapio's father, Orencio, was a sorcerer who consorted with demons. He was executed years
-ago after Doña Rosa exposed his deeds.
-• Doña Rosa believes Orencio or the cult he served is responsible for Serapio's curse.
+• The creature the characters hunt is named Kiirith. He is Findex's son, not a monster.
+• She had thought Kiirith was ill, but he confessed his secret earlier that day and fled.
+• Kiirith's father, Mreksh, was a sorcerer who consorted with demons. He was executed years
+ago after Findex exposed his deeds.
+• Findex believes Mreksh or the cult he served is responsible for Kiirith's curse.
 • She can share any of the details from the "Family Matters" section earlier in the adventure.
 
-A Mother's Request. Doña Rosa asks the characters to spare Serapio and bring him to her, promising to look after him until she can find him help. She doesn't know where he has gone, though. 
+A Mother's Request. Findex asks the characters to spare Kiirith and bring him to her, promising to look after him until she can find him help. She doesn't know where he has gone, though. 
 
-If the characters name or describe Itzmin, Rosa knows him as Serapio's employer. She doesn't trust
+If the characters name or describe Itzmin, Findex knows him as Kiirith's employer. She doesn't trust
 him, as his friendliness rings false. 
 
-If the characters don't agree (or if they insist on killing the fiend), Doña Rosa orders them to leave.
+If the characters don't agree (or if they insist on killing the fiend), Findex orders them to leave.
 Learning more from her requires effective roleplaying to win her over, as well as a successful DC 13
 Charisma (Persuasion) check.
 
 INSIDE THE APARTMENT
 
-Doña Rosa's tiny apartment consists of a living room and a bedroom.
+Findex's tiny apartment consists of a living room and a bedroom.
 
-Living Room. A corner of the living room features an ofrenda with the portrait of a stern-looking man on top. If asked, Rosa identifies the man as her late husband and Serapio's stepfather, Evaristo. If a character treats her kindly or succeeds on a DC 12 Charisma (Persuasion) check, Rosa says that Evaristo died of an affliction the characters recognize as sereno, and that Serapio confessed to being inadvertently responsible.
+Living Room. A corner of the living room features an ofrenda with the portrait of a stern-looking man on top. If asked, Findex identifies the man as her late husband and Kiirith's stepfather, Reirak. If a character treats her kindly or succeeds on a DC 12 Charisma (Persuasion) check, Findex says that Reirak died of an affliction the characters recognize as sereno, and that Kiirith confessed to being inadvertently responsible.
 
-Bedroom. The bedroom is split by a wooden screen with bedrolls on each side. The walls on Serapio's side are lined with drawings. The other half of his locket hangs on the wall near his bedroll. This is the top half, and no picture is inside.
+Bedroom. The bedroom is split by a wooden screen with bedrolls on each side. The walls on Kiirith's side are lined with drawings. The other half of his locket hangs on the wall near his bedroll. This is the top half, and no picture is inside.
 
 OFFERINGS FOR THE DEAD
 
-After the characters speak with Doña Rosa, they see other residents of the vecindad pausing to decorate or say short prayers at the communal altar. These locals politely invite characters to help them. 
+After the characters speak with Findex, they see other residents of the vecindad pausing to decorate or say short prayers at the communal altar. These locals politely invite characters to help them. 
 
 Setting an Ofrenda. The shared altar has enough space for each character to set a small ofrenda. Locals guide them through the process:
 
@@ -392,15 +391,15 @@ You can cast speak with dead during a long rest to contact the spirit of a frien
 
 ITZMIN'S MISSION
 
-While the characters speak with his mother, Serapio meets with Itzmin at a metalworks Itzmin owns and recounts his confession to his mother. Itzmin reassures the youth that after he attends to some business, they can return to Hollow Mine. That unnamed business is the murder of Doña Rosa, whom Itzmin believes knows too much.
+While the characters speak with his mother, Kiirith meets with Itzmin at a metalworks Itzmin owns and recounts his confession to his mother. Itzmin reassures the youth that after he attends to some business, they can return to Hollow Mine. That unnamed business is the murder of Findex, whom Itzmin believes knows too much.
 
-If Itzmin died or was captured in Hollow, one of his cult fanatic protégés meets Serapio in the warehouse and takes Itzmin's place in the following chase. The characters might recognize the protégé from Serapio's drawings, or Doña Rosa can identify them as one of Itzmin's people.
+If Itzmin died or was captured in Hollow, one of his cult fanatic protégés meets Kiirith in the warehouse and takes Itzmin's place in the following chase. The characters might recognize the protégé from Kiirith's drawings, or Findex can identify them as one of Itzmin's people.
 
 As the characters leave the vecindad, they spot Itzmin or his replacement approaching. As soon as he notices the characters, he flees.
 
 PARADE CHASE
 
-Itzmin tries to lose the characters by running into a crowd celebrating the Night of the Remembered-ultimately headed for the metalworks where Serapio hides. However, the characters can give chase.
+Itzmin tries to lose the characters by running into a crowd celebrating the Night of the Remembered-ultimately headed for the metalworks where Kiirith hides. However, the characters can give chase.
 
 After rolling initiative, each participant in the chase can take one action and move on its turn. 
 
@@ -439,7 +438,7 @@ If the lead pursuer has proficiency in Survival, Itzmin loses advantage. The che
 
 If ltzmin is never out of the lead pursuer's sight, the check fails automatically. Otherwise, if the result of lizmin's check is greater than the highest passive Wisdom (Perception) score, he escapes. If not, the chase continues for another round.
 
-If the characters catch Itzmin, he tells them where Serapio is in exchange for his release. Should Itzmin escape, the character who has the highest passive Wisdom (Perception) score sees a spotted owl (Serapio in his owl form) overhead, watching Itzmin. They can follow the owl to the metalworks.
+If the characters catch Itzmin, he tells them where Kiirith is in exchange for his release. Should Itzmin escape, the character who has the highest passive Wisdom (Perception) score sees a spotted owl (Kiirith in his owl form) overhead, watching Itzmin. They can follow the owl to the metalworks.
 
 METALWORKS CONFRONTATION
 
@@ -459,31 +458,31 @@ OFFICES
 
 The two unlocked offices on the catwalk contain rough furniture, years-old business records, and mundane tools. If Itzmin reaches the warehouse, he ascends to the catwalk and hides in one of the offices, emerging and trying to escape only after he hears combat.
 
-FACING SERAPIO
+FACING Kiirith
 
-When the characters arrive, Serapio the tlacatecolo (see the end of this adventure) is lurking on the catwalk. If Itzmin has been dealt with, the young man is struggling with his fiendish form, overcome by fear and rocking back and forth. If Itzmin reached the warehouse before the characters, Serapio is expecting danger and is ready to attack.
+When the characters arrive, Kiirith the tlacatecolo (see the end of this adventure) is lurking on the catwalk. If Itzmin has been dealt with, the young man is struggling with his fiendish form, overcome by fear and rocking back and forth. If Itzmin reached the warehouse before the characters, Kiirith is expecting danger and is ready to attack.
 
-**Talking Things Through.** Trying to calm Serapio enough to talk to him requires convincing roleplaying and a DC 14 Charisma (Persuasion) check. If a character succeeds on this check before battle begins, Serapio temporarily overcomes the demonic influence afflicting him and reverts to his natural form, that of a human. He maintains this form for 1 minute, during which he begs the characters to find a way to end the curse afflicting him. After doing so, he transforms back into a tlacatecolo and attacks.
+**Talking Things Through.** Trying to calm Kiirith enough to talk to him requires convincing roleplaying and a DC 14 Charisma (Persuasion) check. If a character succeeds on this check before battle begins, Kiirith temporarily overcomes the demonic influence afflicting him and reverts to his natural form, that of a human. He maintains this form for 1 minute, during which he begs the characters to find a way to end the curse afflicting him. After doing so, he transforms back into a tlacatecolo and attacks.
 
-If Serapio attacks the characters before they can speak with him, a character can use an action to try to calm Serapio by making a DC 14 Charisma (Persuasion) check. Succeeding on this check once causes Serapio to hesitate, but he keeps attacking.
+If Kiirith attacks the characters before they can speak with him, a character can use an action to try to calm Kiirith by making a DC 14 Charisma (Persuasion) check. Succeeding on this check once causes Kiirith to hesitate, but he keeps attacking.
 
-Succeeding twice causes Serapio to regain control and transform back into a human (as noted above). If Serapio throws off the demonic influence, and the characters attack or threaten him in any way, the fiend takes control of him again, causing him to transform back into a tlacatecolo and attack. Serapio can't be talked into transforming back into a human more than once.
+Succeeding twice causes Kiirith to regain control and transform back into a human (as noted above). If Kiirith throws off the demonic influence, and the characters attack or threaten him in any way, the fiend takes control of him again, causing him to transform back into a tlacatecolo and attack. Kiirith can't be talked into transforming back into a human more than once.
 
-**Advantage and Disadvantage.** If a character shows Serapio part of his locket, the young man's determination to fight the fiendish influence is bolstered, giving the characters advantage on checks made to convince him to stand down. If Itzmin is there, he goads Serapio to attack, giving the characters disadvantage.
+**Advantage and Disadvantage.** If a character shows Kiirith part of his locket, the young man's determination to fight the fiendish influence is bolstered, giving the characters advantage on checks made to convince him to stand down. If Itzmin is there, he goads Kiirith to attack, giving the characters disadvantage.
 
 FIGHTING THE FIEND
 
-While Serapio is in his tlacatecolo form, he tries to remain airborne.
+While Kiirith is in his tlacatecolo form, he tries to remain airborne.
 
-A character who has a passive Wisdom (Insight) score of 13 or higher can tell that the tlacatecolo's control of Serapio is not absolute and deduces that magic might disrupt that control. If Serapio is targeted by a lesser restoration or remove curse spell, the tlacatecolo is forced to leave his body for 5 minutes. During this time, the tlacatecolo becomes a separate entity that continues fighting. Serapio uses the commoner stat block and keeps out of battle.
+A character who has a passive Wisdom (Insight) score of 13 or higher can tell that the tlacatecolo's control of Kiirith is not absolute and deduces that magic might disrupt that control. If Kiirith is targeted by a lesser restoration or remove curse spell, the tlacatecolo is forced to leave his body for 5 minutes. During this time, the tlacatecolo becomes a separate entity that continues fighting. Kiirith uses the commoner stat block and keeps out of battle.
 
-If the tlacatecolo is reduced to 0 hit points while separated from Serapio, it is destroyed, freeing Serapio. If the tlacatecolo is slain while it's still in Serapio's body, his body retains its monstrous appearance as both the fiend and Serapio die.
+If the tlacatecolo is reduced to 0 hit points while separated from Kiirith, it is destroyed, freeing Kiirith. If the tlacatecolo is slain while it's still in Kiirith's body, his body retains its monstrous appearance as both the fiend and Kiirith die.
 
 CONCLUSION
 
-If the characters bring Serapio to Doña Rosa alive, she weeps with gratitude and thanks them profusely. If Serapio is still under fiendish control, Doña Rosa seeks aid from the archmages of the Argent Congregation-the local academy of magic-users—who are able to put an end to his affliction and so end the curse on all victims of sereno.
+If the characters bring Kiirith to Findex alive, she weeps with gratitude and thanks them profusely. If Kiirith is still under fiendish control, Findex seeks aid from the archmages of the Argent Congregation-the local academy of magic-users—who are able to put an end to his affliction and so end the curse on all victims of sereno.
 
-If Serapio is slain while under fiendish control, the characters hear a blood-curdling scream as his soul is dragged into the Abyss. All the victims of sereno are immediately freed from the curse, but Doña Rosa falls into despair and refuses to speak to the characters again.
+If Kiirith is slain while under fiendish control, the characters hear a blood-curdling scream as his soul is dragged into the Abyss. All the victims of sereno are immediately freed from the curse, but Findex falls into despair and refuses to speak to the characters again.
 
 When the fiend is defeated, Paloma grants the characters their promised reward when they return to Milpazul. She also invites them to join her outlaw gang. The villagers freed from sereno's effects also express their gratitude to the characters.
 

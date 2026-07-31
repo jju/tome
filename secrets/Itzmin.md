@@ -1,4 +1,6 @@
-Following the death of his mother, a celebrated military general, Itzmin squandered his family's fortune, and his family name became synonymous with disgrace. Desperate to regain his former glory, Itzmin sought the guidance of the cultist Orencio and forged his own pact with Pazuzu, offering his obedience in exchange for secrets that could be leveraged against Hammerkeep's elite.
+The public gave him the moniker Astaverde (meaning "green horn") for his jadeite prosthetic horn.
+
+Following the death of his mother, a celebrated military general, [Itzmin](../Itzmin.md) squandered his family's fortune, and his family name became synonymous with disgrace. Desperate to regain his former glory, Itzmin sought the guidance of the cultist Orencio and forged his own pact with Pazuzu, offering his obedience in exchange for secrets that could be leveraged against Hammerkeep's elite.
 
 Personality Trait. "I can't stand anyone treating me as their lesser."
 Ideal. "I'll do whatever it takes to gain the upper hand in any situation."
