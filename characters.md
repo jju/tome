@@ -1,7 +1,7 @@
 
 ## Player Characters
 
-* [Rexer the Third](RexerIII.md)
+* [Rexer the Third](ReskerIII.md)
 * Sharptooth
 * [Fillika](Fillika.md) 
 * [Rurik Stoneblood](Rurik.md)
@@ -14,7 +14,7 @@
 
 * [Urdl](Urdl.md) - Dwarf merchant
 * [Green](Green.md) - Halfling merchant
-* Kobold mob - chased off by [Rexer III](RexerIII.md)
+* Kobold mob - chased off by [Rexer III](ReskerIII.md)
 * [Gwargl Kel Huun](GwarglKelHuun.md)
 * [Sunny](Sunny.md)
 * [Marva Brokenchains](MarvaBrokenchains.md)

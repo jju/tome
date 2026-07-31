@@ -7,7 +7,7 @@ One of the things that makes a person a Ranger instead of just a homeless weirdo
 It can sometimes be a little dangerous to note this in the age of [Empire](DantagEmpire.md), but that mystical connection seems to be different from the sanctioned forms of power the [Priestly class](Priest.md) wield. Most people who are aware of the weird things people can get up to in the woods often confuse Rangers with [Druids](Druid.md). If someone held a knife to my throat to make a distinction, I'd say that Druids are more contemplative and Rangers more action oriented.
 ## Characters
 
-* [Rexer III](RexerIII.md)
+* [Rexer III](ReskerIII.md)
 * [Fillika](Fillika.md)
 * [Pog](Pog.md)
 

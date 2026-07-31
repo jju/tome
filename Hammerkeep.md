@@ -56,22 +56,22 @@ Not every god of the Empire has a full-on temple in Hammerkeep (this isn't [Bedw
 ## Other Businesses
 
 * Zan's Tradehouse - good place to find work as a caravan guard
-* [Thalane Truthhauler Kalukithino](ThalaneTruthhaulerKalukithino.md) - blacksmith focusing on large farm implements
+* [Thalane Truthhauler Kalukithino](ThalaneTruthhaulerKalukithino.md) - [Goliath](Goliath.md) blacksmith focusing on large farm implements
 * [Roland Bohr](RolandBohr.md) - [Dwarf](Dwarf.md) blacksmith 
 * [Xokx](Xokx.md) - Harengon blacksmith undercuts Truthhauler's prices
 
 ## Demographics
 
-| Class       | Pop (%) | Species                                               |
-| ----------- | ------- | ----------------------------------------------------- |
-| Aristocrats | 1       | [Aarakocra](Aarakocra.md) [Dragonborn](Dragonborn.md) |
-| Wealthy     | 5       | [Tiefling](Tiefling.md) [Aarakocra](Aarakocra.md)     |
-| Comfortable | 25      | [Tiefling](Tiefling.md)                               |
-| Modest      | 25      | [Halfling](Halfling.md) [Dwarf](Dwarf.md)             |
-| Poor        | 20      | [Halfling](Halfling.md) [Dwarf](Dwarf.md)             |
-| Squalid     | 20      | [Halfling](Halfling.md)                               |
-| Wretched    | 4       | [Halfling](Halfling.md)                               |
-
+| Class       | Pop (%) | Species                                                 |
+| ----------- | ------- | ------------------------------------------------------- |
+| Aristocrats | 1       | [Aarakocra](Aarakocra.md) & [Dragonborn](Dragonborn.md) |
+| Wealthy     | 5       | [Tiefling](Tiefling.md) & [Aarakocra](Aarakocra.md)     |
+| Comfortable | 25      | [Tiefling](Tiefling.md)                                 |
+| Modest      | 25      | [Halfling](Halfling.md) & [Dwarf](Dwarf.md)             |
+| Poor        | 20      | [Halfling](Halfling.md) & [Dwarf](Dwarf.md)             |
+| Squalid     | 20      | [Halfling](Halfling.md)                                 |
+| Wretched    | 4       | [Halfling](Halfling.md)                                 |
+The Empire extracts a 40% tax on the value of land, and their treasury is empty
 ## Factions
 
 * [The Quality](TheQuality.md) - Aristocrats banding across national lines to makes sure life is good for rich folk

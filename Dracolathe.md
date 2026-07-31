@@ -25,18 +25,16 @@ A famine is currently hitting Dracolathe which is experimenting with a democrati
 
 The major population groups are Dragonborn, Orcs and Goliaths. In addition to those cultural languages, many people speak an Infernal language.
 
-| Class       | Pop (%) | Species                      |
-| ----------- | ------- | ---------------------------- |
-| Aristocrats | 1       | Dragonborn                   |
-| Wealthy     | 5       | Dragonborn                   |
-| Comfortable | 25      | Dragonborn & Goliath         |
-| Modest      | 25      | Dragonborn & Goliath         |
-| Poor        | 20      | Dragonborn & Goliath & Dwarf |
-| Squalid     | 20      | Goliath & Orc                |
-| Wretched    | 4       | Orc                          |
-
+| Class       | Pop (%) | Species                                                                 |
+| ----------- | ------- | ----------------------------------------------------------------------- |
+| Aristocrats | 1       | [Dragonborn](Dragonborn.md)                                             |
+| Wealthy     | 5       | [Dragonborn](Dragonborn.md)                                             |
+| Comfortable | 25      | [Dragonborn](Dragonborn.md) & [Goliath](Goliath.md)                     |
+| Modest      | 25      | [Dragonborn](Dragonborn.md) & [Goliath](Goliath.md)                     |
+| Poor        | 20      | [Dragonborn](Dragonborn.md) & [Goliath](Goliath.md) & [Dwarf](Dwarf.md) |
+| Squalid     | 20      | [Goliath](Goliath.md) & [Orc](Orc.md)                                   |
+| Wretched    | 4       | [Orc](Orc.md)                                                           |
 Current taxes are a 10% land tax, and the city's treasury is empty.
-
 ## Factions
 
 * Bloodaxes - mercenary company that doesn't give a fuck that Dracolathe changed hands.
