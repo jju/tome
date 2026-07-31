@@ -6,8 +6,17 @@
 
 * DC5 History/Arcane (Int) - It exists and will have history related stuff, no magic (that'll be in temple libraries if anywhere - best chance is the TempleErathis)
 * DC10 History (Cha) - Can get in and find some official local history type things
-	* The last warlock executed 20 years ago
-	* 
+	* The last warlock executed 20 years ago under the authority of the TempleErathis
+	* [WyrmshoodPact](WyrmshoodPact.md) - depicted as diplomatic arrangement no mention of how [BranchGolem](BranchGolem.md) was made
+	* [Cephalopoids](Cephalopoid.md) mentioned in the reports of an "adventurer" who came to town
+	* [CopperHills](CopperHills.md) mining going less well in recent years
+* DC15 History/Arcane (Int)
+	* [CastleYarg](CastleYarg.md) was supposed to have an amazing library and some say it survived the [Arcane Purge](ArcanePurge.md) - not sure where it is
+	* White Tower group investigated for cultish practices - absolved of any crimes
+	* [Underground Three](UndergroundThree.md) a suspected coven of witches in the area
+	* Magical curses can sometimes present as illnesses - reports of a warlock causing such a thing before the end of the [GrimWar](GrimWar.md)
+	* Scrying Orbs are very rare treasures allowing remote surveillance - before the [ArcanePurge](ArcanePurge.md) they were used extensively by [DantagEmpire](DantagEmpire.md) spies in support of their [warpriests](warpriest.md)
+* DC20 History/Arcane (Int)
 
 
 

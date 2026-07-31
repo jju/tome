@@ -420,12 +420,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ZorzulasRest.md",
+                    "file": "places.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "ZorzulasRest"
+                  "title": "places"
                 }
               },
               {
@@ -597,11 +597,13 @@
   },
   "active": "5c04d9eb6d33cbb1",
   "lastOpenFiles": [
+    "places.md",
+    "ZorzulasRest.md",
+    "stories/Hk05a.md",
+    "WyrmshoodPact.md",
     "Hammerkeep.md",
     "OldGoatTavern.md",
     "OckneysEye.md",
-    "stories/Hk05a.md",
-    "ZorzulasRest.md",
     "WenserWaterskin.md",
     "WaveEchoCave.md",
     "VakSerpent.md",
@@ -622,8 +624,6 @@
     "HagMother.md",
     "Glagronorg.md",
     "GibbetTavern.md",
-    "GibbetCrossing.md",
-    "Garetton.md",
     "images/names-db1.png",
     "images/names-db2-dw-e1.png",
     "images/mirrortemple.png",
