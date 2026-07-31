@@ -10,9 +10,11 @@ The year is [IC4996](IC4996.md)
 # The Recent Past
 
 * [IC4995](IC4995.md)
+
  
 # The Last Fifty Years
 
+* [IC4979](IC4979.md) - the last Warlock in [Hammerkeep](Hammerkeep.md) executed
 * [IC4965](IC4965.md) - [Riles Greyfox](Riles.md) born
 * [IC4964](IC4964.md) - [Rurik Stoneblood](Rurik.md) born
 * [IC4960](IC4960.md) - [Pog](Pog.md) born
