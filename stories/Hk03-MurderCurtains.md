@@ -32,7 +32,7 @@ Beyond the secret door was another chamber, the shrine proper. Four tentacle-fac
 
 That's when [the ghost](../SnowcoatGhost.md) showed up.
 
-The apparition appeared to be a youngish female [Dwarf](../Dwarf.md), that manifested from the darkness. The party tried talking to her, [Barfgeld](../Barfgeld.md) on lead. He soon discovered her clan name was [Snowcoat](../SnowcoatClan.md) and her accent was from [Zhaalum](../Zhaalum.md) like [his](../Barfgeld.md).
+The apparition appeared to be a youngish female [Dwarf](../Dwarf.md), that manifested from the darkness. The party tried talking to her, [Barfgeld](../Barfgeld.md) on lead. He soon discovered her clan name was [Snowcoat](ClanSnowcoat.md) and her accent was from [Zhaalum](../Zhaalum.md) like [his](../Barfgeld.md).
 
 At first [Snowcoat](../SnowcoatGhost.md) wished only for the party to sit with her and think. [Rurik](../Rurik.md) was all in for this. She could not tell the party how long she had been in the shrine, nor was she interested in going home. She complained of ["the last one"](../TheLastOne.md) who did not bring her anyone to come and sit and think with her. All it did was bring not enough people and then "cut cut cut." It was not a sit and thinker. Could the party sit and think with her? Or at least bring her people to sit and think with?
 

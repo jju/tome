@@ -406,12 +406,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "AlzekShallow.md",
+                    "file": "Alzek.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "AlzekShallow"
+                  "title": "Alzek"
                 }
               },
               {
@@ -420,12 +420,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "secrets/npcs.md",
+                    "file": "ZorzulasRest.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "npcs"
+                  "title": "ZorzulasRest"
                 }
               },
               {
@@ -597,35 +597,35 @@
   },
   "active": "5c04d9eb6d33cbb1",
   "lastOpenFiles": [
-    "secrets/npcs.md",
-    "Rhig.md",
-    "stories/Hk05a.md",
-    "secrets/rumours.md",
     "Hammerkeep.md",
-    "Erathis.md",
-    "Bahamut.md",
-    "NorixiusClan.md",
-    "EagerWave.md",
-    "IC4996.md",
-    "timeline.md",
-    "IC4995.md",
-    "Reirak.md",
-    "stories/Hk05.md",
-    "images/names-db1.png",
-    "ChumbyxirinnishClan.md",
-    "Kiirith.md",
-    "Findex.md",
-    "SnowcoatClan.md",
-    "Mreksh.md",
-    "Findex.d.md",
-    "images/names-db2-dw-e1.png",
-    "DjayaniJanya.md",
-    "CecilyQuinton.md",
-    "BidrithCrecur.md",
-    "LorStalk.md",
-    "BattlehammerClan.md",
-    "AlzekShallow.md",
+    "OldGoatTavern.md",
+    "OckneysEye.md",
+    "stories/Hk05a.md",
+    "ZorzulasRest.md",
+    "WenserWaterskin.md",
+    "WaveEchoCave.md",
+    "VakSerpent.md",
+    "Unzio.md",
     "Untitled.base",
+    "ThreeBoarTrail.md",
+    "TriBoarTrail.md",
+    "Phandalin.md",
+    "Tletepec.md",
+    "ThialaOstoroth.md",
+    "TheLastOne.md",
+    "TheAngry.md",
+    "ClanSnowcoat.md",
+    "SanCitlan.md",
+    "PiousCouncil.md",
+    "ClanNorixius.md",
+    "Kukvanod.md",
+    "HagMother.md",
+    "Glagronorg.md",
+    "GibbetTavern.md",
+    "GibbetCrossing.md",
+    "Garetton.md",
+    "images/names-db1.png",
+    "images/names-db2-dw-e1.png",
     "images/mirrortemple.png",
     "images/Hammerkeep.png",
     "images/names-ho2-t.png",

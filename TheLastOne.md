@@ -4,4 +4,6 @@ In [IC4996](IC4996.md) [the party](TheParty.md) discovered [a small shrine](Shad
 
 "The last one" did not bring the ghostly dwarf anyone to come and sit and think with her. All it did was bring not enough people and then "cut cut cut." It was not a sit and thinker. It also had a [tentacly face](Cephalopoid.md) like the statues in the shrine.
 
+<!--The last one is the [Alhoon](secrets/Alhoon.md)-->
+
 > [npcs](npcs.md)

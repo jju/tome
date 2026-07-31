@@ -4,6 +4,6 @@ Orfuzz is a small female presenting [Goblin](Goblin.md) [Warrior](rules/goblin.m
 
 Orfuzz has tried to pocket a cool 20% of the fee [The Party](TheParty.md) was supposed to be getting.
 
-Orfuzz seems to have a history with [Al the Goblin](AlzekShallow.md) from [Padserae](Padserae.md) (although it's kind of racist to assume all goblins know each other).
+Orfuzz seems to have a history with [Al the Goblin](Alzek.md) from [Padserae](Padserae.md) (although it's kind of racist to assume all goblins know each other).
 
 > [npcs](npcs.md)

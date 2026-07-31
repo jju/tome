@@ -12,7 +12,7 @@ Goblin religion centres around [Maglubiyet](Maglubiyet.md) and a lot of them bel
 ## Characters
 
 * [Orfuzz](Orfuzz.md) - Assistant to the [Warden of Hammerkeep](WardenofHammerkeep.md)
-* [Alzek the Shallow](AlzekShallow.md) - ranger in the service of the [Queen of the Woods](QueenoftheWoods.md)
+* [Alzek the Shallow](Alzek.md) - ranger in the service of the [Queen of the Woods](QueenoftheWoods.md)
 
 ## Organizations
 
