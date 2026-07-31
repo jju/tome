@@ -192,12 +192,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Reirak.md",
+                    "file": "Hammerkeep.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Reirak"
+                  "title": "Hammerkeep"
                 }
               },
               {
@@ -420,12 +420,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "NorixiusClan.md",
+                    "file": "secrets/npcs.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "NorixiusClan"
+                  "title": "npcs"
                 }
               },
               {
@@ -597,34 +597,34 @@
   },
   "active": "5c04d9eb6d33cbb1",
   "lastOpenFiles": [
-    "stories/Hk05.md",
+    "secrets/npcs.md",
+    "Rhig.md",
     "stories/Hk05a.md",
-    "images/names-db1.png",
+    "secrets/rumours.md",
+    "Hammerkeep.md",
+    "Erathis.md",
+    "Bahamut.md",
     "NorixiusClan.md",
+    "EagerWave.md",
+    "IC4996.md",
+    "timeline.md",
+    "IC4995.md",
+    "Reirak.md",
+    "stories/Hk05.md",
+    "images/names-db1.png",
     "ChumbyxirinnishClan.md",
     "Kiirith.md",
     "Findex.md",
-    "Reirak.md",
     "SnowcoatClan.md",
     "Mreksh.md",
     "Findex.d.md",
     "images/names-db2-dw-e1.png",
-    "EagerWave.md",
     "DjayaniJanya.md",
     "CecilyQuinton.md",
     "BidrithCrecur.md",
     "LorStalk.md",
     "BattlehammerClan.md",
     "AlzekShallow.md",
-    "AkharinSangar.md",
-    "IC4995.md",
-    "timeline.md",
-    "secrets/history.md",
-    "secrets/rumours.md",
-    "secrets/Findex.d.md",
-    "secrets/Illithid.md",
-    "secrets/Itzmin.md",
-    "secrets/Rodham.md",
     "Untitled.base",
     "images/mirrortemple.png",
     "images/Hammerkeep.png",
