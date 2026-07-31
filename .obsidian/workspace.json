@@ -434,12 +434,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Findex.md",
+                    "file": "CopperHills.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Findex"
+                  "title": "CopperHills"
                 }
               }
             ],
@@ -595,12 +595,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "5c04d9eb6d33cbb1",
+  "active": "697a0d0c9bf31dd3",
   "lastOpenFiles": [
-    "timeline.md",
+    "Kiirith.md",
+    "CopperHills.md",
+    "Tlacatecolo.md",
     "IC4995.md",
     "Findex.md",
-    "Kiirith.md",
+    "timeline.md",
     "IC4978.md",
     "secrets/rumours.md",
     "IC4826.md",
@@ -623,8 +625,6 @@
     "secrets/KaranliwoodNecromancer.md",
     "secrets/Itzmin.md",
     "Itzmin.md",
-    "secrets/Alhoon.md",
-    "ZeparMurder.md",
     "Untitled.base",
     "images/mirrortemple.png",
     "images/Hammerkeep.png",
