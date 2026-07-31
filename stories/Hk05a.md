@@ -6,7 +6,8 @@
 
 * DC5 History/Arcane (Int) - It exists and will have history related stuff, no magic (that'll be in temple libraries if anywhere - best chance is the TempleErathis)
 * DC10 History (Cha) - Can get in and find some official local history type things
-	* The Last
+	* The last warlock executed 20 years ago
+	* 
 
 
 
