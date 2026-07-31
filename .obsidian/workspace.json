@@ -109,12 +109,14 @@
             "id": "5c04d9eb6d33cbb1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/names-db1.png"
+                "file": "stories/Hk05a.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "names-db1"
+              "icon": "lucide-file",
+              "title": "Hk05a"
             }
           },
           {
@@ -593,17 +595,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "fbaec5ff346905fe",
+  "active": "5c04d9eb6d33cbb1",
   "lastOpenFiles": [
-    "ChumbyxirinnishClan.md",
+    "stories/Hk05.md",
+    "stories/Hk05a.md",
+    "images/names-db1.png",
     "NorixiusClan.md",
+    "ChumbyxirinnishClan.md",
     "Kiirith.md",
     "Findex.md",
     "Reirak.md",
     "SnowcoatClan.md",
     "Mreksh.md",
     "Findex.d.md",
-    "images/names-db1.png",
     "images/names-db2-dw-e1.png",
     "EagerWave.md",
     "DjayaniJanya.md",
@@ -621,8 +625,6 @@
     "secrets/Illithid.md",
     "secrets/Itzmin.md",
     "secrets/Rodham.md",
-    "secrets/SkerpaSnowcoat.md",
-    "secrets/underdarkitems.md",
     "Untitled.base",
     "images/mirrortemple.png",
     "images/Hammerkeep.png",
