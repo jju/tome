@@ -9,4 +9,4 @@ Flaw. "I value prestige over security"
 
 ## Itzmin's Goals
 
-Itzmin wants to use Serapio's corruption to advance Pazuzu's wishes. And the more chaos reigns in the borderlands, the less organized the revolutionaries can be, which benefits Itzmin's political agenda.
+Itzmin wants to use [Kiirith's](Kiirith.md) corruption to advance Pazuzu's wishes. And the more chaos reigns in the borderlands, the less organized the revolutionaries can be, which benefits Itzmin's political agenda.

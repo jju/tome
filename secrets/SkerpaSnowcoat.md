@@ -56,4 +56,3 @@ Speed 0 ft., fly 40 ft. (hover)
 
 > [npcs](npcs.md)
 > [creatures](creatures.md)
->>>>>>> origin/main
