@@ -1,5 +1,6 @@
 # Bidrith Crecur - Lady of Hammerkeep
 
-Bidrith is the [Dragonborn](Dragonborn.md) [Lady](noble.md) of [Hammerkeep](Hammerkeep.md). Her chief advisor is [Lor Stalk](LorStalk.md), who is mistrusted by the commoners, but not the Lady.
+Bidrith is the [Dragonborn](Dragonborn.md) [Lady](noble.md) of [Hammerkeep](Hammerkeep.md). Her chief advisor is [Lor Stalk](LorStalk.md), who is mistrusted by the commoners, but not the Lady. She has an 8-year-old son.
 
 > [characters](characters.md)
+> [npcs](npcs.md)

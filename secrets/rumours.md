@@ -14,7 +14,7 @@
 * Carthax is a destroyed city across the wastes of [Anor](Anor.md) where there are huge heaps of treasure. Mountains of it!
 * There's an [Orcish queen](Grissekk.md) amassing an army in the northwest. Probably is going to have a whole whack of the [Goliath](Goliath.md) communities involved.
 * A [Necromancer](Necromancer.md) is out in the woods somewhere, fighting the [QueenoftheWoods](QueenoftheWoods.md)
-* The last sorceror in [Hammerkeep](Hammerkeep.md) was a [Dragonborn](Dragonborn.md) named [Mreksh](Mreksh.md). He was executed 15 years ago. His widow is named [Findex](Findex.d)  and her son is named [Kiirith](Kiirith.md)
+* The last sorceror in [Hammerkeep](Hammerkeep.md) was a [Dragonborn](Dragonborn.md) named [Mreksh](Mreksh.md). He was executed 15 years ago. His widow is named [Findex](Findex)  and her son is named [Kiirith](Kiirith.md)
 ## Rodham
 
 01-06: Rodham? Some sort of deep-forest share-all, supposed to be better than life under any king or baron. Don’t know much about it, don’t hear much; they keep to themselves. Tree-lovers. The fellow who founded it got killed by bears, or some such; Rodney something or other. These things never end well.
