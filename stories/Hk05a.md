@@ -1,4 +1,14 @@
-# Options
+# Books & Tomes
+
+## Hammerkeep Libraries
+
+### Keep Library
+
+* DC5 History/Arcane (Int) - It exists and will have history related stuff, no magic (that'll be in temple libraries if anywhere - best chance is the TempleErathis)
+* DC10 History (Cha) - Can get in and find some official local history type things
+	* The Last
+
+
 
 ## Skulks
 
@@ -72,4 +82,4 @@
 * lots of people have been getting sick recently (part of why the Warden is short rangers and is relying on the party) - forest people [CircleofHealingArts](CircleofHealingArts.md)
 * the owl god - forest people, miners
 * mushroom picking Kobolds - criminals
-* greenhorn tiefling and the gambling in town - criminal
+* greenhorn tiefling and the gambling in town - criminals
