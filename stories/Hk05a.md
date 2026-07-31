@@ -17,8 +17,34 @@
 	* Magical curses can sometimes present as illnesses - reports of a warlock causing such a thing before the end of the [GrimWar](GrimWar.md)
 	* Scrying Orbs are very rare treasures allowing remote surveillance - before the [ArcanePurge](ArcanePurge.md) they were used extensively by [DantagEmpire](DantagEmpire.md) spies in support of their [warpriests](warpriest.md)
 * DC20 History/Arcane (Int)
+	* Twisty white oak in the [Fosswood](Fosswood.md) said to be the root of all magical power
+	* Parrow mountain is a source of divine power (add in that people remember a sorcerer heading out there last year)
+	* Sorceror's tower deep in the [Kanliwood](Kanliwood.md) vague map and directions
+	* [CastleYarg](CastleYarg.md) is in [CymirYarg](CymirYarg.md) near [Ikizh](Ikizh.md) (map to [CymirYarg](CymirYarg.md) provided)
+	* [Rhig](Rhig.md) the sage knows more about arcane matters than is probably healthy
+	* Shadowy demon things have been known to be summoned from other planes of existence - [Shadowfell](Shadowfell.md)
 
+### Bedwistre Library of Ioun
 
+* DC5 History/Arcane (Int) - It exists and will have history related stuff, not much magic info available to non-clerics
+* DC10 History (Int) - Can get some official history type things
+	* The last warlock in [Hammerkeep](Hammerkeep.md) executed 20 years ago under the authority of the TempleErathis
+	* [WyrmshoodPact](WyrmshoodPact.md) - depicted as diplomatic arrangement no mention of how [BranchGolem](BranchGolem.md) was made
+	* [Cephalopoids](Cephalopoid.md) are an otherworldly menace who attack good humanoids' minds directly
+	* [CopperHills](CopperHills.md) mining going less well in recent years - some documents about nationalizing the mines
+	* [CastleYarg](CastleYarg.md) was supposed to have an amazing library and some say it survived the [Arcane Purge](ArcanePurge.md) - not sure where it is
+	* White Tower groups across [Rundan](Rundan.md) investigated for cultish practices - absolved of any crimes
+	* [Underground Three](UndergroundThree.md) a suspected coven of witches in the area
+	* Magical curses can sometimes present as illnesses - reports of a warlock causing such a thing before the end of the [GrimWar](GrimWar.md)
+	* Scrying Orbs are very rare treasures allowing remote surveillance - before the [ArcanePurge](ArcanePurge.md) they were used extensively by [DantagEmpire](DantagEmpire.md) spies in support of their [warpriests](warpriest.md)
+* DC15 History/Arcane (Int)
+	* Twisty white oak in the [Fosswood](Fosswood.md) said to be the root of all magical power
+	* Parrow mountain is a source of divine power (add in that people remember a sorcerer heading out there last year)
+	* Sorceror's tower deep in the [Kanliwood](Kanliwood.md) vague map and directions
+	* [CastleYarg](CastleYarg.md) is in [CymirYarg](CymirYarg.md) near [Ikizh](Ikizh.md) (vague map to [CymirYarg](CymirYarg.md) provided)
+	* Shadowy demon things have been known to be summoned from other planes of existence - [Shadowfell](Shadowfell.md)
+* DC20 History/Arcane (Int)
+	* 
 
 ## Skulks
 

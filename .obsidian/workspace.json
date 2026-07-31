@@ -443,7 +443,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -597,9 +597,10 @@
   },
   "active": "5c04d9eb6d33cbb1",
   "lastOpenFiles": [
+    "secrets/rumours.md",
+    "stories/Hk05a.md",
     "places.md",
     "ZorzulasRest.md",
-    "stories/Hk05a.md",
     "WyrmshoodPact.md",
     "Hammerkeep.md",
     "OldGoatTavern.md",
@@ -623,7 +624,6 @@
     "Kukvanod.md",
     "HagMother.md",
     "Glagronorg.md",
-    "GibbetTavern.md",
     "images/names-db1.png",
     "images/names-db2-dw-e1.png",
     "images/mirrortemple.png",
