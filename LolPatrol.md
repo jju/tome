@@ -7,9 +7,11 @@ Led by [Ned Lolvodug](NedLolvodug.md) these [Goblinoids](Goblinoid.md) were a te
 * [GlagronorgRush](GlagronorgRush.md) - Friendly female [Hobgoblin Warrior](rules/hobgoblin.md#Hobgoblin%20Warrior)
 * [Kukvanod Etch](KukvanodEtch.md) - Grouchy male [Hobgoblin Warrior](rules/hobgoblin.md#Hobgoblin%20Warrior)
 * [The other Hobgoblin](AgruzocShallow.md) - Quiet and slightly injured male [Hobgoblin Warrior](rules/hobgoblin.md#Hobgoblin%20Warrior) 
-* The big one - Moves quietly, didn't say much
+* The big one - Moves quietly, didn't say much<!--Zrukvoron "Kill" - [Bugbear Stalker](rules/bugbear.md#Bugbear%20Stalker) (f) - easily annoyed which makes her stalk off - has seen the sickly owl - hostile DC15-->
 
 In late [IC4995](IC4995.md) the patrol was dispatched by the [Queen of the Woods](QueenoftheWoods.md) from [Padserae](Padserae.md) to the [Standing Stones Circle](WyrmstoneCircle.md) to find out what happened to the year's honey-apple bearers, [Ux](Ux.md) and [Stelsyz](Stelsyz.md).
+
+<!--Ned knows about the iron rope being used to suspend the [woodwoad](woodwoad.md) but he hasn't cut it down yet.-->
 
 > [factions](factions.md)
 > [npcs](npcs.md)

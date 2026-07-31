@@ -5,3 +5,4 @@
 * [Jichileh](Jichileh.md)
 * [Skytusk](Skytusk.md)
 * [Husken Hills](HuskenHills.md)
+* [Copper Hills](CopperHills.md)
