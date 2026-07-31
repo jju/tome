@@ -57,19 +57,20 @@ Not every god of the Empire has a full-on temple in Hammerkeep (this isn't [Bedw
 
 * Zan's Tradehouse - good place to find work as a caravan guard
 * [Thalane Truthhauler Kalukithino](ThalaneTruthhaulerKalukithino.md) - blacksmith focusing on large farm implements
-* [RolandBohr](RolandBohr.md) - [Dwarf](Dwarf.md) blacksmith 
+* [Roland Bohr](RolandBohr.md) - [Dwarf](Dwarf.md) blacksmith 
+* [Xokx](Xokx.md) - Harengon blacksmith undercuts Truthhauler's prices
 
 ## Demographics
 
-| Class       | Pop (%) | Species |
-| ----------- | ------- | ------- |
-| Aristocrats | 1       |         |
-| Wealthy     | 5       |         |
-| Comfortable | 10      |         |
-| Modest      | 45      |         |
-| Poor        | 15      |         |
-| Squalid     | 20      |         |
-| Wretched    | 4       |         |
+| Class       | Pop (%) | Species                                               |
+| ----------- | ------- | ----------------------------------------------------- |
+| Aristocrats | 1       | [Aarakocra](Aarakocra.md) [Dragonborn](Dragonborn.md) |
+| Wealthy     | 5       | [Tiefling](Tiefling.md) [Aarakocra](Aarakocra.md)     |
+| Comfortable | 25      | [Tiefling](Tiefling.md)                               |
+| Modest      | 25      | [Halfling](Halfling.md) [Dwarf](Dwarf.md)             |
+| Poor        | 20      | [Halfling](Halfling.md) [Dwarf](Dwarf.md)             |
+| Squalid     | 20      | [Halfling](Halfling.md)                               |
+| Wretched    | 4       | [Halfling](Halfling.md)                               |
 
 ## Factions
 

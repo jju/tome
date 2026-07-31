@@ -74,8 +74,6 @@ When the eladrin makes this change, they use the stat block of the new season ra
 # Autumn Eladrin
 
 Eladrin often enter the autumn season when they are overcome by feelings of goodwill. In this aspect, they defuse conflicts and alleviate suffering by using their magic to relieve any ailments that afflict the people who come to them for aid. They tolerate no violence in their presence and move quickly to settle disputes, to ensure that peace continues to reign.
-
-
 ## Autumn Eladrin
 
 Medium [Fey](Fey.md) ([Elf](Elf.md)), Typically Chaotic Neutral
@@ -217,17 +215,70 @@ Speed 50 ft.
 
 ***Longsword.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) slashing damage, or 15 (2d10 + 4) slashing damage if used with two hands, plus 9 (2d8) fire damage.
 
-Longbow. Ranged Weapon Attack: +9 to hit, range 150/600
-ft., one target. Hit: 14 (2d8 + 5) piercing damage plus 9 (2d8)
-fire damage.
-BONUS ACTIONS
-Fey Step (Recharge 4-6). The eladrin teleports, along with any
-equipment it is wearing or carrying, up to 30 feet to an unoccu-
-pied space it can see.
-REACTIONS
-Parry. The eladrin adds 3 to its AC against one melee attack
-that would hit it. To do so, the eladrin must see the attacker
-and be wielding a melee weapon.
+***Longbow.** Ranged Weapon Attack:* +9 to hit, range 150/600 ft., one target. *Hit:* 14 (2d8 + 5) piercing damage plus 9 (2d8) fire damage.
+
+## Bonus Actions
+
+***Fey Step (Recharge 4-6).*** The eladrin teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.
+
+## Reactions
+
+***Parry.*** The eladrin adds 3 to its AC against one melee attack that would hit it. To do so, the eladrin must see the attacker and be wielding a melee weapon.
+
+# Winter Eladrin
+
+When sorrow distresses eladrin, they enter the winter season, becoming figures of melancholy. Frozen tears drop from their cheeks, and their palpable sadness emanates from them as icy cold.
+
+## Winter Eladrin
+
+Medium [Fey](Fey.md) ([Elf](Elf.md)), Typically Chaotic Neutral
+Armor Class 19 (natural armor)
+Hit Points 165(22d8 + 66)
+Speed 30 ft.
+
+|     |     | Mod | Save |
+| --- | --- | --- | ---- |
+| STR | 11  | +0  | +0   |
+| DEX | 16  | +3  | +3   |
+| CON | 16  | +3  | +3   |
+
+|     |     | Mod | Save |
+| --- | --- | --- | ---- |
+| INT | 18  | +4  | +4   |
+| WIS | 17  | +3  | +3   |
+| CHA | 13  | +1  | +1   |
+**Damage Resistances** cold
+**Senses** darkvision 60 ft., passive Perception 13
+**Languages** Common, Elvish, Sylvan
+**CR** 10 (5,900 XP; PB +4)
+
+**Magic Resistance.** The eladrin has advantage on saving throws against spells and other magical effects.
+
+**Sorrowful Presence.** Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 13 Wisdom saving throw. On a failed save, the creature becomes charmed by the eladrin for 1 minute. While charmed in this way, the creature has disadvantage on ability checks and saving throws.
+
+The charmed creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to any eladrin's Sorrowful Presence for the next 24 hours.
+
+Whenever the eladrin deals damage to the charmed creature, the charmed creature can repeat the saving throw, ending the effect on itself on a success.
+
+## Actions
+
+***Multiattack.*** The eladrin makes two Longsword or Longbow attacks. They can replace one attack with a use of Spellcasting.
+
+***Longsword.** Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d8) slashing damage, or 5 (1d10) slashing damage if used with two hands, plus 13 (3d8) cold damage.
+
+***Longbow.** Ranged Weapon Attack:* +7 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 13 (3d8) cold damage.
+
+***Spellcasting.*** The eladrin casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 16):
+
+* At will: *fog cloud, gust of wind, sleet storm*
+
+## Bonus Actions
+
+***Fey Step (Recharge 4-6).*** The eladrin teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.
+
+## Reactions
+
+***Frigid Rebuke.*** When the eladrin takes damage from a creature the eladrin can see within 60 feet of it, the eladrin can farce that creature to make a DC 16 Constitution saving throw. On a failed save, the creature takes 11 (2d10) cold damage.
 
 > source: _Mordenkainen Presents: Monsters of the Multiverse_ (2021)
 > [species](species.md)

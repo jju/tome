@@ -13,6 +13,8 @@ Dwarves live everywhere in [Nuoro](Nuoro.md), including underground. Not just th
 * [Dalrig Gravelmantle](DalrigGravelmantle.md) - priest of [Erathis](Erathis.md) in [Hammerkeep](Hammerkeep.md)
 * [Urdl](Urdl.md) - merchant heading to [Dracolathe](Dracolathe.md) in [IC4996](IC4996.md)
 * Mek Stoneseeker
+* [Snowcoat Apparition](SnowcoatGhost.md)
+* [Roland Bohr](RolandBohr.md)
 
 ## Dwarf Names
 
@@ -22,7 +24,7 @@ A dwarf’s name is granted by a clan elder, in accordance with tradition. Every
 
 **Female Names:** Amber, Artin, Audhild, Bardryn, Dagnal, Diesa, Eldeth, Falkrunn, Finellen, Gunnloda, Gurdis, Helja, Hlin, Kathra, Kristryd, Ilde, Liftrasa, Mardred, Riswynn, Sannl, Torbera, Torgga, Vistra
 
-**Clan Names:** Balderk, Battlehammer, Brawnanvil, Dankil, Fireforge, Frostbeard, Gorunn, Holderhek, Ironfist, Loderr, Lutgehr, Rumnaheim, Strakeln, Torunn, Ungart
+**Clan Names:** Balderk, Battlehammer, Brawnanvil, Dankil, Fireforge, Frostbeard, Gorunn, Holderhek, Ironfist, Loderr, Lutgehr, Rumnaheim, Snowcoat, Strakeln, Torunn, Ungart
 
 
 ![dwarf](rules/dwarf.md)

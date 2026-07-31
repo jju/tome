@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/eladrin.md",
+                "file": "Hammerkeep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "eladrin"
+              "title": "Hammerkeep"
             }
           },
           {
@@ -392,7 +392,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Golem.md",
+                    "file": "Dwarf.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -407,7 +407,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Golem"
+                  "title": "Dwarf"
                 }
               }
             ],
@@ -565,8 +565,14 @@
   },
   "active": "02b185d6f17fd52d",
   "lastOpenFiles": [
-    "Eladrin.md",
+    "Dwarf.md",
+    "Hammerkeep.md",
+    "Luxon.md",
+    "Xokx.md",
+    "ThalaneTruthhaulerKalukithino.md",
+    "rules/eladrin.md",
     "Golem.md",
+    "Eladrin.md",
     "Construct.md",
     "conflict-files-obsidian-git.md",
     "secrets/KaranliwoodNecromancer.md",
@@ -586,12 +592,6 @@
     "rules/lonelysorrowsworn.md",
     "rules/lostsorrowsworn.md",
     "rules/wretchedsorrowsworn.md",
-    "secrets/rumours.md",
-    "Witchpeak.md",
-    "TheWretched.md",
-    "rules/meazel.md",
-    "rules/awakenedtree.md",
-    "Sorrowsworn.md",
     "images/mirrortemple.png",
     "images/Hammerkeep.png",
     "images/names-ho2-t.png",
