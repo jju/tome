@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CircleofHealingArts.md",
+                "file": "rules/warlockfiend.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CircleofHealingArts"
+              "title": "warlockfiend"
             }
           },
           {
@@ -245,6 +245,10 @@
   },
   "active": "9e0f6278cb9f3a50",
   "lastOpenFiles": [
+    "Asmodeus.md",
+    "Atagua.md",
+    "CityofDoors.md",
+    "CircleofHealingArts.md",
     "Hammerkeep.md",
     "Raftons.md",
     "inns.md",
@@ -267,10 +271,6 @@
     "RedwoodVillage.md",
     "Phandalin.md",
     "SildarHallwinter.md",
-    "Tabaxi.md",
-    "GundrenRockseeker.md",
-    "Blasingdell.md",
-    "Erathis.md",
     "Untitled.base",
     "images/mirrortemple.png",
     "images/names-ho2-t.png",

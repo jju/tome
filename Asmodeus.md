@@ -1,4 +1,5 @@
 # Asmodeus, the Lord of the Nine Hells
+
 Mastery of tyranny and domination, usually depicted as a monstrously handsome red-skinned humanoid with four curling horns, piercing red eyes, and flowing robes. He can also assume other forms and sometimes carries a ruby-tipped scepter.
 
 Evil entities pay homage to him, along with his many devils and demons and not a few [warlocks](warlockfiend.md). He rules the [Nine Hells](NineHells.md). His arch-nemesis is [Avandra](Avandra.md), but in the myths he betrayed and slaughtered all the followers of [Raei](Raei.md).
