@@ -120,6 +120,18 @@
             }
           },
           {
+            "id": "dc12592958526f40",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.4"
+            }
+          },
+          {
             "id": "19a2290373623bd1",
             "type": "leaf",
             "state": {
@@ -176,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       },
       {
         "id": "ce196e2f9001aae7",
@@ -466,7 +478,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -595,7 +609,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "5c04d9eb6d33cbb1",
+  "active": "dc12592958526f40",
   "lastOpenFiles": [
     "stories/Hk05a.md",
     "secrets/rumours.md",
