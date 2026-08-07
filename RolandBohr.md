@@ -1,5 +1,5 @@
 # Roland Bohr
 
-Bohr the blacksmith. Works in [Hammerkeep](Hammerkeep.md)
+Bohr the [Halfling](Halfling.md) blacksmith. Works in [Hammerkeep](Hammerkeep.md).
 
 > [npcs](npcs.md)

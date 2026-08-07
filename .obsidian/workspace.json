@@ -188,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 12
       },
       {
         "id": "ce196e2f9001aae7",
@@ -609,8 +609,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "dc12592958526f40",
+  "active": "26b2099eb5c78ca9",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "factions.md",
+    "Construct.md",
+    "Sharptooth.md",
+    "RedwoodVillage.md",
+    "Feargal.md",
+    "CloudusJrIII.md",
     "stories/Hk05a.md",
     "secrets/rumours.md",
     "places.md",
@@ -631,13 +638,6 @@
     "ThialaOstoroth.md",
     "TheLastOne.md",
     "TheAngry.md",
-    "ClanSnowcoat.md",
-    "SanCitlan.md",
-    "PiousCouncil.md",
-    "ClanNorixius.md",
-    "Kukvanod.md",
-    "HagMother.md",
-    "Glagronorg.md",
     "images/names-db1.png",
     "images/names-db2-dw-e1.png",
     "images/mirrortemple.png",

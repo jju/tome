@@ -1,5 +1,11 @@
 * [Urdl](Urdl.md)
 * [Green](Green.md)
+* [Orfuzz](Orfuzz.md)
+* [NedLolvodug](NedLolvodug.md)
+* [WardenofHammerkeep](WardenofHammerkeep.md)
+* [SufferingCairn](SufferingCairn)
+* [Diswoff](Diswoff.md)
+* [Alzek](Alzek.md)
 
 ## unassigned ancient stories
 

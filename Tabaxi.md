@@ -8,7 +8,7 @@ Tabaxi are common throughout the world, though in [Nuoro](Nuoro.md) their settle
 ## Characters
 
 * [Eager Wave](EagerWave.md) - a person of uncertain means in [Hammerkeep](Hammerkeep.md)
-* 
+* [Sildar Hallwinter](SildarHallwinter.md) - A friend of [GundrenRockseeker](GundrenRockseeker.md) in the [Grimteeth](Grimteeth.md)
 
 ## Tabaxi Names
 
