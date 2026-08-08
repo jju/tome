@@ -186,9 +186,75 @@
               "icon": "lucide-file",
               "title": "Escolla"
             }
+          },
+          {
+            "id": "1a7f73bfe77a4e7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "taverns.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "taverns"
+            }
+          },
+          {
+            "id": "c3e2281a943a11c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MinstrelCask.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MinstrelCask"
+            }
+          },
+          {
+            "id": "3518bc22d27d25b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MourningForestTavern.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MourningForestTavern"
+            }
+          },
+          {
+            "id": "d0027b4e5b6d8691",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZansTradehouse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ZansTradehouse"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 16
       },
       {
         "id": "ce196e2f9001aae7",
@@ -609,35 +675,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "26b2099eb5c78ca9",
+  "active": "b6615a5db251fcbe",
   "lastOpenFiles": [
+    "gods.md",
+    "Raei.md",
+    "Tlacatecolo.md",
+    "ZansTradehouse.md",
+    "Hammerkeep.md",
+    "MourningForestTavern.md",
+    "RolandBohr.md",
+    "Ukotoa.md",
+    "secrets/rumours.md",
+    "MinstrelCask.md",
+    "taverns.md",
+    "OldGoatTavern.md",
+    "ClaftonInn.md",
+    "RazorbackInn.md",
+    "inns.md",
+    "OckneysEyeTavern.md",
+    "RaftonsInn.md",
+    "Aarakocra.md",
+    "ThreeCandles.md",
+    "Escolla.md",
     "conflict-files-obsidian-git.md",
     "factions.md",
     "Construct.md",
     "Sharptooth.md",
     "RedwoodVillage.md",
     "Feargal.md",
-    "CloudusJrIII.md",
-    "stories/Hk05a.md",
-    "secrets/rumours.md",
-    "places.md",
-    "ZorzulasRest.md",
-    "WyrmshoodPact.md",
-    "Hammerkeep.md",
-    "OldGoatTavern.md",
-    "OckneysEye.md",
-    "WenserWaterskin.md",
-    "WaveEchoCave.md",
-    "VakSerpent.md",
-    "Unzio.md",
     "Untitled.base",
-    "ThreeBoarTrail.md",
-    "TriBoarTrail.md",
-    "Phandalin.md",
-    "Tletepec.md",
-    "ThialaOstoroth.md",
-    "TheLastOne.md",
-    "TheAngry.md",
     "images/names-db1.png",
     "images/names-db2-dw-e1.png",
     "images/mirrortemple.png",

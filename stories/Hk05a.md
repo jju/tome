@@ -79,7 +79,7 @@
 		* Temple of [Erathis](Erathis.md) - head [DalrigGravelmantle](DalrigGravelmantle.md)
 		* last warlock executed 20 years ago
 		* rumours of the [UndergroundThree](UndergroundThree.md)
-		* [Eager Wave](EagerWave.md) - likes the [OckneysEye](OckneysEye.md) tavern
+		* [Eager Wave](EagerWave.md) - likes the [OckneysEyeTavern](OckneysEyeTavern.md) tavern
 		* [ThePrisoner](ThePrisoner.md) - being held in the dungeon of the Keep
 		* the weird little reading room by [Truthhauler's](ThalaneTruthhaulerKalukithino.md) smith
 	* criminal people

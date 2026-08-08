@@ -100,7 +100,7 @@
 * [Garetton](Garetton.md)
 * [Haicong](Haicong.md)
 * [Jichileh](Jichileh.md)
-* [Raftons](Raftons.md)
+* [RaftonsInn](RaftonsInn.md)
 * [Winterhaven](Winterhaven.md)
 * [Xuedei](Xuedei.md)
 * Hallasen

@@ -32,16 +32,15 @@ The [Circle of Healing Arts](CircleofHealingArts.md) is a low wooden building ne
 * [Old Goat](OldGoatTavern.md) - scummy place in the Docks - [Vorka Thousand Fists](VorkaThousandFists.md) proprietress Super strong HalfOrc
 * [Gibbet](GibbetTavern.md) - weirdly gentrified with lots of old folk who still have their teeth - [Ekemon Lust](EkemonLust.md) the middle-aged dashing Tiefling runs it
 * [Lodestone](LodestoneTavern.md) - sunken damp Dwarf drinking hole, usually the first stop of Imperials - barkeep [Harol Garrick](HarolGarrick.md) youngish halfling - 
-* Minstrel and Cask - best for entertainment - [Cecily Quinton](CecilyQuinton.md) proprietress 84yo Human 
-* Mourning Forest - wardens rangers and others who brave the Woods - [Zepar Murder](ZeparMurder.md) youngish tiefling
-* 
+* [Minstrel & Cask](MinstrelCask.md) - best for entertainment - [Cecily Quinton](CecilyQuinton.md) proprietress 84yo Human 
+* [Mourning Forest](MourningForestTavern.md) - wardens rangers and others who brave the Woods - [Zepar Murder](ZeparMurder.md) youngish tiefling
+* [Ockney's Eye](OckneysEyeTavern.md) - cheap, near the [Hammersford](Hammersford.md) Road 
 
 ## Inns
 
-* Razorback - the roughest place (in the Docks) - run by [Lavinia Daergel](LaviniaDaergel.md) halfling woman
-* [Ockney's Eye](OckneysEye.md) - cheap, near the [Hammersford](Hammersford.md) Road 
-* Three Candles - the biggest place (near the [Hammersford](Hammersford.md) Road) - there is a lot of staff turnover
-* Clafton Inn - the classiest place (near the Keep) - managed by [Lagazi Proudfist](LagaziProudfist.md) owned by [FrugMiggledy](Frug Miggledy.md)
+* [Razorback Inn](RazorbackInn.md) - the roughest place (in the Docks) - run by [Lavinia Daergel](LaviniaDaergel.md) halfling woman
+* [Three Candles](ThreeCandles.md) - the biggest place (near the [Hammersford](Hammersford.md) Road) - there is a lot of staff turnover
+* [Clafton Inn](ClaftonInn.md) - the classiest place (near the Keep) - managed by [Lagazi Proudfist](LagaziProudfist.md) owned by [FrugMiggledy](Frug Miggledy.md)
 
 ## Temples
 
@@ -53,11 +52,13 @@ Not every god of the Empire has a full-on temple in Hammerkeep (this isn't [Bedw
 * Temple of [Gruumsh](Gruumsh.md) - Carved from huge timbers down by the docks, this is often where travellers stop for blessings on their way upstream. Usually that's because they've heard it's a good idea from the travellers coming downstream through the Woods. The main priest is a dour [Orc](Orc.md) named [Simple Rhela](SimpleRhela.md).
 * Temple of [Luxon](Luxon.md) - The Empty Dodecahedron has a storefront entrance to their shrine in an alley between a pair of bickering blacksmiths ([Thalane Truthhauler Kalukithino](ThalaneTruthhaulerKalukithino.md) - Goliath & [Xokx](Xokx.md)  - Harengon). It's rare to see a priest there. Mostly it seems to be used as a modest reading room.
 
+There is an old temple mound to [Raei](Raei.md) outside of town in the [Copper Hills](CopperHills.md), but it's been abandoned a long time. <!--Currently [IC4996](IC4996.md) it's being used as a bandit base of operations. They have somehow been spared the [Sereno](Sereno.md) illness.-->
+
 ## Other Businesses
 
-* Zan's Tradehouse - good place to find work as a caravan guard
+* [Zan's Tradehouse](ZansTradehouse.md) - good place to find work as a caravan guard
 * [Thalane Truthhauler Kalukithino](ThalaneTruthhaulerKalukithino.md) - [Goliath](Goliath.md) blacksmith focusing on large farm implements
-* [Roland Bohr](RolandBohr.md) - [Dwarf](Dwarf.md) blacksmith 
+* [Roland Bohr](RolandBohr.md) - [Halfling](Halfling.md) blacksmith out on the [Hammerford](Hammerford.md) road.
 * [Xokx](Xokx.md) - Harengon blacksmith undercuts Truthhauler's prices
 
 ## Demographics
