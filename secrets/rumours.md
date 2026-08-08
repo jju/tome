@@ -1,5 +1,5 @@
 
-* The bandits on the [old temple mound](RaeiTempleCopperHills.md) are not mere thieves, but drawn together by a dark impulse to serve “Sorg,” to whom they pray. comingofsorg
+* The bandits on the [old temple mound](RaeiTempleCH.md) are not mere thieves, but drawn together by a dark impulse to serve “Sorg,” to whom they pray. comingofsorg
 * Far into the desert there is an oracle. It’s said he has read every book ever written. oraclesdecree
 * The inland waters of Varna are not safe—too many toothfish. Actually, they come on land as well. motesofeternity
 * Raindrinkers remember everything, so they say. Their songs and tales are a thousand years old, yet they have no books. None would survive the damp! raindrinkers
