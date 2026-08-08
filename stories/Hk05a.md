@@ -63,7 +63,7 @@ Downside is they will be connected with nefarious witches and such
 	* [WyrmshoodPact](WyrmshoodPact.md) - depicted as diplomatic arrangement no mention of how [BranchGolem](BranchGolem.md) was made
 	* [Cephalopoids](Cephalopoid.md) are an otherworldly menace who attack good humanoids' minds directly
 	* 
-* DC10 Arcane (Cha)
+* DC10 Investigation (Int/Cha)
 	* Magical curses can sometimes present as illnesses - reports of a warlock causing such a thing before the end of the [GrimWar](GrimWar.md)
 	* Twisty white oak in the [Fosswood](Fosswood.md) said to be the root of all magical power
 	* Parrow mountain is a source of divine power (add in that people remember a sorcerer heading out there last year)
@@ -72,10 +72,10 @@ Downside is they will be connected with nefarious witches and such
 	* Shadowy demon things have been known to be summoned from other planes of existence - [Shadowfell](Shadowfell.md)
 	* Scrying Orbs are very rare treasures allowing remote surveillance - before the [ArcanePurge](ArcanePurge.md) they were used extensively by [DantagEmpire](DantagEmpire.md) spies in support of their [warpriests](warpriest.md)
 * DC15 Investigation (Int)
-	* [Skulk](secrets/Skulk.md) information
-	* [swirlyorb](secrets/swirlyorb.md) information
-	* [Sorg](Sorg.md) information
-	* [woodwoad](woodwoad.md) information
+	* full [Skulk](secrets/Skulk.md) information
+	* full [swirlyorb](secrets/swirlyorb.md) information
+	* full [Sorg](Sorg.md) information
+	* full [woodwoad](woodwoad.md) information
 
 
 ## Skulks
@@ -145,7 +145,7 @@ Downside is they will be connected with nefarious witches and such
 * "the last one" who did not sit and think with Snowcoat - tentaclefaced research
 * the Guardian of the standing stones is dead - find out about woodwoad
 * Queen of the Woods - could be angry about the standing stones pact being broken - [Rhig](Rhig.md)
-* All the dead people in Grapplers' Creek - who's dealing with them? - [Snerpi](Snerpi.md)
+* All the dead people in Grapplers' Creek - who's dealing with them? DC5 Investigation (Cha) - [Snerpi](Snerpi.md)
 * there's a Necromancer south of the river? - forest people
 * lots of people have been getting sick recently (part of why the Warden is short rangers and is relying on the party) - forest people [CircleofHealingArts](CircleofHealingArts.md)
 * the owl god - forest people, miners

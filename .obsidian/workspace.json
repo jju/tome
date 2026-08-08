@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stories/Hk05a.md",
+                "file": "LenOtton.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hk05a"
+              "title": "LenOtton"
             }
           }
         ]
@@ -302,8 +302,7 @@
                   "title": "Illithid"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal"
@@ -457,10 +456,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "fcc2e39775182b98",
+  "active": "c4eb7bd6ec985f82",
   "lastOpenFiles": [
-    "secrets/Skulk.md",
+    "BlightedOrder.md",
+    "LenOtton.md",
+    "Myen.md",
+    "Vnaud.md",
+    "rules/cultist.md",
+    "rules/abyssallarva.md",
+    "rules/priest.md",
+    "rules/acolyte.md",
     "stories/Hk05a.md",
+    "secrets/comingofsorg.md",
+    "secrets/Skulk.md",
     "Atagua.md",
     "secrets/fiendhollowmine.md",
     "Tharizdun.md",
@@ -476,15 +484,6 @@
     "stories/Hk05.md",
     "Itzmin.md",
     "Eladrin.md",
-    "Witchpeak.md",
-    "TheAngry.md",
-    "Bane.md",
-    "rules/citywatch.md",
-    "IC4995.md",
-    "BlightedOrder.md",
-    "secrets/comingofsorg.md",
-    "rules/abyssallarva.md",
-    "rules/cultist.md",
     "images/RaeiTempleCH.png",
     "Untitled.base",
     "images/names-db1.png",

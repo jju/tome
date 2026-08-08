@@ -6,7 +6,7 @@ A cult worshipping [Torog](Torog.md) (or at least the version of Torog called [S
 * [Len of Otton](LenOtton.md) - [Brewer](bandit.md)
 * [Myen the Butcher](Myen.md) - [Heretic Leader](cultist.md#Cultist%20Fanatic)
 * 12 [cultists](cultist.md)
-* 11 [acolytes](acolyte.md)
+* 11 [acolytes](cultist.md)
 * 15 [heretics](cultist.md)
 
 > [factions](factions.md)
