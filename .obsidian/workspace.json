@@ -457,8 +457,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "7506a8e1c18cf3d9",
+  "active": "fcc2e39775182b98",
   "lastOpenFiles": [
+    "secrets/Skulk.md",
     "stories/Hk05a.md",
     "Atagua.md",
     "secrets/fiendhollowmine.md",
@@ -480,7 +481,6 @@
     "Bane.md",
     "rules/citywatch.md",
     "IC4995.md",
-    "secrets/Skulk.md",
     "BlightedOrder.md",
     "secrets/comingofsorg.md",
     "rules/abyssallarva.md",
