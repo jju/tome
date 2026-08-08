@@ -8,333 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bc57c19e33674274",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IC4995.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IC4995"
-            }
-          },
-          {
-            "id": "704f53907b6ba790",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/citywatch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "citywatch"
-            }
-          },
-          {
-            "id": "df5b6c59df1953ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bane.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bane"
-            }
-          },
-          {
-            "id": "f6a0694689fe9ca8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TheAngry.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TheAngry"
-            }
-          },
-          {
-            "id": "23ab42cd9b1059dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Witchpeak.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Witchpeak"
-            }
-          },
-          {
-            "id": "65bf8739a791303f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eladrin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Eladrin"
-            }
-          },
-          {
-            "id": "02b185d6f17fd52d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Itzmin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Itzmin"
-            }
-          },
-          {
-            "id": "5c04d9eb6d33cbb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "stories/Hk05.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hk05"
-            }
-          },
-          {
-            "id": "dc12592958526f40",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.4"
-            }
-          },
-          {
-            "id": "19a2290373623bd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Construct.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Construct"
-            }
-          },
-          {
-            "id": "28c3d7de2deedf3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "factions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "factions"
-            }
-          },
-          {
-            "id": "d10bfffdce80008d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "roads.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "roads"
-            }
-          },
-          {
-            "id": "26b2099eb5c78ca9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Escolla.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Escolla"
-            }
-          },
-          {
-            "id": "1a7f73bfe77a4e7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "taverns.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "taverns"
-            }
-          },
-          {
-            "id": "c3e2281a943a11c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MinstrelCaskTavern.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MinstrelCaskTavern"
-            }
-          },
-          {
-            "id": "3518bc22d27d25b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MourningForestTavern.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MourningForestTavern"
-            }
-          },
-          {
-            "id": "d0027b4e5b6d8691",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZansTradehouse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ZansTradehouse"
-            }
-          },
-          {
-            "id": "cfff02f15b8c35a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LuxonShrineHk.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LuxonShrineHk"
-            }
-          },
-          {
-            "id": "8a5cc2f686d08a38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tharizdun.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tharizdun"
-            }
-          },
-          {
-            "id": "08b6adb2c3829bde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secrets/fiendhollowmine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "fiendhollowmine"
-            }
-          },
-          {
-            "id": "d9381e6c8743fc8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atagua.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Atagua"
-            }
-          },
-          {
             "id": "c4eb7bd6ec985f82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BlightedOrder.md",
+                "file": "stories/Hk05a.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BlightedOrder"
+              "title": "Hk05a"
             }
           }
-        ],
-        "currentTab": 21
+        ]
       },
       {
         "id": "ce196e2f9001aae7",
@@ -615,7 +302,8 @@
                   "title": "Illithid"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -771,33 +459,33 @@
   },
   "active": "c4eb7bd6ec985f82",
   "lastOpenFiles": [
-    "secrets/comingofsorg.md",
-    "rules/_statblocktemplate.md",
-    "BlightedOrder.md",
-    "Sorg.md",
-    "rules/abyssallarva.md",
-    "gods.md",
-    "secrets/Skulk.md",
-    "secrets/npcs.md",
-    "secrets/index.md",
-    "secrets/history.md",
-    "stories/Hk05.md",
-    "secrets/world.md",
-    "secrets/rumours.md",
-    "stories/Hk05a.md",
-    "Torog.md",
     "Atagua.md",
-    "rules/allip.md",
-    "stories/Hk02-MessMirrors.md",
     "secrets/fiendhollowmine.md",
-    "RaeiTempleCH.md",
-    "images/RaeiTempleCH.png",
-    "temples.md",
-    "PelorTempleHk.md",
+    "Tharizdun.md",
     "LuxonShrineHk.md",
-    "GruumshTempleHk.md",
-    "ErathisTempleHk.md",
-    "BahamutTempleHk.md",
+    "ZansTradehouse.md",
+    "MourningForestTavern.md",
+    "MinstrelCaskTavern.md",
+    "taverns.md",
+    "Escolla.md",
+    "roads.md",
+    "factions.md",
+    "Construct.md",
+    "stories/Hk05.md",
+    "Itzmin.md",
+    "Eladrin.md",
+    "Witchpeak.md",
+    "TheAngry.md",
+    "Bane.md",
+    "rules/citywatch.md",
+    "IC4995.md",
+    "stories/Hk05a.md",
+    "secrets/Skulk.md",
+    "BlightedOrder.md",
+    "secrets/comingofsorg.md",
+    "rules/abyssallarva.md",
+    "rules/cultist.md",
+    "images/RaeiTempleCH.png",
     "Untitled.base",
     "images/names-db1.png",
     "images/names-db2-dw-e1.png",

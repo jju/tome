@@ -1,4 +1,4 @@
-# Abyssal Larva
+# Abyssal Larvae
 
 Medium [Fiend](Fiend.md), chaotic evil
 

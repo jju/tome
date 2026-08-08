@@ -6,7 +6,7 @@ For decades, the Blighted Order of Sorg prayed to bring forth their horrid patro
 
 ## Ruined Archives
 
-This ruin is open to the sky. d3-1 cultists have taken cover inside. A few preserved tomes can be found amid the wet, moldering books (d4):
+This ruin is open to the sky. d3-1 (2) cultists have taken cover inside. A few preserved tomes can be found amid the wet, moldering books (d4):
 
 1. Raeiian prophecies that Sorg’s coming is punishment for neglecting Raei’s shrine
 2. Cult writings that Raei is actually a vicious herald of Sorg
@@ -29,8 +29,7 @@ Sorg’s presence defiles this hot spring pool, which now bubbles with slimy ooz
 
 ## The Granary
 
-The roof has been corroded by a spray of ichor. In the darkened interior lurk 2d6 cultists, trapped by fear of the emanations. Roll for their belief
-and goal. With them are three tons of barley grain and other dry foodstuffs.
+The roof has been corroded by a spray of ichor. In the darkened interior lurk 2d6 (5) cultists, trapped by fear of the emanations. Roll for their belief and goal. With them are three tons of barley grain and other dry foodstuffs.
 
 | d6  | Cult survivor group belief                                  |
 | --- | ----------------------------------------------------------- |
@@ -57,7 +56,7 @@ Sorg (rhino-sized demon larva, bile spray, slow) lies draped over the altar. Vna
 
 ## Brewing House
 
-A group of d6+2 cultists led by Len of Otton takes shelter from Sorg’s awful emanations. Len wears a medallion which confers immunity to the stairs. In the darkness stands a huge brass kettle and much firewood. 
+A group of d6+2 (5) cultists led by Len of Otton takes shelter from Sorg’s awful emanations. Len wears a medallion which confers immunity to the stairs. In the darkness stands a huge brass kettle and much firewood. 
 
 Shelves hold 6 kegs of honey and 4 kegs of good strong mead.
 
