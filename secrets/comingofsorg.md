@@ -8,20 +8,20 @@ For decades, the Blighted Order of Sorg prayed to bring forth their horrid patro
 
 This ruin is open to the sky. d3-1 cultists have taken cover inside. A few preserved tomes can be found amid the wet, moldering books (d4):
 
-1. Deelian prophecies that Sorg’s coming is punishment for neglecting Deel’s shrine
-2. Cult writings that Deel is actually a vicious herald of Sorg
+1. Raeiian prophecies that Sorg’s coming is punishment for neglecting Raei’s shrine
+2. Cult writings that Raei is actually a vicious herald of Sorg
 3. Cult writings prophesying that once sated, larval Sorg will reemerge as a vast mucus dragon and lay waste to the realm
-4. d3 Deelian scrolls containing various spells of protection
+4. d3 Raeiian scrolls containing various spells of protection
 
-## Gate of Deel
+## Gate of Raei
 
-Two stone pillars flank a great dais. Engravings declare that those who stand here are blessed by Deel the Protectress.
+Two stone pillars flank a great dais. Engravings declare that those who stand here are blessed by Raei the Protectress.
 
 No cultist or emanation of Sorg will enter this place, for it causes them
 searing pain and eventual death. This structure was once the entrance
-to the walled compound, originally a temple to Deel. The cultists have pulled down as much of it as they can, and what remains is beyond their abilities to defile.
+to the walled compound, originally a temple to Raei. The cultists have pulled down as much of it as they can, and what remains is beyond their abilities to defile.
 
-The cultists used rusting chains lying here to drag wayward members onto the platform to burn in Deel’s wrath, as a brutal form of execution.
+The cultists used rusting chains lying here to drag wayward members onto the platform to burn in Raei’s wrath, as a brutal form of execution.
 
 ## The Defiled Flow
 
@@ -83,7 +83,7 @@ into piles of grease avoided by animals.
 
 Knee-deep, fetid water swirls beneath a beautiful ceiling covered in pearlescent deposits. Any light source reflects into a hundred dancing motes.
 
-Prayer, meditation, intoxication, or intense pain will cause the motes to resolve into a vision of Deel the Protectress.
+Prayer, meditation, intoxication, or intense pain will cause the motes to resolve into a vision of Raei the Protectress.
 
 She will bless the weapons of any who vow to drive out Sorg. Victors will
 be rewarded with a divine boon.

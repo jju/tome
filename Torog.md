@@ -1,7 +1,8 @@
 # Torog, the Crawling King
+
 Dark god of the endless tunnels, he is now banished to the deepest pits of the [Underdark](Underdark.md).
 
-Usually rendered as a swollen malformed worm that slithers through the dark.
+Usually rendered as a swollen malformed worm that slithers through the dark. Sometimes referred to as Sorg.
 
 Defeated by [Pelor](Pelor.md) and [Raei](Raei.md) by luring him above ground and piercing him with light.
 
