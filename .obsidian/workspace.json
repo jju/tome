@@ -290,9 +290,23 @@
               "icon": "lucide-file",
               "title": "Tharizdun"
             }
+          },
+          {
+            "id": "08b6adb2c3829bde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parnast.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Parnast"
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       },
       {
         "id": "ce196e2f9001aae7",
@@ -713,14 +727,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "8a5cc2f686d08a38",
+  "active": "08b6adb2c3829bde",
   "lastOpenFiles": [
+    "Orc.md",
+    "NineHells.md",
+    "Metallic.md",
+    "Melora.md",
+    "CymirYarg.md",
+    "places.md",
+    "BloodstoneHall.md",
+    "LodestoneTavern.md",
+    "Shanj.md",
+    "Tharizdun.md",
     "RaeiTempleCopperHills.md",
     "temples.md",
     "taverns.md",
     "secrets/rumours.md",
     "GibbetTavern.md",
-    "LodestoneTavern.md",
     "MinstrelCaskTavern.md",
     "Hammerkeep.md",
     "OldGoatTavern.md",
@@ -732,15 +755,6 @@
     "BahamutTempleHammerkeep.md",
     "ZansTradehouse.md",
     "gods.md",
-    "Raei.md",
-    "Tlacatecolo.md",
-    "MourningForestTavern.md",
-    "RolandBohr.md",
-    "Ukotoa.md",
-    "ClaftonInn.md",
-    "RazorbackInn.md",
-    "inns.md",
-    "OckneysEyeTavern.md",
     "Untitled.base",
     "images/names-db1.png",
     "images/names-db2-dw-e1.png",
