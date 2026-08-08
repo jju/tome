@@ -217,12 +217,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MinstrelCask.md",
+                "file": "MinstrelCaskTavern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MinstrelCask"
+              "title": "MinstrelCaskTavern"
             }
           },
           {
@@ -252,9 +252,47 @@
               "icon": "lucide-file",
               "title": "ZansTradehouse"
             }
+          },
+          {
+            "id": "cfff02f15b8c35a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LuxonShrineHammerkeep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LuxonShrineHammerkeep"
+            }
+          },
+          {
+            "id": "8a5cc2f686d08a38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tharizdun.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tharizdun"
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 18
       },
       {
         "id": "ce196e2f9001aae7",
@@ -675,34 +713,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "b6615a5db251fcbe",
+  "active": "8a5cc2f686d08a38",
   "lastOpenFiles": [
+    "RaeiTempleCopperHills.md",
+    "temples.md",
+    "taverns.md",
+    "secrets/rumours.md",
+    "GibbetTavern.md",
+    "LodestoneTavern.md",
+    "MinstrelCaskTavern.md",
+    "Hammerkeep.md",
+    "OldGoatTavern.md",
+    "LuxonShrineHammerkeep.md",
+    "GruumshTempleHammerkeep.md",
+    "ErathisTempleHammerkeep.md",
+    "Gruumsh.md",
+    "PelorTempleHammerkeep.md",
+    "BahamutTempleHammerkeep.md",
+    "ZansTradehouse.md",
     "gods.md",
     "Raei.md",
     "Tlacatecolo.md",
-    "ZansTradehouse.md",
-    "Hammerkeep.md",
     "MourningForestTavern.md",
     "RolandBohr.md",
     "Ukotoa.md",
-    "secrets/rumours.md",
-    "MinstrelCask.md",
-    "taverns.md",
-    "OldGoatTavern.md",
     "ClaftonInn.md",
     "RazorbackInn.md",
     "inns.md",
     "OckneysEyeTavern.md",
-    "RaftonsInn.md",
-    "Aarakocra.md",
-    "ThreeCandles.md",
-    "Escolla.md",
-    "conflict-files-obsidian-git.md",
-    "factions.md",
-    "Construct.md",
-    "Sharptooth.md",
-    "RedwoodVillage.md",
-    "Feargal.md",
     "Untitled.base",
     "images/names-db1.png",
     "images/names-db2-dw-e1.png",
