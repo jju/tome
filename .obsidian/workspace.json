@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "a21baca6adbeaa75",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.4"
+            }
+          },
+          {
             "id": "67f0353d0f13c219",
             "type": "leaf",
             "state": {
@@ -94,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -243,7 +257,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "44d846d94b33a1b6",
+  "active": "a21baca6adbeaa75",
   "lastOpenFiles": [
     "rules/warlockfiend.md",
     "Asmodeus.md",
