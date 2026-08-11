@@ -4,150 +4,116 @@
     "type": "split",
     "children": [
       {
-        "id": "2619b7731b599fc5",
+        "id": "6951d5cab2888335",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a7ea27519857a48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "secrets/fiendhollowmine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "fiendhollowmine"
+            }
+          }
+        ]
+      },
+      {
+        "id": "443a3a9afa63f420",
         "type": "split",
         "children": [
           {
             "id": "6b20df96ac8835da",
             "type": "tabs",
+            "dimension": 39.01808785529715,
             "children": [
               {
-                "id": "9e0f6278cb9f3a50",
+                "id": "2771a0702e231c15",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Sereno.md",
+                    "file": "stories/Hk05a.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Sereno"
-                }
-              },
-              {
-                "id": "52b8a43bcc3c4821",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Raftons.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Raftons"
+                  "title": "Hk05a"
                 }
               }
             ]
           },
           {
-            "id": "cc85999113c5b2d6",
+            "id": "f5d3607ba2bf8a18",
             "type": "tabs",
+            "dimension": 60.98191214470285,
             "children": [
               {
-                "id": "688926f42e86b079",
+                "id": "aeae2295485df782",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "names.md",
+                    "file": "SwirlyOrb.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "names"
+                  "title": "SwirlyOrb"
+                }
+              },
+              {
+                "id": "ebacef52f2cfdb17",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "secrets/AbbeyReflectingMind.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "AbbeyReflectingMind"
+                }
+              },
+              {
+                "id": "ff02bb1e6dfab584",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "secrets/swirlyorb.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "swirlyorb"
+                }
+              },
+              {
+                "id": "5dbe5855ddeddee0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Itzmin.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Itzmin"
                 }
               }
-            ]
+            ],
+            "currentTab": 3
           }
         ],
         "direction": "horizontal"
-      },
-      {
-        "id": "81f451543eb9dde9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2d498b3c30e2ea66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hammerkeep.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hammerkeep"
-            }
-          },
-          {
-            "id": "44d846d94b33a1b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FelosialWaterskin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FelosialWaterskin"
-            }
-          },
-          {
-            "id": "a21baca6adbeaa75",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.4"
-            }
-          },
-          {
-            "id": "67f0353d0f13c219",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Barfgeld.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Barfgeld"
-            }
-          },
-          {
-            "id": "327e9dc9d1ab2a3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "stories/Hk04-WellWellWell.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hk04-WellWellWell"
-            }
-          }
-        ],
-        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -167,9 +133,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -206,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "16831b33c7fa36cc",
@@ -298,44 +262,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "327e9dc9d1ab2a3a",
+  "active": "5dbe5855ddeddee0",
   "lastOpenFiles": [
-    "timeline.md",
-    "secrets/IC4942.md",
-    "secrets/SkerpaSnowcoat.md",
-    "HlinThrahak.md",
-    "Barfgeld.md",
+    "Hammerkeep.md",
+    "Itzmin.md",
     "names.md",
     "stories/Hk05a.md",
-    "Aarakocra.md",
-    "Rhig.md",
-    "Hammerkeep.md",
-    "Sereno.md",
-    "GluttonyJezebeth.md",
-    "OldGoatTavern.md",
-    "taverns.md",
-    "IC4995.md",
-    "conflict-files-obsidian-git.md",
-    "Rurik.md",
-    "rules/warlockfiend.md",
-    "JPRatquiat.md",
-    "secrets/rumours.md",
+    "stories/Hk05.md",
+    "Kiirith.md",
+    "Pog.md",
+    "Mreksh.md",
+    "rules/fighter.md",
+    "secrets/fiendhollowmine.md",
     "temples.md",
+    "taverns.md",
+    "stories/Hk04-WellWellWell.md",
+    "secrets/rumours.md",
     "secrets/comingofsorg.md",
+    "secrets/Rodham.md",
+    "secrets/Itzmin.md",
+    "secrets/IC4942.md",
+    "rules/wordofradiance.md",
+    "rules/scrying.md",
+    "rules/sacredflame.md",
+    "rules/faeriefire.md",
+    "rules/comprehendlanguages.md",
+    "rules/claygolem.md",
     "rules/abyssallarva.md",
     "images/RaeiTempleCH.png",
     "ZansTradehouse.md",
-    "Vnaud.md",
-    "ThreeCandles.md",
-    "Untitled.base",
     "images/mirrortemple.png",
     "images/names-ho2-t.png",
     "images/names-h-ho1.png",
     "images/names-e3-g.png",
     "images/names-e2.png",
     "images/names-db2-dw-e1.png",
+    "images/names-db2.png",
     "images/names-db1.png",
-    "images/Nuoro24mi.png",
     "images/Hammerkeep.png"
   ]
 }

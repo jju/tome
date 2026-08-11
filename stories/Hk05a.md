@@ -1,3 +1,6 @@
+[CircleofHealingArts](CircleofHealingArts.md) - can find out about [Sereno](Sereno.md) also meet up with [Kiirith](Kiirith.md)
+
+Hollow silver mine used to be called Zula Point
 # Books & Tomes
 
 ## Hammerkeep Libraries
