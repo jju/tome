@@ -43,7 +43,7 @@
 ### Northwest
 
 * [Tayama](Tayama.md)
-* San Citlan - city in northwest wastes, near village of Milpazul, and Hollow mine of Pontezula in the Silver Veins
+* [San Citlan](SanCitlan.md) - city in northwest wastes, near village of Milpazul, and the mine of Pontezula in the Silver Veins
 
 ### Croaklands
 
@@ -60,6 +60,7 @@
 * [FarUzak](FarUzak.md)
 * [HuskenHills](HuskenHills.md)
 * [Skytusk](Skytusk.md)
+* 
 
 
 
@@ -71,6 +72,7 @@
 * [Perolmani](Perolmani.md)
 * [Golgewood](Golgewood.md)
 * [GarettonForest](GarettonForest.md)
+* [Fosswood](Fosswood.md)
 
 ## Wetlands
 
@@ -100,7 +102,7 @@
 * [Garetton](Garetton.md)
 * [Haicong](Haicong.md)
 * [Jichileh](Jichileh.md)
-* [Raftons](Raftons.md)
+* [RaftonsInn](RaftonsInn.md)
 * [Winterhaven](Winterhaven.md)
 * [Xuedei](Xuedei.md)
 * Hallasen

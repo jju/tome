@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules/warlockfiend.md",
+                "file": "Sereno.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "warlockfiend"
+              "title": "Sereno"
             }
           },
           {
@@ -97,16 +97,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secrets/rumours.md",
+                "file": "IC4995.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rumours"
+              "title": "IC4995"
+            }
+          },
+          {
+            "id": "fb6b184405b54331",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -257,34 +271,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "a21baca6adbeaa75",
+  "active": "fb6b184405b54331",
   "lastOpenFiles": [
+    "IC4995.md",
+    "conflict-files-obsidian-git.md",
+    "timeline.md",
+    "Rurik.md",
+    "Sereno.md",
     "rules/warlockfiend.md",
-    "Asmodeus.md",
-    "Atagua.md",
-    "CityofDoors.md",
-    "CircleofHealingArts.md",
-    "Hammerkeep.md",
-    "Raftons.md",
-    "inns.md",
-    "Mulhorand.md",
-    "names.md",
-    "Necromancer.md",
-    "npcs.md",
-    "Noricum.md",
-    "Nuoro.md",
-    "NuoroRiver.md",
-    "Nyx.md",
-    "Feargal.md",
-    "Sharptooth.md",
-    "FelosialWaterskin.md",
-    "Oakhurst.md",
-    "Ratfolk.md",
-    "PiousCouncil.md",
-    "RolandBohr.md",
-    "CloudusJrIII.md",
-    "RedwoodVillage.md",
-    "Phandalin.md",
+    "JPRatquiat.md",
+    "secrets/rumours.md",
+    "temples.md",
+    "taverns.md",
+    "secrets/comingofsorg.md",
+    "rules/abyssallarva.md",
+    "images/RaeiTempleCH.png",
+    "ZansTradehouse.md",
+    "Vnaud.md",
+    "ThreeCandles.md",
+    "Sorg.md",
+    "Shanj.md",
+    "RazorbackInn.md",
+    "RaftonsInn.md",
+    "RaeiTempleCH.md",
+    "PelorTempleHk.md",
+    "PelorTempleGrapplersCreek.md",
+    "OckneysEyeTavern.md",
+    "Myen.md",
+    "MourningForestTavern.md",
+    "MinstrelCaskTavern.md",
     "Untitled.base",
     "images/mirrortemple.png",
     "images/names-ho2-t.png",
