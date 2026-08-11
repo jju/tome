@@ -61,12 +61,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "names.md",
+                    "file": "stories/Hk05a.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "names"
+                  "title": "Hk05a"
                 }
               }
             ]
@@ -124,12 +124,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "taverns.md",
+                "file": "Aarakocra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "taverns"
+              "title": "Aarakocra"
             }
           }
         ],
@@ -286,10 +286,16 @@
   },
   "active": "67f0353d0f13c219",
   "lastOpenFiles": [
+    "Rhig.md",
+    "Aarakocra.md",
     "Hammerkeep.md",
-    "IC4995.md",
+    "stories/Hk05a.md",
     "names.md",
     "Sereno.md",
+    "GluttonyJezebeth.md",
+    "OldGoatTavern.md",
+    "taverns.md",
+    "IC4995.md",
     "conflict-files-obsidian-git.md",
     "timeline.md",
     "Rurik.md",
@@ -297,7 +303,6 @@
     "JPRatquiat.md",
     "secrets/rumours.md",
     "temples.md",
-    "taverns.md",
     "secrets/comingofsorg.md",
     "rules/abyssallarva.md",
     "images/RaeiTempleCH.png",
@@ -308,11 +313,6 @@
     "Shanj.md",
     "RazorbackInn.md",
     "RaftonsInn.md",
-    "RaeiTempleCH.md",
-    "PelorTempleHk.md",
-    "PelorTempleGrapplersCreek.md",
-    "OckneysEyeTavern.md",
-    "Myen.md",
     "Untitled.base",
     "images/mirrortemple.png",
     "images/names-ho2-t.png",

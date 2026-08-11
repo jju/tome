@@ -13,9 +13,6 @@
 * Sunken Wreck
 * Tried and True
 * Green Skull
-
-The Screaming Gnome
-
-The Bloody Sailor
-
-The Mad Cyclops
+* Screaming Gnome
+* Bloody Sailor
+* Mad Cyclops
