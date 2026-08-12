@@ -8,6 +8,12 @@ Possibly multi-class as a [Warlock](Warlock.md)
 
 Riles in his wandering scam normally moves on before people get wise to his shenanigans so being stuck in a place for awhile would pose some complications. So maybe there is a character in town who has gotten wise to his tricks. A true believer who feels slighted and a fool for being taken in. Maybe someone rich like a guild member. But then on the flip side there is maybe someone who is all in. I like the idea of someone who sees the scam but is so lonely for group belonging they turn a blind eye and are willing to help him out. Someone like a blacksmiths apprentice. So a jilted acolyte and a lonely skeptic. [WenserWaterskin](WenserWaterskin.md)
 
+## Connections
+
+* [WenserWaterskin](WenserWaterskin.md)
+* [FrugMiggledy](FrugMiggledy.md)
+* [TheParty](TheParty.md)
+* [Rhig Ostoroth](Rhig.md) (as Jimmy Snapshot)
 
 # Stats
 
