@@ -2,7 +2,10 @@
 
 Hollow silver mine used to be called Zula Point
 
-9 days later
+20 days later
+
+Barfgeld 15gp in debt
+
 
 
 # Books & Tomes
