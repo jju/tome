@@ -59,8 +59,19 @@
                   "icon": "lucide-file",
                   "title": "Sereno"
                 }
+              },
+              {
+                "id": "0e5840084fb9079d",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           },
           {
             "id": "f5d3607ba2bf8a18",
@@ -73,12 +84,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "IC4995.md",
+                    "file": "rules/guard.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "IC4995"
+                  "title": "guard"
                 }
               },
               {
@@ -261,13 +272,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "2771a0702e231c15",
+  "active": "0e5840084fb9079d",
   "lastOpenFiles": [
+    "rules/guard.md",
+    "rules/bandit.md",
+    "Bandits.md",
+    "IC4995.md",
+    "stories/Hk05a.md",
     "Sereno.md",
     "HlinThrahak.md",
-    "stories/Hk05a.md",
     "CircleofHealingArts.md",
-    "IC4995.md",
     "timeline.md",
     "IC4996.md",
     "secrets/SkerpaSnowcoat.md",
@@ -286,9 +300,6 @@
     "stories/Hk05.md",
     "Kiirith.md",
     "Pog.md",
-    "Mreksh.md",
-    "rules/fighter.md",
-    "temples.md",
     "images/RaeiTempleCH.png",
     "images/mirrortemple.png",
     "images/names-ho2-t.png",
