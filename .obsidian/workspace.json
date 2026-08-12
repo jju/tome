@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stories/Hk05a.md",
+                "file": "Hollow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hk05a"
+              "title": "Hollow"
+            }
+          },
+          {
+            "id": "fd009e10278b2c2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ArcanePurge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ArcanePurge"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ce196e2f9001aae7",
@@ -513,10 +528,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "33c7a1f52040709f",
+  "active": "fd009e10278b2c2b",
   "lastOpenFiles": [
-    "stories/Hk05a.md",
+    "libraries.md",
+    "Hollow.md",
     "SwirlyOrb.md",
+    "mines.md",
+    "stories/Hk05a.md",
     "OlzulargGrimace.md",
     "Riles.md",
     "Rhig.md",
@@ -538,9 +556,6 @@
     "Hammerkeep.md",
     "rules/abyssallarva.md",
     "stories/Hk04-WellWellWell.md",
-    "BlightedOrder.md",
-    "conflict-files-obsidian-git.md",
-    "IC4942.md",
     "images/RaeiTempleCH.png",
     "Untitled.base",
     "images/names-db1.png",
