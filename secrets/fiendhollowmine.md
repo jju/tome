@@ -204,7 +204,7 @@ Loose planks cover the entrance to the mine. Once characters enter the mine, rea
 
 The stone of the mine entrance cavern is crumbling badly, but a character who has the Stonecunning trait or who succeeds on a DC 16 Intelligence (Nature check can tell the cavern is in no immediate danger of collapsing. See the "Cave-In!" section for details on how that might change.
 
-**Elevator.** The elevator is rusted in place, and the shaft it once traversed is depicted as shaded spaces on map 4.1. A character who examines it and succeeds on a DC 15 Intelligence (Investigation) check recognizes that the elevator will collapse under any significant weight. If 100 pounds or more is placed on the elevator platform, it collapses. Any creature standing on the platform at the time drops 100 feet into area H5, taking 35 (10d6) bludgeoning damage from the fall.
+**Elevator.** The elevator is rusted in place, and the shaft it once traversed is depicted as shaded spaces on map 4.1. A character who examines it and succeeds on a DC 15 Intelligence (Investigation) check recognizes that the elevator will collapse under any significant weight. If 100 pounds or more is placed on the elevator platform, it collapses. Any creature standing on the platform at the time drops 60 feet into area H5, taking 35 (10d6) bludgeoning damage from the fall.
 
 **Hidden Entrance.** The people of Hollow sealed a tunnel leading to the mine's lower levels on the northwest wall after a number of explorers got lost in the mine. With a successful DC 12 Wisdom (Perception) check, a character perceives a section of the wall rattling in the wind, discovering a wooden door that was hidden behind a pile of rocks.
 

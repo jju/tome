@@ -70,8 +70,7 @@
                   "title": "New tab"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           },
           {
             "id": "f5d3607ba2bf8a18",
@@ -272,13 +271,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "0e5840084fb9079d",
+  "active": "7a7ea27519857a48",
   "lastOpenFiles": [
+    "stories/Hk05a.md",
+    "secrets/fiendhollowmine.md",
     "rules/guard.md",
     "rules/bandit.md",
     "Bandits.md",
     "IC4995.md",
-    "stories/Hk05a.md",
     "Sereno.md",
     "HlinThrahak.md",
     "CircleofHealingArts.md",
@@ -290,7 +290,6 @@
     "SwirlyOrb.md",
     "Itzmin.md",
     "secrets/swirlyorb.md",
-    "secrets/fiendhollowmine.md",
     "Hammerkeep.md",
     "gods.md",
     "Desirat.md",
