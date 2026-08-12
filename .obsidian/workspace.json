@@ -38,12 +38,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "CircleofHealingArts.md",
+                    "file": "stories/Hk05a.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "CircleofHealingArts"
+                  "title": "Hk05a"
                 }
               },
               {
@@ -52,12 +52,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "HlinThrahak.md",
+                    "file": "Sereno.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "HlinThrahak"
+                  "title": "Sereno"
                 }
               }
             ]
@@ -263,12 +263,13 @@
   },
   "active": "2771a0702e231c15",
   "lastOpenFiles": [
+    "Sereno.md",
+    "HlinThrahak.md",
+    "stories/Hk05a.md",
+    "CircleofHealingArts.md",
     "IC4995.md",
     "timeline.md",
     "IC4996.md",
-    "CircleofHealingArts.md",
-    "stories/Hk05a.md",
-    "HlinThrahak.md",
     "secrets/SkerpaSnowcoat.md",
     "Moradin.md",
     "Erathis.md",
@@ -288,7 +289,6 @@
     "Mreksh.md",
     "rules/fighter.md",
     "temples.md",
-    "taverns.md",
     "images/RaeiTempleCH.png",
     "images/mirrortemple.png",
     "images/names-ho2-t.png",
