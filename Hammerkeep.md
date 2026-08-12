@@ -35,6 +35,7 @@ The [Circle of Healing Arts](CircleofHealingArts.md) is a low wooden building ne
 * [Minstrel & Cask](MinstrelCaskTavern.md) - best for entertainment - [Cecily Quinton](CecilyQuinton.md) proprietress 84yo Human 
 * [Mourning Forest](MourningForestTavern.md) - wardens rangers and others who brave the Woods - [Zepar Murder](ZeparMurder.md) youngish tiefling
 * [Ockney's Eye](OckneysEyeTavern.md) - cheap, near the [Hammersford](Hammersford.md) Road 
+* [BoiledPickle](BoiledPickleTavern.md)
 
 ## Inns
 
