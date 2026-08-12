@@ -38,12 +38,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "stories/Hk05a.md",
+                    "file": "Pazuzu.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Hk05a"
+                  "title": "Pazuzu"
                 }
               }
             ]
@@ -262,18 +262,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "5dbe5855ddeddee0",
+  "active": "2771a0702e231c15",
   "lastOpenFiles": [
-    "Hammerkeep.md",
-    "Itzmin.md",
-    "names.md",
+    "secrets/fiendhollowmine.md",
+    "Pazuzu.md",
+    "Desirat.md",
+    "gods.md",
     "stories/Hk05a.md",
+    "Itzmin.md",
+    "Hammerkeep.md",
+    "names.md",
     "stories/Hk05.md",
     "Kiirith.md",
     "Pog.md",
     "Mreksh.md",
     "rules/fighter.md",
-    "secrets/fiendhollowmine.md",
     "temples.md",
     "taverns.md",
     "stories/Hk04-WellWellWell.md",
@@ -287,10 +290,7 @@
     "rules/sacredflame.md",
     "rules/faeriefire.md",
     "rules/comprehendlanguages.md",
-    "rules/claygolem.md",
-    "rules/abyssallarva.md",
     "images/RaeiTempleCH.png",
-    "ZansTradehouse.md",
     "images/mirrortemple.png",
     "images/names-ho2-t.png",
     "images/names-h-ho1.png",
