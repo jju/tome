@@ -38,12 +38,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "stories/Hk05a.md",
+                    "file": "CircleofHealingArts.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Hk05a"
+                  "title": "CircleofHealingArts"
                 }
               },
               {
@@ -52,12 +52,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "secrets/SkerpaSnowcoat.md",
+                    "file": "HlinThrahak.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "SkerpaSnowcoat"
+                  "title": "HlinThrahak"
                 }
               }
             ]
@@ -73,12 +73,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "IC4996.md",
+                    "file": "IC4995.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "IC4996"
+                  "title": "IC4995"
                 }
               },
               {
@@ -261,14 +261,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "aeae2295485df782",
+  "active": "2771a0702e231c15",
   "lastOpenFiles": [
+    "IC4995.md",
+    "timeline.md",
+    "IC4996.md",
+    "CircleofHealingArts.md",
+    "stories/Hk05a.md",
+    "HlinThrahak.md",
+    "secrets/SkerpaSnowcoat.md",
+    "Moradin.md",
+    "Erathis.md",
     "SwirlyOrb.md",
     "Itzmin.md",
-    "stories/Hk05a.md",
     "secrets/swirlyorb.md",
-    "secrets/SkerpaSnowcoat.md",
-    "HlinThrahak.md",
     "secrets/fiendhollowmine.md",
     "Hammerkeep.md",
     "gods.md",
@@ -283,12 +289,6 @@
     "rules/fighter.md",
     "temples.md",
     "taverns.md",
-    "stories/Hk04-WellWellWell.md",
-    "secrets/rumours.md",
-    "secrets/comingofsorg.md",
-    "secrets/Rodham.md",
-    "secrets/Itzmin.md",
-    "secrets/IC4942.md",
     "images/RaeiTempleCH.png",
     "images/mirrortemple.png",
     "images/names-ho2-t.png",
