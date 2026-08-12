@@ -19,6 +19,7 @@ The year is [IC4996](IC4996.md)
 * [IC4964](IC4964.md) - [Rurik Stoneblood](Rurik.md) born
 * [IC4960](IC4960.md) - [Pog](Pog.md) born
 * [IC4943](IC4943.md) - The [Grim War](GrimWar.md) ended 
+* [IC4942](IC4942.md) - Battle of Grappler's Creek
 
 # The Last Hundred Years
 

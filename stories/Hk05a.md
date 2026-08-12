@@ -1,3 +1,13 @@
+[CircleofHealingArts](CircleofHealingArts.md) - can find out about [Sereno](Sereno.md) also meet up with [Kiirith](Kiirith.md)
+
+Hollow silver mine used to be called Zula Point
+
+20 days later
+
+Barfgeld 15gp in debt
+
+
+
 # Books & Tomes
 
 ## Hammerkeep Libraries
