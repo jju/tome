@@ -18,3 +18,4 @@ The calendar we use for recording what happens in Nuoro is the local adaptation 
 	* Shibar - trickery
 	* Sharkar - Death knowledge broken shackles
 
+> [timeline](timeline.md)

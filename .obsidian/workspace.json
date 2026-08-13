@@ -66,12 +66,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "IC4995.md",
+                    "file": "timeline.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "IC4995"
+                  "title": "timeline"
                 }
               },
               {
@@ -530,9 +530,14 @@
   },
   "active": "fd009e10278b2c2b",
   "lastOpenFiles": [
+    "timeline.md",
+    "calendar.md",
+    "IC4995.md",
+    "ArcanePurge.md",
+    "SwirlyOrb.md",
+    "secrets/swirlyorb.md",
     "libraries.md",
     "Hollow.md",
-    "SwirlyOrb.md",
     "mines.md",
     "stories/Hk05a.md",
     "OlzulargGrimace.md",
@@ -541,21 +546,16 @@
     "GibbetTavern.md",
     "stories/Hk05.md",
     "JPRatquiat.md",
-    "IC4995.md",
     "Itzmin.md",
     "GluttonyJezebeth.md",
     "CircleofHealingArts.md",
     "LumomBouldersorrow.md",
     "JadeGift.md",
     "Ifa.md",
-    "timeline.md",
     "IC4996.md",
     "Alzek.md",
     "taverns.md",
     "BoiledPickleTavern.md",
-    "Hammerkeep.md",
-    "rules/abyssallarva.md",
-    "stories/Hk04-WellWellWell.md",
     "images/RaeiTempleCH.png",
     "Untitled.base",
     "images/names-db1.png",

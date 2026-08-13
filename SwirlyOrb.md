@@ -12,5 +12,7 @@ When [Riles](Riles.md) attempted to leave the chamber with the orb, [the Ghost](
 
 Scrying Orbs are very rare treasures allowing remote surveillance once you learn how to use it possibly even without being an arcanist. Before the [Arcane Purge](ArcanePurge.md) they were used extensively by [Dantag Empire](DantagEmpire.md) spies in support of their warpriests, but they haven't been seen in the field in centuries (long before the [Grim War](GrimWar.md)). 
 
+<!--A short rest of meditating with it will allow anyone to use it. If the user makes a DC19 Arcana (Int) check they get a use of the [scrying](scrying.md) spell. This particular orb also requires a DC19 Wis save to avoid losing hours of time staring into the swirls.-->
+
 > [treasures](treasures.md)
 > 
