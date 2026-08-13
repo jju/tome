@@ -3,18 +3,20 @@ For more on the [calendar](calendar.md)
 
 The year is [IC4996](IC4996.md)
 
+* 4996-01-25 - [Hk05-MurderHobosHoles](Hk05-MurderHobosHoles.md)
 * 4996-01-05 - [Hk04-WellWellWell](Hk04-WellWellWell.md)
 * 4996-01-04 - [Hk02-MessMirrors](Hk02-MessMirrors.md) [Hk03-MurderCurtains](Hk03-MurderCurtains.md)
 * 4996-01-02 - [Hk01-InvestigationInvisible](Hk01-InvestigationInvisible.md)
 
 # The Recent Past
 
-* [IC4995](IC4995.md)
+* [IC4995](IC4995.md) - [The Party](TheParty.md) arrives (separately) in [Hammerkeep](Hammerkeep.md) at the end of the year and is snowed in until the thaw.
 
  
 # The Last Fifty Years
 
 * [IC4979](IC4979.md) - the last Warlock in [Hammerkeep](Hammerkeep.md) executed
+* [IC4975](IC4975.md) - the Rat King terrorizing [DennelCrossing](DennelCrossing.md) put down by [GoldenDragons](GoldenDragons.md)
 * [IC4965](IC4965.md) - [Riles Greyfox](Riles.md) born
 * [IC4964](IC4964.md) - [Rurik Stoneblood](Rurik.md) born
 * [IC4960](IC4960.md) - [Pog](Pog.md) born
@@ -28,3 +30,7 @@ The year is [IC4996](IC4996.md)
 # The Last Five Hundred Years
 
 * [IC4826](IC4826.md) - [Barfgeld](Barfgeld.md) born
+* [IC4720](IC4720.md) - [HlinThrahak](HlinThrahak.md) born
+* The [WyrmshoodPact](WyrmshoodPact.md) is made between the [DantagEmpire](DantagEmpire.md) and the [Queen of the Woods](QueenoftheWoods.md)
+
+> [calendar](calendar.md)

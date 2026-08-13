@@ -2,4 +2,7 @@
 * [Hk00-Prelude](Hk00-Prelude.md) 
 * [Hk01-InvestigationInvisible](Hk01-InvestigationInvisible.md)
 * [Hk02-MessMirrors](Hk02-MessMirrors.md)
+* [Hk03-MurderCurtains](Hk03-MurderCurtains.md)
+* [Hk04-WellWellWell](Hk04-WellWellWell.md)
+* [Hk05-MurderHobosHoles](Hk05-MurderHobosHoles.md)
 * [StoopSmith](StoopSmith.md) 

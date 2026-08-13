@@ -204,7 +204,7 @@ Loose planks cover the entrance to the mine. Once characters enter the mine, rea
 
 The stone of the mine entrance cavern is crumbling badly, but a character who has the Stonecunning trait or who succeeds on a DC 16 Intelligence (Nature check can tell the cavern is in no immediate danger of collapsing. See the "Cave-In!" section for details on how that might change.
 
-**Elevator.** The elevator is rusted in place, and the shaft it once traversed is depicted as shaded spaces on map 4.1. A character who examines it and succeeds on a DC 15 Intelligence (Investigation) check recognizes that the elevator will collapse under any significant weight. If 100 pounds or more is placed on the elevator platform, it collapses. Any creature standing on the platform at the time drops 100 feet into area H5, taking 35 (10d6) bludgeoning damage from the fall.
+**Elevator.** The elevator is rusted in place, and the shaft it once traversed is depicted as shaded spaces on map 4.1. A character who examines it and succeeds on a DC 15 Intelligence (Investigation) check recognizes that the elevator will collapse under any significant weight. If 100 pounds or more is placed on the elevator platform, it collapses. Any creature standing on the platform at the time drops 60 feet into area H5, taking 35 (10d6) bludgeoning damage from the fall.
 
 **Hidden Entrance.** The people of Hollow sealed a tunnel leading to the mine's lower levels on the northwest wall after a number of explorers got lost in the mine. With a successful DC 12 Wisdom (Perception) check, a character perceives a section of the wall rattling in the wind, discovering a wooden door that was hidden behind a pile of rocks.
 
@@ -227,7 +227,7 @@ This chamber is the workspace of Teocín, a [cultist](cultist.md) dedicated to P
 
 Teocín. The cultist Teocín uses this laboratory to research ways to corrupt the magic of the Night of the Remembered. Itzmin has convinced Kiirith that Teocín is trying to find a cure for him, so the young man leaves her alone. For months, Teocín's ghouls have killed animals, hunters, prospectors, and others wandering the borderlands so Teocin can study and raise the dead using profane knowledge she gleans from unholy rites.
 
-If Teocín is captured, she says nothing to the characters, but they can learn of her goals, Mreksh, and Pazuzu by looking through her notes-dozens of filthy, scrawl-covered pages strewn about the room.
+If Teocín is captured, she says nothing to the characters, but they can learn of her goals, Mreksh, and [Pazuzu](Pazuzu.md) by looking through her notes-dozens of filthy, scrawl-covered pages strewn about the room.
 
 **Treasure.** Teocín keeps the belongings of her victims in a chest: 2,500 cp, 950 sp, and jewelry and other trinkets worth 90 gp. She also wears a periapt of health to avoid the threat of disease that comes from working with the dead.
 
@@ -301,7 +301,7 @@ If a character approaches within 10 feet of the altar, the two skeletons animate
 
 H6: TUNNEL TO SAN CITLÁN
 
-Eerie scrawls cover the walls of this long, straight tunnel. A breeze flows from that darkness, carrying a faint scent of smoke. Foul-looking feathers litter the floor, and claw marks gouge the stone walls. This ancient tunnel runs northwest toward Hammerkeep.
+Eerie scrawls cover the walls of this long, straight tunnel. A breeze flows from that darkness, carrying a faint scent of smoke. Foul-looking feathers litter the floor, and claw marks gouge the stone walls. This ancient tunnel runs southwest toward Hammerkeep.
 
 Itzmin, Teocín, and Kiirith travel this passage from the city to the mine without attracting attention. After the demolition of area H1, this tunnel is the characters' only escape route from the mine.
 
@@ -347,7 +347,7 @@ Most of the folk in the vecindad are celebrating, but Dona Findex weeps alone in
 
 Findex
 
-If the characters describe the creature they're looking for, Findex (neutral good, human commoner) invites them into her home and tells them there is much they don't know about this fiend. Use the following information to guide the conversation:
+If the characters describe the creature they're looking for, Findex (neutral good, dragonborn commoner) invites them into her home and tells them there is much they don't know about this fiend. Use the following information to guide the conversation:
 
 • The creature the characters hunt is named Kiirith. He is Findex's son, not a monster.
 • She had thought Kiirith was ill, but he confessed his secret earlier that day and fled.

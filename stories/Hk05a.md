@@ -1,3 +1,24 @@
+# Loose Ends
+
+* invisible murderous skulkers 
+* Swirly Orb
+* Snowcoat Ghost in the Shadow Mirror Shrine
+* tracks descending down below the Shadow Mirror Shrine
+* "the last one" who did not sit and think with Snowcoat
+* the Guardian of the standing stones is dead 
+* Queen of the Woods - could be angry about the standing stones pact being broken
+* All the dead people in Grapplers' Creek - who's dealing with them?
+* there's a Necromancer south of the river?
+* lots of people have been getting sick recently (part of why the Warden is short rangers and is relying on the party)
+* the owl god
+* mushroom picking Kobolds
+* greenhorn tiefling and the gambling in town
+
+
+Barfgeld 15gp in debt
+
+
+What Riles has learned: The biggest know-it-all sage in Hammerkeep is Rhig Ostoroth (an Aarakocra) who hangs out at the Gibbet which is kind of a gentrified-cheap place that doesn't match up with his demeanour. He's been your best source of info, but everything below you've heard from at least a couple of sources. This thing is probably a Scrying Orb. Scrying Orbs are very rare treasures allowing remote surveillance once you learn how to use it possibly even without being an arcanist. Before the Arcane Purge they were used extensively by Dantag Empire spies in support of their warpriests, but they haven't been seen in the field in centuries (long before the Grim War). You also learn that the Temple of Ioun in Bedwistre could have more information but would alert authorities you're looking into this. The Hammerkeep Library won't have anything about these things. Raei Temple in the Copper Hills did have at least a small library, but it's been abandoned for decades. Apparently the best library in Nuoro for any of this stuff was in Cymir Yarg, somewhere in the Karanliwood but that's more of a rumour, since no one has been there in centuries, but they say it survived the Purge. Also, the last warlock in Hammerkeep executed 20 years ago under the authority of the Temple of Erathis.
 # Books & Tomes
 
 ## Hammerkeep Libraries
@@ -19,7 +40,7 @@
 	* Magical curses can sometimes present as illnesses - reports of a warlock causing such a thing before the end of the [GrimWar](GrimWar.md)
 	* Scrying Orbs are very rare treasures allowing remote surveillance - before the [ArcanePurge](ArcanePurge.md) they were used extensively by [DantagEmpire](DantagEmpire.md) spies in support of their [warpriests](warpriest.md)
 * DC20 History (Int)
-	* [SkerpaSnowcoat](SkerpaSnowcoat.md) on a deathroll from the war in a battle in the [Kanliwood](Kanliwood.md) 
+	* [SkerpaSnowcoat](secrets/SkerpaSnowcoat.md) on a deathroll from the war in a battle in the [Kanliwood](Kanliwood.md) 
 	* Twisty white oak in the [Fosswood](Fosswood.md) said to be the root of all magical power
 	* Parrow mountain is a source of divine power (add in that people remember a sorcerer heading out there last year)
 	* Sorceror's tower deep in the [Kanliwood](Kanliwood.md) vague map and directions
@@ -123,7 +144,7 @@ Downside is they will be connected with nefarious witches and such
 
 
 * find library with information on this thing
-	* keep has a library - DC5 can get some basic information on the clan DC20 finds [SkerpaSnowcoat](SkerpaSnowcoat.md) on a deathroll from the war in a battle in the [Kanliwood](Kanliwood.md) 
+	* keep has a library - DC5 can get some basic information on the clan DC20 finds [SkerpaSnowcoat](secrets/SkerpaSnowcoat.md) on a deathroll from the war in a battle in the [Kanliwood](Kanliwood.md) 
 	* [GibbetTavern](GibbetTavern.md) - could find [Rhig](Rhig.md) the sage who will be snooty about all the things he knows
 	* send message to [Bedwistre](Bedwistre.md) where some temples (probably to [Ioun](Ioun.md)) would have even better library
 	* castle yarg was supposed to have an amazing library and some say it survived the [Arcane Purge](ArcanePurge.md) - not sure where it is, but off towards [Ikizh](Ikizh.md)
