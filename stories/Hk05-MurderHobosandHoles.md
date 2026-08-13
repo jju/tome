@@ -1,20 +1,3 @@
-# Loose Ends
-
-* invisible murderous skulkers 
-* Swirly Orb
-* Snowcoat Ghost in the Shadow Mirror Shrine
-* tracks descending down below the Shadow Mirror Shrine
-* "the last one" who did not sit and think with Snowcoat
-* the Guardian of the standing stones is dead 
-* Queen of the Woods - could be angry about the standing stones pact being broken
-* All the dead people in Grapplers' Creek - who's dealing with them?
-* there's a Necromancer south of the river?
-* lots of people have been getting sick recently (part of why the Warden is short rangers and is relying on the party)
-* the owl god
-* mushroom picking Kobolds
-* greenhorn tiefling and the gambling in town
-* 
-
 # Murderhobos and Murderholes
 
 [The Party](../TheParty.md) spent a few weeks living their lives in town before heading out for more adventure.
@@ -25,4 +8,10 @@
 
 Meanwhile [Pog](../Pog.md) was hanging out with his new best friend [Al](../Alzek.md) and looking into this [illness](../Sereno.md) sweeping the town. He spent a bunch of time at the [Circle of Healing Arts](../CircleofHealingArts.md) where the surgeons are baffled, though their current working theory is that this is a curse, not an illness. He talked to a bunch of people who've been there with sick family members, including a [Dragonborn](../Dragonborn.md) teen who's stepfather died a couple of months ago, but he's just been hanging out checking in and being sad. It seems that there isn't a clear pattern to the disease except that initially stronger people are lasting longer, but no one is getting better.
 
-After a few weeks [the Lady of Hammerkeep's](../BidrithCrecur.md) council finally decided on the message they were sending back to the [Queen of the Woods](../QueenoftheWoods.md) and [Alzek](../Alzek.md) was dispatched with a message (basically a "we don't know what happened and can't figure out how to fix this - please don't start a war" but more fancy).
+After a few weeks [the Lady of Hammerkeep's](../BidrithCrecur.md) council finally decided on the message they were sending back to the [Queen of the Woods](../QueenoftheWoods.md) and [Alzek](../Alzek.md) was dispatched with a message (basically a "we don't know what happened and can't figure out how to fix this - please don't start a war" but more fancy). Before he left, though, there was a party at the [Boiled Pickle](../BoiledPickleTavern.md) with fireworks sausages and dogs. 
+
+At the party, [the Party](../TheParty.md) decided to head up towards [Dennel Crossing](DennelCrossing.md) to see if they could help with the rats that are spreading disease (as opposed to weakling fleas who don't even lift, bro). [Pog](../Pog.md) got a tattoo of Al's name and [Al](../Alzek.md) got a (terrible tattoo) of Pog's face before leaving to go meet the queen "and probably get a castle, but it won't be ready in a week, so give me a bit of time before you come visit."
+
+The next day[^1] [the Party](../TheParty.md) (sans [Riles](../Riles.md) who's been off doing some weird stuff on his own) headed out for [Dennel Crossing](DennelCrossing.md). When they arrived at the little pallisaded village (about the size of [Grapplers' Creek](GrapplersCreek.md) but with signs of life), they were stopped a bored couple of guards, one [Aarakocra](../Aarakocra.md) and one [Dragonborn](../Dragonborn.md). The Aarakocra
+
+[^1]: Iall 25, IC4996.

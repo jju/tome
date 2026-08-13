@@ -1,8 +1,19 @@
-[CircleofHealingArts](CircleofHealingArts.md) - can find out about [Sereno](Sereno.md) also meet up with [Kiirith](Kiirith.md)
+# Loose Ends
 
-Hollow silver mine used to be called Zula Point
+* invisible murderous skulkers 
+* Swirly Orb
+* Snowcoat Ghost in the Shadow Mirror Shrine
+* tracks descending down below the Shadow Mirror Shrine
+* "the last one" who did not sit and think with Snowcoat
+* the Guardian of the standing stones is dead 
+* Queen of the Woods - could be angry about the standing stones pact being broken
+* All the dead people in Grapplers' Creek - who's dealing with them?
+* there's a Necromancer south of the river?
+* lots of people have been getting sick recently (part of why the Warden is short rangers and is relying on the party)
+* the owl god
+* mushroom picking Kobolds
+* greenhorn tiefling and the gambling in town
 
-20 days later
 
 Barfgeld 15gp in debt
 

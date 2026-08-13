@@ -10,6 +10,6 @@ He'd instead use his paint supply to draw graffiti skulls in vibrant colours on 
 
 ## Currently
 
-When Rurik went to check in with his old friend [Hk05](Hk05.md), he came up sad. J.P.'s lost himself to a foggy dreamy state, a haze of drugs and pain. He barely made any jokes about Rurik's height, and was exhausted and constantly shivering. But yes, the [Owl](GodOwls.md) has come to him. He was scoring some of the "good pinks" up in the hills when he saw the vision. [The tiefling he'd been with](GluttonyJezebeth.md) left him behind and he had to make his own way back to town. He hadn't known where he was for "ages" and is just grubbing up what he can for bare survival.
+When Rurik went to check in with his old friend [Hk05-MurderHobosandHoles](Hk05-MurderHobosandHoles.md), he came up sad. J.P.'s lost himself to a foggy dreamy state, a haze of drugs and pain. He barely made any jokes about Rurik's height, and was exhausted and constantly shivering. But yes, the [Owl](GodOwls.md) has come to him. He was scoring some of the "good pinks" up in the hills when he saw the vision. [The tiefling he'd been with](GluttonyJezebeth.md) left him behind and he had to make his own way back to town. He hadn't known where he was for "ages" and is just grubbing up what he can for bare survival.
 
 > [npcs](npcs.md)
