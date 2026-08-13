@@ -16,6 +16,7 @@ The year is [IC4996](IC4996.md)
 # The Last Fifty Years
 
 * [IC4979](IC4979.md) - the last Warlock in [Hammerkeep](Hammerkeep.md) executed
+* [IC4975](IC4975.md) - Rat King terrorizing [DennelCrossing](DennelCrossing.md) put down by [GoldenDragons](GoldenDragons.md)
 * [IC4965](IC4965.md) - [Riles Greyfox](Riles.md) born
 * [IC4964](IC4964.md) - [Rurik Stoneblood](Rurik.md) born
 * [IC4960](IC4960.md) - [Pog](Pog.md) born

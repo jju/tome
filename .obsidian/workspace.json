@@ -351,12 +351,22 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "DennelCrossing.md",
+                    "file": "Sereno.md",
                     "mode": "source",
-                    "source": false
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
                   },
                   "icon": "lucide-file",
-                  "title": "DennelCrossing"
+                  "title": "Sereno"
                 }
               },
               {
@@ -582,8 +592,10 @@
   },
   "active": "fd009e10278b2c2b",
   "lastOpenFiles": [
-    "DennelCrossing.md",
+    "Sereno.md",
     "stories/Hk05.md",
+    "DennelCrossing.md",
+    "timeline.md",
     "stories/DennerCrossing.md",
     "OldGoatTavern.md",
     "taverns.md",
@@ -596,7 +608,6 @@
     "SwirlyOrb.md",
     "secrets/history.md",
     "ArcanePurge.md",
-    "timeline.md",
     "calendar.md",
     "IC4995.md",
     "secrets/swirlyorb.md",
@@ -607,7 +618,6 @@
     "OlzulargGrimace.md",
     "Riles.md",
     "Rhig.md",
-    "GibbetTavern.md",
     "images/RaeiTempleCH.png",
     "Untitled.base",
     "images/names-db1.png",
