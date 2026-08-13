@@ -1,5 +1,7 @@
 # Murderhobos and Murderholes
 
+> previously: [Hk04-WellWellWell](Hk04-WellWellWell.md)
+
 [The Party](../TheParty.md) spent a few weeks living their lives in town before heading out for more adventure.
 
 [Barfgeld](../Barfgeld.md) was looking for more information on who the [Snowcoat Apparition](../SnowcoatGhost.md) might have been before becoming a ghost. Through much carousing and interrogating of every oldster/[Dwarf](../Dwarf.md) he could find (and running up tabs at nearly every tavern in [Hammerkeep](../Hammerkeep.md)) he discovered that the town did have a disused old shrine to [Moradin](../Moradin.md), and the keeper of that shrine -- [Hlin Thrahak](./HlinThrahak.md) -- remembered a [Snowcoat](../ClanSnowcoat.md) soldier she fought with in the [Grim War](../GrimWar.md) named [Skerpa](../SkerpaSnowcoat.md). As far as [Thrahak](../HlinThrahak.md) recalled (and she checked her stashed-away military rolls) [Skerpa](../SkerpaSnowcoat.md) died in [IC4942](../IC4942.md) in one of the [Hammerkeep](../Hammerkeep.md) area's final battles of the war out near [Grapplers' Creek](../GrapplersCreek.md).
@@ -28,12 +30,16 @@ The [Tiefling](../Tiefling.md) introduced himself as [Creed Itzmin](Itzmin.md), 
 
 [The Party](TheParty.md) offered to explore the mine to make sure there wasn't anything dangerous before he burned down all the structures the next day. [Itzmin](Itzmin.md) agreed, telling them he'd prefer to have his 50% cut of whatever treasures they find brought to his silverworks in [Hammerkeep](Hammerkeep.md). Then [Itzmin's](Itzmin.md) crew got back into the carriage and drove off.
 
-The entrance to the mine was a large cavern containing a cargo elevator and a large stack of barrels of flammable liquids (recently unloaded). Everyone took a look at the rusty elevator and were fine with getting on board. It was fine with [Pog's](../Pog.md) weight, but adding on a [Goliath](../Goliath.md) and a [Dwarf](../Dwarf.md) was too much for the old structure and the structure collapsed, dropping everyone down the shaft. [Pog](../Pog.md) and [Rurik](../Rurik.md) managed to grab hold of the sides, but [Barfgeld](../Barfgeld.md) fell four stories to the bottom and died until [Pog](../Pog.md) managed to send [a magical healing word](../rules/healingword.md) down the shaft to revive him.
+The entrance to the mine was a large cavern containing a cargo elevator and a large stack of barrels of flammable liquids (recently unloaded). There was a lot of airflow coming up through the hole in the ground around the device. Everyone took a look at the rusty elevator and were eager to get on board and descend. It was fine with [Pog's](../Pog.md) weight, but adding on a [Goliath](../Goliath.md) and a [Dwarf](../Dwarf.md) was too much for the old structure and the structure collapsed, dropping everyone down the shaft. [Pog](../Pog.md) and [Rurik](../Rurik.md) managed to grab hold of the sides, but [Barfgeld](../Barfgeld.md) fell four stories to the bottom and died, until [Pog](../Pog.md) managed to send [a magical healing word](../rules/healingword.md) down the shaft to revive him.
 
 [Rurik](../Rurik.md) climbed to the top of the shaft to set up ropes to get down to rescue the others, while [Pog](../Pog.md) climbed to an entryway to another level of the mine. That place reeked of death, so he refrained from exploring without backup. [Barfgeld](../Barfgeld.md) looked around the cavern at the bottom of the mine and spotted a bunch of bones on the ground, a big slab of rock that seemed like it wasn't from this cave, and a lot of carvings in some language he didn't understand but that gave off distinct "crazy person" vibes. By the time [Pog](../Pog.md) and [Rurik](../Rurik.md) made it down he'd identified a couple of passages leading out of the cavern. Neither of them could decipher the writing either, though there did seem to be some bloodiness to the colouring. When [Rurik](../Rurik.md) examined the slab of stone he figured the stone looked almost exactly like the obelisks back at the [Wyrmstone Circle](../WyrmstoneCircle.md). Also, the bones came to life, forming into skeletal beasts that attacked them all.
 
-Fighting the animated lizard skeleton beasts was pretty intense. [Rurik](../Rurik.md) got o
+Fighting the animated lizard skeleton beasts was pretty intense. [Rurik](../Rurik.md) got one set aflame while [Pog](../Pog.md) whirled with his scimitar and short sword and [Barfgeld](../Barfgeld.md) landed mighty blows with his axe. A bit more [magical healing](../rules/healingword.md) got used and the creatures were put down.
 
+The three survivors breathed heavily and decided to regroup up at the top of the elevator shaft for a rest. [Pog](../Pog.md) headed up the rope, leaving the others to safely come up afterwards, but about halfway up he heard faint voices at the top saying "Go! Go! Go!" and there was a huge mine-shaking explosion just before a cloud of dust filled the air.
 
 [^1]: Iall 25, IC4996.
 [^2]: The massive damage inflicted has rules that could have been implemented, but we erred on the side of continuing the story.
+
+> continued: [Hk06](Hk06.md)
+> [IC4996](IC4996.md)
