@@ -24,6 +24,6 @@ The Lucky Strike Inn was full of sick people, but the party was greeted warmly b
 
 From their vantage point above the mine entrance, they watched as a number of "strong boys" unloaded barrels from the carriage while the [Goblin](../Goblin.md) driver looked after the horses and the [Tiefling](../Tiefling.md) boss watched. [Pog](../Pog.md) snuck down underneath the carriage and discovered the barrels smelled really flammable. He tried to start up a conversation with the driver, but he called out for the boss.
 
-The Tiefling introduced him
+The [Tiefling](../Tiefling.md) introduced himself as [Creed Itzmin](Itzmin.md), the owner of this town and mine. He told [Pog](../Pog.md) to get lost. [Pog](../Pog.md) drew his bow. [Itzmin](../Itzmin.md) called for an [Orcish](../Orc.md) dude to remove the little ranger of the "Queens Own." [Rurik](../Rurik.md) and [Barfgeld](../Barfgeld.md) scrambled down the ridge to help defuse things. Eventually [Itzmin](Itzmin.md) explained how he was on [the Lady of Hammerkeep's](../BidrithCrecur.md) Council and had come out to [Hollow](../Hollow.md) to burn the buildings down to prevent the [night chills](../Sereno.md) from spreading, since people were saying this might be the breeding ground. [The Party](TheParty.md)
 
 [^1]: Iall 25, IC4996.
