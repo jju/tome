@@ -1,4 +1,4 @@
-The calendar we use for recording what happens in Nuoro is the local adaptation of the Dantag Imperial Calendar. The names of the months are for the most part associated with the old [Giant Gods](gods.md#Giant%20Gods) of Nuoro but adapted by the [Dantag Empire](DantagEmpire.md)
+The calendar we use for recording what happens in Nuoro is the local adaptation of the Dantag Imperial Calendar. The names of the months are for the most part associated with the old [Giant Gods](gods.md#Giant%20Gods) of Nuoro but adapted by the [Dantag Empire](DantagEmpire.md). Each month has 30 days divided into five 6-day weeks.
 ## Months
 
 * Spring
