@@ -32,19 +32,20 @@ Rurik, beside himself, took to spending more time in taverns, trying to find the
 # Stats
 
 [Goliath](Goliath.md) [Bard](Bard.md)
+https://www.dndbeyond.com/characters/163050388 
 
 * Medium [Humanoid](Humanoid.md), Lawful Good
 * Height 7'8" Weight 310 lbs
 * Born [IC4964](IC4964.md) (32 years old)
 * AC 11
 * Initiative +0
-* HP 15 (1d8)
+* HP 18 (2d8)
 * Speed 35 ft.
 
 
 |     |     | Mod | Save |
 | --- | --- | --- | ---- |
-| STR | 16  | +3  | +6   |
+| STR | 15  | +2  | +2   |
 | DEX | 10  | +0  | +2   |
 | CON | 16  | +3  | +3   |
 
@@ -54,24 +55,23 @@ Rurik, beside himself, took to spending more time in taverns, trying to find the
 | WIS | 10  | +0  | +0   |
 | CHA | 16  | +3  | +5   |
 
-* **Skills (PB +2)** Animal Handling +2, History +4, Insight +2, Intimidation +5, Survival +2
-* **Senses** Passive Perception 10; Passive Insight 12; Passive Investigation 12
+* **Skills (PB +2)** Acrobatics +1 (A), Animal Handling +2, Arcana +3, Athletics +3, Deception +4, History +4, Insight +4, Intimidation +5, Investigation +5, Medicine +1, Nature +1, Nature +1, Perception +1, Performance +4, Persuasion +4, Religion +3, Sleight of Hand +1, Stealth +1, Survival +4
+* **Senses** Passive Perception 11; Passive Insight 14; Passive Investigation 13
 * **Languages** Common, Dwarvish, Halfling 
-* **Level** 1 **XP:** 100
+* **Level** 2 **XP:** 305
 
 **Gear:** Leather Armour, Dagger (2), Iron Pot, Shovel, Smith's Tools, Horn, Oil (8), Rations (9), Bedroll, Bell, Tinderbox, Waterskin, Mirror, Bullseye Lantern, Costume (3), Triangle of Destiny
 
 **Money:** 29GP
 
+**Powerful Build:** Advantage on checks to end being Grappled.
 ## Actions
 
 **Fire's Burn:** 2/day can add 1d10 Fire to damage on a hit target.
 
-**Powerful Build:** Advantage on checks to end being Grappled.
+**_Dagger._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 1d4 + 2 Piercing.  Finesse, Light, Thrown (Range 20/60)
 
-**_Dagger._** _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 1d4 + 3 Piercing.  Finesse, Light, Thrown (Range 20/60)
-
-**_Unarmed Strike._** _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 4 Bludgeoning. Grapple, Shove.
+**_Unarmed Strike._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 3 Bludgeoning. Grapple, Shove.
 
 ***[Starry Wisp.](rules/starrywisp.md)*** *Ranged Spell Attack:* +5, 60 ft. *Hit:* 1d8 Radiant. Target emits Dim Light and can't benefit from Invisible condition.
 ### Cantrips
@@ -80,14 +80,16 @@ Rurik, beside himself, took to spending more time in taverns, trying to find the
 * ***[Vicious Mockery.](rules/viciousmockery.md)*** Target makes DC 13 Wis save or takes 1d6 Psychic and has Disadvantage on next attack roll.
 ### Spells
 
-* ***[Unseen Servant.](rules/unseenservant.md)*** For 1 hour Bonus actions let Strength 2 servant follow commands within 60 ft.
-* ***[Sleep.](rules/sleep.md)*** Each creature in a 5 ft. sphere from a point within 60 ft makes DC 13 Wis save or be Incapacitated until end of next turn, then another DC 13 Wis save or be Unconscious for 1 minute. (Doesn't work against creatures that don't sleep or are immune to Exhaustion.)
 * ***[Command.](rules/command.md)*** Target makes DC 13 Wis save or follow one of these commands: Approach, Drop, Flee, Grovel, Halt.
 * ***[Hideous Laughter.](rules/hideouslaughter.md)*** Target makes DC 13 Wis save or is Prone and Incapacitated with laughter for 1 minute.
 * ***[Faerie Fire](faeriefire.md).*** Objects in 20 ft cube shed dim light, Dex save or can't benefit from invisibility. Attacks have Advantage. (Needs concentration or 1 minute).
 * ***[Comprehend Languages](comprehendlanguages.md).*** For 1 hour understand any language heard/signed and if touching surface can read (at a ~1 page/minute rate).
-* 
+* ***[Healing Word](healingword.md).*** Heals 2d4+3 damage on a target within 60 ft.
 
+### Unprepared
+
+* ***[Unseen Servant.](rules/unseenservant.md)*** For 1 hour Bonus actions let Strength 2 servant follow commands within 60 ft.
+* ***[Sleep.](rules/sleep.md)*** Each creature in a 5 ft. sphere from a point within 60 ft makes DC 13 Wis save or be Incapacitated until end of next turn, then another DC 13 Wis save or be Unconscious for 1 minute. (Doesn't work against creatures that don't sleep or are immune to Exhaustion.)
 ## Bonus Actions
 
 **_Bardic Inspiration._ (3/day)** Inspire a creature within 60 ft. It gains 1d6 which it can use in the next hour if a roll is failed.
