@@ -6,7 +6,7 @@ The big problem of course was that the Betrayal hadn't involved many arcanists i
 
 What this means generally is that there are no great colleges of magic in [Nuoro](Nuoro.md). It's hard to see that ever changing in [Rundan](Rundan.md), but [Ikizh](Ikizh.md) has been making rumblings of creating one now that they're independent of the [Dantag Empire](DantagEmpire.md). There are a lot of challenges to overcome politically (the rivalry between the dozen arcanists involved in [Khudurra](Khudurra.md) and [Sivekkah's](Sivekkah.md) rival projects is already quite bitter) and superstitionwise; most regular folk don't trust magic that isn't clearly being bestowed by one of the [gods](gods.md).
 
-## Notable Aftermath
+## Aftermath
 
 In [Nuoro](Nuoro.md), the purge forced the arcane specialists into hiding. There are still warlocks and wizards, but their towers and coven-holes are hidden throughout the land. Some people try to portray themselves as powerful sorcerors, but they are usually exposed as charlatans (and some are clerics of deceitful gods).
 
