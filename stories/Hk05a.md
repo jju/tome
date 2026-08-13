@@ -29,7 +29,7 @@ What Riles has learned: The biggest know-it-all sage in Hammerkeep is Rhig Ostor
 	* Magical curses can sometimes present as illnesses - reports of a warlock causing such a thing before the end of the [GrimWar](GrimWar.md)
 	* Scrying Orbs are very rare treasures allowing remote surveillance - before the [ArcanePurge](ArcanePurge.md) they were used extensively by [DantagEmpire](DantagEmpire.md) spies in support of their [warpriests](warpriest.md)
 * DC20 History (Int)
-	* [SkerpaSnowcoat](SkerpaSnowcoat.md) on a deathroll from the war in a battle in the [Kanliwood](Kanliwood.md) 
+	* [SkerpaSnowcoat](secrets/SkerpaSnowcoat.md) on a deathroll from the war in a battle in the [Kanliwood](Kanliwood.md) 
 	* Twisty white oak in the [Fosswood](Fosswood.md) said to be the root of all magical power
 	* Parrow mountain is a source of divine power (add in that people remember a sorcerer heading out there last year)
 	* Sorceror's tower deep in the [Kanliwood](Kanliwood.md) vague map and directions
@@ -133,7 +133,7 @@ Downside is they will be connected with nefarious witches and such
 
 
 * find library with information on this thing
-	* keep has a library - DC5 can get some basic information on the clan DC20 finds [SkerpaSnowcoat](SkerpaSnowcoat.md) on a deathroll from the war in a battle in the [Kanliwood](Kanliwood.md) 
+	* keep has a library - DC5 can get some basic information on the clan DC20 finds [SkerpaSnowcoat](secrets/SkerpaSnowcoat.md) on a deathroll from the war in a battle in the [Kanliwood](Kanliwood.md) 
 	* [GibbetTavern](GibbetTavern.md) - could find [Rhig](Rhig.md) the sage who will be snooty about all the things he knows
 	* send message to [Bedwistre](Bedwistre.md) where some temples (probably to [Ioun](Ioun.md)) would have even better library
 	* castle yarg was supposed to have an amazing library and some say it survived the [Arcane Purge](ArcanePurge.md) - not sure where it is, but off towards [Ikizh](Ikizh.md)
