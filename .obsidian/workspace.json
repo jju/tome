@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "fcce3201af1e3647",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "ce196e2f9001aae7",
@@ -618,7 +630,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "fd009e10278b2c2b",
+  "active": "fcce3201af1e3647",
   "lastOpenFiles": [
     "stories/Hk05-MurderHobosHoles.md",
     "Ifa.md",
