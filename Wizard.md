@@ -6,7 +6,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 ## Characters
 
 * [Gwargl Kel Huun](GwarglKelHuun.md)
-* 
+* Gaul
 
 ## Apprentice
 

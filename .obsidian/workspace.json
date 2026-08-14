@@ -52,12 +52,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "names.md",
+                    "file": "DennelCrossing.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "names"
+                  "title": "DennelCrossing"
                 }
               }
             ]
@@ -117,12 +117,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SkeletalAllosaurus.md",
+                "file": "Wizard.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SkeletalAllosaurus"
+              "title": "Wizard"
             }
           },
           {
@@ -291,10 +292,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "1fc1e10f82dc5f8c",
+  "active": "688926f42e86b079",
   "lastOpenFiles": [
-    "stories/Hk05-MurderHobosHoles.md",
+    "Skulk.md",
+    "Wizard.md",
+    "Unclideon.md",
+    "Sorg.md",
+    "stories/Hk05a.md",
+    "secrets/swirlyorb.md",
+    "IC4996.md",
     "SkeletalAllosaurus.md",
+    "stories/Hk05-MurderHobosHoles.md",
+    "names.md",
     "npcs.md",
     "rules/allosaurus.md",
     "rules/allip.md",
@@ -311,14 +320,6 @@
     "mines.md",
     "libraries.md",
     "SkerpaSnowcoat.md",
-    "Pazuzu.md",
-    "OlzulargGrimace.md",
-    "MoradinShrineHk.md",
-    "LumomBouldersorrow.md",
-    "LuckyStrikeInn.md",
-    "JoyasWaterskin.md",
-    "JadeGift.md",
-    "Ifa.md",
     "images/RaeiTempleCH.png",
     "Untitled.base",
     "images/mirrortemple.png",
