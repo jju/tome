@@ -292,8 +292,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "688926f42e86b079",
+  "active": "1fc1e10f82dc5f8c",
   "lastOpenFiles": [
+    "DennelCrossing.md",
     "Skulk.md",
     "Wizard.md",
     "Unclideon.md",
@@ -319,7 +320,6 @@
     "rules/healingword.md",
     "mines.md",
     "libraries.md",
-    "SkerpaSnowcoat.md",
     "images/RaeiTempleCH.png",
     "Untitled.base",
     "images/mirrortemple.png",
