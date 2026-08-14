@@ -24,30 +24,6 @@
                   "icon": "lucide-file",
                   "title": "Sereno"
                 }
-              },
-              {
-                "id": "52b8a43bcc3c4821",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Raftons.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Raftons"
-                }
               }
             ]
           },
@@ -107,18 +83,6 @@
             }
           },
           {
-            "id": "a21baca6adbeaa75",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.4"
-            }
-          },
-          {
             "id": "67f0353d0f13c219",
             "type": "leaf",
             "state": {
@@ -147,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -299,12 +263,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "327e9dc9d1ab2a3a",
+  "active": "67f0353d0f13c219",
   "lastOpenFiles": [
+    "Sereno.md",
+    "Barfgeld.md",
+    "Riles.md",
     "TheParty.md",
     "Rurik.md",
-    "Riles.md",
-    "Sereno.md",
     "conflict-files-obsidian-git.md",
     "stories/Hk05-MurderHobosHoles.md",
     "stories/DennerCrossing.md",
@@ -326,7 +291,6 @@
     "Agla.md",
     "stories/Hk04-WellWellWell.md",
     "timeline.md",
-    "secrets/IC4942.md",
     "images/RaeiTempleCH.png",
     "Untitled.base",
     "images/mirrortemple.png",
