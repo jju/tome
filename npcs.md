@@ -1,11 +1,16 @@
 * [Urdl](Urdl.md)
 * [Green](Green.md)
 * [Orfuzz](Orfuzz.md)
-* [NedLolvodug](NedLolvodug.md)
-* [WardenofHammerkeep](WardenofHammerkeep.md)
-* [SufferingCairn](SufferingCairn)
+* [Ned Lolvodug](NedLolvodug.md)
+* [Warden of Hammerkeep](WardenofHammerkeep.md)
+* [Suffering Cairn](SufferingCairn)
 * [Diswoff](Diswoff.md)
-* [Alzek](Alzek.md)
+* [Al the Goblin](Alzek.md)
+* [Creed Itzmin](Itzmin.md)
+* [Hlin Thrahak](HlinThrahak.md)
+* [JP Ratquiat](JPRatquiat.md)
+* [Birdtits](Ifa.md)
+* [Big Belly Innkeep](JoyasWaterskin.md)
 
 ## unassigned ancient stories
 
