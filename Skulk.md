@@ -8,7 +8,6 @@ The party brought two bodies back to [Hammerkeep](Hammerkeep.md) as proof of the
 
 Further investigation in [Grapplers' Creek](GrapplersCreek.md) discovered at least three households slaughtered by what looked like very similar clawed attacks. They also found a body in the [underground shrine](ShadowMirrorShrine.md) that had claw marks on it, but hadn't been murdered in the same way as the villagers.
 
-![Skulk](../secrets/Skulk.md)
-
 > [creatures](creatures.md)
-> 
+
+![skulkingclawbeasts](../secrets/Skulk.md)

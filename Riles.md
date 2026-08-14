@@ -10,21 +10,23 @@ Riles in his wandering scam normally moves on before people get wise to his shen
 
 ## Connections
 
-* [WenserWaterskin](WenserWaterskin.md)
-* [FrugMiggledy](FrugMiggledy.md)
-* [TheParty](TheParty.md)
+* [Wenser Waterskin](WenserWaterskin.md)
+* [Frug Miggledy](FrugMiggledy.md)
+* [The Party](TheParty.md)
+* [That Turtle Chick](Odacosk.md)
 * [Rhig Ostoroth](Rhig.md) (as Jimmy Snapshot)
 
 # Stats
 
 [Human](Human.md) [Paladin](Paladin.md)
+https://www.dndbeyond.com/characters/163061724
 
 * Medium [Humanoid](Humanoid.md), Neutral
 * Height 5'10" Weight 165 lbs Black hair, Grey eyes
 * Born [IC4965](IC4965.md) (31 years old)
 * AC 16 (18 with Shield)
 * Initiative -1
-* HP 12 (1d10)
+* HP 20 (2d10)
 * Speed 30 ft.
 
 |     |     | Mod | Save |
@@ -39,14 +41,14 @@ Riles in his wandering scam normally moves on before people get wise to his shen
 | WIS | 12  | +1  | +3   |
 | CHA | 16  | +3  | +5   |
 
-* **[Skills](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) (PB +2)** Animal Handling +2, Athletics +6, Intimidation +2, Perception +2, Stealth +5
+* **[Skills](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) (PB +2)** Insight +3, Perception +3, Persuasion +5, Stealth -1 (D)
 * **Senses** Passive Perception 13; Passive Insight 13; Passive Investigation 10
 * **Languages** Common, Common Sign Language, Halfling
-* **Level:** 2 **XP:** 100
+* **Level:** 2 **XP:** 305
 
 **Gear:** Chain Mail, Shield, Longsword, Javelins (6), Crowbar, Holy Symbol, Rations (7), Robe, Blanket, Tinderbox, Lamp, Holy Water
 
-**Money:** 24GP
+**Money:** 20GP 5SP
 
 **Resourceful:** Gain Heroic Inspiration every Long Rest.
 ## Actions
@@ -57,7 +59,9 @@ Riles in his wandering scam normally moves on before people get wise to his shen
 
 **_Unarmed Strike._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 3 Bludgeoning. Grapple, Shove.
 
-***[Guiding Bolt](rules/guidingbolt.md). (1/Day)** Ranged Spell Attack:* +5 120 ft. *Hit:* 4d6 Radiant. Next attack has Advantage.
+***[Guiding Bolt](rules/guidingbolt.md). (1/Day)** Ranged Spell Attack:* +5, 120 ft. *Hit:* 4d6 Radiant. Next attack has Advantage.
+
+***Divine Smite. (1/Day)***
 ### Cantrips
 
 * ***[Light.](rules/light.md)*** Touch something to have it shine bright light in a 20 ft. radius for an hour.
@@ -67,15 +71,19 @@ Riles in his wandering scam normally moves on before people get wise to his shen
 - ***[Cure Wounds.](rules/curewounds.md)*** Touch to heal 2d8 + 3 HP for a creature.
 - ***[Shield of Faith.](rules/shieldoffaith.md)*** Bonus +2 AC for a creature within 60 ft. for 10 minutes (needs to be praying).
 - ***[Guiding Bolt.](guidingbolt.md)** Ranged Spell Attack:* +5 120 ft. *Hit:* 4d6 Radiant. Next attack has Advantage. 
-- ***[Sacred Flame](sacredflame.md)*** Visible target within 60 ft makes Dex Save or take 1d8 Radiant.
-- ***[Word of Radiance](wordofradiance.md)*** Each creature in 5 ft Emanation makes Con Save or take 1d6 Radiant.
+- ***[Sacred Flame](sacredflame.md)*** Visible target within 60 ft makes DC13 Dex Save or take 1d8 Radiant.
+- ***[Word of Radiance](wordofradiance.md)*** Each creature in 5 ft Emanation makes DC13 Con Save or take 1d6 Radiant.
 
 [^1]: Hit target has disadvantage on next attack roll.
 [^2]: Hit target has Speed reduced by 10 ft.
 
+#### Unprepared
+
+* ***Searing Smite***
+* ***Shield of Faith***
 ## Bonus Actions
 
-**_Lay on Hands._** Touch a creature (which could be yourself) and draw power from the pool of healing (5 * Paladin level) to restore a number of Hit Points to that creature, up to the maximum amount remaining in the pool. You can also expend 5 Hit Points from the pool of healing power to remove the  poisoned condition from the creature; those points don’t also restore Hit Points to the creature.
+**_Lay on Hands._** Touch a creature (which could be yourself) and draw power from the pool of healing (5 * Paladin level/Long Rest) to restore a number of Hit Points to that creature, up to the maximum amount remaining in the pool. You can also expend 5 Hit Points from the pool of healing power to remove the  poisoned condition from the creature; those points don’t also restore Hit Points to the creature.
 
 
 > [characters](characters.md)
