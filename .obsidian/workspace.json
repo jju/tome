@@ -206,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "16831b33c7fa36cc",
@@ -300,8 +301,11 @@
   },
   "active": "327e9dc9d1ab2a3a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "TheParty.md",
+    "Rurik.md",
     "Riles.md",
+    "Sereno.md",
+    "conflict-files-obsidian-git.md",
     "stories/Hk05-MurderHobosHoles.md",
     "stories/DennerCrossing.md",
     "rules/healingword.md",
@@ -320,12 +324,9 @@
     "DennelCrossing.md",
     "BoiledPickleTavern.md",
     "Agla.md",
-    "TheParty.md",
     "stories/Hk04-WellWellWell.md",
     "timeline.md",
     "secrets/IC4942.md",
-    "secrets/SkerpaSnowcoat.md",
-    "HlinThrahak.md",
     "images/RaeiTempleCH.png",
     "Untitled.base",
     "images/mirrortemple.png",
