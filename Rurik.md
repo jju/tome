@@ -94,6 +94,7 @@ https://www.dndbeyond.com/characters/163050388
 
 **_Bardic Inspiration._ (3/day)** Inspire a creature within 60 ft. It gains 1d6 which it can use in the next hour if a roll is failed.
 
-***Large Form.* (1/day)** Change size to Large for 10 minutes to gain Advantage on Strength checks and +10 to Speed.
+~~***Large Form.* (1/day)** Change size to Large for 10 minutes to gain Advantage on Strength checks and +10 to Speed.~~
 
 > [characters](characters.md) 
+> [TheParty](TheParty.md)

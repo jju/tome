@@ -75,3 +75,4 @@ Poggleston is often confused why people always think he's making jokes when he's
 [^4]: Hit target has Speed reduced by 10 ft.
 
 > [characters](characters.md)
+> [TheParty](TheParty.md)

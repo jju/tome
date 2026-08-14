@@ -79,3 +79,4 @@ Riles in his wandering scam normally moves on before people get wise to his shen
 
 
 > [characters](characters.md)
+> [TheParty](TheParty.md)
