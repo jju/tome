@@ -117,13 +117,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wizard.md",
+                "file": "Ifa.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Wizard"
+              "title": "Ifa"
             }
           },
           {
@@ -294,9 +294,9 @@
   },
   "active": "1fc1e10f82dc5f8c",
   "lastOpenFiles": [
+    "Wizard.md",
     "DennelCrossing.md",
     "Skulk.md",
-    "Wizard.md",
     "Unclideon.md",
     "Sorg.md",
     "stories/Hk05a.md",
