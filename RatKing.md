@@ -11,3 +11,4 @@ As of [Iall 25, 4996](IC4996.md) the mine was still boarded up after [Ifa](Ifa.m
 [^1]: Many of the town's [Halfling](Halfling.md) population believes this is bullshit and that people just call the leader of any gang of bandits the Rat King.
 
 > [history](history.md)
+> [tales](tales.md)

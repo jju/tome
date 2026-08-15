@@ -66,16 +66,128 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "RatKing.md",
+                    "file": "CopperHills.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "RatKing"
+                  "title": "CopperHills"
+                }
+              },
+              {
+                "id": "5e7950711ada15bc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "HizenGozig.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "HizenGozig"
+                }
+              },
+              {
+                "id": "52c14b309a637e80",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "OlgarRooski.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "OlgarRooski"
+                }
+              },
+              {
+                "id": "49a5bef989238890",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "OttoVosk.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "OttoVosk"
+                }
+              },
+              {
+                "id": "6ca87e2ff80551d1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Timius.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Timius"
+                }
+              },
+              {
+                "id": "36bc85ef83bee3d1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Errodius.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Errodius"
+                }
+              },
+              {
+                "id": "486c958e83c1d8bb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Pun-Yeng.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Pun-Yeng"
+                }
+              },
+              {
+                "id": "f1fdaedac404ff2b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Yem.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Yem"
+                }
+              },
+              {
+                "id": "0853a580b1a11a0d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Theopidus.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Theopidus"
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 8
           }
         ],
         "direction": "horizontal"
@@ -127,64 +239,21 @@
             }
           },
           {
-            "id": "1fc1e10f82dc5f8c",
+            "id": "83e9cbe0e2e8cd9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reirak.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Reirak"
-            }
-          },
-          {
-            "id": "74d84616cb208cc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dragonborn.md",
+                "file": "CastleYarg.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dragonborn"
-            }
-          },
-          {
-            "id": "327e9dc9d1ab2a3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TheLost.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TheLost"
-            }
-          },
-          {
-            "id": "7bc997f4dd181966",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "CastleYarg"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -335,34 +404,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "7bc997f4dd181966",
+  "active": "83e9cbe0e2e8cd9e",
   "lastOpenFiles": [
-    "TheLost.md",
-    "conflict-files-obsidian-git.md",
-    "Wretched.md",
-    "Riles.md",
-    "Dragonborn.md",
+    "HangmansLibrary.md",
+    "Muajid.md",
+    "Yem.md",
+    "Pun-Yeng.md",
+    "npcs.md",
+    "Errodius.md",
+    "Timius.md",
+    "OttoVosk.md",
+    "Kyser.md",
+    "OlgarRooski.md",
+    "Theopidus.md",
+    "HizenGozig.md",
+    "CopperHills.md",
     "Reirak.md",
-    "Kiirith.md",
-    "Mreksh.md",
-    "RaeiTempleCH.md",
-    "Myen.md",
-    "Mulhorand.md",
-    "Monstrosity.md",
-    "timeline.md",
-    "RatKing.md",
-    "IC4854.md",
-    "GoldenDragons.md",
-    "GrimWar.md",
-    "PiousGuardians.md",
-    "PiousCouncil.md",
+    "Dragonborn.md",
+    "Tyrinnicus.md",
+    "OdineManysister.md",
+    "IdealCriella.md",
+    "Wererats.md",
     "DennelCrossing.md",
-    "Ifa.md",
-    "Druid.md",
-    "Drudensk.md",
-    "Dompatria.md",
-    "Dracolathe.md",
-    "Desirat.md",
+    "LuckyStrikeInn.md",
+    "RatKing.md",
+    "Aarakocra.md",
+    "PelorTempleGrapplersCreek.md",
+    "IgnominyPersh.md",
+    "Havilar.md",
     "images/RaeiTempleCH.png",
     "Untitled.base",
     "images/mirrortemple.png",

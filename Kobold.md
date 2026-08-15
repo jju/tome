@@ -10,7 +10,7 @@ One thing you might notice about them is that kobolds tend not to have very expr
 ## Characters
 
 * [Snerpi](Snerpi.md) - priest of [Pelor](Pelor.md) in [Hammerkeep](Hammerkeep.md)
-* A couple of kids collecting mushrooms near [Grapplers' Creek](GrapplersCreek.md)
+* A couple of kids collecting mushrooms near [Grapplers' Creek](GrapplersCreek.md) - [Havilar](Havilar.md) & [Tyrinnicus](Tyrinnicus.md)
 
 ## Kobold Names
 
