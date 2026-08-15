@@ -17,13 +17,14 @@ Garriff loves the underground.
 # Stats
 
 [Dwarf](Dwarf.md) [Fighter](Fighter.md) 
+https://www.dndbeyond.com/characters/158864016/ka3A0V
 
 * Medium [Humanoid](Humanoid.md), Lawful Good
 * Height 4'3" Weight 190 lbs
 * Born [IC4826](IC4826.md) (170 years old)
 * AC 16 (18 with Shield)
 * Initiative +2
-* HP 13 (1d10)
+* HP 22 (2d10)
 * Speed 25 ft.
 
 |     |     | Mod | Save |
@@ -38,7 +39,7 @@ Garriff loves the underground.
 | WIS | 11  | +0  | +0   |
 | CHA | 10  | +0  | +0   |
 
-* **[Skills](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) (PB +2)** Animal Handling +2, Athletics +6, Intimidation +2, Perception +2, Stealth +5
+* **[Skills](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) (PB +2)** Animal Handling +2, Athletics +6, History +6 (Stonecunning Only), Intimidation +2, Perception +2, Stealth +2 (D)
 * **Resistances** Poison, Advantage on Poison Saves
 * **Senses** [Darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision) 60 ft.; Passive Perception 12; Passive Insight 10; Passive Investigation 12
 * **Languages** Common, Dwarvish
@@ -46,8 +47,7 @@ Garriff loves the underground.
 
 **Gear:** Chain Mail, Shield, Dagger, Light Crossbow (20 Bolts), Greataxe, Crowbar, Hammer, Pitons (10), Rations (9), Rope (50 ft.), Tinderbox, Torches (10), Waterskin
 
-**Money:** 10GP, 11SP
-
+**Money:** 11SP
 ## Actions
 
 **_Greataxe._** _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 1d12 + 4 Slashing. Heavy, Two-Handed, [Cleave](weapons.md#Cleave)[^1]. *Great Weapon Fighting:* Reroll 1 or 2 on damage dice.
@@ -62,4 +62,7 @@ Garriff loves the underground.
 
 **_Second Wind._** Once per short rest, regain 1d10+1 HP.
 
+***Action Surge.*** Once per short rest, take an additional action.
+
 > [characters](characters.md)
+> [TheParty](TheParty.md)

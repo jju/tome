@@ -25,10 +25,13 @@ The year is [IC4996](IC4996.md)
 
 # The Last Hundred Years
 
+* [IC4910](IC4910.md) - Necromancers haunted [Dennel Crossing](DennelCrossing.md)
 * [IC4890](IC4890.md) - The [Grim War](GrimWar.md) began
+
 
 # The Last Five Hundred Years
 
+* [IC4854](IC4854.md) - [Golden Dragons](GoldenDragons.md) formed
 * [IC4826](IC4826.md) - [Barfgeld](Barfgeld.md) born
 * [IC4720](IC4720.md) - [HlinThrahak](HlinThrahak.md) born
 * The [WyrmshoodPact](WyrmshoodPact.md) is made between the [DantagEmpire](DantagEmpire.md) and the [Queen of the Woods](QueenoftheWoods.md)

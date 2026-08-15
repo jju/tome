@@ -8,6 +8,8 @@ So yes, these bird(ofprey)folk are common throughout the [Dantag Empire](DantagE
 ## Characters
 
 * [Rhig Ostoroth](Rhig.md) - sage in [Hammerkeep](Hammerkeep.md)
+* [Ifa](Ifa.md) - guard in [DennelCrossing](DennelCrossing.md)
+* [Agla](Agla.md) - barkeep in [DennelCrossing](DennelCrossing.md)
 * [Thiala Ostoroth](ThialaOstoroth.md) - leader of the town guard in [Hammerkeep](Hammerkeep.md)
 * Eqias Qisalor - Imperial military hero and warlord in [Bedwistre](Bedwistre.md)
 

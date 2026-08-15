@@ -6,7 +6,7 @@ The [Shadowfell's](Shadowfell.md) pervasive melancholy sometimes gives rise to s
 * [TheHungry](TheHungry.md)
 * [TheLonely](TheLonely.md)
 * [TheLost](TheLost.md)
-* [TheWretched](TheWretched.md)
+* [Wretched](Wretched.md)
 
 > [creatures](creatures.md)
 > source: 
