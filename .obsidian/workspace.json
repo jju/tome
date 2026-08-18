@@ -24,8 +24,21 @@
                   "icon": "lucide-file",
                   "title": "Aarakocra"
                 }
+              },
+              {
+                "id": "c71eeaa44acf4794",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.13.7"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.13.7"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "cc85999113c5b2d6",
@@ -399,7 +412,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "6dc36b7d66aa1312",
+  "active": "c71eeaa44acf4794",
   "lastOpenFiles": [
     "rules/allip.md",
     "SkeletalAllosaurus.md",
