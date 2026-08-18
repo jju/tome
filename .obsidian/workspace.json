@@ -229,22 +229,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SkeletalAllosaurus.md",
+                "file": "Agruzoc.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SkeletalAllosaurus"
+              "title": "Agruzoc"
             }
           }
         ],
@@ -282,7 +273,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Kara-Tur",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -401,11 +392,20 @@
   },
   "active": "83e9cbe0e2e8cd9e",
   "lastOpenFiles": [
+    "Martoi.md",
+    "Sorg.md",
+    "Seree.md",
+    "gods.md",
+    "Desirat.md",
+    "Raei.md",
+    "Pelor.md",
+    "Erathis.md",
+    "Bahamut.md",
+    "SkeletalAllosaurus.md",
     "Bezlov.md",
     "Balfern.md",
     "Aarakocra.md",
     "rules/allip.md",
-    "SkeletalAllosaurus.md",
     "stories/Hk05-MurderHobosHoles.md",
     "Celestial.md",
     "CastleYarg.md",
@@ -418,15 +418,6 @@
     "Timius.md",
     "OttoVosk.md",
     "Kyser.md",
-    "OlgarRooski.md",
-    "Theopidus.md",
-    "HizenGozig.md",
-    "CopperHills.md",
-    "Reirak.md",
-    "Dragonborn.md",
-    "Tyrinnicus.md",
-    "OdineManysister.md",
-    "IdealCriella.md",
     "images/RaeiTempleCH.png",
     "Untitled.base",
     "images/mirrortemple.png",

@@ -11,4 +11,4 @@ Cultists of Sorg believe in some version of the following:
 > According to the writings of the wizard [Unclideon](Unclideon.md), the maw-demons of the Cleft corroborated this vision. They insist, however, that Sorg was victimized by the other gods, its body sacrificed and used to catalyze the formation of the world. This great betrayal is woven into all matter, making destruction a sacred act of restoration.
 
 > [gods](gods.md)
-> source: Trilemma Adventures
+> source: Michael Prescott Trilemma Adventures #tri 

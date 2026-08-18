@@ -13,3 +13,4 @@ Raei's holy day has long been forgotten.
 * Those who are beyond redemption, who revel in slaughter and remorseless evil must be dispatched with swift justice.
 
 > [gods](gods.md)
+> #dnd 

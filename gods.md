@@ -78,13 +78,13 @@ The Betrayer Gods are the deities who strayed from the ideals of the founding an
 
 ## Other Gods
 
-* Gyoss - earth mother and nine daughters - of the world not of humanity
-* Kosto - the sea
-* Hestra - caves that reach deep
-* Queen of Cats/Witches
-* The Black Dragon with 10000 eyes and 500 mouths and every mouth fumes poison
-* The Red Dragon that saw the old world and its evil worship of hateful beasts and so cut its own throat to water a new world tree
-* [Sorg](Sorg.md) the old one before all the gods that devoured the energies and shat out the universe.
+* Gyoss - earth mother and nine daughters - of the world not of humanity #mig 
+* Kosto - the sea #mig 
+* Hestra - caves that reach deep #mig
+* Queen of Cats/Witches #mig
+* The Black Dragon with 10000 eyes and 500 mouths and every mouth fumes poison #mig
+* The Red Dragon that saw the old world and its evil worship of hateful beasts and so cut its own throat to water a new world tree #mig
+* [Sorg](Sorg.md) the old one before all the gods that devoured the energies and shat out the universe. #tri 
 
 > source https://dnd-5e.fandom.com/wiki/Gods , *Bigby Presents Glory of the Giants*
 > [factions](factions.md)

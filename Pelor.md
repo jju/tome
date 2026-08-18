@@ -13,3 +13,4 @@ Pelor's holy day is Highsummer, usually celebrated with feasting, but sometimes 
 * Deliver the light of Pelor where darkness dwells, with kindness, compassion and mercy.
 
 > [gods](gods.md)
+> #dnd 

@@ -4,6 +4,7 @@ Companion and mount of [Asmodeus](Asmodeus.md) she's chained beneath mountains c
 
 A giant phoenix of dark purple down wreathed in purple black flames, with 3 onyx eyes.
 
-Sometimes known as [Pazuzu](Pazuzu.md).
+Sometimes served by [Pazuzu](Pazuzu.md).
 
 > [gods](gods.md)
+> #dnd 
