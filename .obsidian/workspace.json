@@ -17,28 +17,15 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Aarakocra.md",
+                    "file": "Bezlov.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Aarakocra"
-                }
-              },
-              {
-                "id": "c71eeaa44acf4794",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.13.7"
-                  },
-                  "icon": "lucide-book-up",
-                  "title": "Release Notes 1.13.7"
+                  "title": "Bezlov"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "cc85999113c5b2d6",
@@ -412,13 +399,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "c71eeaa44acf4794",
+  "active": "83e9cbe0e2e8cd9e",
   "lastOpenFiles": [
+    "Bezlov.md",
+    "Balfern.md",
+    "Aarakocra.md",
     "rules/allip.md",
     "SkeletalAllosaurus.md",
     "stories/Hk05-MurderHobosHoles.md",
     "Celestial.md",
-    "Aarakocra.md",
     "CastleYarg.md",
     "HangmansLibrary.md",
     "Muajid.md",
@@ -438,8 +427,6 @@
     "Tyrinnicus.md",
     "OdineManysister.md",
     "IdealCriella.md",
-    "Wererats.md",
-    "DennelCrossing.md",
     "images/RaeiTempleCH.png",
     "Untitled.base",
     "images/mirrortemple.png",
