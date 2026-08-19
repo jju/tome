@@ -61,6 +61,7 @@ There is an old temple mound to [Raei](Raei.md) outside of town in the [Copper H
 * [Thalane Truthhauler Kalukithino](ThalaneTruthhaulerKalukithino.md) - [Goliath](Goliath.md) blacksmith focusing on large farm implements
 * [Roland Bohr](RolandBohr.md) - [Halfling](Halfling.md) blacksmith out on the [Hammerford](Hammerford.md) road.
 * [Xokx](Xokx.md) - Harengon blacksmith undercuts Truthhauler's prices
+* loads of Halfling Noodle shops by the docks - they have long counters with stools for people to pull up to
 
 ## Demographics
 

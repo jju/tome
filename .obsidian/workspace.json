@@ -229,13 +229,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agruzoc.md",
+                "file": "Hammerkeep.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Agruzoc"
+              "title": "Hammerkeep"
             }
           }
         ],
@@ -392,6 +392,7 @@
   },
   "active": "83e9cbe0e2e8cd9e",
   "lastOpenFiles": [
+    "Agruzoc.md",
     "Martoi.md",
     "Sorg.md",
     "Seree.md",
@@ -417,7 +418,6 @@
     "Errodius.md",
     "Timius.md",
     "OttoVosk.md",
-    "Kyser.md",
     "images/RaeiTempleCH.png",
     "Untitled.base",
     "images/mirrortemple.png",
