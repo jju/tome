@@ -229,7 +229,7 @@ Teocín. The cultist Teocín uses this laboratory to research ways to corrupt th
 
 If Teocín is captured, she says nothing to the characters, but they can learn of her goals, Mreksh, and [Pazuzu](Pazuzu.md) by looking through her notes-dozens of filthy, scrawl-covered pages strewn about the room.
 
-**Treasure.** Teocín keeps the belongings of her victims in a chest: 2,500 cp, 950 sp, and jewelry and other trinkets worth 90 gp. She also wears a periapt of health to avoid the threat of disease that comes from working with the dead.
+**Treasure.** Teocín keeps the belongings of her victims in a chest: 2,500 cp, 950 sp, and jewelry and other trinkets worth 90 gp. She also wears a [periapt of health](../NecromancerAmulet.md) to avoid the threat of disease that comes from working with the dead.
 
 H3: CORPSE DISPOSAL
 
