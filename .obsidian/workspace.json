@@ -80,12 +80,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "NecromancerAmulet.md",
+                    "file": "stories/Hk05a.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "NecromancerAmulet"
+                  "title": "Hk05a"
                 }
               },
               {
@@ -536,6 +536,9 @@
   },
   "active": "fcc2e39775182b98",
   "lastOpenFiles": [
+    "stories/Hk06.md",
+    "stories/Hk05-MurderHobosHoles.md",
+    "NecromancerAmulet.md",
     "secrets/fiendhollowmine.md",
     "Tlacatecolo.md",
     "Tletepec.md",
@@ -548,7 +551,6 @@
     "secrets/Illithid.md",
     "places.md",
     "rules/gargoyle.md",
-    "NecromancerAmulet.md",
     "Pog.md",
     "rules/absorbelements.md",
     "HlinThrahak.md",
@@ -560,8 +562,6 @@
     "Alzek.md",
     "gods.md",
     "secrets/Skulk.md",
-    "secrets/comingofsorg.md",
-    "Raei.md",
     "images/RaeiTempleCH.png",
     "images/Nuoro24mi.png",
     "Untitled.base",
