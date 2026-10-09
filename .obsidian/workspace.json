@@ -80,12 +80,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "secrets/fiendhollowmine.md",
+                    "file": "NecromancerAmulet.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "fiendhollowmine"
+                  "title": "NecromancerAmulet"
                 }
               },
               {
@@ -371,12 +371,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Reirak.md",
+                    "file": "Tlacatecolo.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Reirak"
+                  "title": "Tlacatecolo"
                 }
               }
             ],
@@ -534,14 +534,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "6ad24de017ee7691",
+  "active": "fcc2e39775182b98",
   "lastOpenFiles": [
-    "Kiirith.md",
+    "secrets/fiendhollowmine.md",
+    "Tlacatecolo.md",
+    "Tletepec.md",
     "Reirak.md",
+    "Kiirith.md",
     "Findex.md",
     "Mreksh.md",
     "Teocin.md",
-    "secrets/fiendhollowmine.md",
     "JadeGift.md",
     "secrets/Illithid.md",
     "places.md",
@@ -560,8 +562,6 @@
     "secrets/Skulk.md",
     "secrets/comingofsorg.md",
     "Raei.md",
-    "Riles.md",
-    "RaftonsInn.md",
     "images/RaeiTempleCH.png",
     "images/Nuoro24mi.png",
     "Untitled.base",
