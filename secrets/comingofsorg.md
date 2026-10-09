@@ -1,6 +1,6 @@
 [RaeiTempleCH](../RaeiTempleCH.md)
 
-For years, the Blighted Order of Sorg prayed to bring forth their horrid patron. He was to usher in an age of wanton excess, but all Sorg has done is trash the place and eat the food. Now, the few remaining faithful are bitterly divided. Worse, Sorg is still hungry.
+For years, the [Blighted Order of Sorg](../BlightedOrder.md) prayed to bring forth their horrid patron. He was to usher in an age of wanton excess, but all Sorg has done is trash the place and eat the food. Now, the few remaining faithful are bitterly divided. Worse, Sorg is still hungry.
 
 ![RaeiTempleCH](../../RaeiTempleCH.png)
 
@@ -46,11 +46,11 @@ The roof has been corroded by a spray of ichor. In the darkened interior lurk 2d
 | 6   | Assassinate Vnaud                                             |
 ## Ruined Cloister
 
-15 cult heretics hide among the ruins, led by Myen the butcher. Roll for their belief and goal. They are not trained warriors, but have six swords and two bows between them. The rest have long knives.
+15 cult heretics hide among the ruins, led by [Myen](Myen.md) the butcher. Roll for their belief and goal. They are not trained warriors, but have six swords and two bows between them. The rest have long knives.
 
 ## Sorg in the High Temple
 
-Sorg (rhino-sized demon larva, bile spray, slow) lies draped over the altar. Vnaud the Withered and 11 acolytes pray fearfully amid bile and excrement and will defend their “god” to the death.
+Sorg (rhino-sized [[demon larva]], bile spray, slow) lies draped over the altar. Vnaud the Withered and 11 acolytes pray fearfully amid bile and excrement and will defend their “god” to the death.
 
 ## Brewing House
 
@@ -67,10 +67,10 @@ Sorgite scrawls defile these once-holy steps; the smashed statues now emanate gr
 Each hour, Sorg produces a horrid minion—a roving mouth to feed his
 strength. Roll d4 to determine its form:
 
-1. A great length of toothy intestine
-2. A swarm of translucent air leeches
-3. d3+1 copulating gargoyles
-4. A half-ton acidic jelly
+1. A great length of [[toothy intestine]]
+2. A swarm of translucent [[air leeches]]
+3. d3+1 copulating [[gargoyles]]
+4. A half-ton [[acidic jelly]]
 
 All but the jelly can fly, and all are unharmed by ordinary weapons. Emanations patrol the complex for exposed prey for 2d6 minutes, then
 leave to hunt in the surrounding wilderness. After d6 days, they collapse
