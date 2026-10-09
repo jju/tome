@@ -33,3 +33,6 @@ Speed 30 ft., Fly 60 ft.
 **_Multiattack._** The gargoyle makes two Claw attacks.
 
 **_Claw._** _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 7 (2d4 + 2) Slashing damage.
+
+> [creatures](creatures.md)
+> [srd](srd.md)

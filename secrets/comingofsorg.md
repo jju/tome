@@ -69,7 +69,7 @@ strength. Roll d4 to determine its form:
 
 1. A great length of [[toothy intestine]]
 2. A swarm of translucent [[air leeches]]
-3. d3+1 copulating [[gargoyles]]
+3. d3+1 copulating [gargoyles](gargoyle.md)
 4. A half-ton [[acidic jelly]]
 
 All but the jelly can fly, and all are unharmed by ordinary weapons. Emanations patrol the complex for exposed prey for 2d6 minutes, then

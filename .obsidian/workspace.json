@@ -403,22 +403,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "secrets/comingofsorg.md",
+                    "file": "Riles.md",
                     "mode": "source",
                     "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
+                    "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "comingofsorg"
+                  "title": "Riles"
                 }
               },
               {
@@ -427,7 +418,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "secrets/npcs.md",
+                    "file": "rules/gargoyle.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -442,7 +433,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "npcs"
+                  "title": "gargoyle"
                 }
               },
               {
@@ -488,7 +479,7 @@
                 }
               }
             ],
-            "currentTab": 11
+            "currentTab": 10
           }
         ],
         "direction": "horizontal"
@@ -642,23 +633,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "aa12b004b433f15e",
+  "active": "33c7a1f52040709f",
   "lastOpenFiles": [
-    "secrets/npcs.md",
+    "RaftonsInn.md",
+    "SwirlyOrb.md",
+    "Pazuzu.md",
+    "Torog.md",
+    "secrets/fiendhollowmine.md",
+    "Sorg.md",
+    "secrets/comingofsorg.md",
+    "rules/gargoyle.md",
     "UndergroundThree.md",
+    "secrets/npcs.md",
     "Rhig.md",
     "npcs.md",
-    "secrets/gargoyle.md",
     "rules/aarakocra.md",
     "images/RaeiTempleCH.png",
     "images/Nuoro24mi.png",
     "RaeiTempleCH.md",
-    "secrets/comingofsorg.md",
-    "secrets/fiendhollowmine.md",
     "BlightedOrder.md",
     "rules/cultist.md",
     "Myen.md",
-    "Sorg.md",
     "secrets/SkerpaSnowcoat.md",
     "conflict-files-obsidian-git.md",
     "Unclideon.md",
@@ -668,10 +663,6 @@
     "Yem.md",
     "WretchedOnes.md",
     "Wererats.md",
-    "Uroxan.md",
-    "Tyrinnicus.md",
-    "Timius.md",
-    "Theopidus.md",
     "Untitled.base",
     "images/names-db1.png",
     "images/names-db2-dw-e1.png",
