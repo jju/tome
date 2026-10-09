@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stories/Hk05-MurderHobosHoles.md",
+                "file": "secrets/SkerpaSnowcoat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hk05-MurderHobosHoles"
+              "title": "SkerpaSnowcoat"
             }
           }
         ],
@@ -80,12 +80,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "stories/Hk05-MurderHobosHoles.md",
+                    "file": "Itzmin.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Hk05-MurderHobosHoles"
+                  "title": "Itzmin"
                 }
               },
               {
@@ -520,23 +520,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "ed69b2a02a639368",
+  "active": "aa12b004b433f15e",
   "lastOpenFiles": [
+    "stories/Hk05-MurderHobosHoles.md",
+    "Itzmin.md",
+    "NecromancerAmulet.md",
     "JadeGift.md",
     "rules/curewounds.md",
     "rules/ensnaringstrike.md",
-    "stories/Hk05-MurderHobosHoles.md",
     "stories/Hk06.md",
     "Pog.md",
     "Tlacatecolo.md",
     "Rhig.md",
     "LuckyStrikeInn.md",
-    "Itzmin.md",
     "secrets/Itzmin.md",
     "secrets/underdarkitems.md",
     "secrets/swirlyorb.md",
     "secrets/Hk05a.md",
-    "NecromancerAmulet.md",
     "secrets/fiendhollowmine.md",
     "Tletepec.md",
     "Reirak.md",
