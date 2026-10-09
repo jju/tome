@@ -219,8 +219,7 @@ triggered.
 
 Once the characters can see into this area, read the following:
 
-> The floor of this chamber is slick with blood. Two of three tables have growling corpses strapped to them.
-> A frenzied woman brandishes a knife as she undoes the straps.
+> The floor of this chamber is slick with blood. Two of three tables have growling corpses strapped to them. A frenzied woman brandishes a knife as she undoes the straps.
 
 
 This chamber is the workspace of Teocín, a [cultist](cultist.md) dedicated to Pazuzu. As soon as the characters enter, Teocín releases the two ghouls on the tables and joins them as they attack.
