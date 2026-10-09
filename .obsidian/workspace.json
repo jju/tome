@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Gaul"
             }
+          },
+          {
+            "id": "12e4ec28b73d417c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.4"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "ce196e2f9001aae7",
@@ -618,7 +630,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "aa12b004b433f15e",
+  "active": "12e4ec28b73d417c",
   "lastOpenFiles": [
     "tales.md",
     "Yem.md",
