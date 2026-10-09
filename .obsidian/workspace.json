@@ -41,28 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gaul.md",
+                "file": "RaeiTempleCH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gaul"
-            }
-          },
-          {
-            "id": "12e4ec28b73d417c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.14.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.14.4"
+              "title": "RaeiTempleCH"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "ce196e2f9001aae7",
@@ -92,12 +80,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Ifa.md",
+                    "file": "Sorg.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Ifa"
+                  "title": "Sorg"
                 }
               },
               {
@@ -630,8 +618,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "12e4ec28b73d417c",
+  "active": "fcc2e39775182b98",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Sorg.md",
+    "Unclideon.md",
+    "Ifa.md",
+    "RaeiTempleCH.md",
+    "Gaul.md",
     "tales.md",
     "Yem.md",
     "WretchedOnes.md",
@@ -652,12 +646,6 @@
     "IgnominyPersh.md",
     "IdealCriella.md",
     "IC4854.md",
-    "HungryOnes.md",
-    "HizenGozig.md",
-    "Havilar.md",
-    "Errodius.md",
-    "AngryOnes.md",
-    "Barfgeld.md",
     "images/RaeiTempleCH.png",
     "Untitled.base",
     "images/names-db1.png",
