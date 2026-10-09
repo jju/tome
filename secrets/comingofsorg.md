@@ -1,6 +1,6 @@
 [RaeiTempleCH](../RaeiTempleCH.md)
 
-For decades, the Blighted Order of Sorg prayed to bring forth their horrid patron. He was to usher in an age of wanton excess, but all Sorg has done is trash the place and eat the food. Now, the few remaining faithful are bitterly divided. Worse, Sorg is still hungry.
+For years, the Blighted Order of Sorg prayed to bring forth their horrid patron. He was to usher in an age of wanton excess, but all Sorg has done is trash the place and eat the food. Now, the few remaining faithful are bitterly divided. Worse, Sorg is still hungry.
 
 ![RaeiTempleCH](../../RaeiTempleCH.png)
 
@@ -17,9 +17,8 @@ This ruin is open to the sky. d3-1 (2) cultists have taken cover inside. A few p
 
 Two stone pillars flank a great dais. Engravings declare that those who stand here are blessed by Raei the Protectress.
 
-No cultist or emanation of Sorg will enter this place, for it causes them
-searing pain and eventual death. This structure was once the entrance
-to the walled compound, originally a temple to Raei. The cultists have pulled down as much of it as they can, and what remains is beyond their abilities to defile.
+No cultist or emanation of Sorg will enter this place, for it causes them searing pain and eventual death. This structure was once the entrance
+ to the walled compound, originally a temple to Raei. The cultists have pulled down as much of it as they can, and what remains is beyond their abilities to defile.
 
 The cultists used rusting chains lying here to drag wayward members onto the platform to burn in Raei’s wrath, as a brutal form of execution.
 
@@ -47,8 +46,7 @@ The roof has been corroded by a spray of ichor. In the darkened interior lurk 2d
 | 6   | Assassinate Vnaud                                             |
 ## Ruined Cloister
 
-15 cult heretics hide among the ruins, led by Myen the butcher. Roll for
-their belief and goal. They are not trained warriors, but have six swords and two bows between them. The rest have long knives.
+15 cult heretics hide among the ruins, led by Myen the butcher. Roll for their belief and goal. They are not trained warriors, but have six swords and two bows between them. The rest have long knives.
 
 ## Sorg in the High Temple
 
@@ -84,5 +82,4 @@ Knee-deep, fetid water swirls beneath a beautiful ceiling covered in pearlescent
 
 Prayer, meditation, intoxication, or intense pain will cause the motes to resolve into a vision of Raei the Protectress.
 
-She will bless the weapons of any who vow to drive out Sorg. Victors will
-be rewarded with a divine boon.
+She will bless the weapons of any who vow to drive out Sorg. Victors will be rewarded with a divine boon.

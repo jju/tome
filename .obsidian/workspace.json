@@ -4,56 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6951d5cab2888335",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c4eb7bd6ec985f82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hollow.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hollow"
-            }
-          },
-          {
-            "id": "fd009e10278b2c2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Barfgeld.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Barfgeld"
-            }
-          },
-          {
-            "id": "aa12b004b433f15e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gaul.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gaul"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "ce196e2f9001aae7",
+        "id": "2619b7731b599fc5",
         "type": "split",
         "children": [
           {
@@ -61,413 +12,150 @@
             "type": "tabs",
             "children": [
               {
-                "id": "01c8c3f1f2f01eef",
+                "id": "6dc36b7d66aa1312",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rules/allip.md",
+                    "file": "Bezlov.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "allip"
-                }
-              },
-              {
-                "id": "fcc2e39775182b98",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Ifa.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Ifa"
-                }
-              },
-              {
-                "id": "2a229f1b620d45fa",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Aarakocra.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Aarakocra"
-                }
-              },
-              {
-                "id": "d47eead22cae64f7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "spells.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "spells"
-                }
-              },
-              {
-                "id": "66922a833a3ad76c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/sacredflame.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "sacredflame"
-                }
-              },
-              {
-                "id": "0ccf18e6ba068f3f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/wordofradiance.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "wordofradiance"
-                }
-              },
-              {
-                "id": "f681ecd209566713",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/faeriefire.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "faeriefire"
-                }
-              },
-              {
-                "id": "86f8133ecaccafce",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/comprehendlanguages.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "comprehendlanguages"
-                }
-              },
-              {
-                "id": "e08110d5252fee77",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/scrying.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "scrying"
-                }
-              },
-              {
-                "id": "d133ac69102c6d4b",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "images/Hammerkeep.png"
-                  },
-                  "icon": "lucide-image",
-                  "title": "Hammerkeep"
-                }
-              },
-              {
-                "id": "a6f9fb22bcf9fa1d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "calendar.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "calendar"
-                }
-              },
-              {
-                "id": "c5becb6709ea775d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "gods.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "gods"
-                }
-              },
-              {
-                "id": "9112853efd8b4eca",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "WyrmstoneCircle.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "WyrmstoneCircle"
+                  "title": "Bezlov"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
-            "id": "f95a241c1a1d9096",
+            "id": "cc85999113c5b2d6",
             "type": "tabs",
             "children": [
               {
-                "id": "902083e6b2bb0ee3",
+                "id": "688926f42e86b079",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "secrets/comingofsorg.md",
+                    "file": "Druid.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "comingofsorg"
+                  "title": "Druid"
                 }
               },
               {
-                "id": "7506a8e1c18cf3d9",
+                "id": "0c8d4584f7c8d15b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "secrets/Skulk.md",
+                    "file": "CopperHills.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Skulk"
+                  "title": "CopperHills"
                 }
               },
               {
-                "id": "b6615a5db251fcbe",
+                "id": "5e7950711ada15bc",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "gods.md",
+                    "file": "HizenGozig.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "gods"
+                  "title": "HizenGozig"
                 }
               },
               {
-                "id": "e7391f8522189bd5",
+                "id": "f1fdaedac404ff2b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Alzek.md",
+                    "file": "BlightedOrder.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Alzek"
-                }
-              },
-              {
-                "id": "6a7af7b14d35efaa",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Ifa.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Ifa"
-                }
-              },
-              {
-                "id": "9d54261903ec84f4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "LumomBouldersorrow.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "LumomBouldersorrow"
-                }
-              },
-              {
-                "id": "c5a39412aa2c8993",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "temples.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "temples"
-                }
-              },
-              {
-                "id": "52ec37ec59420178",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "OldGoatTavern.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "OldGoatTavern"
-                }
-              },
-              {
-                "id": "27b07b3e17d312ec",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "HlinThrahak.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "HlinThrahak"
-                }
-              },
-              {
-                "id": "8137415f957d68b1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "rules/absorbelements.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "absorbelements"
-                }
-              },
-              {
-                "id": "33c7a1f52040709f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "secrets/SkerpaSnowcoat.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "SkerpaSnowcoat"
-                }
-              },
-              {
-                "id": "3906c727fbde7868",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "JadeGift.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "JadeGift"
-                }
-              },
-              {
-                "id": "fbaec5ff346905fe",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "places.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "places"
-                }
-              },
-              {
-                "id": "697a0d0c9bf31dd3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "secrets/Illithid.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Illithid"
+                  "title": "BlightedOrder"
                 }
               }
             ],
-            "currentTab": 10
+            "currentTab": 3
           }
         ],
         "direction": "horizontal"
+      },
+      {
+        "id": "81f451543eb9dde9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d498b3c30e2ea66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hammerkeep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hammerkeep"
+            }
+          },
+          {
+            "id": "44d846d94b33a1b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FelosialWaterskin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FelosialWaterskin"
+            }
+          },
+          {
+            "id": "67f0353d0f13c219",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "secrets/comingofsorg.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "comingofsorg"
+            }
+          },
+          {
+            "id": "83e9cbe0e2e8cd9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stories/Hk05a.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Hk05a"
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -501,7 +189,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "undead",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -618,44 +306,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "aa12b004b433f15e",
+  "active": "f1fdaedac404ff2b",
   "lastOpenFiles": [
-    "tales.md",
-    "Yem.md",
-    "WretchedOnes.md",
-    "Wererats.md",
-    "Uroxan.md",
-    "Tyrinnicus.md",
-    "Timius.md",
-    "Theopidus.md",
-    "RatKing.md",
-    "Pun-Yeng.md",
+    "Myen.md",
+    "OlzulargGrimace.md",
+    "secrets/comingofsorg.md",
+    "Sorg.md",
+    "RaeiTempleCH.md",
     "PiousGuardians.md",
     "OttoVosk.md",
-    "OlgarRooski.md",
-    "Muajid.md",
-    "LostOnes.md",
-    "LonelyOnes.md",
-    "Kyser.md",
-    "IgnominyPersh.md",
-    "IdealCriella.md",
-    "IC4854.md",
-    "HungryOnes.md",
+    "Theopidus.md",
+    "CopperHills.md",
     "HizenGozig.md",
-    "Havilar.md",
+    "OlgarRooski.md",
     "Errodius.md",
-    "AngryOnes.md",
-    "Barfgeld.md",
+    "Timius.md",
+    "Pun-Yeng.md",
+    "JoyasWaterskin.md",
+    "npcs.md",
+    "stories/Hk05a.md",
+    "secrets/rumours.md",
+    "Raei.md",
+    "Yem.md",
+    "Hammerkeep.md",
+    "Agruzoc.md",
+    "Martoi.md",
+    "Seree.md",
+    "gods.md",
+    "Desirat.md",
     "images/RaeiTempleCH.png",
     "Untitled.base",
-    "images/names-db1.png",
-    "images/names-db2-dw-e1.png",
     "images/mirrortemple.png",
-    "images/Hammerkeep.png",
     "images/names-ho2-t.png",
-    "images/Nuoro24mi.png",
     "images/names-h-ho1.png",
     "images/names-e3-g.png",
-    "images/names-e2.png"
+    "images/names-e2.png",
+    "images/names-db2-dw-e1.png",
+    "images/names-db1.png",
+    "images/Nuoro24mi.png",
+    "images/Hammerkeep.png"
   ]
 }
