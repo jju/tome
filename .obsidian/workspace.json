@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rhig.md",
+                "file": "stories/Hk05-MurderHobosHoles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rhig"
+              "title": "Hk05-MurderHobosHoles"
             }
           }
         ],
@@ -371,16 +371,30 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Tlacatecolo.md",
+                    "file": "rules/curewounds.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Tlacatecolo"
+                  "title": "curewounds"
+                }
+              },
+              {
+                "id": "172cd51f5c90dd85",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "rules/ensnaringstrike.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "ensnaringstrike"
                 }
               }
             ],
-            "currentTab": 7
+            "currentTab": 8
           }
         ],
         "direction": "horizontal"
@@ -534,19 +548,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "fcc2e39775182b98",
+  "active": "aa12b004b433f15e",
   "lastOpenFiles": [
-    "LuckyStrikeInn.md",
+    "stories/Hk06.md",
+    "Pog.md",
+    "rules/ensnaringstrike.md",
+    "rules/curewounds.md",
+    "Tlacatecolo.md",
+    "Rhig.md",
     "stories/Hk05-MurderHobosHoles.md",
+    "LuckyStrikeInn.md",
     "Itzmin.md",
     "secrets/Itzmin.md",
     "secrets/underdarkitems.md",
     "secrets/swirlyorb.md",
     "secrets/Hk05a.md",
-    "stories/Hk06.md",
     "NecromancerAmulet.md",
     "secrets/fiendhollowmine.md",
-    "Tlacatecolo.md",
     "Tletepec.md",
     "Reirak.md",
     "Kiirith.md",
@@ -557,11 +575,7 @@
     "secrets/Illithid.md",
     "places.md",
     "rules/gargoyle.md",
-    "Pog.md",
     "rules/absorbelements.md",
-    "HlinThrahak.md",
-    "OldGoatTavern.md",
-    "temples.md",
     "images/RaeiTempleCH.png",
     "images/Nuoro24mi.png",
     "Untitled.base",
