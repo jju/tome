@@ -5,13 +5,13 @@ Appearing as plague-stricken, bipedal owls, tlacatecolo sow sickness and feed on
 Sunlight staves off the disease, but those affected rarely survive the dark of night.
 ## Facing the Beast
 
-***Talking Things Through.*** Trying to calm [Kiirith](Kiirith.md) enough to talk to him requires convincing roleplaying and a DC 14 Charisma (Persuasion) check. If a character succeeds on this check before battle begins, [Kiirith](Kiirith.md) temporarily overcomes the demonic influence afflicting him and reverts to his natural form, that of a dwarf. He maintains this form for 1 minute, during which he begs the characters to find a way to end the curse afflicting him. After doing so, he transforms back into a tlacatecolo and attacks.
+***Talking Things Through.*** Trying to calm [Kiirith](Kiirith.md) enough to talk to him requires convincing roleplaying and a DC 14 Charisma (Persuasion) check. If a character succeeds on this check before battle begins, [Kiirith](Kiirith.md) temporarily overcomes the demonic influence afflicting him and reverts to his natural form, that of a dragonborn teen. He maintains this form for 1 minute, during which he begs the characters to find a way to end the curse afflicting him. After doing so, he transforms back into a tlacatecolo and attacks.
 
 If [Kiirith](Kiirith.md) attacks the characters before they can speak with him, a character can use an action to try to calm [Kiirith](Kiirith.md) by making a DC 14 Charisma (Persuasion) check. Succeeding on this check once causes [Kiirith](Kiirith.md) to hesitate, but he keeps attacking.
 
-Succeeding twice causes [Kiirith](Kiirith.md) to regain control and transform back into a dwarf (as noted above). If [Kiirith](Kiirith.md) throws off the demonic influence, and the characters attack or threaten him in any way, the fiend takes control of him again, causing him to transform back into a tlacatecolo and attack. [Kiirith](Kiirith.md) can't be talked into transforming back into a dwarf more than once.
+Succeeding twice causes [Kiirith](Kiirith.md) to regain control and transform back into a dragonborn (as noted above). If [Kiirith](Kiirith.md) throws off the demonic influence, and the characters attack or threaten him in any way, the fiend takes control of him again, causing him to transform back into a tlacatecolo and attack. [Kiirith](Kiirith.md) can't be talked into transforming back into a dragonborn more than once.
 
-***Advantage and Disadvantage.*** If a character shows [Kiirith](Kiirith.md) part of his locket, the young man's determination to fight the fiendish influence is bolstered, giving the characters advantage on checks made to convince him to stand down. If Itzmin is there, he goads [Kiirith](Kiirith.md) to attack, giving the characters disadvantage.
+***Advantage and Disadvantage.*** If a character shows [Kiirith](Kiirith.md) part of his locket, the young man's determination to fight the fiendish influence is bolstered, giving the characters advantage on checks made to convince him to stand down. If [Itzmin](Itzmin.md) is there, he goads [Kiirith](Kiirith.md) to attack, giving the characters disadvantage.
 
 ### Fighting the Fiend
 

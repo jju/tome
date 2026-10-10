@@ -1,5 +1,7 @@
 # Sgt. Poggleston "Pog" Timbers
 
+https://www.dndbeyond.com/characters/159448378/Xv9Fjq 
+
 [Gnome](Gnome.md) [Ranger](Ranger.md) who seems to have lost his riding cockerel. He's cagey about which Queen he [soldiered](/rules/soldier.md) for in "the war."[^1]
 
 Poggleston is often confused why people always think he's making jokes when he's trying to be serious. He likes it though.
@@ -66,6 +68,7 @@ Poggleston is often confused why people always think he's making jokes when he's
 
 * ***[Absorb Elements.](rules/absorbelements.md)*** Resistance to acid, cold, fire, lightning, or thunder damage and next melee attack does 1d6 of that type damage.
 * ***[Cure Wounds.](rules/curewounds.md)*** Touch to heal 2d8 + 3 HP for a creature.
+* ***[[Ensnaring Strike.]]*** Target makes Str save or restrained and takes 1d6 Piercing at the start of turn. DC13 Str Athletics check to end spell by target.
 * ***[Speak With Animals.](rules/speakwithanimals.md)*** Influence and speak with animals for 10 minutes.
 * ***[Hunter's Mark.](rules/huntersmark.md)*** Advantage to find target creature, + 1d6 Force to target.
 
