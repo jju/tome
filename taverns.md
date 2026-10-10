@@ -6,6 +6,7 @@
 * [OckneysEyeTavern](OckneysEyeTavern.md)
 * [MinstrelCaskTavern](MinstrelCaskTavern.md)
 * [MourningForestTavern](MourningForestTavern.md)
+* [BoiledPickleTavern](BoiledPickleTavern.md)
 * Dancing Naga
 * Iron Dwarf
 * Thirsty Dragon

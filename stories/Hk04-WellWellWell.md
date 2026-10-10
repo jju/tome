@@ -24,5 +24,5 @@ The party slept and in the morning decided to bring [Al](Alzek.md) back to [Hamm
 
 [Suffering Dilmaz](../WardenofHammerkeep.md) claims that [Hammerkeep](../Hammerkeep.md) had sent a prisoner out to the [Standing Stones](WyrmstoneCircle.md) by the last New Moon of the winter (as per the arrangement) but there had been no Guardian. He was frustrated the party still didn't know where the [invisible stalkers](../Skulk.md) were coming from or who controlled them, but thanked them for the communication. He paid the party and told them he would be in consultation with the [Lady of Hammerkeep](../BidrithCrecur.md) to see what use they could be in the future, and promised he'd be sending a message to the [Queen of the Woods](../QueenoftheWoods.md) with [Al](Alzek.md).
 
-> continued: [Hk05](Hk05.md)
+> continued: [Hk05-MurderHobosHoles](Hk05-MurderHobosHoles.md)
 > [IC4996](../IC4996.md)

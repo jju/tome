@@ -4,4 +4,8 @@
 
 <!--shares the "the Shallow" epithet with [Agruzoc](Agruzoc.md)-->
 
+Al spent almost 3 weeks in [Hammerkeep](Hammerkeep.md) at the beginning of [IC4996](IC4996.md) waiting for a message to bring back to the [Queen of the Woods](QueenoftheWoods.md), being best buds with [Pog](Pog.md). In that time he learned that the Hammerkeep council has no clue what to do about the missing [Guardian](BranchGolem.md) and the broken [Wyrmshood Pact](WyrmshoodPact.md).
+
+Before he left (on [Iall 25](IC4996.md)) he got a tattoo of Pog's face on his arm by an unskilled tattooist near the [Boiled Pickle](BoiledPickleTavern.md).
+
 > [npcs](npcs.md)

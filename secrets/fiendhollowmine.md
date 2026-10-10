@@ -219,8 +219,7 @@ triggered.
 
 Once the characters can see into this area, read the following:
 
-> The floor of this chamber is slick with blood. Two of three tables have growling corpses strapped to them.
-> A frenzied woman brandishes a knife as she undoes the straps.
+> The floor of this chamber is slick with blood. Two of three tables have growling corpses strapped to them. A frenzied woman brandishes a knife as she undoes the straps.
 
 
 This chamber is the workspace of Teocín, a [cultist](cultist.md) dedicated to Pazuzu. As soon as the characters enter, Teocín releases the two ghouls on the tables and joins them as they attack.
@@ -229,20 +228,16 @@ Teocín. The cultist Teocín uses this laboratory to research ways to corrupt th
 
 If Teocín is captured, she says nothing to the characters, but they can learn of her goals, Mreksh, and [Pazuzu](Pazuzu.md) by looking through her notes-dozens of filthy, scrawl-covered pages strewn about the room.
 
-**Treasure.** Teocín keeps the belongings of her victims in a chest: 2,500 cp, 950 sp, and jewelry and other trinkets worth 90 gp. She also wears a periapt of health to avoid the threat of disease that comes from working with the dead.
+**Treasure.** Teocín keeps the belongings of her victims in a chest: 2,500 cp, 950 sp, and jewelry and other trinkets worth 90 gp. She also wears a [periapt of health](../NecromancerAmulet.md) to avoid the threat of disease that comes from working with the dead.
 
 H3: CORPSE DISPOSAL
 
 The stench here is horrendous. Hundreds of humanoid and animal bones fill the chamber in charnel heaps.
 
-Teocín uses this chamber to dispose of her failed
-experiments. Two ochre jellies feed on the remains
-and are dissolving meals deep under piles of bones.
-They emerge, oozing up through the bones, as soon
+Teocín uses this chamber to dispose of her failed experiments. Two ochre jellies feed on the remains and are dissolving meals deep under piles of bones. They emerge, oozing up through the bones, as soon
 as they sense movement.
 
-If the mine entrance has not yet collapsed and all
-the characters are in or near this room, Itzmin detonates his charges (see the "Cave-In!" section earlier in the adventure.
+If the mine entrance has not yet collapsed and all the characters are in or near this room, Itzmin detonates his charges (see the "Cave-In!" section earlier in the adventure.
 
 H4: Kiirith'S QUARTERS
 
@@ -250,12 +245,7 @@ Damaged furniture has been dragged into this area
 to create a study. Two bookshelves stand alongside
 chairs and a desk covered with papers. The rough cave walls feature gouges, as if some powerful creature dragged its claws across the stone.
 
-Itzmin set up these living quarters for Kiirith, hoping to entice him away from his mother and make
-the mine feel homier. Kiirith is not present when
-the characters arrive but often isolates himself here
-to hide his monstrous shape. Silence and isolation
-calm him, as does his hobby of sketching. When the
-corruption becomes too much, Kiirith scratches
+Itzmin set up these living quarters for Kiirith, hoping to entice him away from his mother and make the mine feel homier. Kiirith is not present when the characters arrive but often isolates himself here to hide his monstrous shape. Silence and isolation calm him, as does his hobby of sketching. When the corruption becomes too much, Kiirith scratches
 the walls with his fiendish talons.
 
 Makeshift Library. The bookshelves hold a mix of

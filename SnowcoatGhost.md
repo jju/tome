@@ -9,8 +9,11 @@ In the shrine, at first Snowcoat wished only for the party to sit with her and t
 When [Riles](Riles.md) grew frustrated and attempted to leave her chamber with the [swirly glowing orb](SwirlyOrb.md) she got very agitated, saying they were even worse than "the last one." A [Shadow](Shadow.md) attacked and she unleashed her own attacks directly upon [Riles'](Riles.md) brain, nearly killing him. In the ensuing melee she screamed horrifically at the rest of the group causing damage throughout the party.
 
 By the time [Barfgeld](Barfgeld.md) had connected with his axe a few times, and [Riles](Riles.md) was revived and [Rurik](Rurik.md) had thrown all the starry wisps at her he could, Snowcoat swirled around in her shadowy form and disappeared.
+## Pre-Apparition Life
 
-![SkerpaSnowcoat](SkerpaSnowcoat.md)
+[Barfgeld's](Barfgeld.md) research indicates [Skerpa Snowcoat](SkerpaSnowcoat.md) was a middle-aged (born [IC4724](IC4724.md)) [Dwarf](Dwarf.md) fighter against the dragonborn invasion of [Zhaalum](Zhaalum.md). According to [Hlin Thrahak's](HlinThrahak.md) records, she died in the [Grim War's](GrimWar.md) [IC4942](IC4942.md) battle of [Grapplers' Creek](GrapplersCreek.md).
+
+![SkerpaSnowcoat](secrets/SkerpaSnowcoat.md)
 
 
 > [Undead](Undead.md)

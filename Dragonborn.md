@@ -7,10 +7,11 @@ In speaking of the Dragonborn, imperial sages say this[^1]:
 In [Nuoro](Nuoro.md) the Dragonborn were very rare before the coming of the [Dantag Empire](DantagEmpire.md). Nowadays around here it's very hard for people not to associate them with the [Grim War](GrimWar.md) and imperial armies marching on and besieging [Zhaalum](Zhaalum.md)/[Dracolathe](Dracolathe.md). Loads of dragonborn lived here before the war though, which is something the [Old Zhaalumi](OldZhaalumi.md) tend to forget.
 ## Characters
 
-* [Rexer III](ReskerIII.md) - Ranger
-* Sharptooth - Paladin
-* [Bidrith Crecur](BidrithCrecur.md) - Lady of Hammerkeep
-* Faeliann Arnuas - the general whose gift provoked the [Grim War](GrimWar.md) currently retired and living n [Dracolathe](Dracolathe.md)
+* [Resker III](ReskerIII.md) - Ranger in the [Grimteeth](Grimteeth.md)
+* [Sharptooth](Sharptooth.md) - Paladin in the [Grimteeth](Grimteeth.md)
+* [Bidrith Crecur](BidrithCrecur.md) - Lady of [Hammerkeep](Hammerkeep.md)
+* [Uroxan](Uroxan.md) - town guard in [Dennel Crossing](DennelCrossing.md)
+* Faeliann Arnuas - the general whose gift provoked the [Grim War](GrimWar.md) currently retired and living in [Dracolathe](Dracolathe.md)
 
 ## Organizations
 

@@ -1,4 +1,4 @@
-A city of the [DantagEmpire](DantagEmpire.md) in 
+A city of the [DantagEmpire](DantagEmpire.md) in [Anor](Anor.md)
 
 
 > [places](places.md)

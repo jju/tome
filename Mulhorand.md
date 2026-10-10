@@ -2,5 +2,4 @@ From the terrain to the architecture to the god-kings who rule over these lands,
 
 Those who leave behind Mulhorand's sweltering deserts and ancient pyramids for a glimpse at a different life do so for many reasons. You might be in the North simply to see the strangeness this wet land has to offer, or because you have made too many enemies among the desert communities of your home.
 
-
 > [places](places.md)

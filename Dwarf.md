@@ -14,9 +14,8 @@ Dwarves live everywhere in [Nuoro](Nuoro.md), including underground. Not just th
 * [Garriff Barfgeld Battlehammer](Barfgeld.md) - former resistance fighter in the [Grim War](GrimWar.md)
 * [Dalrig Gravelmantle](DalrigGravelmantle.md) - priest of [Erathis](Erathis.md) in [Hammerkeep](Hammerkeep.md)
 * [Urdl](Urdl.md) - merchant heading to [Dracolathe](Dracolathe.md) in [IC4996](IC4996.md)
-* Mek Stoneseeker
 * [Snowcoat Apparition](SnowcoatGhost.md)
-* [Roland Bohr](RolandBohr.md)
+* [Hlin Thrahak](HlinThrahak.md) - old soldier/shrinekeeper in [Hammerkeep](Hammerkeep.md)
 
 ## Dwarf Names
 

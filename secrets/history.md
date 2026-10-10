@@ -1,8 +1,9 @@
-These notes below are for historian characters not secrets per se, but things that could come up as characters care.
+# History of Nuoro
+
+> These notes below are for historian characters not secrets per se, but things that could come up as characters care.
 ## The Last Fifty Years
 
 The aftermath of the [Grim War](GrimWar.md) led to [Ikizh](Ikizh.md) declaring itself independent of the [Dantag Empire](DantagEmpire.md). Controlling the flow of resources coming down from the mountains has become more lucrative for the factions involved in those industries and they have been setting up expeditions into realms that had been prohibited by imperial decree. A major northwest expansion has been a long term project but hasn't gone anywhere with the fears that [Rundan](Rundan.md) (or the greater [Empire](DantagEmpire.md)) might swoop in to attack a distracted queendom.
-
 ## The Last Hundred Years
 
 When the [Dantag Empire](DantagEmpire.md) gave [Zhaalum](Zhaalum.md) to the [Dragonborn](Dragonborn.md), it sparked the [GrimWar](GrimWar.md). While that conflict started in the [Grimteeth](Grimteeth.md), its effects were felt everywhere. Though the mountains themselves were host to many battles, the bloodiest (as far as sheer numbers of casualties) happened far off to the east in [Rundan](Rundan.md) where the [Dragonborn](Dragonborn.md) armies came ashore. [Ikizh](Ikizh.md) saw many sieges. This war dragged on and on, so that many of the long-lived species (most notably the [Dwarves](Dwarf.md) who left [Zhaalum](Zhaalum.md)) grew up within it and still harbour the anger it provoked. In the end, [Dracolathe](Dracolathe.md) changed hands and the great golden dragon [Cyzzarun](Cyzzarun.md) became its symbol.
@@ -10,7 +11,7 @@ When the [Dantag Empire](DantagEmpire.md) gave [Zhaalum](Zhaalum.md) to the [Dra
 
 These were centuries of relative Imperial peace. The pious regime was ascendant and [Nuoro](Nuoro.md) was a land dedicated to its gods. Many expeditions were sent out in these times to locate remnants of arcane knowledge and destroy it. Fighting pockets of [Undead](Undead.md) and patrolling for [Bandits](Bandits.md) were primary roles of the state. The [Dwarf Road](DwarfRoad.md) was completed in this era, and the [Dwarves](Dwarf.md) of [Zhaalum](Zhaalum.md) grew very prosperous with collecting tolls on the treasures they were pulling from the [Grimteeth](Grimteeth.md) mountains.
 
-Suppressed in the Imperial histories are the records of the Seree, who made an attempt to organize and control the land in sorcerous resistance after the Arcane Purge. Some say the Seree were their own empire, brought down by demigods themselves (controversially demigods unconnected to the official Empire religions.
+Suppressed in the Imperial histories are the records of the Seree, who made an attempt to organize and control the land in sorcerous resistance after the Arcane Purge. Some say the Seree were their own empire, brought down by demigods themselves (controversially demigods unconnected to the official Empire religions).
 ## The Last Thousand Years
 
 When the [Empire](DantagEmpire.md) came to [Nuoro](Nuoro.md) it conquered the many peoples there without mass-extermination. They came with assistance and funds to build projects. The small fiefdoms generally fell in line at the sight of the cosmopolitan power the imperial army projected: their shining armour, powerful wizards, imperious priests. Queens and kings all across Nuoro bent the knee.
