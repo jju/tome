@@ -18,3 +18,19 @@ Glassware! Oh frabjous fucking day. I've been fermenting some really great stuff
 
 ---
 
+There must be something in the kid's blood that got weird. Warlock juice maybe? Some greyland contamination? Sometimes I wish Pazuzu were a bit clearer and didn't convey all her messages in explosive emanations and tearing of orifices. Greenhorn doesn't seem that pissed about it though. Supposedly I don't need to worry about the owl turning on me since I'm "working on the cure." Better keep that story straight next time I see Kiirith.
+
+---
+
+tentacle grease+tiefling horn->breathbags X
+tentacle grease+tiefling nail->eyeholes X
+tentacle grease+tiefling hair->asshole X
+tentacle grease+tiefling horn->eyeholes X
+tentacle grease+tiefling nail->breathbags X
+tentacle grease+tiefling hair->breathbags X
+tentacle grease+tiefling horn->asshole X
+tentacle grease+tiefling nail->asshole X
+tentacle grease+tiefling hair->eyeholes
+
+---
+
