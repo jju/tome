@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secrets/comingofsorg.md",
+                "file": "secrets/DemonLarva.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "comingofsorg"
+              "title": "DemonLarva"
             }
           }
         ]
@@ -279,12 +279,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "0e5840084fb9079d",
+  "active": "7a7ea27519857a48",
   "lastOpenFiles": [
+    "rules/_statblocktemplate.md",
+    "secrets/DemonLarva.md",
+    "hateswords.md",
+    "secrets/comingofsorg.md",
+    "secrets/acidic jelly.md",
     "HangmansLibrary.md",
     "OlgarRooski.md",
     "TeocinsNotes.md",
-    "secrets/comingofsorg.md",
     "stories/Hk06.md",
     "Ooze.md",
     "Orc.md",
@@ -303,10 +307,6 @@
     "Yugoloth.md",
     "Yulles.md",
     "Xalicas.md",
-    "Xuedei.md",
-    "Xokx.md",
-    "VakSerpent.md",
-    "Unzio.md",
     "images/RaeiTempleCH.png",
     "images/mirrortemple.png",
     "images/names-ho2-t.png",

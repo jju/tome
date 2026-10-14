@@ -50,11 +50,11 @@ The roof has been corroded by a spray of ichor. In the darkened interior lurk 2d
 
 ## Sorg in the High Temple
 
-Sorg (rhino-sized [[demon larva]], bile spray, slow) lies draped over the altar. Vnaud the Withered and 11 acolytes pray fearfully amid bile and excrement and will defend their “god” to the death.
+Sorg (rhino-sized [[DemonLarva]], bile spray, slow) lies draped over the altar. Vnaud the Withered and 11 acolytes pray fearfully amid bile and excrement and will defend their “god” to the death.
 
 ## Brewing House
 
-A group of d6+2 (5) cultists led by Len of Otton takes shelter from Sorg’s awful emanations. Len wears a medallion which confers immunity to the stairs. In the darkness stands a huge brass kettle and much firewood. 
+A group of d6+2 (5) cultists led by [Len of Otton](LenOtton.md) takes shelter from Sorg’s awful emanations. Len wears a medallion which confers immunity to the stairs. In the darkness stands a huge brass kettle and much firewood. 
 
 Shelves hold 6 kegs of honey and 4 kegs of good strong mead.
 
