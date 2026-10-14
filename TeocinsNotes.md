@@ -35,3 +35,4 @@ tentacle grease+tiefling hair->eyeholes
 
 ---
 
+One measled scroll worth anything. Some purveyor of secret knowledge. At least we know the gargoyle essence doesn't stop the jellies from doing their work or dull the pain . What I wouldn't give for the actual Olgar tomes.
