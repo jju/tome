@@ -6,4 +6,6 @@
 
 If Teocín is captured, she says nothing to the characters, but they can learn of her goals, [Mreksh](Mreksh.md), and [Pazuzu](Pazuzu.md) by looking through her notes-dozens of filthy, scrawl-covered pages strewn about the room.-->
 
+
+
 > [npcs](npcs.md)
