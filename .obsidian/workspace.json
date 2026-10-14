@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secrets/DemonLarva.md",
+                "file": "secrets/comingofsorg.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DemonLarva"
+              "title": "comingofsorg"
+            }
+          },
+          {
+            "id": "2a6d6da7da175f33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "secrets/SorgMaggot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SorgMaggot"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "443a3a9afa63f420",
@@ -279,12 +294,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "7a7ea27519857a48",
+  "active": "2a6d6da7da175f33",
   "lastOpenFiles": [
-    "rules/_statblocktemplate.md",
-    "secrets/DemonLarva.md",
-    "hateswords.md",
     "secrets/comingofsorg.md",
+    "secrets/SorgMaggot.md",
+    "rules/DemonLarva.md",
+    "rules/_statblocktemplate.md",
+    "hateswords.md",
     "secrets/acidic jelly.md",
     "HangmansLibrary.md",
     "OlgarRooski.md",
@@ -306,7 +322,6 @@
     "Yongjing.md",
     "Yugoloth.md",
     "Yulles.md",
-    "Xalicas.md",
     "images/RaeiTempleCH.png",
     "images/mirrortemple.png",
     "images/names-ho2-t.png",
