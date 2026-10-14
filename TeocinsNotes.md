@@ -35,4 +35,4 @@ tentacle grease+tiefling hair->eyeholes
 
 ---
 
-One measled scroll worth anything. Some purveyor of secret knowledge. At least we know the gargoyle essence doesn't stop the jellies from doing their work or dull the pain . What I wouldn't give for the actual Olgar tomes.
+One measled scroll worth anything and a flask of (admittedly decent) mead. Some purveyor of secret knowledge. At least we know the gargoyle essence doesn't stop the jellies from doing their work or dull the pain (as judging by the screams). What I wouldn't give for the actual Olgar tomes. So much of this is just written down in hateswords fragrant (<-bad) hands.
