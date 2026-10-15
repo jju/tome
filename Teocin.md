@@ -6,7 +6,14 @@
 
 If Teocín is captured, she says nothing to the characters, but they can learn of her goals, [Mreksh](Mreksh.md), and [Pazuzu](Pazuzu.md) by looking through her notes-dozens of filthy, scrawl-covered pages strewn about the room.-->
 
-# Cultist Fanatic
+## Stuff
+
+<!--Teocin wears (and is attuned to) a small [amulet](NecromancerAmulet.md) and [two bronze rings](GhoulControlRings.md). She carries a [satchel full of papers](TeocinsNotes.md) documenting her science and carries a very sharp blade.
+
+Her chest (carried by the ghouls) contains the belongings of her victims: 2,500 cp, 950 sp, and jewelry and other trinkets worth ~90 gp.
+
+In her lair in the [Hollow](Hollow.md) mine, she had both doors trapped with 5th-level Glyphs of Warding set to [passwall](passwall.md) spells she'd set up from her collection of scrolls. Her escape plan was to use her ridiculously expensive planeshifting wand's final charge (she hadn't actually realized just how rare a it was, having stolen it from a disused room in a library long ago) to hop out through the greylands and zap to somewhere near Olgar's library. That wand is now empty.-->
+# Stats
 [Cultist Fanatic](https://www.dndbeyond.com/monsters/4904746-cultist-fanatic)
 
 Small [Humanoid](Humanoid.md), Neutral
@@ -26,10 +33,10 @@ Speed 30 ft.
 | WIS | 14  | +2  | +4   |
 | CHA | 13  | +1  | +1   |
 
-**Skills** [Deception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +3, [Persuasion](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +3, [Religion](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +2
+**Skills** [Deception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +3, [Persuasion](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +3, [Medicine](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) +2
 **Gear** [Holy Symbol](https://www.dndbeyond.com/equipment/514-holy-symbol), [Leather Armor](https://www.dndbeyond.com/equipment/10-leather)
 **Senses** Passive Perception 12
-**Languages** Common
+**Languages** Common, Halfling
 **CR** 2 (XP 450; PB +2)
 ## Actions
 
@@ -45,10 +52,6 @@ _**Spellcasting.**_ The cultist casts one of the following spells, using Wisdom 
 
 _**Spiritual Weapon (2/Day).**_ The cultist can cast the [Spiritual Weapon](https://www.dndbeyond.com/spells/2619081-spiritual-weapon) spell, using the same spellcasting ability as Spellcasting.
 
-<!--## Stuff
 
-Teocin wears (and is attuned to) a small [amulet](NecromancerAmulet.md) and two bronze rings. She also carries a very sharp blade.
-
-In her lair in the [Hollow](Hollow.md) mine, she had both doors trapped with [passwall](passwall.md) spells she'd set up from her collection of scrolls. Her escape plan was to use her ridiculously expensive planeshifting wand's final charge (she hadn't actually realized just how rare a it was, having stolen it from a disused room in a library long ago) to hop out through the greylands and zap to somewhere near Olgar's library. That wand is now empty.-->
 
 > [npcs](npcs.md)
