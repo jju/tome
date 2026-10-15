@@ -44,14 +44,12 @@ _**Pact Blade.** Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 6 (1d8 + 2) Slashing
 
 _**Spellcasting.**_ The cultist casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 12, +4 to hit with spell attacks):
 
-* ***At Will:*** [createbonfire](createbonfire.md), [Prestidigitation](https://www.dndbeyond.com/spells/2618893-prestidigitation)  
-* **2/Day:** [Protection](https://www.dndbeyond.com/spells/2618912-protection-from-evil-and-good)  
-* **1/Day:** [Darkness](https://www.dndbeyond.com/spells/2619080-darkness)
+* ***At Will:*** [createbonfire](createbonfire.md), [prestidigitation](prestidigitation.md)
+* **2/Day:** [extraplanarprotection](extraplanarprotection.md) (Teocin is currently out of 25GP "Medicine Water" material components)
+* **1/Day:** [darkness](darkness.md)
 
 ## Bonus Actions
 
 _**Spiritual Weapon (2/Day).**_ The cultist can cast the [Spiritual Weapon](https://www.dndbeyond.com/spells/2619081-spiritual-weapon) spell, using the same spellcasting ability as Spellcasting.
-
-
 
 > [npcs](npcs.md)
