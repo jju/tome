@@ -159,12 +159,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Teocin.md",
+                    "file": "rules/cultist.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Teocin"
+                  "title": "cultist"
                 }
               },
               {
@@ -180,9 +180,23 @@
                   "icon": "lucide-file",
                   "title": "TeocinsNotes"
                 }
+              },
+              {
+                "id": "a33cd9f737e65a16",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Teocin.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Teocin"
+                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           }
         ],
         "direction": "horizontal"
@@ -338,8 +352,11 @@
   },
   "active": "663603a7c4b1ef34",
   "lastOpenFiles": [
-    "rules/sphereofprotection.md",
+    "Teocin.md",
+    "rules/cultist.md",
     "rules/passwall.md",
+    "TeocinsNotes.md",
+    "rules/sphereofprotection.md",
     "secrets/comingofsorg.md",
     "rules/investedprotection.md",
     "rules/absorbelements.md",
@@ -350,7 +367,6 @@
     "secrets/acidic jelly.md",
     "HangmansLibrary.md",
     "OlgarRooski.md",
-    "TeocinsNotes.md",
     "stories/Hk06.md",
     "Ooze.md",
     "Orc.md",
@@ -362,8 +378,6 @@
     "Reirak.md",
     "SanCitlan.md",
     "Stelsyz.md",
-    "unassigned.md",
-    "Vasha.md",
     "images/RaeiTempleCH.png",
     "images/mirrortemple.png",
     "images/names-ho2-t.png",
