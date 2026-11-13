@@ -19,9 +19,10 @@ But what happened to [Pog](../Pog.md)?
 
 [Riles](../Riles.md) had heard a weird "zwerm" kind of noise as he'd been descending the rope, so [the Party](../TheParty.md) decided to climb back up and see what happened to their [Gnomish](../Gnome.md) friend. While climbing they passed an opening to a level that reeked of shit and blood and death and decided that seemed like a bad place to be[^4] while they climbed higher. The next higher opening for the freight elevator opened to a narrowish passage wide enough for a person ascending to the left and descending to the right. Some debate ensued and they went stalking upwards, figuring [Pog](../Pog.md) would have been trying to escape to the mine entrance if he had fallen off the rope. [Rurik](../Rurik.md) blew his horn repeatedly to signal they were on the hunt. Though the echoing noise probably destroyed any sense of surprise they might have been maintaining, things turned out for the best when [Pog](../Pog.md) tumbled out of nowhere to join them.
 
+[^4]: Foreshadowing!
+
 [Pog](../Pog.md) reported how he'd been climbing the rope, minding his own business when the explosion came and the shaking flung him headlong into the tunnel. He'd used his expert abilities at rolling to not hit the wall, but instead found himself in a weird gray nightmare realm where they send bad gnomekids. He'd seen no stars, only a stiltwalking beast in the ashy distance before hearing [Rurik's](../Rurik.md) horn seemingly coming from a large boulder he must have tumbled through. Careful[^5] examination found a weird invisible space he could step through and he followed them up the tunnel.
 
-[^4]: Foreshadowing!
 [^5]: For Pog, at least.
 
 After the Party got themselves sorted they realized they were quickly approaching a door. Arguments over how to approach a door that may have a burning room on the other side ensued. [Barfgeld](../Barfgeld.md) grew annoyed and grabbed the handle[^6] and the ground fell out from under him. Quick reflexes stopped a disastrous fall and the arty argued over how to open the door that appeared to have a 5 foot invisible gap in front of it.
@@ -34,7 +35,15 @@ The tense negotiation eventually led the halfling ([Teocin](../Teocin.md)) to ag
 
 She jiggled the handle of her room in a specific manner, which restored the floor in the passageway. She (under duress) led the way down the passageway to the freight elevator and then started tapping the wall. Her confidence quickly faded, when the wall proved solid no matter where she put her hand. "It's supposed to make a 'zwerm' noise..." So [Pog](../Pog.md) mentioned he'd tumbled through that wall to a desolate wasteland then came back, which upset [Teocin](../Teocin.md) greatly. "Do you know how expensive that was!"
 
-Her secret escape route ruined, [Teocin](Teocin.md) was flustering. She muttered about taking Kiirith's route out through the mines instead and led them all downwards to the mines. This brought them to the level that stank
+Her secret escape route ruined, [Teocin](Teocin.md) was flustering. She muttered about taking Kiirith's route out through the mines instead and led them all downwards to the mines. This brought them to the level that reeked of shit and blood and death[^7] [Riles](../Riles.md) lit up his sword and [Teocin](../Teocin.md) poked her way across the large darkened cavern towards a passage. 
+
+[^7]: Presentshadowing!
+
+The cavern was littered with bones and other damper body parts and tiptoeing through didn't quite work when [Barfgeld](../Barfgeld.md) stepped in some slime that rose up and tried engulfing him. His axe only split the oozing reeking thing into smaller versions of itself and a big nasty fight ensued while [Teocin](../Teocin.md) ordered her ghoulies to grab her trunk (which [Rurik](../Rurik.md) had dropped) and follow her.
+
+Everyone had been half-dead before being beset by slime and the fight was chaotic. All seemed lost when [Teocin](../Teocin.md) -- under shouty duress -- reluctantly ordered her ghoulies back to help fend off the slimes so [Riles](../Riles.md) could heal [Barfgeld](../Barfgeld.md) and everyone else who was on death's door.
+
+The passageway led back down to the large cavern where [the Party](../TheParty.md) had [fought the bird skeleton beasts](Hk05-MurderHobosHoles.md) and they made camp. [Teocin](../Teocin.md) was grumpy about needing to figure a way out of the mines from this direction. Everyone else was grumpy about how they seemed to be partnering up with someone who posted ghouls as sentries. But at least they were going to get some rest. Right where most of them had started.
 
 > continued: 
 > [IC4996](IC4996.md)

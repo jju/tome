@@ -43,5 +43,5 @@ The three survivors breathed heavily and decided to regroup up at the top of the
 [^1]: Iall 25, IC4996.
 [^2]: The massive damage inflicted has rules for instant death that could have been implemented, but fate erred on the side of our heroes, continuing the story and depleting magical healing resources instead.
 
-> continued: [Hk06](Hk06.md)
+> continued: [Hk06-SlimeTime](Hk06-SlimeTime.md)
 > [IC4996](IC4996.md)
