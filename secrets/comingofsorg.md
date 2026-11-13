@@ -11,7 +11,7 @@ This ruin is open to the sky. d3-1 (2) cultists have taken cover inside. A few p
 1. Raeiian prophecies that Sorg’s coming is punishment for neglecting Raei’s shrine
 2. Cult writings that Raei is actually a vicious herald of Sorg
 3. Cult writings prophesying that once sated, larval Sorg will reemerge as a vast mucus dragon and lay waste to the realm
-4. d3 Raeiian scrolls containing various spells of protection
+4. d3 Raeiian scrolls containing various spells of protection [sphereofprotection](sphereofprotection.md) [investedprotection](investedprotection.md) 
 
 ## Gate of Raei
 
@@ -50,11 +50,11 @@ The roof has been corroded by a spray of ichor. In the darkened interior lurk 2d
 
 ## Sorg in the High Temple
 
-Sorg (rhino-sized [[demon larva]], bile spray, slow) lies draped over the altar. Vnaud the Withered and 11 acolytes pray fearfully amid bile and excrement and will defend their “god” to the death.
+[Sorg](SorgMaggot.md) (rhino-sized [[DemonLarva]], bile spray, slow) lies draped over the altar. [Vnaud](Vnaud.md) the Withered and 11 acolytes pray fearfully amid bile and excrement and will defend their “god” to the death.
 
 ## Brewing House
 
-A group of d6+2 (5) cultists led by Len of Otton takes shelter from Sorg’s awful emanations. Len wears a medallion which confers immunity to the stairs. In the darkness stands a huge brass kettle and much firewood. 
+A group of d6+2 (5) cultists led by [Len of Otton](LenOtton.md) takes shelter from Sorg’s awful emanations. Len wears a medallion which confers immunity to the stairs. In the darkness stands a huge brass kettle and much firewood. 
 
 Shelves hold 6 kegs of honey and 4 kegs of good strong mead.
 
