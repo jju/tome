@@ -153,9 +153,21 @@
               "icon": "lucide-file",
               "title": "TeocinsNotes"
             }
+          },
+          {
+            "id": "8a020b3c76b0f250",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.4"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -306,7 +318,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "d4f2da52b2ad09b9",
+  "active": "8a020b3c76b0f250",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "secrets/comingofsorg.md",
