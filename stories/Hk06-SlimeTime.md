@@ -1,3 +1,5 @@
+# Slime Time in the Hollow Mine
+
 > previously: [Hk05-MurderHobosHoles](Hk05-MurderHobosHoles.md)
 
 For the last few weeks, [Riles Greyfox](../Riles.md) had been deep in disguise in getting information about the [Swirly Orb](../SwirlyOrb.md) [the Party](../TheParty.md) had brought up from the [Shadow Mirror Shrine](../ShadowMirrorShrine.md). Using his persona of Jimmy Snapshot (complete with pancake makeup covering his facial hair which caused most people in town to assume Jimmy had a really gross skin condition) Riles got close to local know-it-all [Rhig Ostoroth](../Rhig.md). He learned the orb is a valuable old relic used for scrying long ago. While trying to learn more about where he could find out how to use the thing, he got a lead on a temple to a god named [Raei](../Raei.md)[^1] out in the [Copper Hills](../CopperHills.md) which might have had a library with more/better information[^2]. 
