@@ -117,7 +117,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -146,13 +146,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secrets/comingofsorg.md",
+                "file": "rules/cultist.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "comingofsorg"
+              "title": "cultist"
             }
           },
           {
@@ -170,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -321,20 +321,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "1327e61e3058d122",
+  "active": "83e9cbe0e2e8cd9e",
   "lastOpenFiles": [
+    "BlightedOrder.md",
+    "LenOtton.md",
+    "secrets/comingofsorg.md",
+    "Tlacatecolo.md",
+    "HizenGozig.md",
+    "TeocinsNotes.md",
     "Teocin.md",
     "Mreksh.md",
     "secrets/fiendhollowmine.md",
-    "secrets/comingofsorg.md",
-    "Tlacatecolo.md",
     "stories/Hk07.md",
     "stories/Hk06-SlimeTime.md",
     "stories/Hk04-WellWellWell.md",
     "stories/Hk05-MurderHobosHoles.md",
     "conflict-files-obsidian-git.md",
     "Pog.md",
-    "TeocinsNotes.md",
     "secrets/acidic jelly.md",
     "rules/spiritualweapon.md",
     "rules/sphereofprotection.md",
@@ -346,9 +349,6 @@
     "rules/createundead.md",
     "rules/createbonfire.md",
     "rules/DemonLarva.md",
-    "SorgMaggot.md",
-    "GhoulControlRings.md",
-    "secrets/Hk05a.md",
     "images/RaeiTempleCH.png",
     "Untitled.base",
     "images/mirrortemple.png",
