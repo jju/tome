@@ -8,6 +8,8 @@ That's what I said to the spanielling green lumberhead at the circle, and I was 
 
 Feather-filled healing bags! The incantations were suprisingly simple once you abandon yourself to the trance. Each one I've got seems to work all right with binding a single ghoul to service, but keeping an eye on them requires a lot of concentration. Probably best to keep them tied up when I'm asleep.
 
+#done 
+
 ---
 
 Itzmin is the cuntiest twat scrotum I've ever had the pleasure of borrowing space from. "Your bodies are stinking too much." "You have to kidnap fewer people or they'll realize you're out here." "Can you curse this kid with this old scroll I got from one of the meatslingers?" What a whiner.
@@ -19,6 +21,7 @@ Glassware! Oh frabjous day. I've been fermenting some really great stuff here an
 ---
 
 There must be something in the kid's blood that got weird. Warlock juice maybe? Some greyland contamination? Sometimes I wish Pazuzu were a bit clearer and didn't convey all her messages in explosive emanations and tearing of orifices. Greenhorn doesn't seem that pissed about it though. Supposedly I don't need to worry about the owl turning on me since I'm "working on the cure." Better keep that story straight next time I see Kiirith.
+#done
 
 ---
 
@@ -32,6 +35,7 @@ tentacle grease+tiefling horn->asshole X
 tentacle grease+tiefling nail->asshole X
 tentacle grease+tiefling hair->eyeholes
 ***teeth! twatballsiest***
+#done 
 
 ---
 

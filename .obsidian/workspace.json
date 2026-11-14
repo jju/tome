@@ -108,12 +108,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Teocin.md",
+                    "file": "TeocinsNotes.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Teocin"
+                  "title": "TeocinsNotes"
                 }
               }
             ],
@@ -323,6 +323,7 @@
   },
   "active": "1327e61e3058d122",
   "lastOpenFiles": [
+    "Teocin.md",
     "Mreksh.md",
     "secrets/fiendhollowmine.md",
     "secrets/comingofsorg.md",
@@ -332,7 +333,6 @@
     "stories/Hk04-WellWellWell.md",
     "stories/Hk05-MurderHobosHoles.md",
     "conflict-files-obsidian-git.md",
-    "Teocin.md",
     "Pog.md",
     "TeocinsNotes.md",
     "secrets/acidic jelly.md",
