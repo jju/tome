@@ -31,12 +31,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "stories/Hk07.md",
+                    "file": "Tlacatecolo.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Hk07"
+                  "title": "Tlacatecolo"
                 }
               }
             ],
@@ -161,12 +161,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stories/Hk06-SlimeTime.md",
+                "file": "secrets/fiendhollowmine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hk06-SlimeTime"
+              "title": "fiendhollowmine"
             }
           }
         ],
@@ -323,11 +323,12 @@
   },
   "active": "d4f2da52b2ad09b9",
   "lastOpenFiles": [
-    "stories/Hk04-WellWellWell.md",
-    "stories/Hk06-SlimeTime.md",
-    "stories/Hk07.md",
-    "stories/Hk05-MurderHobosHoles.md",
     "Tlacatecolo.md",
+    "stories/Hk07.md",
+    "secrets/fiendhollowmine.md",
+    "stories/Hk06-SlimeTime.md",
+    "stories/Hk04-WellWellWell.md",
+    "stories/Hk05-MurderHobosHoles.md",
     "conflict-files-obsidian-git.md",
     "Teocin.md",
     "Pog.md",
@@ -346,7 +347,6 @@
     "SorgMaggot.md",
     "GhoulControlRings.md",
     "secrets/comingofsorg.md",
-    "secrets/fiendhollowmine.md",
     "secrets/Hk05a.md",
     "rules/gargoyle.md",
     "images/RaeiTempleCH.png",
